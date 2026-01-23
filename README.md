@@ -1,17 +1,22 @@
 # 🐔 GalLens: Vision–Language System for Poultry Disease Diagnosis and Explanation
 
 GalLens is a Vision–Language based system for **chicken disease classification and explanation**, designed to support **non-expert users** in poultry farming.  
-The system combines **deep learning, vision–language models (VLMs), and Retrieval-Augmented Generation (RAG)** to provide both **accurate diagnosis** and **reliable, knowledge-grounded explanations**.
+The system combines **vision–language models (VLMs), and Retrieval-Augmented Generation (RAG)** to provide both **accurate diagnosis** and **reliable, knowledge-grounded explanations**.
 
 This repository accompanies the undergraduate thesis:
 
 > **Vision–Language Based Poultry Disease Diagnosis and Explanation System**  
-> Author: Nguyễn Hoàng Tùng  
+> Author: Nguyen Hoang Tung 
+          Nguyen Dinh Lien Thanh
+          Nguyen Chi Quang
+          Nguyen Tuan Thanh
+          Pham Cong Duyet
+          Ngo Thanh Dat  
 > USTH
 
 ---
 
-# 📌 Table of Contents
+# Table of Contents
 
 - Overview
 - System Architecture
@@ -27,7 +32,7 @@ This repository accompanies the undergraduate thesis:
 
 ---
 
-# 🧠 Overview
+# Overview
 
 GalLens aims to solve two problems at the same time:
 
@@ -41,10 +46,10 @@ Unlike normal CNN classifiers, GalLens is a **Vision–Language system** that:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
-<!-- INSERT FIGURE: Full system overview (3-phase pipeline: Dataset → Fine-tuning → RAG) -->
-> 📌 Use: Figure "Overview of the dataset construction process" / Phase diagram in your thesis
+![Pipeline](Figure/Phase3.png)
+ Use: Figure "Overview of the dataset construction process" / Phase diagram in your thesis
 
 The system consists of **three main phases**:
 
@@ -54,10 +59,10 @@ The system consists of **three main phases**:
 
 ---
 
-# 🔄 Full Workflow
+# Full Workflow
 
-<!-- INSERT FIGURE: End-to-end workflow from user input to final answer -->
-> 📌 Use: Phase 3 RAG workflow diagram in your thesis
+![Pipeline](Figure/Phase3.png)
+Use: Phase 3 RAG workflow diagram in your thesis
 
 High-level workflow:
 
@@ -74,10 +79,10 @@ High-level workflow:
 
 ---
 
-# 📦 Dataset Construction
+# Dataset Construction
 
-<!-- INSERT FIGURE: Phase 1 Data Preparation pipeline -->
-> 📌 Use: "Overview of Phase 1: Data Preparation"
+![Pipeline](Figure/Phase1.png)
+Use: "Overview of Phase 1: Data Preparation"
 
 Steps:
 
@@ -95,10 +100,10 @@ Properties:
 
 ---
 
-# 🧪 Model Fine-tuning
+# Model Fine-tuning
 
-<!-- INSERT FIGURE: Phase 2 training pipeline -->
-> 📌 Use: "Overview of Phase 2" (Only Attention vs Full Linear)
+![Pipeline](Figure/Phase2.png)
+Use: "Overview of Phase 2" (Only Attention vs Full Linear)
 
 Base model:
 - **Qwen2-VL-7B Instruct**
@@ -119,10 +124,10 @@ Findings:
 
 ---
 
-# 📚 Retrieval-Augmented Generation (RAG)
+# Retrieval-Augmented Generation (RAG)
 
-<!-- INSERT FIGURE: RAG pipeline -->
-> 📌 Use: Phase 3 diagram (Knowledge Base → Embedding → Vector DB → Retrieve → VLM)
+![Pipeline](Figure/Phase3.png)
+📌 Use: Phase 3 diagram (Knowledge Base → Embedding → Vector DB → Retrieve → VLM)
 
 Knowledge sources:
 - Veterinary manuals
@@ -145,35 +150,33 @@ Purpose:
 
 ---
 
-# 🤖 Inference Pipeline
-
-<!-- INSERT FIGURE: Inference routing logic -->
-> 📌 You can reuse Phase 3 routing diagram
+# Inference Pipeline
+You can reuse Phase 3 routing diagram
 
 Two modes:
 
-### 1️⃣ Visual Diagnosis
+### Visual Diagnosis
 - Input: Image + "What disease is this?"
 - Output: Disease name + visual explanation
 
-### 2️⃣ Medical Consultation
+### Medical Consultation
 - Input: "How to treat Newcastle disease?"
 - Output: Retrieved knowledge + grounded explanation
 
 ---
 
-# 📊 Experimental Results
+# Experimental Results
 
-<!-- INSERT FIGURE: Confusion Matrix - Base model -->
-<!-- INSERT FIGURE: Confusion Matrix - Expert model -->
-> 📌 Use: cm_base_model.png, cm_expert_model.png
+![Pipeline](Figure/cm_base_model.png)
+![Pipeline](Figure/cm_expert_model.png)
+📌 Use: cm_base_model.png, cm_expert_model.png
 
 Observations:
 - Base model collapses predictions into "Other"
 - Fine-tuned model separates visually similar diseases
 
-<!-- INSERT FIGURE: Quantitative result table -->
-> 📌 Use: Your metric comparison table
+![Pipeline](Figure/Evaluation.png)
+📌 Use: Your metric comparison table
 
 Metrics:
 - ROUGE-L, BERT Similarity
@@ -184,6 +187,4 @@ Result:
 - **GalLens-Expert performs best on all metrics**
 
 ---
-
-# 📁 Project Structure
 
