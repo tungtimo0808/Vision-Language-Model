@@ -7,11 +7,11 @@ This repository accompanies the undergraduate thesis:
 
 > **Vision–Language Based Poultry Disease Diagnosis and Explanation System**  
 > Author: Nguyen Hoang Tung 
-          Nguyen Dinh Lien Thanh
-          Nguyen Chi Quang
-          Nguyen Tuan Thanh
-          Pham Cong Duyet
-          Ngo Thanh Dat  
+>         Nguyen Dinh Lien Thanh
+>         Nguyen Chi Quang
+>         Nguyen Tuan Thanh
+>         Pham Cong Duyet
+>         Ngo Thanh Dat  
 > USTH
 
 ---
@@ -44,21 +44,6 @@ Unlike normal CNN classifiers, GalLens is a **Vision–Language system** that:
 - Understands natural language questions
 - Generates medical explanations grounded in real documents
 
----
-
-# System Architecture
-
-![Pipeline](Figure/Phase3.png)
- Use: Figure "Overview of the dataset construction process" / Phase diagram in your thesis
-
-The system consists of **three main phases**:
-
-1. Dataset Construction
-2. Vision–Language Model Fine-tuning
-3. Knowledge-grounded Inference using RAG
-
----
-
 # Full Workflow
 
 ![Pipeline](Figure/Phase3.png)
@@ -80,10 +65,6 @@ High-level workflow:
 ---
 
 # Dataset Construction
-
-![Pipeline](Figure/Phase1.png)
-Use: "Overview of Phase 1: Data Preparation"
-
 Steps:
 
 1. Collect raw poultry disease images
@@ -101,10 +82,6 @@ Properties:
 ---
 
 # Model Fine-tuning
-
-![Pipeline](Figure/Phase2.png)
-Use: "Overview of Phase 2" (Only Attention vs Full Linear)
-
 Base model:
 - **Qwen2-VL-7B Instruct**
 
@@ -125,10 +102,6 @@ Findings:
 ---
 
 # Retrieval-Augmented Generation (RAG)
-
-![Pipeline](Figure/Phase3.png)
-📌 Use: Phase 3 diagram (Knowledge Base → Embedding → Vector DB → Retrieve → VLM)
-
 Knowledge sources:
 - Veterinary manuals
 - Medical guidelines
@@ -169,14 +142,14 @@ Two modes:
 
 ![Pipeline](Figure/cm_base_model.png)
 ![Pipeline](Figure/cm_expert_model.png)
-📌 Use: cm_base_model.png, cm_expert_model.png
+Use: cm_base_model.png, cm_expert_model.png
 
 Observations:
 - Base model collapses predictions into "Other"
 - Fine-tuned model separates visually similar diseases
 
 ![Pipeline](Figure/Evaluation.png)
-📌 Use: Your metric comparison table
+Use: Your metric comparison table
 
 Metrics:
 - ROUGE-L, BERT Similarity
