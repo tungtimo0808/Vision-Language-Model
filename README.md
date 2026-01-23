@@ -7,7 +7,7 @@ This repository accompanies the undergraduate thesis:
 
 > **Vision–Language Based Poultry Disease Diagnosis and Explanation System**  
 > Author: Nguyễn Hoàng Tùng  
-> Foreign Trade University (FTU)
+> USTH
 
 ---
 
