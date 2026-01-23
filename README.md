@@ -6,13 +6,14 @@ The system combines **vision–language models (VLMs), and Retrieval-Augmented G
 This repository accompanies the undergraduate thesis:
 
 > **Vision–Language Based Poultry Disease Diagnosis and Explanation System**  
-> Author: Nguyen Hoang Tung 
->         Nguyen Dinh Lien Thanh
->         Nguyen Chi Quang
->         Nguyen Tuan Thanh
->         Pham Cong Duyet
->         Ngo Thanh Dat  
-> USTH
+> Author: 
+> Nguyen Hoang Tung 
+> Nguyen Dinh Lien Thanh
+> Nguyen Chi Quang
+> Nguyen Tuan Thanh
+> Pham Cong Duyet
+> Ngo Thanh Dat  
+> University of Science and Technology of Hanoi 
 
 ---
 
