@@ -20,21 +20,18 @@ This repository accompanies the undergraduate thesis:
 # Table of Contents
 
 - Overview
-- System Architecture
 - Full Workflow
 - Dataset Construction
 - Model Fine-tuning
 - Retrieval-Augmented Generation (RAG)
 - Inference Pipeline
 - Experimental Results
-- Project Structure
 - Technologies
 - Limitations & Future Work
 
 ---
 
 # Overview
-
 GalLens aims to solve two problems at the same time:
 
 1. **What disease does this chicken have?** (classification)
@@ -161,4 +158,35 @@ Result:
 - **GalLens-Expert performs best on all metrics**
 
 ---
+
+
+# Technologies
+- Python, PyTorch
+- HuggingFace Transformers
+- Qwen2-VL-7B
+- LoRA (PEFT)
+- FAISS / Vector DB
+- Vision–Language Models
+- RAG
+
+---
+
+# Limitations
+- Dataset size is limited
+- Some classes are underrepresented
+- Lightweight embedding model causes **vector collision**
+
+---
+
+# Future Work
+- Expand dataset
+- Use stronger embedding models
+- Add more poultry species
+- Build real-time farm assistant system
+
+---
+
+# Conclusion
+This project shows that **Vision–Language Models, when combined with fine-tuning and external knowledge, can become practical and reliable tools for poultry disease diagnosis and explanation.**
+
 
