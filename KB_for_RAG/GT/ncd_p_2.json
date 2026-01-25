@@ -1,0 +1,101 @@
+[
+  {
+    "qid": "ncd_p_01",
+    "query": "How can Newcastle disease virus infect the digestive system and still be shed by birds that look clinically healthy?",
+    "supporting_chunk_ids": [
+      "newcastle_gastrointestinal_virus_shedding"
+    ],
+    "answer": "NDV can infect the gastrointestinal tract and be actively shed in feces; cloacal detection reflects intestinal replication and persistence, so birds may shed even when clinically healthy or after mild infection."
+  },
+  {
+    "qid": "ncd_p_02",
+    "query": "Why are recovered or asymptomatic seropositive birds considered a transmission risk for Newcastle disease via the digestive tract?",
+    "supporting_chunk_ids": [
+      "newcastle_intestinal_reservoir_carrier_state"
+    ],
+    "answer": "Because the intestinal tract can act as a reservoir, allowing a carrier state where birds without overt signs continue to excrete NDV in feces and sustain silent transmission."
+  },
+  {
+    "qid": "ncd_p_03",
+    "query": "How does fecal shedding of NDV lead to indirect environmental transmission on farms?",
+    "supporting_chunk_ids": [
+      "newcastle_fecal_contamination_environment"
+    ],
+    "answer": "NDV-positive feces can contaminate manure and soil and be carried on footwear or vehicle tires, enabling indirect spread from contaminated environments to susceptible birds."
+  },
+  {
+    "qid": "ncd_p_04",
+    "query": "What is the major digestive-route transmission pathway for Newcastle disease in backyard or free-range systems?",
+    "supporting_chunk_ids": [
+      "newcastle_digestive_route_transmission"
+    ],
+    "answer": "A major pathway is fecal–oral transmission: birds ingest feed or water contaminated with NDV-infected feces, leading to intestinal exposure and subsequent replication and shedding."
+  },
+  {
+    "qid": "ncd_p_05",
+    "query": "Why can fecal samples be difficult matrices for molecular detection of NDV even though feces are a major excretion route?",
+    "supporting_chunk_ids": [
+      "newcastle_gastrointestinal_fecal_shedding_detection"
+    ],
+    "answer": "Feces are a major NDV excretion route, but they are complex matrices containing inhibitory substances, bacteria, and toxic compounds that can interfere with conventional molecular detection."
+  },
+  {
+    "qid": "ncd_p_06",
+    "query": "What specific components in feces interfere with NDV RT-PCR detection and what is the consequence?",
+    "supporting_chunk_ids": [
+      "newcastle_feces_interference_molecular_detection"
+    ],
+    "answer": "Organic substances, microbial contaminants, and toxic compounds can inhibit reverse transcriptase and Taq polymerase, reducing RT-PCR sensitivity and causing false-negative or inconsistent results."
+  },
+  {
+    "qid": "ncd_p_07",
+    "query": "How does the RBC adsorption–coupled RT-PCR method improve NDV detection from fecal samples?",
+    "supporting_chunk_ids": [
+      "newcastle_rbc_rt_pcr_fecal_samples"
+    ],
+    "answer": "It uses NDV’s ability to bind chicken red blood cells to concentrate and purify viral particles from feces before RNA extraction, improving sensitivity compared with conventional RT-PCR."
+  },
+  {
+    "qid": "ncd_p_08",
+    "query": "How sensitive was RBC adsorption–coupled RT-PCR for detecting NDV in diluted fecal samples?",
+    "supporting_chunk_ids": [
+      "newcastle_fecal_detection_sensitivity"
+    ],
+    "answer": "NDV RNA could be detected in feces diluted up to 10^4-fold, indicating high sensitivity even when fecal viral load is low."
+  },
+  {
+    "qid": "ncd_p_09",
+    "query": "How do cloacal shedding dynamics change over the course of NDV infection?",
+    "supporting_chunk_ids": [
+      "newcastle_cloacal_vs_oral_shedding_dynamics"
+    ],
+    "answer": "Cloacal shedding may be limited early after infection, but at later stages viral RNA is more consistently detected in fecal samples, indicating gastrointestinal shedding intensifies as infection progresses."
+  },
+  {
+    "qid": "ncd_p_10",
+    "query": "How does mixed-species poultry rearing increase the risk of NDV spread through the digestive route?",
+    "supporting_chunk_ids": [
+      "newcastle_gastrointestinal_role_mixed_species",
+      "newcastle_digestive_route_transmission"
+    ],
+    "answer": "Different poultry species can shed NDV through the gastrointestinal tract, and when species are housed together their feces contaminate shared environments. This cross-species fecal exposure amplifies digestive-route transmission among chickens."
+  },
+  {
+    "qid": "ncd_p_11",
+    "query": "Why is monitoring cloacal and fecal samples critical for flock-level Newcastle disease surveillance?",
+    "supporting_chunk_ids": [
+      "newcastle_gastrointestinal_virus_shedding",
+      "newcastle_fecal_shedding_surveillance_value"
+    ],
+    "answer": "Because NDV can persist and be shed from the gastrointestinal tract even without obvious disease, monitoring cloacal and fecal samples enables early identification of infected flocks and assessment of ongoing intestinal shedding for surveillance purposes."
+  },
+  {
+    "qid": "ncd_p_12",
+    "query": "How do enteric NDV pathotypes differ in disease severity while sharing gastrointestinal involvement?",
+    "supporting_chunk_ids": [
+      "newcastle_enteric_pathotype_overview",
+      "newcastle_gastrointestinal_virus_shedding"
+    ],
+    "answer": "Enteric NDV pathotypes all target the gastrointestinal tract, but viscerotropic velogenic strains cause severe hemorrhagic intestinal lesions, whereas subclinical enteric strains may produce localized intestinal infection with minimal or no respiratory or neurological signs."
+  }
+]

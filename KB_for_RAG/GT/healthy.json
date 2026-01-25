@@ -1,0 +1,136 @@
+[
+  {
+    "qid": "htp_01",
+    "query": "How do normal droppings characteristics and fecal microbiota composition together indicate a healthy digestive system in broiler chickens?",
+    "supporting_chunk_ids": [
+      "healthy_digestive_system_normal_droppings_characteristics",
+      "dominant_bacterial_phyla_in_healthy_chickens"
+    ],
+    "answer": "A healthy digestive system is reflected by solid, well-formed droppings with stable color and moisture, together with a fecal microbiota dominated by anaerobic Firmicutes and Bacteroidetes that supports efficient digestion and gut homeostasis."
+  },
+  {
+    "qid": "htp_02",
+    "query": "Why is fecal observation considered a reliable non-invasive indicator of gut health when combined with microbiota stability?",
+    "supporting_chunk_ids": [
+      "digestive_homeostasis_reflected_by_droppings_consistency",
+      "microbial_diversity_as_marker_of_healthy_gut"
+    ],
+    "answer": "Consistent droppings morphology reflects proper digestion and water absorption, while stable and diverse fecal microbiota indicates ecological balance, making their combination a practical non-invasive indicator of healthy gut function."
+  },
+  {
+    "qid": "htp_03",
+    "query": "How does microbial diversity contribute to digestive efficiency and pathogen resistance in healthy chickens?",
+    "supporting_chunk_ids": [
+      "fecal_microbiota_and_digestive_efficiency",
+      "healthy_microbiota_as_protective_intestinal_barrier"
+    ],
+    "answer": "High microbial diversity enhances digestive efficiency through metabolic redundancy while simultaneously limiting pathogen colonization via competitive exclusion, supporting overall intestinal resilience."
+  },
+  {
+    "qid": "htp_04",
+    "query": "Why is establishing both healthy droppings and microbiota baselines essential for early detection of digestive disorders?",
+    "supporting_chunk_ids": [
+      "baseline_healthy_droppings_for_digestive_disease_detection",
+      "healthy_fecal_microbiota_as_baseline_for_disease_detection"
+    ],
+    "answer": "Droppings provide visible indicators of digestive function, while microbiota profiles capture internal ecological balance; together they form complementary baselines for detecting early deviations linked to gut disease."
+  },
+  {
+    "qid": "htp_05",
+    "query": "How do age-related changes in fecal microbiota influence interpretation of gut health in chickens?",
+    "supporting_chunk_ids": [
+      "age_related_changes_in_healthy_fecal_microbiota"
+    ],
+    "answer": "As chickens age, their microbiota becomes more stable and complex; therefore, age-specific baselines are required to distinguish normal developmental changes from pathological dysbiosis."
+  },
+  {
+    "qid": "htp_06",
+    "query": "How does water regulation interact with gut microbiota to maintain normal excreta moisture in healthy broilers?",
+    "supporting_chunk_ids": [
+      "water_balance_and_digestive_function_in_healthy_chickens",
+      "normal_moisture_content_in_healthy_broiler_excreta"
+    ],
+    "answer": "Efficient intestinal water absorption maintains normal moisture levels, while anaerobic microbiota supports gut function; together they preserve physiological excreta moisture without indicating disease."
+  },
+  {
+    "qid": "htp_07",
+    "query": "Why can increased excreta moisture still be considered normal in healthy broilers under certain nutritional conditions?",
+    "supporting_chunk_ids": [
+      "dietary_minerals_shape_excreta_moisture_in_healthy_broilers",
+      "protein_excretion_and_normal_moisture_variation",
+      "role_of_dietary_fiber_in_healthy_excreta_consistency"
+    ],
+    "answer": "Higher moisture can result from osmotic effects of mineral and protein excretion or dietary fiber, reflecting normal metabolic and digestive responses rather than intestinal pathology."
+  },
+  {
+    "qid": "htp_08",
+    "query": "How does anaerobic dominance in healthy broiler microbiota explain its sensitivity to oxygen exposure?",
+    "supporting_chunk_ids": [
+      "dominance_of_anaerobes_in_healthy_chicken_feces",
+      "sensitivity_of_healthy_broiler_microbiota_to_oxygen"
+    ],
+    "answer": "Healthy broiler microbiota is dominated by obligate anaerobes adapted to low-oxygen gut conditions, so exposure to oxygen rapidly disrupts diversity and community structure."
+  },
+  {
+    "qid": "htp_09",
+    "query": "Why is microbial diversity considered a stronger gut health indicator than the presence of individual commensal species?",
+    "supporting_chunk_ids": [
+      "microbial_diversity_as_marker_of_healthy_gut",
+      "commensal_ecoli_in_healthy_chickens"
+    ],
+    "answer": "Overall diversity reflects ecological stability and functional redundancy, whereas individual commensal species can vary without indicating health or disease."
+  },
+  {
+    "qid": "htp_10",
+    "query": "How do differences between broiler and layer microbiota affect interpretation of healthy gut benchmarks?",
+    "supporting_chunk_ids": [
+      "differences_between_broiler_and_layer_microbiota"
+    ],
+    "answer": "Although both share core taxa, differences in abundance patterns require production-type-specific benchmarks when evaluating gut health."
+  },
+  {
+    "qid": "htp_11",
+    "query": "How does a healthy gut microbiota support intestinal barrier integrity and immune balance in chickens?",
+    "supporting_chunk_ids": [
+      "healthy_microbiota_as_protective_intestinal_barrier",
+      "host_microbiota_interaction_in_healthy_chickens"
+    ],
+    "answer": "Commensal microbes promote immune tolerance, reinforce barrier function, and prevent excessive inflammation while limiting pathogen overgrowth."
+  },
+  {
+    "qid": "htp_12",
+    "query": "Why is temporal stability of gut microbiota important when defining a healthy baseline?",
+    "supporting_chunk_ids": [
+      "stability_of_healthy_chicken_microbiota_over_time"
+    ],
+    "answer": "Stable microbiota over time indicates effective host regulation and ecological balance, making deviations more meaningful indicators of dysbiosis."
+  },
+  {
+    "qid": "htp_13",
+    "query": "How can healthy fecal microbiota baselines support AI-based digestive health surveillance in poultry?",
+    "supporting_chunk_ids": [
+      "healthy_fecal_microbiota_as_baseline_for_disease_detection",
+      "baseline_healthy_droppings_for_digestive_disease_detection"
+    ],
+    "answer": "Defined microbiota baselines enable data-driven systems to detect deviations linked to dysbiosis and integrate with droppings-based visual monitoring."
+  },
+  {
+    "qid": "htp_14",
+    "query": "Why is it incorrect to interpret all wet droppings as a sign of digestive disease in healthy chickens?",
+    "supporting_chunk_ids": [
+      "dietary_minerals_shape_excreta_moisture_in_healthy_broilers",
+      "protein_excretion_and_normal_moisture_variation",
+      "age_related_changes_in_excreta_moisture_of_healthy_broilers"
+    ],
+    "answer": "Normal physiological factors such as age, diet, mineral balance, and protein metabolism can increase moisture without pathological intestinal damage."
+  },
+  {
+    "qid": "htp_15",
+    "query": "How does combining droppings observation with microbiota analysis improve gut health interpretation compared to using either alone?",
+    "supporting_chunk_ids": [
+      "digestive_homeostasis_reflected_by_droppings_consistency",
+      "healthy_chicken_fecal_microbiota_overview"
+    ],
+    "answer": "Droppings reflect external digestive outcomes while microbiota reveals internal ecological status; combining both provides a more robust assessment of gut health."
+  }
+]

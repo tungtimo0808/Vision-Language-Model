@@ -1,0 +1,132 @@
+[
+  {
+    "qid": "cc_01",
+    "query": "What is coccidiosis in poultry and what genus causes it?",
+    "supporting_chunk_ids": [
+      "coccidiosis_overview",
+      "coccidiosis_overview_poultry"
+    ],
+    "answer": "Coccidiosis is a major intestinal (enteric) disease of poultry caused by protozoan parasites of the genus Eimeria."
+  },
+  {
+    "qid": "cc_02",
+    "query": "Which Eimeria species are considered among the most pathogenic in chicken coccidiosis?",
+    "supporting_chunk_ids": [
+      "coccidiosis_causative_agents",
+      "coccidiosis_causative_agent"
+    ],
+    "answer": "Key highly pathogenic species include Eimeria tenella, Eimeria maxima, Eimeria acervulina, Eimeria necatrix, and Eimeria brunetti."
+  },
+  {
+    "qid": "cc_03",
+    "query": "How is coccidiosis primarily transmitted in poultry houses?",
+    "supporting_chunk_ids": [
+      "coccidiosis_life_cycle_transmission",
+      "coccidiosis_transmission_fecal_oral"
+    ],
+    "answer": "Primarily via the fecal–oral route through ingestion of sporulated Eimeria oocysts from contaminated litter, feed, or drinking water."
+  },
+  {
+    "qid": "cc_04",
+    "query": "What major intestinal pathological changes are associated with clinical coccidiosis?",
+    "supporting_chunk_ids": [
+      "coccidiosis_clinical_pathology",
+      "coccidiosis_pathology_intestinal_lesions"
+    ],
+    "answer": "Pathology includes intestinal epithelial cell destruction with inflammation, hemorrhage, and villus atrophy, compromising nutrient absorption."
+  },
+  {
+    "qid": "cc_05",
+    "query": "What clinical signs can indicate severe coccidiosis in chickens (especially with E. tenella or E. necatrix)?",
+    "supporting_chunk_ids": [
+      "coccidiosis_clinical_pathology",
+      "coccidiosis_clinical_signs"
+    ],
+    "answer": "Severe cases can show bloody droppings, anemia, increased mortality, along with diarrhea and poor growth performance."
+  },
+  {
+    "qid": "cc_06",
+    "query": "How is coccidiosis diagnosed in poultry under field and laboratory settings?",
+    "supporting_chunk_ids": [
+      "coccidiosis_diagnosis",
+      "coccidiosis_diagnosis_oocysts"
+    ],
+    "answer": "Diagnosis combines clinical observation with necropsy lesion assessment (often using lesion scoring), microscopy of intestinal scrapings for parasite stages, and sometimes molecular tools for species identification."
+  },
+  {
+    "qid": "cc_07",
+    "query": "What is a key limitation of long-term reliance on in-feed anticoccidial drugs?",
+    "supporting_chunk_ids": [
+      "coccidiosis_treatment_drug_resistance",
+      "coccidiosis_treatment_drugs"
+    ],
+    "answer": "Prolonged widespread use has driven the emergence of drug-resistant Eimeria populations, reducing drug sensitivity and requiring rotation or alternative measures."
+  },
+  {
+    "qid": "cc_08",
+    "query": "How do live Eimeria vaccines generally work to control coccidiosis?",
+    "supporting_chunk_ids": [
+      "coccidiosis_vaccination_prevention",
+      "coccidiosis_vaccination"
+    ],
+    "answer": "They allow controlled parasite replication to stimulate species-specific protective immunity while minimizing clinical disease, and can help restore drug sensitivity by replacing resistant field populations."
+  },
+  {
+    "qid": "cc_09",
+    "query": "In a large-scale broiler field trial, how was a commercial live coccidiosis vaccine administered and what Eimeria species did it contain?",
+    "supporting_chunk_ids": [
+      "coccidiosis_vaccine_field_trial_design"
+    ],
+    "answer": "One-day-old chicks were vaccinated at the hatchery by coarse spray per manufacturer instructions; the vaccine contained Eimeria acervulina, Eimeria maxima, Eimeria tenella, and Eimeria mivati."
+  },
+  {
+    "qid": "cc_10",
+    "query": "What parameters were used to assess coccidiosis vaccine effectiveness in the field trial?",
+    "supporting_chunk_ids": [
+      "coccidiosis_vaccine_evaluation_parameters"
+    ],
+    "answer": "Effectiveness was assessed using intestinal lesion scores, fecal oocyst shedding, and a production index (PI) integrating liveability, body weight gain, feed conversion ratio, and age at slaughter."
+  },
+  {
+    "qid": "cc_11",
+    "query": "What were the reported ranges of average intestinal lesion scores after vaccination in the field trial?",
+    "supporting_chunk_ids": [
+      "coccidiosis_vaccine_lesion_scores"
+    ],
+    "answer": "Average lesion scores ranged about 0.36–0.64 in the duodenum, 0.30–0.39 in the jejuno-ileal region, and 0.18–0.39 in the cecum, with severe lesions being rare."
+  },
+  {
+    "qid": "cc_12",
+    "query": "When did fecal oocyst shedding generally appear and peak after vaccination, and what was the approximate range of oocysts per gram?",
+    "supporting_chunk_ids": [
+      "coccidiosis_vaccine_oocyst_shedding"
+    ],
+    "answer": "Oocyst shedding was detected mainly from around two weeks post-vaccination, peaking in the third to fourth week, with average counts roughly 19,766 to 100,100 oocysts per gram."
+  },
+  {
+    "qid": "cc_13",
+    "query": "What was the reported effect of vaccination on the production index (PI) across farms in the large-scale field study?",
+    "supporting_chunk_ids": [
+      "coccidiosis_vaccine_production_index"
+    ],
+    "answer": "Vaccination was associated with PI improvements compared with historical performance, increasing by approximately 2.45 to 23.55 points depending on the farm."
+  },
+  {
+    "qid": "cc_14",
+    "query": "In the China epidemiological survey of vaccinated broilers, what was the overall prevalence of Eimeria infection (qPCR) in pooled fecal samples?",
+    "supporting_chunk_ids": [
+      "coccidiosis_epidemiology_sampling",
+      "coccidiosis_epidemiology_prevalence"
+    ],
+    "answer": "Overall prevalence was high: 86.12% of 634 pooled fecal samples were positive for at least one Eimeria species."
+  },
+  {
+    "qid": "cc_15",
+    "query": "In Canadian poultry surveillance, what was the approximate ionophore-to-chemical coccidiostat usage ratio in broilers and which ionophores were commonly used?",
+    "supporting_chunk_ids": [
+      "coccidiosis_coccidiostat_usage",
+      "coccidiosis_driver_of_amu"
+    ],
+    "answer": "Ionophores were used more frequently, with an ionophore-to-chemical ratio of about 2.5:1 in broilers; commonly used ionophores included monensin, narasin, salinomycin, and lasalocid (including combination products like narasin–nicarbazin)."
+  }
+]

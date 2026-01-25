@@ -1,0 +1,1613 @@
+[
+  {
+    "id": "ncd_head_overview_01_definition",
+    "content": "Newcastle disease (ND) is a highly contagious viral disease caused by virulent strains of avian orthoavulavirus 1 (AOAV-1), formerly known as Newcastle disease virus (NDV), affecting a wide range of avian species, particularly chickens. It is recognised internationally as a transboundary animal disease and classified as an emergency animal disease in Australia. Clinically, virulent Newcastle disease is characterised by systemic infection involving the respiratory, gastrointestinal, and nervous systems, with variable disease expression depending on viral strain virulence, host species and age, immune status, and environmental conditions, necessitating laboratory confirmation for definitive diagnosis due to its resemblance to highly pathogenic avian influenza (HPAI).",
+    "vector_context": {
+      "keywords": [
+        "definition",
+        "AOAV1",
+        "emergency_animal_disease",
+        "notifiable",
+        "avian_influenza_differential"
+      ],
+      "hypothetical_questions": [
+        "What is Newcastle disease?",
+        "What virus causes Newcastle disease in chickens?",
+        "Is Newcastle disease a contagious or non-contagious disease?",
+        "Which avian species are most affected by Newcastle disease?",
+        "Why is Newcastle disease classified as a transboundary animal disease?",
+        "Why is Newcastle disease considered an emergency animal disease in Australia?",
+        "Which body systems are commonly affected in virulent Newcastle disease?",
+        "What factors influence the clinical expression of Newcastle disease?",
+        "Why is laboratory confirmation required for Newcastle disease diagnosis?",
+        "How can Newcastle disease be differentiated from highly pathogenic avian influenza?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Definition of virulent Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/",
+        "https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/newcastle"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_overview_02_importance",
+    "content": "Newcastle disease manifestations, including swelling of facial tissues, cyanosis of the comb and wattles, and neurological abnormalities, are crucial in the clinical spectrum of virulent Newcastle disease. These head and neck signs, although not pathognomonic, are visually conspicuous at flock level and often coincide with severe respiratory compromise, neurological involvement, and increasing mortality, similar to other diseases like HPAI and LPAI, particularly those caused by viruses such as H5N1, which can be diagnosed using rRT-PCR, and are distinct from diseases caused by NDV, Mycoplasma, or specific HPAI strains like clade 2.3.4.4b. Recognition of these signs triggers biocontainment measures and official diagnostic pathways, serving as a key component of surveillance and emergency response systems.",
+    "vector_context": {
+      "keywords": [
+        "head_signs",
+        "field_recognition",
+        "systemic_disease",
+        "surveillance"
+      ],
+      "hypothetical_questions": [
+        "What are the main signs of virulent Newcastle disease in chickens?",
+        "What symptoms do you see in the head and neck of a chicken with Newcastle disease?",
+        "What are the key signs of Newcastle disease that affect the head and neck?",
+        "Can you describe the signs of Newcastle disease that appear in the head and neck of a chicken?",
+        "What are the specific head and neck manifestations of virulent Newcastle disease in poultry?",
+        "What is the significance of head-related signs in the diagnosis of Newcastle disease?",
+        "What are the common pathological features of Newcastle disease affecting the head and neck?",
+        "Can you explain the relationship between head manifestations and systemic disease in Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Importance of head-related manifestations",
+      "disease": "newcastle_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_01_endothelial_damage",
+    "content": "Virulent Newcastle disease virus (NDV) causes systemic infection with significant vascular endothelium damage, leading to increased vascular permeability due to viral replication and inflammatory responses. This results in congestion, haemorrhage, and plasma leakage into surrounding tissues. In the head region, endothelial injury manifests as swelling of the face, eyelids, and peri-orbital tissues, known as facial edema, which is a visible expression of systemic vascular involvement, indicating advanced disease severity, often observed in birds approaching death during velogenic NDV outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "pathogenesis",
+        "endothelial_damage",
+        "facial_edema",
+        "systemic_infection"
+      ],
+      "hypothetical_questions": [
+        "What causes swelling on a chicken's face?",
+        "Newcastle disease virus causes damage to what part of a chicken's blood vessels?",
+        "What are the effects of Newcastle disease virus on a chicken's vascular system?",
+        "Is facial edema a sign of severe Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Systemic endothelial damage and facial edema",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_02_respiratory_hypoxia",
+    "content": "Virulent Newcastle disease is characterized by severe respiratory tract involvement, with lesions in the trachea, bronchi, and lungs impairing gas exchange and leading to progressive hypoxaemia. As oxygenation declines, peripheral tissues become cyanotic, particularly in highly vascular and exposed areas like the comb and wattles, which darken to blue or purple due to hypoxia. This cyanosis reflects systemic respiratory failure, commonly observed alongside marked respiratory distress and rapid deterioration, rather than primary disease of the comb itself.",
+    "vector_context": {
+      "keywords": [
+        "respiratory_failure",
+        "hypoxia",
+        "cyanosis",
+        "comb_wattles"
+      ],
+      "hypothetical_questions": [
+        "What causes respiratory problems in Newcastle disease?",
+        "Newcastle disease symptoms include respiratory issues how?",
+        "Does Newcastle disease affect the lungs?",
+        "What are the symptoms of respiratory failure in Newcastle disease?",
+        "Respiratory lesions in Newcastle disease are characterized by what?",
+        "Newcastle disease causes hypoxemia due to what?",
+        "Tracheal lesions in Newcastle disease lead to what?",
+        "Newcastle disease causes cyanosis in what parts of the body?",
+        "Respiratory failure in Newcastle disease is reflected by what?",
+        "Newcastle disease causes gas exchange impairment in what?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Respiratory failure and hypoxia causing comb and wattle cyanosis",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_03_neurotropism",
+    "content": "Virulent Newcastle disease virus strains exhibit neurotropism, crossing the blood–brain barrier after systemic spread, leading to encephalitis and neuronal damage. Viral replication in the central nervous system disrupts neural function, causing head and neck neurological signs in affected birds, particularly with velogenic neurotropic strains, but also potentially developing in later stages of other severe infections.",
+    "vector_context": {
+      "keywords": [
+        "neurotropism",
+        "encephalitis",
+        "central_nervous_system",
+        "virulence"
+      ],
+      "hypothetical_questions": [
+        "What causes Newcastle disease to affect a bird's head?",
+        "What are the neurological signs of Newcastle disease in birds?",
+        "Does Newcastle disease virus affect the brain?",
+        "What strain of Newcastle disease causes neurological problems in birds?",
+        "What is the effect of Newcastle disease virus on the central nervous system?",
+        "Velogenic neurotropic strains of Newcastle disease virus cause what symptoms?",
+        "Can Newcastle disease virus cross the blood-brain barrier?",
+        "What is the role of neurotropism in Newcastle disease virus?",
+        "Is Newcastle disease virus replication in the brain responsible for its symptoms?",
+        "Which Newcastle disease virus strains are associated with neurological involvement?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Neurotropism and central nervous system invasion",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_04_host_factors",
+    "content": "Expression of head-related signs in Newcastle disease varies due to host factors, with younger birds exhibiting pronounced neurological signs and older birds succumbing rapidly to systemic disease. Partial immunity from prior exposure or vaccination may slow disease progression, allowing neurological manifestations to develop. In fully susceptible flocks, highly virulent infections, such as those caused by virulent NDV, may result in sudden death with minimal signs, meaning the absence of head signs does not exclude virulent disease, particularly in peracute outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "host_factors",
+        "age_susceptibility",
+        "immunity",
+        "disease_variability"
+      ],
+      "hypothetical_questions": [
+        "What causes different head signs in birds?",
+        "Why do young birds show more neurological signs?",
+        "Can older birds still get head signs?",
+        "What makes some birds more likely to get head signs?",
+        "What's the difference in disease progression between young and old birds?",
+        "Can vaccination slow down Newcastle disease?",
+        "Why do some birds die suddenly without showing head signs?",
+        "What's the role of prior exposure in Newcastle disease?",
+        "Can partial immunity affect the time it takes for head signs to appear?",
+        "What's the relationship between host factors and Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Host, age, and immunity factors influencing head signs",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_01_shedding",
+    "content": "Infected birds shed large quantities of Newcastle disease virus (NDV) through nasal, oral, and ocular secretions, originating from virus replication in the upper respiratory tract and associated head tissues. Birds with head-related respiratory signs contaminate their surroundings through coughing, sneezing, and nasal discharge, facilitating within-flock transmission, especially during early and acute infection stages.",
+    "vector_context": {
+      "keywords": [
+        "respiratory_shedding",
+        "ocular_secretions",
+        "within_flock_spread"
+      ],
+      "hypothetical_questions": [
+        "How do birds get infected with Newcastle disease?",
+        "What causes Newcastle disease virus to spread in a flock?",
+        "Can birds with Newcastle disease still lay eggs?",
+        "How do birds shed Newcastle disease virus?",
+        "What are the main symptoms of Newcastle disease in birds?",
+        "How does Newcastle disease virus affect the respiratory tract?",
+        "What is the role of the upper respiratory tract in Newcastle disease transmission?",
+        "Is Newcastle disease contagious through nasal discharge?",
+        "What is the primary route of transmission for Newcastle disease virus?",
+        "How does Newcastle disease virus replicate in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Virus shedding via head-region secretions",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_02_aerosol",
+    "content": "Respiratory distress with head involvement in poultry increases aerosol generation, particularly in enclosed, high-density environments, where fine droplets containing virus remain suspended, facilitating rapid airborne spread over short distances without direct contact, thus contributing to the explosive nature of virulent Newcastle disease outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "aerosol_transmission",
+        "respiratory_distress",
+        "rapid_spread"
+      ],
+      "hypothetical_questions": [
+        "What causes respiratory distress in chickens?",
+        "How does head involvement affect aerosol generation in poultry?",
+        "What are the risks of high stocking density in poultry housing?",
+        "Why do fine droplets containing virus remain suspended in air?",
+        "What is the role of aerosol transmission in Newcastle disease outbreaks?",
+        "How does virulent Newcastle disease spread rapidly in enclosed environments?",
+        "What are the consequences of aerosol transmission in poultry housing?",
+        "Can Newcastle disease be transmitted through the air?",
+        "What factors contribute to the explosive nature of Newcastle disease outbreaks?",
+        "How does aerosol transmission facilitate infection of birds without direct contact?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Aerosol amplification associated with respiratory distress",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_01_facial_swelling",
+    "content": "Virulent Newcastle disease is characterized by swelling of the head and facial tissues, including marked peri-orbital edema, swollen eyelids, and generalized facial enlargement, often accompanied by depression and respiratory distress, indicating severe systemic disease commonly observed in multiple birds within affected flocks.",
+    "vector_context": {
+      "keywords": [
+        "facial_edema",
+        "head_swelling",
+        "systemic_disease"
+      ],
+      "hypothetical_questions": [
+        "What causes swelling on a chicken's head?",
+        "What are the symptoms of Newcastle disease in birds?",
+        "My chicken has a swollen face, what's wrong?",
+        "Is facial swelling a sign of Newcastle disease?",
+        "What is the pathophysiology of peri-orbital edema in Newcastle disease?",
+        "How does Newcastle disease virus cause facial swelling in birds?",
+        "What are the key histopathological changes associated with Newcastle disease in facial tissues?",
+        "What is the role of inflammation in the development of facial swelling in Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Facial swelling and peri-orbital edema",
+      "disease": "newcastle_disease",
+      "category": "symptoms",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_02_cyanosis",
+    "content": "Cyanosis of the comb and wattles, characterized by dark blue or purple discoloration due to systemic hypoxia, is a sign of virulent Newcastle disease (NDV). When observed in multiple birds, cyanotic combs and wattles indicate severe respiratory compromise and high outbreak severity, although this symptom is not specific to NDV.",
+    "vector_context": {
+      "keywords": [
+        "cyanosis",
+        "comb_wattles",
+        "respiratory_compromise"
+      ],
+      "hypothetical_questions": [
+        "What causes blue comb in chickens?",
+        "Is cyanosis a sign of Newcastle disease?",
+        "What does a blue comb mean in poultry?",
+        "Is blue comb a symptom of respiratory disease?",
+        "What is the mechanism behind cyanotic combs and wattles?",
+        "How does systemic hypoxia cause cyanosis in birds?",
+        "What is the role of hypoxia in Newcastle disease pathology?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Cyanotic comb and wattles",
+      "disease": "newcastle_disease",
+      "category": "symptoms",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_03_neurological",
+    "content": "Neurological signs, including head tremors, abnormal head movements, torticollis, loss of balance, and incoordination, are common in virulent Newcastle disease, indicating central nervous system involvement and poor prognosis, with surviving birds potentially retaining permanent neurological impairment.",
+    "vector_context": {
+      "keywords": [
+        "neurological_signs",
+        "torticollis",
+        "head_tremors"
+      ],
+      "hypothetical_questions": [
+        "What are the neurological signs in virulent Newcastle disease?",
+        "What are the symptoms of Newcastle disease in the head and neck?",
+        "What are the common neurological problems in Newcastle disease?",
+        "Can Newcastle disease cause a twisted neck in birds?",
+        "What are the neurological signs associated with virulent Newcastle disease in poultry?",
+        "What is the prognosis for birds with neurological signs of Newcastle disease?",
+        "What are the typical neurological symptoms of Newcastle disease in chickens?",
+        "How does Newcastle disease affect the central nervous system of birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Neurological head and neck manifestations",
+      "disease": "newcastle_disease",
+      "category": "symptoms",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_01_suspicion",
+    "content": "Head-related signs, such as facial swelling, cyanotic combs, or neurological head and neck abnormalities, particularly in multiple birds, trigger suspicion of virulent Newcastle disease and warrant immediate notification of animal health authorities. However, these signs overlap with highly pathogenic avian influenza, making field diagnosis based on head manifestations alone impossible.",
+    "vector_context": {
+      "keywords": [
+        "field_suspicion",
+        "notifiable",
+        "AI_differential"
+      ],
+      "hypothetical_questions": [
+        "What causes facial swelling in chickens?",
+        "Signs of virulent Newcastle disease in poultry?",
+        "Can a blue comb be a sign of disease in birds?",
+        "What are the symptoms of Newcastle disease in chickens?",
+        "What are the neurological head and neck abnormalities in Newcastle disease?",
+        "How does Newcastle disease affect the comb and face of birds?",
+        "What is the pathology of virulent Newcastle disease in poultry?",
+        "What are the key head-related signs of Newcastle disease?",
+        "Are there any specific antiviral drugs for Newcastle disease?",
+        "What are the treatment options for virulent Newcastle disease in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Head signs as triggers for field suspicion",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/newcastle",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_02_sampling",
+    "content": "Birds with respiratory or neurological signs are suitable for diagnostic sampling, using oropharyngeal, nasal, and conjunctival swabs to detect viral shedding. Recently dead birds with neurological manifestations can provide valuable tissue samples, and diagnostic investigation should always include exclusion of avian influenza, including HPAI and LPAI subtypes such as H5N1, using methods like rRT-PCR, particularly for clade 2.3.4.4b, while also considering other pathogens like NDV and Mycoplasma.",
+    "vector_context": {
+      "keywords": [
+        "sampling",
+        "laboratory_confirmation",
+        "avian_influenza_exclusion"
+      ],
+      "hypothetical_questions": [
+        "What are the best ways to diagnose head signs in birds?",
+        "Can I collect tissue samples from dead birds with neurological symptoms?",
+        "What are oropharyngeal, nasal, and conjunctival swabs used for in poultry?",
+        "How do I exclude avian influenza in diagnostic investigation?",
+        "What are the common methods for detecting viral shedding in birds?",
+        "Can I use oropharyngeal swabs to diagnose respiratory issues in poultry?",
+        "What are the neurological manifestations that indicate a need for diagnostic sampling?",
+        "How do I collect nasal swabs from birds with respiratory symptoms?",
+        "What is the purpose of conjunctival swabs in avian disease diagnosis?",
+        "Can oropharyngeal swabs detect viral shedding in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Sampling strategy informed by head involvement",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_control_01_response",
+    "content": "Severe head-related signs indicate high virulence and substantial transmission risk, prompting immediate implementation of quarantine, movement restriction, and official response measures to prevent further spread, as there is no permitted curative treatment for individual birds in suspected or confirmed virulent Newcastle disease outbreaks in Australia.",
+    "vector_context": {
+      "keywords": [
+        "control_measures",
+        "quarantine",
+        "no_treatment"
+      ],
+      "hypothetical_questions": [
+        "What are the signs of virulent Newcastle disease in a bird?",
+        "What happens if I suspect a bird has virulent Newcastle disease?",
+        "What are the head-related signs of Newcastle disease?",
+        "How do I control the spread of Newcastle disease in a flock?",
+        "What are the quarantine measures for suspected virulent Newcastle disease outbreaks?",
+        "What is the role of movement restriction in preventing Newcastle disease spread?",
+        "What are the official response measures for Newcastle disease outbreaks?",
+        "What is the relationship between head signs and Newcastle disease transmission risk?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Response implications of head manifestations",
+      "disease": "newcastle_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/newcastle"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_01_training",
+    "content": "Training poultry workers and veterinarians to recognize head-related signs, such as facial swelling, cyanotic combs, and abnormal head or neck posture, is crucial for preventing Newcastle disease, enabling early detection, rapid reporting, and timely containment to reduce spread within and between poultry populations.",
+    "vector_context": {
+      "keywords": [
+        "prevention",
+        "training",
+        "early_detection",
+        "surveillance"
+      ],
+      "hypothetical_questions": [
+        "What are signs of Newcastle disease in poultry?",
+        "How can we prevent Newcastle disease?",
+        "What causes facial swelling in chickens?",
+        "Can you tell me about early signs of Newcastle disease?",
+        "What are the key head-related signs of Newcastle disease?",
+        "How does facial swelling relate to Newcastle disease?",
+        "What is the significance of cyanotic combs in Newcastle disease?",
+        "What is the role of abnormal head or neck posture in Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Training and early recognition of head-related signs",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.woah.org/en/disease/newcastle-disease/",
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_environment_01_housing_and_environmental_parameters",
+    "content": "Appropriate housing and environmental conditions are crucial for maintaining normal health status in commercial poultry flocks. Under Australian DAFF-aligned management frameworks, healthy poultry environments are defined by stable temperature, humidity, ventilation, and air quality parameters that support normal physiology and behaviour. Temperature and humidity remain within age- and production-specific target ranges, allowing birds to maintain normal posture and activity without signs of heat or cold stress. Ventilation systems remove excess moisture, dust, and ammonia, providing adequate oxygen exchange, while air quality is maintained through low ammonia and dust levels to preserve normal head appearance and respiratory function. This environmental stability supports the interpretation of health surveillance data, reducing confounding factors and allowing deviations in behaviour, physiology, or production to reflect underlying health issues, such as HPAI, LPAI, H5N1, or infections with NDV, Mycoplasma, which can be detected using rRT-PCR, and monitored for clade 2.3.4.4b, rather than environmental artefacts, forming a foundational requirement for defining and maintaining a normal health baseline in poultry flocks.",
+    "vector_context": {
+      "keywords": [
+        "housing conditions",
+        "ventilation",
+        "temperature control",
+        "air quality",
+        "environmental management"
+      ],
+      "hypothetical_questions": [
+        "What are the key factors for maintaining healthy poultry environments?",
+        "How do Australian DAFF-aligned management frameworks define healthy poultry environments?",
+        "What are the effects of environmental stress on flock health?",
+        "What are the target ranges for temperature and humidity in commercial poultry flocks?",
+        "What are the functions of ventilation systems in poultry housing?",
+        "How does air quality affect poultry health?",
+        "What are the signs of heat or cold stress in poultry?",
+        "What are the consequences of ammonia levels being too high in poultry housing?",
+        "How do dust levels impact poultry respiratory health?",
+        "What is the role of lighting programs in poultry environmental health?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental requirements: Housing and environmental parameters",
+      "disease": "healthy_poultry",
+      "category": "environment_management",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_environment_02_stocking_density_and_flock_uniformity",
+    "content": "Stocking density and flock uniformity are crucial for maintaining normal health in poultry populations. Excessive density is a risk factor for compromised welfare, reduced performance, and increased susceptibility to infectious diseases like HPAI, LPAI, and H5N1. Uniform flocks, with even distribution and access to resources, support consistent growth and behavior, whereas significant variation may indicate underlying issues. High stocking density can exacerbate stress, suppress immune function, and facilitate disease transmission, making appropriate density a biosecurity and surveillance requirement. Flock uniformity simplifies the identification of deviations, such as changes in distribution, aggression, or body condition, which can be detected through rRT-PCR or other diagnostic tests for diseases like NDV and Mycoplasma, allowing for early detection of diseases, including those caused by clade 2.3.4.4b, and supporting the preservation of normal health.",
+    "vector_context": {
+      "keywords": [
+        "stocking density",
+        "flock uniformity",
+        "resource access",
+        "stress reduction",
+        "population management"
+      ],
+      "hypothetical_questions": [
+        "What causes stress in chickens?",
+        "How does stocking density affect chicken health?",
+        "What are the risks of high stocking density in poultry?",
+        "What makes a healthy chicken flock?",
+        "What is the impact of excessive density on poultry welfare?",
+        "How does uniform flock distribution prevent disease?",
+        "What is the relationship between stocking density and immune function?",
+        "What are the signs of abnormal flock behavior?",
+        "What is the role of biosecurity in managing stocking density?",
+        "Can high stocking density suppress immune function in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental requirements: Stocking density and flock uniformity",
+      "disease": "healthy_poultry",
+      "category": "environment_management",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_environment_03_feed_water_and_access_systems",
+    "content": "Feed and water provision systems are crucial for maintaining healthy poultry flocks, with continuous access to nutritionally appropriate feed and clean drinking water supporting normal growth, production, and physiological function. Well-designed and maintained feeders and drinkers minimize spillage, contamination, and physical injury, allowing birds to eat and drink without excessive competition or obstruction. Consistent feed quality, adequate water flow rates, and prevention of biofilm buildup or microbial contamination are also essential. A stable feed and water access system supports predictable intake patterns, uniform body condition, and consistent production performance, serving as a baseline for normal flock health and allowing for early detection of potential issues, such as sudden changes in feed or water consumption, which can be indicative of diseases like HPAI, LPAI, or other health issues, including those caused by NDV, Mycoplasma, or other pathogens that can be identified through diagnostic tests like rRT-PCR, particularly in cases involving specific strains like H5N1 clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "feed management",
+        "water quality",
+        "access systems",
+        "nutrition",
+        "health baseline"
+      ],
+      "hypothetical_questions": [
+        "What causes head injuries in poultry?",
+        "Can poor water quality affect poultry health?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental requirements: Feed, water, and access systems",
+      "disease": "healthy_poultry",
+      "category": "environment_management",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_production_01_growth_and_feed_conversion",
+    "content": "Healthy poultry flocks exhibit stable growth rates and efficient feed conversion, with predictable weight gain trajectories aligned with breed standards and production objectives. Feed intake is consistent, supporting uniform body condition and growth, with a feed conversion ratio (FCR) within expected industry benchmarks. Variation in growth is limited, and marked divergence in body size or condition may indicate underlying health, nutritional, or environmental issues. Stable growth and feed conversion serve as an indirect measure of overall flock health, allowing for early recognition of potential health compromise, as many conditions, including HPAI, LPAI, H5N1, and infections like NDV and Mycoplasma, often manifest as reduced growth efficiency before clinical signs appear, and can be detected through surveillance methods such as rRT-PCR, particularly for viruses like H5N1 clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "growth rate",
+        "feed conversion",
+        "production benchmarks",
+        "flock performance",
+        "early warning indicators"
+      ],
+      "hypothetical_questions": [
+        "What causes poor growth in chickens?",
+        "How do you measure feed conversion in poultry?",
+        "What are the signs of healthy poultry growth?",
+        "Why do chickens stop eating suddenly?",
+        "What is the normal feed conversion ratio for poultry?",
+        "How do you diagnose growth issues in poultry flocks?",
+        "What are the effects of metabolic stress on poultry feed conversion?",
+        "What is the significance of uniform body condition in poultry?",
+        "How do you assess growth performance in commercial poultry management?",
+        "Can poor feed conversion be a sign of disease in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Production indicators: Growth performance and feed conversion",
+      "disease": "healthy_poultry",
+      "category": "production_performance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_production_02_egg_production_and_quality",
+    "content": "In laying and breeder flocks, healthy status is linked to stable egg production and quality. Healthy flocks achieve expected lay rates and predictable egg output, with uniform shell shape, adequate shell strength, and normal shell coloration. Internal quality parameters, such as albumen consistency, are also stable. Feeding behaviour, calcium intake, and physiological stability contribute to consistent production, with birds maintaining normal body condition and low mortality. Egg production data serve as sensitive indicators of flock health, with reduced output or deteriorating quality potentially signaling systemic diseases, including notifiable diseases like HPAI, LPAI, or H5N1, which can be diagnosed using rRT-PCR, and other diseases such as NDV or Mycoplasma, particularly those related to clade 2.3.4.4b, triggering further assessment and escalation through official diagnostic and reporting pathways.",
+    "vector_context": {
+      "keywords": [
+        "egg production",
+        "egg quality",
+        "laying performance",
+        "production stability",
+        "surveillance baseline"
+      ],
+      "hypothetical_questions": [
+        "What causes egg production to decline in laying flocks?",
+        "Egg quality indicators in healthy flocks include what?",
+        "Normal body condition in laying hens is maintained through what?",
+        "Reduced egg output is a sign of what in poultry health?",
+        "Egg production data serve as sensitive indicators of what?",
+        "Shell defects are not characteristic of what in poultry health?",
+        "Stable egg production and quality are baseline performance indicators of what?",
+        "Feeding behaviour and calcium intake affect what in poultry health?",
+        "Mortality associated with laying processes remains within what limits?",
+        "Egg production patterns trigger further assessment for what?"
+      ]
+    },
+    "metadata": {
+      "title": "Production indicators: Egg production and egg quality",
+      "disease": "healthy_poultry",
+      "category": "production_performance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_production_03_mortality_and_culling_rates",
+    "content": "Mortality and culling rates are critical indicators of poultry flock health, with low and stable rates expected in healthy commercial operations. Routine culling occurs at a consistent, low level, without common clinical signs suggestive of systemic disease. Sudden increases in mortality or abnormal signs among dead or culled birds deviate from normal health status, potentially indicating high-impact diseases like HPAI or LPAI, such as H5N1, and triggering priority warnings. Stable mortality and culling rates form a baseline for detecting abnormal events, supporting timely reporting and laboratory confirmation using methods like rRT-PCR, and informing production performance monitoring and national disease preparedness frameworks, which also consider diseases like NDV and Mycoplasma, and specific HPAI strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "mortality rate",
+        "culling",
+        "production monitoring",
+        "early warning",
+        "emergency disease detection"
+      ],
+      "hypothetical_questions": [
+        "What causes high mortality rates in poultry flocks?",
+        "What is considered a normal mortality rate for commercial poultry operations?",
+        "How do you determine if a poultry flock is healthy based on mortality rates?",
+        "What are the expected limits for daily and cumulative mortality in poultry flocks?",
+        "What are the common reasons for routine culling in poultry flocks?",
+        "How do abnormal signs among dead or culled birds indicate a deviation from normal health status?",
+        "What is the significance of sudden increases in mortality in poultry flocks?",
+        "What is the role of mortality and culling rates in DAFF-aligned surveillance systems?"
+      ]
+    },
+    "metadata": {
+      "title": "Production indicators: Mortality and culling patterns",
+      "disease": "healthy_poultry",
+      "category": "production_performance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_overview_03_head_region_primary_entry_and_detection",
+    "content": "In chickens, virulent Newcastle disease virus (NDV) enters through mucosal surfaces at the front of the aerodigestive tract, with exposure occurring through inhalation of contaminated dust or aerosols. The nares, choanal cleft, oral cavity, and tracheal inlet are key anatomic interfaces for early observation, as ND often presents with acute respiratory symptoms, including nasal discharge, sneezing, oral mucus, and noisy breathing. These surfaces are also ideal for collection of respiratory secretions and upper-airway swabs for confirmation testing, as they can contain detectable virus before uniform clinical disease is evident.",
+    "vector_context": {
+      "keywords": [
+        "head_region",
+        "upper_airway",
+        "entry_route",
+        "early_detection",
+        "respiratory_focus"
+      ],
+      "hypothetical_questions": [
+        "Chickens get Newcastle disease from where?",
+        "Newcastle disease virus enters the body through what?",
+        "What are the main places Newcastle disease virus gets into chickens?",
+        "How do chickens usually get Newcastle disease virus?",
+        "What are the first signs of Newcastle disease in chickens?",
+        "What are the most common sites for collecting respiratory secretions in chickens?",
+        "What are the primary entry points for Newcastle disease virus in chickens?",
+        "Can Newcastle disease virus be detected in upper-airway swabs?",
+        "What is the typical respiratory presentation of Newcastle disease in chickens?",
+        "Are respiratory secretions a reliable source for detecting Newcastle disease virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Head region is central to early ND recognition and sampling",
+      "disease": "newcastle_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_05_apmv1_agent_and_virulence_classes",
+    "content": "Newcastle disease is caused by virulent strains of avian paramyxovirus type 1 (APMV-1), also known as Newcastle disease virus (NDV). NDV is classified as velogenic, mesogenic, or lentogenic based on pathogenicity in chickens, with velogenic and mesogenic viruses considered virulent and lentogenic viruses considered low-virulence, often used as live vaccines. Detection of APMV-1 in oropharyngeal samples requires differentiation between virulent and low-virulence viruses, as virulent NDV necessitates notifiable response measures, whereas low-virulence viruses may be vaccine-like strains detected after vaccination.",
+    "vector_context": {
+      "keywords": [
+        "APMV-1",
+        "NDV",
+        "virulent",
+        "lentogenic",
+        "mesogenic",
+        "velogenic",
+        "live_vaccine_strains"
+      ],
+      "hypothetical_questions": [
+        "What causes Newcastle disease in chickens?",
+        "What is the main agent responsible for Newcastle disease?",
+        "Can you explain the different virulence classes of Newcastle disease virus?",
+        "Is Newcastle disease virus a type of avian paramyxovirus?",
+        "What is the pathotype terminology for Newcastle disease virus?",
+        "What strains of avian paramyxovirus type 1 are considered virulent?",
+        "Can you describe the difference between velogenic and lentogenic viruses?",
+        "How do you differentiate between virulent and low-virulence Newcastle disease viruses?",
+        "What is the significance of detecting APMV-1 in oropharyngeal samples?",
+        "Is Newcastle disease virus used as a live vaccine in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Causative agent and virulence categories relevant to respiratory/head disease",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_06_exacerbation_by_coinfection_and_environment",
+    "content": "Low-virulence NDV infections can range from inapparent to mild respiratory disease, but secondary infections, including bacterial infections, can exacerbate the clinical presentation by intensifying respiratory lesions, increasing mucosal inflammation, and exudate at the tracheal inlet and upper trachea. Concurrent infections and management stressors, such as worsening nasal discharge, oral mucus, or noisy breathing, should prompt consideration of mixed infections, even when NDV is not the only detected agent.",
+    "vector_context": {
+      "keywords": [
+        "coinfection",
+        "environmental_stress",
+        "respiratory_severity",
+        "secondary_bacteria",
+        "upper_airway"
+      ],
+      "hypothetical_questions": [
+        "What causes head and upper-airway disease in ND to worsen?",
+        "What are the common secondary infections that can exacerbate ND symptoms?",
+        "How does the virus interact with the host to cause respiratory disease?",
+        "What are the signs of mixed infections in poultry with ND?",
+        "What is the role of concurrent infections in shaping the severity of ND?",
+        "What are the effects of secondary bacterial infections on respiratory lesions?",
+        "How do stressors and management factors contribute to ND clinical presentation?",
+        "What is the relationship between mucosal inflammation and exudate in ND?",
+        "What are the key factors that determine the severity of head and upper-airway disease in ND?",
+        "Does coinfection with other pathogens exacerbate ND respiratory disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Why mild NDV infections can still cause severe head/upper-airway disease",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_03_upper_airway_shedding_timeline",
+    "content": "NDV transmission to the head region is primarily driven by shedding in exhaled air and respiratory discharge. Infected birds release virus during incubation, continue shedding through the clinical phase, and remain positive for a limited period during recovery. This pattern highlights the importance of early flock sampling, as it can capture infectious shedding before clinical signs are widespread, and supports repeat sampling in changing clinical situations due to varying upper-airway virus levels across stages of infection and among individual birds.",
+    "vector_context": {
+      "keywords": [
+        "shedding",
+        "exhaled_air",
+        "respiratory_discharge",
+        "incubation",
+        "convalescence",
+        "sampling_window"
+      ],
+      "hypothetical_questions": [
+        "Is NDV transmitted through the air?",
+        "How does NDV spread in a flock?",
+        "What are the stages of NDV infection in birds?",
+        "Can NDV be detected in respiratory discharge?",
+        "What is the role of upper-airway virus in NDV transmission?",
+        "Is NDV shedding more common in early stages of infection?",
+        "Can head-focused sampling detect NDV in a flock?",
+        "Does the amount of upper-airway virus vary across birds?",
+        "Can NDV be transmitted through exhaled air?",
+        "Is repeat sampling necessary for accurate NDV diagnosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Upper-airway shedding begins early and guides head-region sampling timing",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_04_inhalation_of_contaminated_dust_and_aerosols",
+    "content": "Susceptible chickens can become infected with NDV through inhalation of contaminated dust or aerosols, which is a key mechanism for head and upper-airway exposure. Direct contact with the virus on the nares and upper respiratory mucosa initiates infection and shedding. Factors increasing dust load or aerosol movement, such as dry litter, poor ventilation, or high stocking density, elevate the risk of respiratory entry. Control efforts targeting aerosol generation and ventilation directly address head-region transmission, making these interventions crucial for mitigating NDV spread.",
+    "vector_context": {
+      "keywords": [
+        "aerosol",
+        "dust",
+        "nares",
+        "choanal_cleft",
+        "respiratory_entry",
+        "ventilation",
+        "bioaerosol"
+      ],
+      "hypothetical_questions": [
+        "What causes chickens to get infected with NDV?",
+        "How do chickens catch NDV from the air?",
+        "What makes it easier for chickens to get NDV?",
+        "Can chickens get NDV from breathing in contaminated dust?",
+        "What increases the risk of chickens getting NDV?",
+        "How does NDV spread through the air in chicken coops?",
+        "What is the main way NDV infects chickens?",
+        "Can poor ventilation help spread NDV among chickens?",
+        "What is the role of dust in NDV transmission in chickens?",
+        "Does high stocking density increase NDV transmission?"
+      ]
+    },
+    "metadata": {
+      "title": "Respiratory entry via inhaled dust/aerosols links ventilation to head-region infection",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_05_silent_shedding_in_saliva_of_vaccinated_birds",
+    "content": "Well-vaccinated chickens may appear clinically normal yet still shed NDV in saliva, contaminating drinkers, feeders, and surfaces contacted by the beak, and contributing to short-range aerosolization during feeding and vocalization. This means that absence of obvious nasal discharge or noisy breathing in a vaccinated flock does not guarantee absence of NDV transmission risk, necessitating continued surveillance through head-region sampling during suspected outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "vaccinated_birds",
+        "subclinical",
+        "saliva",
+        "oropharyngeal_shedding",
+        "risk_management"
+      ],
+      "hypothetical_questions": [
+        "What happens if vaccinated chickens still get sick?",
+        "How do vaccinated chickens spread disease?",
+        "Can vaccinated chickens still make other birds sick?",
+        "Do vaccinated chickens always show symptoms?",
+        "What is the risk of NDV transmission in vaccinated flocks?",
+        "How does NDV spread through a vaccinated flock?",
+        "What is the role of saliva in NDV transmission?",
+        "Can vaccinated birds still shed NDV in their saliva?",
+        "What is the significance of head-region sampling in NDV outbreaks?",
+        "Does vaccination guarantee no NDV transmission?"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccination may mask signs while saliva/oral shedding continues",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_04_respiratory_distress_with_whistling_sound",
+    "content": "Respiratory distress in chickens, a manifestation of ND (Newcastle Disease Virus), often presents with abnormal sounds, including a whistling noise during breathing, indicative of partial tracheal obstruction or inflammation. In a flock setting, whistling breathing is most informative when assessed alongside head findings such as nasal moisture, open-mouth breathing, and repeated head shaking. However, as whistling can also be associated with other poultry respiratory diseases, it should be considered a compatibility sign triggering laboratory confirmation via rRT-PCR or other diagnostic methods, rather than a definitive field diagnosis.",
+    "vector_context": {
+      "keywords": [
+        "respiratory_distress",
+        "noisy_breathing",
+        "whistling",
+        "upper_airway_obstruction",
+        "head_signs"
+      ],
+      "hypothetical_questions": [
+        "What causes whistling in chickens?",
+        "What are the signs of respiratory distress in chickens?",
+        "Can you diagnose ND in chickens based on whistling alone?",
+        "What are the symptoms of respiratory distress in a chicken flock?",
+        "What is the significance of whistling in poultry respiratory diseases?",
+        "What are the common causes of whistling in chickens?",
+        "How does whistling relate to tracheal obstruction in chickens?",
+        "What is the role of nasal moisture in diagnosing ND in chickens?",
+        "Can whistling be a sign of partial tracheal obstruction in chickens?",
+        "Is whistling a definitive sign of respiratory disease in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Noisy breathing and whistling respiratory sounds",
+      "disease": "newcastle_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_05_clear_mucus_from_mouth",
+    "content": "Chickens with severe NDV infections exhibit clear mucus discharge from the mouth, characterized by stringy secretions at the beak margins, pooled mucus in the oral cavity, or wetting of feathers around the beak due to frequent swallowing and regurgitation of upper-airway secretions. This symptom indicates active inflammation and excess mucus production in the oropharynx and proximal airway, making visible oral mucus a practical cue for prioritizing oropharyngeal and choanal cleft swabs for molecular detection or virus isolation.",
+    "vector_context": {
+      "keywords": [
+        "oral_mucus",
+        "mouth_discharge",
+        "oropharynx",
+        "upper_airway_secretions",
+        "clinical_exam"
+      ],
+      "hypothetical_questions": [
+        "What causes clear mucus discharge from a chicken's mouth?",
+        "What are symptoms of NDV infection in chickens?",
+        "Is clear mucus discharge a sign of severe NDV infection?",
+        "Can clear mucus in a chicken's mouth be a sign of inflammation?",
+        "NDV infection in chickens: what are the oral symptoms?",
+        "What does clear mucus discharge from a chicken's mouth indicate?",
+        "Is stringy secretions at the beak margins a symptom of NDV?",
+        "Can pooled mucus in the oral cavity be a sign of NDV infection?",
+        "Clear mucus in a chicken's mouth: what does it mean?",
+        "Is wetting of feathers around the beak a symptom of NDV infection?"
+      ]
+    },
+    "metadata": {
+      "title": "Clear mucus discharge from the oral cavity",
+      "disease": "newcastle_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_06_sneezing_coughing_and_nasal_discharge",
+    "content": "NDV infection in chickens typically presents with upper-respiratory symptoms such as sneezing, coughing, and nasal discharge, indicating irritation of the mucosa lining the nares and upper airway. The pattern of nasal discharge (serous versus mucoid) and sneezing frequency can guide sampling to select birds with the highest expected viral load. However, these head signs are non-specific and can be shared with other respiratory pathogens, necessitating laboratory confirmation via tests such as rRT-PCR for accurate disease diagnosis.",
+    "vector_context": {
+      "keywords": [
+        "sneezing",
+        "coughing",
+        "nasal_discharge",
+        "nares",
+        "upper_respiratory_signs"
+      ],
+      "hypothetical_questions": [
+        "What are the common symptoms of NDV in chickens?",
+        "What causes sneezing in chickens?",
+        "Can you describe the nasal discharge in chickens with NDV?",
+        "What are the signs of upper-respiratory problems in chickens?",
+        "What are the symptoms of NDV infection in chickens?",
+        "What is the role of sneezing in diagnosing NDV in chickens?",
+        "Does NDV cause coughing in chickens?",
+        "What are the common respiratory problems in chickens with NDV?",
+        "How does NDV affect the respiratory system of chickens?",
+        "Can you list the symptoms of NDV in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Sneezing, coughing, and nasal discharge as head/upper-airway indicators",
+      "disease": "newcastle_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_07_gasping_and_rales_in_young_birds",
+    "content": "Young chickens with NDV may exhibit prominent breathing difficulty, characterized by gasping and rales, which can occur with mesogenic infections or low-virulence infections complicated by other respiratory issues. Clinically, gasping manifests as open-mouth breathing with exaggerated head and neck movement, while rales produce crackling sounds during inspiration or expiration. This presentation suggests involvement of the tracheal inlet and proximal trachea, warranting collection of upper-airway samples from birds displaying the most obvious respiratory effort.",
+    "vector_context": {
+      "keywords": [
+        "gasping",
+        "rales",
+        "young_chickens",
+        "upper_airway",
+        "mesogenic",
+        "lentogenic"
+      ],
+      "hypothetical_questions": [
+        "What causes breathing difficulty in young chickens?",
+        "Symptoms of NDV in chicks include?",
+        "Chickens with gasping and rales need what kind of treatment?",
+        "What are the signs of respiratory problems in young chickens?",
+        "NDV causes gasping and rales in young birds, what's the pathology behind it?",
+        "What is the clinical presentation of NDV in young chickens?",
+        "Can low-virulence NDV infections cause respiratory problems?",
+        "What are the crackling sounds heard during inspiration or expiration in NDV-infected birds?",
+        "NDV infection in young birds can be complicated by what other respiratory problems?",
+        "Upper-airway samples should be collected from birds showing what respiratory effort?"
+      ]
+    },
+    "metadata": {
+      "title": "Gasping and rales in younger chickens with some NDV pathotypes",
+      "disease": "newcastle_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_pathology_01_tracheal_congestion_and_hemorrhage",
+    "content": "Vascular injury in the trachea is a relevant gross lesion associated with Newcastle Disease (ND). Infected chickens exhibit congestion and hemorrhage of the trachea, as described in the MSD Veterinary Manual. At necropsy, opening the proximal trachea reveals reddened mucosa and hemorrhagic foci, which may correlate with noisy breathing and respiratory distress observed ante-mortem. This supports targeted sampling of the tracheal inlet or upper tracheal mucosa for molecular testing, such as rRT-PCR, and virus isolation.",
+    "vector_context": {
+      "keywords": [
+        "trachea",
+        "congestion",
+        "hemorrhage",
+        "upper_airway_lesion",
+        "gross_lesion"
+      ],
+      "hypothetical_questions": [
+        "What causes congestion and hemorrhage of the trachea in chickens?",
+        "What are the symptoms of ND in chickens?",
+        "What is the effect of virulent NDV on the trachea?",
+        "What are the changes observed in the trachea of chickens with ND?",
+        "What are the gross lesions associated with ND in the head/upper-airway scope?",
+        "What is the pathology of NDV infection in the trachea?",
+        "How does NDV cause vascular injury in the trachea?",
+        "What is the significance of tracheal congestion and hemorrhage in ND diagnosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Congestion and hemorrhage of the trachea in virulent NDV",
+      "disease": "newcastle_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_pathology_02_catarrhal_exudate_in_larynx_and_trachea",
+    "content": "Post-mortem findings in Newcastle disease (NDV) include hyperaemia and congestion of the respiratory tract, along with serous or catarrhal exudates in the larynx and trachea, which can appear as watery to mucoid fluid coating the laryngeal area and proximal tracheal lumen. The presence of catarrhal material at the tracheal inlet indicates active mucosal disease, supporting the use of this site for swab collection, and can partially obstruct airflow, explaining open-mouth breathing and audible respiratory sounds in affected birds.",
+    "vector_context": {
+      "keywords": [
+        "larynx",
+        "trachea",
+        "catarrhal_exudate",
+        "serous_exudate",
+        "upper_airway"
+      ],
+      "hypothetical_questions": [
+        "What causes catarrhal exudates in the larynx and trachea of chickens?",
+        "What are the post-mortem findings of Newcastle disease in the respiratory tract?",
+        "What does the presence of catarrhal material at the tracheal inlet indicate in affected birds?",
+        "Can catarrhal exudates in the respiratory tract cause open-mouth breathing in chickens?",
+        "What is the pathologic explanation for open-mouth breathing in birds with Newcastle disease?",
+        "What is the significance of serous or catarrhal exudates in the larynx and trachea in Newcastle disease?",
+        "How does catarrhal material at the tracheal inlet support the use of that site for swab collection?",
+        "What is the gross appearance of catarrhal material in the laryngeal area and proximal tracheal lumen?"
+      ]
+    },
+    "metadata": {
+      "title": "Serous/catarrhal exudate in the larynx and trachea",
+      "disease": "newcastle_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.fao.org/4/ac802e/ac802e0n.htm"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_pathology_03_mucoid_respiratory_exudate_low_virulence_and_secondary_infection",
+    "content": "Low-virulence NDV infections typically cause respiratory lesions, characterized by congestion and mucoid exudates. Secondary bacterial infections can exacerbate these lesions, increasing mucus production and amplifying signs such as oral mucus, snicking, and rales. This interaction can obscure the clinical picture, making it difficult to distinguish NDV from combined disease processes. Consequently, head-scoped diagnostics may require concurrent testing for NDV and common secondary respiratory bacteria when mucopurulent exudate is present.",
+    "vector_context": {
+      "keywords": [
+        "low_virulence",
+        "mucoid_exudate",
+        "upper_airway",
+        "secondary_bacterial_infection",
+        "mixed_infection"
+      ],
+      "hypothetical_questions": [
+        "What causes mucoid exudates in poultry?",
+        "Can secondary bacterial infections worsen respiratory lesions in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Mucoid upper-airway exudate in low-virulence NDV, worsened by secondary bacteria",
+      "disease": "newcastle_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_03_clinical_signs_not_pathognomonic",
+    "content": "Clinical signs such as head-region respiratory signs and upper-airway lesions can suggest Newcastle disease (NDV), but are not sufficient for a definitive diagnosis. According to the MSD Veterinary Manual, these signs are not pathognomonic and should not be used alone for diagnosis. Instead, they should prompt timely specimen collection and immediate risk management steps, which may involve confirmatory testing, particularly in vaccinated flocks where reduced respiratory signs can mask ongoing virus shedding.",
+    "vector_context": {
+      "keywords": [
+        "not_pathognomonic",
+        "clinical_limitations",
+        "respiratory_signs",
+        "gross_lesions",
+        "confirmation"
+      ],
+      "hypothetical_questions": [
+        "What are the head signs that suggest Newcastle disease?",
+        "What symptoms can lead to suspicion of Newcastle disease?",
+        "Can respiratory signs alone confirm Newcastle disease diagnosis?",
+        "Are upper-airway lesions pathognomonic for Newcastle disease?",
+        "What is the role of head signs in diagnosing Newcastle disease?",
+        "Can vaccinated flocks still shed Newcastle disease virus?",
+        "Are respiratory signs in vaccinated flocks reduced?",
+        "What is the diagnostic limitation of using head signs alone?",
+        "Can clinical signs and gross lesions confirm Newcastle disease diagnosis?",
+        "Is specimen collection necessary for Newcastle disease diagnosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Head-region signs and lesions are not pathognomonic—testing is required",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_04_real_time_rt_pcr_as_primary_test",
+    "content": "Real-time RT-PCR is used to confirm NDV by detecting viral RNA, and can be applied directly to clinical samples such as oropharyngeal swabs and respiratory discharges for rapid evidence of infection. This molecular approach can discriminate virulent NDV from low-virulence viruses and supports prompt confirmation in head-focused outbreaks, where rapid decisions are needed, without waiting for slower isolation methods.",
+    "vector_context": {
+      "keywords": [
+        "real_time_rt_pcr",
+        "viral_RNA",
+        "upper_airway_swab",
+        "rapid_confirmation",
+        "vndv_vs_londv"
+      ],
+      "hypothetical_questions": [
+        "What is the best way to confirm NDV?",
+        "How do I test for NDV in a chicken's head?",
+        "What is the difference between virulent and low-virulence NDV?",
+        "Can I use RT-PCR to test for NDV in a swab?",
+        "What is the advantage of using RT-PCR for NDV diagnosis?",
+        "Can RT-PCR be used on tissue samples for NDV diagnosis?",
+        "How does RT-PCR distinguish between virulent and low-virulence NDV?",
+        "What is the role of RT-PCR in head-focused NDV outbreaks?",
+        "Is RT-PCR a primary test for NDV diagnosis?",
+        "Can RT-PCR be used on feces samples for NDV diagnosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Real-time RT-PCR on head/upper-airway samples as the primary diagnostic tool",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_05_oropharyngeal_swab_priority_sampling_site",
+    "content": "For a head-only sampling plan, the oropharynx is prioritized due to its high recovery rate of NDV from oropharyngeal swabs, particularly in birds exhibiting oral mucus, noisy breathing, or upper-airway signs. Sampling is most effective when targeting the choanal cleft and posterior oropharynx, where high viral loads of NDV may be present. A practical approach involves swabbing across the choanal slit and sweeping the posterior oropharynx to capture both nasal and oral secretions without contamination, making this a suitable alternative to cloacal swabs when respiratory sampling is not feasible.",
+    "vector_context": {
+      "keywords": [
+        "oropharyngeal_swab",
+        "choanal_cleft",
+        "respiratory_discharge",
+        "sample_collection",
+        "head_region"
+      ],
+      "hypothetical_questions": [
+        "What's the best place to take a swab from a bird with NDV?",
+        "When should I take an oropharyngeal swab from a bird?",
+        "How do I collect oropharyngeal swabs from birds?",
+        "What are the signs that indicate I should take an oropharyngeal swab?",
+        "What is the significance of the oropharynx in a head-only sampling plan for NDV?",
+        "What is the best technique for swabbing the oropharynx?",
+        "Can you recover NDV from oropharyngeal swabs?",
+        "What is the role of the choanal cleft in oropharyngeal swabbing?",
+        "Why is it important to capture both nasal and oral secretions in oropharyngeal swabbing?",
+        "Is cloacal swabbing an alternative to oropharyngeal swabbing?"
+      ]
+    },
+    "metadata": {
+      "title": "Oropharyngeal/choanal sampling is a high-yield head-region collection site",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_06_virus_isolation_in_spf_eggs_from_swabs",
+    "content": "Isolation of NDV from clinical material, such as oropharyngeal swabs, involves inoculating 9–11 day specific-pathogen-free embryonated chicken eggs, which can then be confirmed as NDV by inhibition with NDV antiserum or molecular detection of NDV RNA. This method aligns with the primary upper-airway disease process, making oropharyngeal swabs a preferred specimen for isolation.",
+    "vector_context": {
+      "keywords": [
+        "virus_isolation",
+        "embryonated_eggs",
+        "allantoic_cavity",
+        "hemagglutination",
+        "confirmatory_testing"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to confirm ND in chickens?",
+        "How do you isolate the virus from oropharyngeal swabs?",
+        "What's the significance of using SPF embryonated chicken eggs for virus isolation?",
+        "What's the role of hemagglutinating agents in diagnosing NDV?",
+        "Isolation of NDV from oropharyngeal swabs: what's the process?",
+        "Can you use oropharyngeal swabs for diagnosing upper-airway diseases in chickens?",
+        "What's the difference between oropharyngeal swabs and other sampling sites?",
+        "How do you confirm the presence of NDV using molecular detection?",
+        "What's the purpose of using NDV antiserum for inhibition?",
+        "Can you describe the head-focused workflow for diagnosing ND in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Virus isolation using embryonated eggs from clinical swabs",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_07_serology_paired_samples_and_vaccination_effects",
+    "content": "Serology can support ND investigations, but its interpretation is challenging in vaccinated populations due to potential interference from prior vaccination. A rise in NDV antibody titer on paired serum samples, measured by hemagglutination-inhibition testing or ELISA, in the absence of recent vaccination, indicates infection. However, a single antibody result may reflect prior vaccination or past exposure, making it unreliable for explaining current head-region respiratory signs. In head-focused case work, serology is best used as an adjunct to direct detection methods, particularly when routine vaccination obscures baseline titers.",
+    "vector_context": {
+      "keywords": [
+        "serology",
+        "HI_test",
+        "ELISA",
+        "paired_serum",
+        "vaccination_status",
+        "interpretation"
+      ],
+      "hypothetical_questions": [
+        "What does serology show in ND investigations?",
+        "How does vaccination affect NDV antibody titer interpretation?",
+        "What does a rise in NDV antibody titer on paired serum samples mean?",
+        "Can serology alone diagnose ND in vaccinated flocks?",
+        "What is the best use of serology in head-focused case work?",
+        "How does vaccination obscure baseline NDV antibody titers?",
+        "What is the significance of a single antibody result in vaccinated birds?",
+        "Can ELISA or hemagglutination-inhibition testing detect ND infection?",
+        "What is the role of serology in ND investigations in vaccinated populations?",
+        "Does a single antibody result indicate current ND infection in vaccinated birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Using serology in head-focused investigations: paired samples and vaccination confounding",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_08_pathotyping_by_fusion_cleavage_site_or_icpi",
+    "content": "Detection of APMV-1 from head/upper-airway specimens requires further analysis to confirm virulent Newcastle disease. This involves genomic sequencing to identify specific amino acid motifs at the fusion protein cleavage site and/or standardized pathogenicity testing, such as the intracerebral pathogenicity index. Low-virulence vaccine-like viruses can also be present in respiratory samples after vaccination, necessitating pathotyping to bridge clinical suspicion with official control measures.",
+    "vector_context": {
+      "keywords": [
+        "pathotyping",
+        "fusion_cleavage_site",
+        "genomic_sequencing",
+        "ICPI",
+        "virulence_confirmation"
+      ],
+      "hypothetical_questions": [
+        "What does it mean to detect APMV-1 in a chicken's head?",
+        "How do you know if a chicken has virulent Newcastle disease?",
+        "What is the fusion protein cleavage site in Newcastle disease?",
+        "What is the intracerebral pathogenicity index used for?",
+        "Can a low-virulence vaccine-like virus be present in a respiratory sample?",
+        "What is the difference between virulent and non-virulent Newcastle disease?",
+        "What is the purpose of genomic sequencing in Newcastle disease diagnosis?",
+        "Can vaccination cause a false positive for Newcastle disease?",
+        "What is the role of pathotyping in Newcastle disease diagnosis?",
+        "Does finding NDV in an oropharyngeal sample confirm the diagnosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Confirming virulence (pathotyping) after head-region detection",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_09_differentials_for_head_respiratory_signs",
+    "content": "In cases where Newcastle Disease (ND) primarily manifests as a head/upper-airway issue, the differential diagnosis overlaps with other common poultry respiratory diseases, including highly pathogenic avian influenza (HPAI), infectious bronchitis, infectious laryngotracheitis, avian metapneumovirus infection, infectious coryza, mycoplasmosis, fowl cholera, and aspergillosis. Laboratory confirmation through targeted sampling and specific assays, such as rRT-PCR, is crucial to differentiate these agents and avoid misclassification, as many of these diseases can present with similar symptoms like nasal discharge or dyspnea.",
+    "vector_context": {
+      "keywords": [
+        "differential_diagnosis",
+        "respiratory_signs",
+        "upper_airway",
+        "HPAI",
+        "ILT",
+        "IBV",
+        "coryza",
+        "Mycoplasma"
+      ],
+      "hypothetical_questions": [
+        "What causes respiratory problems in chickens?",
+        "What are the main differences between ND and other poultry respiratory diseases?",
+        "What are the common respiratory diseases in poultry that cause nasal discharge?",
+        "What are the key symptoms of ND in head and upper-airway problems?",
+        "What are the alternative causes of respiratory signs in poultry?",
+        "What is the role of laboratory testing in confirming ND diagnosis?",
+        "What are the essential sampling sites for differentiating poultry respiratory diseases?",
+        "What are the key factors in avoiding misclassification of poultry respiratory diseases?"
+      ]
+    },
+    "metadata": {
+      "title": "Key differentials when ND presents as an upper-airway/head problem",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_control_02_no_specific_medication_supportive_for_secondary_infections",
+    "content": "Virulent Newcastle disease (NDV) in chickens has no proven treatment to alter its course, with MSD Veterinary Manual advising against antivirals and no medication showing impact on virulent NDV infection. Supportive care, such as optimizing environmental conditions and addressing secondary bacterial infections, is the focus for head/upper-airway clinical management. In loNDV-affected flocks, antimicrobials targeting secondary infections can reduce respiratory discharge and noisy breathing, lower morbidity and mortality, but do not eliminate NDV itself.",
+    "vector_context": {
+      "keywords": [
+        "no_treatment",
+        "supportive_care",
+        "secondary_infections",
+        "antimicrobials",
+        "clinical_management"
+      ],
+      "hypothetical_questions": [
+        "What can we do for chickens with Newcastle disease?",
+        "Is there a cure for virulent Newcastle disease?",
+        "What treatment works for Newcastle disease in chickens?",
+        "Can we use medication to cure Newcastle disease?",
+        "Are antivirals effective against Newcastle disease?",
+        "What is the recommended treatment for Newcastle disease in chickens?",
+        "Can we use antibiotics to treat secondary infections in Newcastle disease?",
+        "What is the role of antimicrobials in managing Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "No curative therapy for virulent NDV; supportive care only in limited situations",
+      "disease": "newcastle_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_control_03_outbreak_containment_notification_and_depopulation",
+    "content": "NDV transmission is primarily through respiratory emissions and oral secretions, necessitating rapid interruption of shedding to control outbreaks. Infected and susceptible birds near an outbreak are often culled to contain transmission, and immediate notification of authorities is crucial when virulent ND is suspected, as emphasized by the MSD Veterinary Manual and reinforced by CFIA's reportable condition status with significant trade implications. Movement restrictions, controlled-zone management, and thorough cleaning and disinfection are key components of these responses, reducing opportunities for head-level exposure through contaminated airspace, equipment, and surfaces.",
+    "vector_context": {
+      "keywords": [
+        "notification",
+        "culling",
+        "containment_zone",
+        "movement_control",
+        "biosecurity_response",
+        "reportable_disease"
+      ],
+      "hypothetical_questions": [
+        "What do I do when Newcastle disease is suspected?",
+        "How do I stop the spread of NDV?",
+        "What's the best way to control an ND outbreak?",
+        "Should I cull birds near an outbreak?",
+        "What are the key components of outbreak control for Newcastle disease?",
+        "How does the CFIA treat Newcastle disease as a reportable condition?",
+        "What's the role of movement restrictions in controlling NDV transmission?",
+        "What are the trade implications of a Newcastle disease outbreak?"
+      ]
+    },
+    "metadata": {
+      "title": "Containment focuses on stopping respiratory/oral shedding and requires rapid notification",
+      "disease": "newcastle_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_02_biosecurity_disinfection_and_litter_management",
+    "content": "Biosecurity is a crucial prevention measure for Newcastle Disease (ND), primarily by reducing the likelihood of virus-laden material reaching birds' breathing zones and oral contact points. Routine disinfection, control of feed and water quality, pest management, and litter management are essential for preventing introduction and spread, as emphasized by the MSD Veterinary Manual. Strict entry protocols and equipment separation are critical to prevent the movement of people and contaminated equipment or litter, which are primary routes of spread between farms.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "disinfection",
+        "litter_management",
+        "pest_control",
+        "equipment",
+        "fomite"
+      ],
+      "hypothetical_questions": [
+        "What can I do to prevent ND in my flock?",
+        "How often should I disinfect the coop?",
+        "What are the main routes for ND spread between farms?",
+        "What can I do to reduce dust and aerosols in the coop?",
+        "What are the key factors in preventing introduction and spread of ND?",
+        "How does the movement of people contribute to ND transmission?",
+        "What is the role of litter management in preventing ND?",
+        "What are the entry protocols for preventing ND spread?"
+      ]
+    },
+    "metadata": {
+      "title": "Biosecurity targets contaminated material that reaches birds’ head level",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_03_vaccines_reduce_signs_but_not_sterile_immunity",
+    "content": "ND vaccines do not provide sterile immunity, only reducing clinical illness while potentially allowing vaccinated birds to still become infected. Vaccination induces an antibody response, increasing the infectious dose required for infection, but not providing complete protection. Consequently, vaccination should be complemented with biosecurity measures, and mild or absent head signs in vaccinated flocks should be interpreted with caution.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "non_sterile_immunity",
+        "viral_replication",
+        "shedding",
+        "risk_reduction"
+      ],
+      "hypothetical_questions": [
+        "Does vaccination prevent ND?",
+        "Can vaccinated birds still get infected?",
+        "What does MSD Veterinary Manual say about ND vaccines?",
+        "Does vaccination give sterile immunity?"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccination reduces clinical respiratory disease but does not fully block infection",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_04_live_lentogenic_mass_vaccination_builds_mucosal_immunity",
+    "content": "Live lentogenic NDV vaccines, such as B1 and LaSota strains, are administered via mass routes like drinking water and spray, stimulating mucosal immunity at the upper respiratory tract. This can reduce subsequent shedding from the head region if birds are challenged by virulent virus, contrasting with inactivated vaccines which induce a different immune response. However, careful application is crucial to ensure uniform immunization, as uneven access to vaccine water or spray coverage can leave birds insufficiently immunized and more likely to develop respiratory signs.",
+    "vector_context": {
+      "keywords": [
+        "live_vaccine",
+        "lentogenic",
+        "LaSota",
+        "B1",
+        "spray",
+        "drinking_water",
+        "mucosal_immunity"
+      ],
+      "hypothetical_questions": [
+        "What is the best way to give live lentogenic NDV vaccines to chickens?",
+        "How do live lentogenic NDV vaccines like B1 and LaSota strains help prevent respiratory signs in birds?",
+        "Can live lentogenic NDV vaccines be given through drinking water?",
+        "What is the difference between live lentogenic NDV vaccines and inactivated vaccines in terms of mucosal immunity?",
+        "What are the advantages of using live lentogenic NDV vaccines over inactivated vaccines?",
+        "Does live lentogenic NDV vaccine application by spray stimulate mucosal immunity in the upper respiratory tract?",
+        "Can uneven application of live lentogenic NDV vaccines leave some birds unimmunized?",
+        "What is the role of mucosal immunity in reducing shedding of virulent virus from the head region?",
+        "Are live lentogenic NDV vaccines more effective than inactivated vaccines in reducing respiratory signs in birds?",
+        "Can live lentogenic NDV vaccines be used to prevent respiratory signs in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Live lentogenic vaccines via drinking water or spray can reduce upper-airway shedding",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_05_individual_live_vaccine_via_nares_or_conjunctiva",
+    "content": "Individual administration of live NDV vaccine via the nares or conjunctival sac delivers vaccine virus directly to head mucosa, supporting localized immune responses at entry and shedding sites. This approach provides stronger assurance of adequate dosing, particularly valuable in smallholder settings or high-value bird protection, but comes with increased labor and handling stress.",
+    "vector_context": {
+      "keywords": [
+        "individual_vaccination",
+        "nares",
+        "conjunctival_sac",
+        "eye_drop",
+        "intranasal",
+        "mucosal_delivery"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to give live NDV vaccine to chickens?",
+        "How do you give live NDV vaccine to individual chickens?",
+        "What's the advantage of giving live NDV vaccine directly to chickens?",
+        "Can live NDV vaccine be given to chickens through their noses?",
+        "Which mucosa is targeted by live NDV vaccine when administered via the nares?",
+        "What's the role of the conjunctival sac in live NDV vaccine administration?",
+        "Is live NDV vaccine more effective when given directly to chickens?",
+        "What's the difference between individual and mass vaccination with live NDV vaccine?",
+        "Can live NDV vaccine be given to chickens through their eyes?",
+        "Is live NDV vaccine more suitable for smallholder settings?"
+      ]
+    },
+    "metadata": {
+      "title": "Individual dosing via nares or conjunctival sac for reliable head-mucosal delivery",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_06_coverage_thresholds_and_herd_immunity_targets",
+    "content": "Achieving high population-level immunity against NDV is crucial to reduce transmission through the upper airway, as it minimizes the number of effective shedders. However, mass vaccination must be applied properly to ensure a high-coverage threshold for herd immunity, preventing ongoing circulation and head-level exposure. This requires careful consideration of dose delivery, timing, and coverage across the flock, as well as practical quality checks such as verifying uniform vaccine take and auditing flock coverage to prevent pockets of susceptible birds that can drive respiratory spread.",
+    "vector_context": {
+      "keywords": [
+        "herd_immunity",
+        "coverage",
+        "vaccination_quality",
+        "transmission_interruption"
+      ],
+      "hypothetical_questions": [
+        "What's the threshold for herd immunity in poultry?",
+        "How can I prevent ND transmission through the upper airway?",
+        "What's the best way to ensure high population-level immunity in a flock?",
+        "What happens if mass vaccination doesn't reach a high-coverage threshold?",
+        "What's the importance of dose delivery in vaccination success?",
+        "How can I verify uniform vaccine take in a flock?",
+        "What are the critical factors for head-region risk reduction?",
+        "What's the role of auditing flock coverage in preventing respiratory spread?",
+        "What's the relationship between vaccination success and herd immunity?",
+        "Can pockets of susceptible birds drive respiratory spread in a flock?"
+      ]
+    },
+    "metadata": {
+      "title": "High vaccination coverage is needed to limit head-region transmission pressure",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_07_maternal_antibody_interference_and_vaccination_timing",
+    "content": "Maternal antibodies and prior vaccinations can interfere with NDV vaccination response, necessitating consideration in head-focused prevention programs. Vaccination timing affects mucosal surface immunity development in chicks, with MSD Veterinary Manual suggesting early vaccination (day 1) or delayed vaccination (second or third week) to minimize maternal antibody interference and promote active immunity. The goal in practical flock planning is to minimize the window where chicks transition from declining maternal protection to ineffective mucosal and systemic immunity.",
+    "vector_context": {
+      "keywords": [
+        "maternal_antibodies",
+        "vaccination_timing",
+        "day_1",
+        "week_2",
+        "immune_response",
+        "protocol_design"
+      ],
+      "hypothetical_questions": [
+        "What happens when maternal antibodies interfere with NDV vaccination?",
+        "How do maternal antibodies affect the response to NDV vaccination?",
+        "What is the best time to vaccinate chicks against NDV?",
+        "Can chicks be vaccinated as early as day 1?",
+        "Maternal antibodies and immunity from prior vaccinations can interfere with NDV vaccination, what's the solution?",
+        "What is the effect of maternal antibody interference on NDV vaccination response?",
+        "Can vaccination timing reduce maternal antibody interference in chicks?",
+        "What is the role of maternal antibodies in NDV vaccination timing?",
+        "NDV vaccination timing and maternal antibodies, what's the relationship?",
+        "Maternal antibody interference and NDV vaccination timing, how to minimize interference?"
+      ]
+    },
+    "metadata": {
+      "title": "Timing vaccination to balance early protection and maternal antibody interference",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_08_vaccinal_reactions_mimic_head_signs_and_management",
+    "content": "Live vaccination can trigger short-lived head and upper-respiratory reactions, including conjunctivitis, \"snicking,\" and gasping due to tracheal blockage, which can complicate field interpretation. Management factors, such as uniform maternal antibody levels, good management, and Mycoplasma gallisepticum–free status, can reduce the risk and severity of these reactions. Recognizing vaccinal reactions is crucial for head-scoped surveillance, as it helps avoid misclassifying transient post-vaccine signs as a field ND outbreak, while justifying testing for severe, persistent, or spreading signs.",
+    "vector_context": {
+      "keywords": [
+        "vaccinal_reaction",
+        "conjunctivitis",
+        "snicking",
+        "tracheal_plug",
+        "maternal_titers",
+        "management"
+      ],
+      "hypothetical_questions": [
+        "What are the common reactions after live vaccination in poultry?",
+        "Can vaccination cause conjunctivitis in birds?",
+        "What are the symptoms of a plug of purulent material in the lower trachea?",
+        "How does good management reduce the risk of reactions after vaccination?",
+        "What is the role of maternal antibodies in day-old chicks?",
+        "Can Mycoplasma gallisepticum–free status reduce the severity of reactions?",
+        "What are the signs of transient post-vaccine conjunctivitis?",
+        "How do vaccinal reactions mimic field ND outbreak symptoms?",
+        "What is the significance of uniform maternal antibody levels in day-old chicks?",
+        "Can a plug of purulent material in the lower trachea cause noisy breathing in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccinal reactions can cause conjunctivitis/snicking and must be distinguished from field infection",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.thepoultrysite.com/disease-guide/newcastle-disease-paramyxovirus-1",
+        "https://www.msdvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "healthy_poultry_overview_01_definition_and_population_context",
+    "content": "In Australian commercial poultry production, \"healthy poultry\" refers to a flock's normal and stable health status at the population level, defined by the absence of abnormal clinical patterns, stable production performance, and normal physiological and behavioural parameters. Healthy flocks display consistent behaviour, uniform physical condition, and predictable production outputs, with key features including active birds, normal posture and movement, clean respiratory function, and normal external appearance. A healthy flock status does not imply the absence of infectious agents, as subclinical infections may occur without overt clinical signs, particularly with low pathogenic organisms like LPAI or H5N1, or other diseases such as NDV or Mycoplasma, which can be detected using methods like rRT-PCR, and may belong to specific clades like clade 2.3.4.4b, or HPAI. This population-based definition supports early detection of deviation and aligns with national biosecurity objectives, prioritizing recognition of abnormal trends over individual clinical diagnosis, and serves as a baseline for surveillance, benchmarking, and preparedness in disease recognition, reporting, and response systems.",
+    "vector_context": {
+      "keywords": [
+        "healthy poultry",
+        "population health",
+        "baseline health status",
+        "commercial poultry",
+        "veterinary surveillance"
+      ],
+      "hypothetical_questions": [
+        "What does healthy poultry mean in Australian commercial poultry production?",
+        "How is health defined in DAFF-aligned veterinary frameworks?",
+        "What are the key observable features of healthy poultry flocks?",
+        "What does a healthy flock status imply about the presence of infectious agents?",
+        "Is a healthy flock free from disease?",
+        "What is the purpose of a population-based definition of healthy poultry?",
+        "How does the definition of healthy poultry align with national biosecurity objectives?",
+        "What is the difference between a healthy flock and a disease-free flock?",
+        "What are the characteristics of a reference state used in routine flock monitoring?",
+        "Can a healthy flock have subclinical infections?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Definition of healthy poultry at the population level",
+      "disease": "healthy_poultry",
+      "category": "overview",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal",
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_overview_02_role_in_surveillance_and_disease_preparedness",
+    "content": "Healthy poultry status is crucial in Australia's national animal health surveillance and emergency disease preparedness, with DAFF-aligned frameworks using normal flock health indicators to detect early deviations that may signal emerging diseases like avian influenza (HPAI, LPAI, H5N1) or Newcastle disease (NDV). These deviations prompt laboratory testing, including rRT-PCR, and escalation through reporting pathways, as high-consequence diseases may present with non-specific signs or circulate subclinically, such as Mycoplasma or clade 2.3.4.4b. Maintaining awareness of normal health status supports producer responsibilities under Australian biosecurity legislation, enabling differentiation between normal variation and suspicious change, and reducing under-reporting and unnecessary alarm, ultimately reinforcing healthy poultry's central role in disease prevention, control, and national preparedness.",
+    "vector_context": {
+      "keywords": [
+        "disease surveillance",
+        "early detection",
+        "biosecurity",
+        "emergency animal disease",
+        "DAFF framework"
+      ],
+      "hypothetical_questions": [
+        "What are the main reasons for monitoring healthy poultry in Australia?",
+        "How does healthy poultry status relate to disease preparedness?",
+        "What are the DAFF-aligned frameworks for detecting diseases in poultry?",
+        "What role does healthy poultry play in early disease detection?",
+        "What is the purpose of using normal flock health indicators in poultry surveillance?",
+        "How do healthy poultry baselines help in distinguishing normal variation from suspicious change?",
+        "What is the importance of laboratory confirmation in detecting poultry diseases?",
+        "What is the regulatory perspective on maintaining awareness of normal health status in poultry?",
+        "What are the responsibilities of poultry producers under Australian biosecurity legislation?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Healthy poultry as a foundation for surveillance and preparedness",
+      "disease": "healthy_poultry",
+      "category": "overview",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal/ausvetplan",
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal/emergency"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_01_general_physical_condition_and_posture",
+    "content": "In a healthy commercial poultry flock, birds exhibit consistent physical condition and posture, with uniform distribution, upright posture, and coordinated movement. They display smooth locomotion, symmetrical wing carriage, and predictable daily rhythms of feeding, drinking, and activity. Behavioural consistency is a key indicator, with birds responding normally to human presence and environmental stimuli, and no excessive lethargy, panic, or abnormal vocalisation. These characteristics form a baseline for normal flock physiology, and deviations such as widespread weakness, altered posture, or reduced activity are early indicators of potential health compromise, triggering further assessment within surveillance systems to monitor for diseases such as HPAI, LPAI, H5N1, NDV, and Mycoplasma, which can be detected using diagnostic tools like rRT-PCR, and may involve specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "normal posture",
+        "flock behaviour",
+        "physical condition",
+        "population health",
+        "early warning indicators"
+      ],
+      "hypothetical_questions": [
+        "What do healthy chickens look like?",
+        "How can you tell if a chicken is sick?",
+        "What are the signs of a healthy chicken?",
+        "Are chickens that are active and alert healthy?",
+        "What is the normal posture of a commercial poultry bird?",
+        "How do you assess locomotion in a flock of chickens?",
+        "What is the significance of uniform wing carriage in poultry?",
+        "What are the indicators of weakness in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: General physical condition and posture",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_02_head_and_external_indicators",
+    "content": "In poultry, external head features are key indicators of normal physiology, used in flock-level health surveillance. Healthy birds have bright red combs and wattles, indicating adequate circulation and oxygenation, with no swelling, cyanosis, bruising, or dark discoloration. Their eyes are clear, open, and alert, with no swelling, discharge, or cloudiness, and clean eyelids and surrounding tissues. The nares are open and dry, with normal respiration and no audible noise or material accumulation. The beak and facial integument are intact, with no lesions, scabs, or erosions. These features serve as baseline references for detecting notifiable diseases, such as avian influenza (e.g., HPAI, LPAI, H5N1), Newcastle disease (NDV), and Mycoplasma, with changes like comb discoloration or ocular discharge requiring escalation, and are used as a comparative standard in surveillance systems to detect early signs of disease, including through diagnostic tests like rRT-PCR, particularly for H5N1 clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "comb and wattle",
+        "eye health",
+        "nares",
+        "external indicators",
+        "surveillance baseline"
+      ],
+      "hypothetical_questions": [
+        "What color should the comb and wattles be in healthy birds?",
+        "What are the signs of poor circulation and oxygenation in poultry?",
+        "How do you check for conjunctivitis in poultry?",
+        "What is the normal condition of the nares in healthy birds?",
+        "What is the significance of uniformity in head-related indicators in poultry flocks?",
+        "What is the role of the beak in assessing poultry health?",
+        "What are the signs of notifiable diseases in poultry?",
+        "What are the key indicators of avian influenza in poultry?",
+        "What is the normal appearance of the head in healthy poultry?",
+        "What are the external signs of Newcastle disease in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Head and external health indicators",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal/avian-influenza",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_03_normal_respiratory_function",
+    "content": "Healthy poultry exhibit quiet, unlaboured breathing with closed beaks, smooth respiratory movements, and no coughing, sneezing, or gasping. There is no nasal discharge, foamy exudate, or mucus accumulation on facial feathers, and litter remains dry. Environmental conditions, including ventilation, ammonia levels, and dust load, do not provoke respiratory responses in healthy birds. The absence of respiratory abnormalities serves as a baseline reference, and any emergence of abnormal signs triggers investigation, considering notifiable diseases like HPAI, LPAI, H5N1, and other respiratory pathogens such as NDV and Mycoplasma, which can be detected using diagnostic tools like rRT-PCR, particularly for viruses like H5N1 clade 2.3.4.4b, highlighting the importance of normal respiratory function as a key comparator for early warning detection in surveillance frameworks.",
+    "vector_context": {
+      "keywords": [
+        "normal respiration",
+        "no respiratory signs",
+        "flock observation",
+        "early detection",
+        "biosecurity"
+      ],
+      "hypothetical_questions": [
+        "what are normal breathing sounds in chickens?",
+        "how do healthy birds breathe when resting?",
+        "what is normal respiratory movement in poultry?",
+        "what should be seen in a healthy flock's respiratory system?",
+        "what is the significance of nasal discharge in poultry health?",
+        "how do respiratory pathogens affect poultry?",
+        "what is the role of ventilation in poultry respiratory health?",
+        "what is the impact of ammonia on poultry respiratory function?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Respiratory function at flock level",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/animal",
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_04_digestive_output_and_fecal_appearance",
+    "content": "In healthy poultry, normal digestive function is characterized by consistent feed intake, efficient digestion, and stable fecal output, with formed, brown feces and visible white urates, indicating normal gastrointestinal motility, liver function, and hydration status. At the population level, litter is dry and uniform, without widespread diarrhea or abnormal staining, and birds do not exhibit excessive soiling of feathers or strong abnormal odors. Fecal appearance is a critical surveillance indicator, as deviations from normal physiology, such as green bile-stained feces or diarrhea, may precede overt clinical disease, including systemic or notifiable diseases like HPAI, LPAI, H5N1, or NDV, and Mycoplasma infections, which can be detected using rRT-PCR, and may be associated with specific strains, such as clade 2.3.4.4b, thus serving as a baseline benchmark for comparison to support early detection and timely escalation.",
+    "vector_context": {
+      "keywords": [
+        "fecal appearance",
+        "digestive health",
+        "normal droppings",
+        "surveillance indicator",
+        "population baseline"
+      ],
+      "hypothetical_questions": [
+        "What does normal feed intake look like in healthy poultry?",
+        "How do I know if my flock has efficient digestion?",
+        "What color are healthy bird droppings?",
+        "What does normal fecal output look like in a healthy flock?",
+        "What are the signs of abnormal liver function in poultry?",
+        "How do I identify gastrointestinal motility issues in birds?",
+        "What is the role of urates in healthy poultry digestion?",
+        "What are the symptoms of stress in poultry droppings?",
+        "What is the significance of green bile-stained feces in poultry?",
+        "Can abnormal fecal staining indicate a notifiable disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Digestive function and fecal appearance",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_immunity_01_normal_immune_competence_indicators",
+    "content": "In healthy poultry flocks, normal immune status is reflected through stable health, consistent production performance, and predictable responses to routine management practices. Flocks demonstrate expected responses to vaccination programs, recover promptly from routine handling and environmental challenges, and show no persistent elevation in morbidity. External indicators of normal immune status include good body condition, normal integument, and low mortality and culling rates. With intact immune function, flocks can detect abnormal disease patterns, such as increased susceptibility to HPAI, LPAI, H5N1, or other diseases like NDV and Mycoplasma, and unusual clinical presentations, which can be identified through surveillance methods like rRT-PCR, particularly for clade 2.3.4.4b. Normal immune status supports flock resilience and effective early disease detection systems, allowing for prompt identification of emerging health threats without implying absolute resistance to infection.",
+    "vector_context": {
+      "keywords": [
+        "immune competence",
+        "vaccination response",
+        "population immunity",
+        "flock resilience",
+        "health baseline"
+      ],
+      "hypothetical_questions": [
+        "What are signs of healthy poultry flocks?",
+        "How do you know if a flock has normal immune status?",
+        "What are normal responses to vaccination in poultry?",
+        "What are indicators of good immune function in birds?",
+        "What are the criteria for assessing immune competence in poultry flocks?",
+        "How does vaccination impact immune response in healthy poultry?",
+        "What is the role of innate and adaptive immunity in poultry health?",
+        "What are the effects of chronic inflammation on poultry immune status?"
+      ]
+    },
+    "metadata": {
+      "title": "Immune status: Indicators of normal immune competence",
+      "disease": "healthy_poultry",
+      "category": "immune_status",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/animal",
+        "https://www.agriculture.gov.au/agriculture-land/farm-food-drought/land/livestock"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_immunity_02_limits_of_visual_health_assessment",
+    "content": "Healthy flocks may harbor pathogens, including HPAI, LPAI, H5N1, NDV, and Mycoplasma, without displaying abnormal clinical patterns, particularly in intensive production systems with high stocking density and frequent movement. Normal immune status indicates functional sufficiency, not sterilizing immunity, and over-reliance on apparent health can delay detection and reporting of diseases. Combining routine flock observation with structured surveillance, record-keeping, and laboratory testing, such as rRT-PCR, is crucial for early identification of emerging or notifiable diseases, including those caused by clade 2.3.4.4b. Integrating immune health with monitoring and diagnostic systems supports disease preparedness and correct decision-making pathways, acknowledging that immune competence reduces severe disease expression but does not eliminate the need for vigilance, especially in the context of subclinical infections.",
+    "vector_context": {
+      "keywords": [
+        "subclinical infection",
+        "surveillance limitation",
+        "visual assessment limits",
+        "disease preparedness",
+        "DAFF framework"
+      ],
+      "hypothetical_questions": [
+        "Can healthy chickens still have diseases?",
+        "How do we know if a chicken is really healthy?",
+        "What are some limitations of just looking at a chicken to see if it's healthy?",
+        "Can a chicken look healthy but still be sick?",
+        "What is the difference between a healthy immune system and sterilizing immunity?",
+        "How does high stocking density affect the risk of disease in chickens?",
+        "What is the importance of combining routine flock observation with laboratory testing?",
+        "Can a healthy chicken still carry a disease-causing pathogen?",
+        "What is the relationship between immune competence and disease expression in chickens?",
+        "Is a healthy immune system a guarantee against disease in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Immune status: Limits of apparent health and immunity",
+      "disease": "healthy_poultry",
+      "category": "immune_status",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_01_routine_flock_level_observation",
+    "content": "Routine flock-level observation is the primary mechanism for monitoring healthy poultry status in Australian commercial production systems. Under DAFF-aligned surveillance frameworks, health assessment is conducted through structured daily observations of group behaviour and performance, recognizing that early disease signals often emerge as subtle changes. Observations include consistent activity levels, normal distribution of birds, and predictable patterns of feeding, drinking, and resting, as well as external indicators like comb and wattle colour, respiratory calm, and normal fecal appearance. Record-keeping, including daily logs of mortality, culling, feed and water intake, and production output, supports objective trend analysis and enables early recognition of abnormal patterns, such as those that may indicate HPAI, LPAI, or other diseases like H5N1, NDV, or Mycoplasma, which can be further investigated using diagnostic tools like rRT-PCR, and may involve tracking specific strains like clade 2.3.4.4b, allowing for prompt escalation and assessment within an appropriate regulatory framework.",
+    "vector_context": {
+      "keywords": [
+        "flock observation",
+        "routine monitoring",
+        "population health",
+        "baseline assessment",
+        "record keeping"
+      ],
+      "hypothetical_questions": [
+        "What do I look for in a healthy flock?",
+        "How do I monitor poultry health in Australia?",
+        "What are the signs of disease in a flock?",
+        "What is the purpose of daily logs in poultry monitoring?",
+        "What are the key indicators of healthy poultry status?",
+        "How do I assess respiratory health in poultry?",
+        "What is the role of record-keeping in poultry surveillance?",
+        "What are the environmental factors that affect poultry health?",
+        "How do I identify abnormal patterns in a flock?",
+        "What is the difference between disease absence and normal health status?"
+      ]
+    },
+    "metadata": {
+      "title": "Surveillance: Routine flock-level health observation",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/animal",
+        "https://www.agriculture.gov.au/biosecurity-trade/policy"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_02_deviation_indicators_triggering_concern",
+    "content": "Early warning surveillance in poultry flocks relies on identifying deviations from healthy baselines, including changes in external appearance, such as comb discoloration, facial swelling, or abnormal fecal staining, and respiratory signs like coughing, sneezing, or open-mouth breathing. Neurological abnormalities, like tremors or paralysis, and production-related deviations, such as reduced feed or water intake, drops in egg production, or increased mortality, are also key indicators. These deviations trigger predefined response pathways, including increased observation, consultation with veterinarians, movement restrictions, and laboratory testing, such as rRT-PCR, to detect diseases like HPAI, LPAI, H5N1, NDV, or Mycoplasma, and to identify specific strains, like clade 2.3.4.4b, allowing for rapid recognition and response to potential disease outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "early warning",
+        "deviation indicators",
+        "respiratory signs",
+        "neurological signs",
+        "mortality increase"
+      ],
+      "hypothetical_questions": [
+        "What are signs of illness in healthy chickens?",
+        "What causes facial swelling in poultry?",
+        "What are neurological symptoms in birds?",
+        "Early warning signs of disease in poultry include?",
+        "Changes in egg production are a sign of?",
+        "Comb discoloration is a sign of what?",
+        "Rales in poultry are a sign of?",
+        "Head tilt in chickens is a sign of?",
+        "Abnormal fecal staining in poultry is a sign of?"
+      ]
+    },
+    "metadata": {
+      "title": "Surveillance: Deviation indicators and escalation triggers",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_03_differentiation_from_notifiable_diseases",
+    "content": "Healthy poultry surveillance enables early differentiation between normal variation and patterns suggestive of notifiable diseases like avian influenza and Newcastle disease. In healthy flocks, the absence of systemic patterns such as respiratory distress, neurological dysfunction, or rapid mortality escalation supports routine monitoring. However, clustering of abnormal signs, particularly involving the respiratory or nervous systems, raises suspicion and necessitates immediate escalation. Surveillance aims to identify combinations and progression of signs, such as mild respiratory noise combined with reduced production and increased mortality, which becomes a high-priority concern. According to DAFF-aligned guidance, field differentiation is not diagnostic, but rather recognizes when healthy baseline expectations are no longer met, initiating official response pathways to identify potential notifiable diseases like HPAI, LPAI, H5N1, or NDV, while minimizing unnecessary disruption, and utilizing diagnostic tools such as rRT-PCR to confirm the presence of specific pathogens, including Mycoplasma, and characterizing the strain, for example, clade 2.3.4.4b, to inform control measures.",
+    "vector_context": {
+      "keywords": [
+        "notifiable diseases",
+        "avian influenza",
+        "Newcastle disease",
+        "early differentiation",
+        "precautionary response"
+      ],
+      "hypothetical_questions": [
+        "What are signs of notifiable diseases in poultry?",
+        "How do you differentiate between normal variation and disease in poultry?",
+        "What are common management issues that mimic disease in poultry?",
+        "What are non-specific signs of avian influenza in poultry?",
+        "What is the role of surveillance in poultry disease management?",
+        "How do you identify combinations of abnormal signs in poultry?",
+        "What is the purpose of DAFF-aligned guidance in poultry surveillance?",
+        "What are provisional signs of Newcastle disease in poultry?",
+        "Is mild respiratory noise a significant concern in poultry?",
+        "What triggers the need for official response pathways in poultry surveillance?"
+      ]
+    },
+    "metadata": {
+      "title": "Surveillance: Early differentiation from notifiable diseases",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal/avian-influenza",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_04_role_of_laboratory_confirmation",
+    "content": "Laboratory testing is crucial for poultry health surveillance when deviations from normal health status are detected, as visual assessment and production data alone are insufficient to confirm or exclude significant infectious diseases, such as HPAI, LPAI, or H5N1. When surveillance thresholds are exceeded, samples are collected and submitted for laboratory analysis using methods like rRT-PCR, which may identify pathogens like NDV, Mycoplasma, or clade 2.3.4.4b. Laboratory confirmation informs decision-making, including movement controls, quarantine, or response measures, and supports national surveillance databases, contributing to Australia's capacity to detect emerging threats, and reinforcing correct escalation pathways with diagnostic evidence to maintain confidence in disease control systems.",
+    "vector_context": {
+      "keywords": [
+        "laboratory testing",
+        "diagnostic confirmation",
+        "surveillance escalation",
+        "EAD preparedness",
+        "official investigation"
+      ],
+      "hypothetical_questions": [
+        "What is the role of laboratory confirmation in poultry health surveillance?",
+        "How do laboratory results affect decision-making in poultry health?",
+        "What methods of laboratory testing are used for suspected infectious diseases in poultry?",
+        "Is laboratory testing necessary for confirming the presence of infectious diseases in poultry?",
+        "What is the significance of laboratory confirmation in national surveillance databases?",
+        "How does laboratory testing support early detection of emerging threats in poultry?",
+        "What is the relationship between laboratory confirmation and escalation pathways in poultry health?",
+        "Can laboratory testing alone confirm the presence of infectious diseases in poultry?",
+        "What is the importance of laboratory confirmation in maintaining confidence in disease control systems?",
+        "Does laboratory testing provide definitive conclusions in poultry health surveillance?"
+      ]
+    },
+    "metadata": {
+      "title": "Surveillance: Laboratory confirmation and escalation",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_biosecurity_01_preventive_health_framework",
+    "content": "Preventive health in poultry production is maintained through structured management systems, including approved management practices, vaccination programs, and biosecurity controls, to minimize disease introduction and spread. Vaccination strategies are implemented based on risk assessment, production type, and regulatory guidance, supporting population immunity in healthy flocks. Preventive health planning also incorporates nutrition, environmental management, and stress reduction, recognizing their influence on immune function and disease susceptibility. This approach establishes a resilient baseline, reducing the likelihood of severe outbreaks, such as HPAI or LPAI, including subtypes like H5N1, and supports early detection of health deviations, which can be confirmed through diagnostic tests like rRT-PCR, and helps manage endemic diseases like NDV and Mycoplasma. By maintaining healthy baselines, producers support individual enterprise stability and broader surveillance and response systems, contributing to national preparedness for exotic disease threats, such as clade 2.3.4.4b, and functioning as a cornerstone of sustainable poultry production and national biosecurity preparedness.",
+    "vector_context": {
+      "keywords": [
+        "preventive health",
+        "vaccination programs",
+        "population management",
+        "flock resilience",
+        "health planning"
+      ],
+      "hypothetical_questions": [
+        "What are the main components of a preventive health system in poultry production?",
+        "How do vaccination programs contribute to maintaining healthy poultry status?",
+        "What is the role of biosecurity controls in preventing disease introduction and spread?",
+        "What are the key factors that influence immune function and disease susceptibility in poultry?",
+        "Can vaccination cause adverse effects in healthy flocks?",
+        "How do producers evaluate the effectiveness of preventive health measures?",
+        "What is the relationship between nutrition and disease susceptibility in poultry?",
+        "What are the benefits of implementing preventive health frameworks in poultry production?",
+        "How does preventive health planning support early detection of health deviations?",
+        "What is the significance of maintaining healthy baselines in poultry production for national biosecurity preparedness?"
+      ]
+    },
+    "metadata": {
+      "title": "Preventive health: Population-level preventive health framework",
+      "disease": "healthy_poultry",
+      "category": "preventive_biosecurity",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/animal",
+        "https://www.agriculture.gov.au/biosecurity-trade/policy"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_biosecurity_02_biosecurity_measures_and_movement_control",
+    "content": "Biosecurity measures are crucial for maintaining healthy poultry status and preventing the introduction of infectious agents, such as HPAI, LPAI, H5N1, NDV, and Mycoplasma, into commercial flocks. Controlled movement of people, animals, equipment, and vehicles, as outlined in DAFF-aligned biosecurity frameworks, is critical for risk management. Adherence to enterprise biosecurity plans, including access protocols and hygiene requirements, helps maintain healthy flocks. Entry controls, such as restricted access, designated clothing and footwear, and cleaning and disinfection procedures, prevent cross-contamination, while securing feed, litter, and water sources minimizes exposure to wild birds and other disease reservoirs. Effective biosecurity, supported by regulatory requirements, traceability systems, and surveillance, including rRT-PCR testing for clade 2.3.4.4b, reduces background noise in health monitoring systems, allowing for rapid response to suspected or confirmed disease incidents and reinforcing both disease prevention and the reliability of early warning systems.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "movement control",
+        "hygiene protocols",
+        "access control",
+        "disease prevention"
+      ],
+      "hypothetical_questions": [
+        "what are the main biosecurity measures for healthy poultry?",
+        "how do we prevent infectious agents from entering commercial flocks?",
+        "what is the purpose of enterprise biosecurity plans in poultry farming?",
+        "what are the key elements of entry controls in poultry biosecurity?",
+        "what is the role of cleaning and disinfection procedures in poultry biosecurity?",
+        "how do we manage equipment and vehicles to prevent cross-contamination?",
+        "what are the risks associated with wild birds and disease reservoirs in poultry farms?",
+        "how do we conduct transfers of birds, eggs, or poultry products safely?",
+        "what is the relationship between biosecurity and health monitoring systems in poultry farming?",
+        "how does robust biosecurity impact disease prevention and early warning systems?"
+      ]
+    },
+    "metadata": {
+      "title": "Biosecurity: Movement control and hygiene measures",
+      "disease": "healthy_poultry",
+      "category": "preventive_biosecurity",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/animal",
+        "https://www.agriculture.gov.au/biosecurity-trade/pests-diseases-weeds/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_biosecurity_03_producer_responsibility_and_reporting",
+    "content": "Australia's poultry biosecurity and preventive health framework relies on producer responsibility, with producers legally and operationally responsible for maintaining flock health awareness, implementing biosecurity measures, and reporting unusual health events promptly. Recognizing normal baselines and identifying deviations is crucial, with reporting obligations applying when abnormal mortality, clinical signs, or production losses exceed expected norms, particularly for notifiable diseases like HPAI, LPAI, or H5N1. Producers must cooperate with veterinary authorities during investigations, providing access to records and facilitating sample collection for diagnostic tests such as rRT-PCR, and complying with movement restrictions to control diseases like NDV, Mycoplasma, and clade 2.3.4.4b. By understanding and maintaining healthy baselines, producers support national surveillance and response systems, contributing to emergency animal disease preparedness and biosecurity resilience, and aligning healthy poultry management with regulatory expectations and national disease control objectives.",
+    "vector_context": {
+      "keywords": [
+        "producer responsibility",
+        "disease reporting",
+        "regulatory compliance",
+        "EAD preparedness",
+        "national surveillance"
+      ],
+      "hypothetical_questions": [
+        "what are the responsibilities of poultry producers in Australia?",
+        "how do poultry producers report unusual health events?",
+        "what are the consequences of not reporting abnormal mortality in poultry?",
+        "what is the role of veterinary authorities in investigating disease outbreaks in poultry?",
+        "what are the key components of a healthy poultry knowledge base?",
+        "how do producers cooperate with veterinary authorities during disease investigations?",
+        "what are the benefits of early reporting of disease outbreaks in poultry?",
+        "what are the expected norms for poultry health and production?",
+        "how do producers maintain awareness of flock health status?",
+        "what are the movement restrictions imposed on poultry farms during disease outbreaks?"
+      ]
+    },
+    "metadata": {
+      "title": "Biosecurity: Producer responsibility and reporting obligations",
+      "disease": "healthy_poultry",
+      "category": "preventive_biosecurity",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy",
+        "https://www.agriculture.gov.au/biosecurity-trade/animal"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_overview_03_head_region_baseline_scope",
+    "content": "A head-only normal baseline is designed for surveillance-style comparison, defining a healthy chicken head under known conditions. The head is high-yield due to its visibility, ease of re-checking, and multiple entry-point tissues (eyes, nares, oral mucosa) and vascular structures (comb, wattles) that reflect physiological shifts. This baseline is limited to the head region, including comb, wattles, eyes, and oral cavity, and documents normal variation (age, breed, sex, temperature) to avoid misclassifying normal differences as abnormal, allowing for concise \"not expected in normal\" statements to clarify the baseline, such as \"no crust at nares\", while remaining descriptive and focused on establishing a reference for surveillance.",
+    "vector_context": {
+      "keywords": [
+        "head region",
+        "baseline",
+        "surveillance thinking",
+        "normal variation",
+        "image reference"
+      ],
+      "hypothetical_questions": [
+        "What does a healthy chicken head look like?",
+        "What are the entry-point tissues that change early when conditions deteriorate in a chicken?",
+        "What is the purpose of a head-only normal baseline in poultry surveillance?",
+        "What are the high-yield areas of a chicken head for disease detection?",
+        "What are the tissues that contain multiple entry-point areas in a chicken head?",
+        "What is the significance of vascular structures in a chicken head for disease detection?",
+        "What are the normal variations documented in a robust baseline for a chicken head?",
+        "What are the areas of a chicken head that are visible and easy to re-check?",
+        "What are the physiological shifts reflected by vascular structures in a chicken head?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Purpose and boundaries of a head-only healthy baseline",
+      "disease": "healthy_poultry",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/physical-examination-of-backyard-poultry",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_05_comb_normal_color_turgor",
+    "content": "A healthy chicken's comb is intact, pliable, and evenly perfused, with surface texture varying by comb type (e.g., single vs. rose comb). A normal comb excludes focal scabs, ulcers, thick crust, or tissue loss. Breed and pigmentation can alter perceived color, so the reference is the bird's usual pattern. Ambient temperature and arousal can cause temporary flushing or paling due to normal thermoregulation. A practical baseline record describes the bird's typical comb color pattern, absence of surface damage, and a resilient feel, accounting for individual variations in comb appearance due to factors like breed, age, and hormonal influence.",
+    "vector_context": {
+      "keywords": [
+        "comb",
+        "perfusion",
+        "color range",
+        "age variation",
+        "breed variation",
+        "thermoregulation"
+      ],
+      "hypothetical_questions": [
+        "What does a healthy chicken comb look like?",
+        "How do I check if a chicken's comb is healthy?",
+        "What color should a chicken's comb be?",
+        "What's normal for a chicken's comb texture?",
+        "What are the normal drivers of comb appearance in chickens?",
+        "How does breed affect the color of a chicken's comb?",
+        "What's the difference between a healthy and unhealthy chicken comb?",
+        "What are the signs of a healthy chicken comb in juveniles?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Comb appearance, perfusion and expected variation",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/physical-examination-of-backyard-poultry",
+        "https://poultry.extension.org/articles/poultry-anatomy/external-anatomy-of-chickens/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8255873/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_06_wattles_normal_texture_symmetry",
+    "content": "Wattles, paired featherless head appendages with a prominent vascular supply, function as adjustable heat-exchange surfaces. A healthy baseline is characterized by bilaterally similar contours, soft and pliable texture, and absence of debris, ulceration, or nodules. Normal wattles vary by sex, maturity, and breed, with mild wrinkling possible in birds with large wattles. Baseline documentation should describe typical characteristics for the flock under usual climate conditions, including symmetry, clean surface, intact skin, and stable attachment, to facilitate later comparison.",
+    "vector_context": {
+      "keywords": [
+        "wattles",
+        "symmetry",
+        "skin integrity",
+        "vascular tissue",
+        "temperature response"
+      ],
+      "hypothetical_questions": [
+        "What should healthy wattles look like on a bird?",
+        "How do I check for normal wattles on a chicken?",
+        "What's the normal texture of a healthy wattle?",
+        "Are wrinkled wattles normal in some bird breeds?",
+        "What's the expected appearance of wattles in a healthy bird?",
+        "How do environmental temperatures affect wattle coloration?",
+        "What's the normal movement of a healthy wattle?",
+        "Can mild wrinkling be a normal trait in birds with large wattles?",
+        "What should I look for when documenting normal wattles on a flock?",
+        "Is it normal for wattles to be soft and pliable in healthy birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Wattles as vascular structures and normal variability",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://poultry.extension.org/articles/poultry-anatomy/external-anatomy-of-chickens/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8255873/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_07_eye_clarity_iris_age_variation",
+    "content": "Healthy chicken eyes have a bright, clear appearance with a smooth corneal surface, round symmetric pupils, and no persistent squinting or discharge. The cornea should be free of haze, and the surrounding feathers should not be matted due to continuous wetness. Iris color is not a reliable health indicator as it changes with age and varies by breed and strain, with chicks having a blue-gray iris that darkens with maturity, and adults often having a copper or reddish tone. Reliable baseline documentation focuses on stable features like corneal clarity, pupil shape, eyelid position, and symmetry between eyes, taking into account the bird's line and age class.",
+    "vector_context": {
+      "keywords": [
+        "eye clarity",
+        "cornea",
+        "pupil shape",
+        "iris color",
+        "age effects",
+        "no discharge"
+      ],
+      "hypothetical_questions": [
+        "What do healthy chicken eyes look like?",
+        "What is normal for a chicken's iris color?",
+        "Why is corneal clarity important for a chicken's health?",
+        "What is the expected iris appearance in chicks?",
+        "Can a chicken's iris color change with age?",
+        "What should be documented in a chicken's health record?",
+        "What is a stable feature of a chicken's eye?",
+        "Why is symmetry between a chicken's left and right eyes important?",
+        "What is a sign of poor eye health in a chicken?",
+        "How does a chicken's iris color differ by breed and strain?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Eye clarity and iris color as normal age/breed features",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/physical-examination-of-backyard-poultry",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_08_eyelids_periocular_skin_baseline",
+    "content": "Eyelid margins and periocular skin provide consistent baseline features for image review, characterized by smooth eyelid edges, intact periocular skin, and dry, separate feathers. The medial canthus may contain a small amount of normal moisture, but persistent wetness that mats facial feathers is abnormal. A healthy chicken's nictitating membrane sweeps across the cornea, leaving the surface visually clear. Baseline descriptors include eyelids held open, non-thickened periocular skin, and no adherent crust on eyelid margins, distinguishing \"surface contamination\" from \"soft tissue shape\" to establish a reliable surveillance baseline.",
+    "vector_context": {
+      "keywords": [
+        "eyelids",
+        "periocular skin",
+        "nictitating membrane",
+        "feather condition",
+        "ocular moisture"
+      ],
+      "hypothetical_questions": [
+        "Are healthy chickens' eyelid edges smooth?",
+        "What is normal moisture in the medial canthus?",
+        "How do you distinguish surface contamination from soft tissue shape in poultry?",
+        "Can a small amount of dust be present on a chicken's cornea?",
+        "What is the normal appearance of a chicken's periocular skin?",
+        "How does the nictitating membrane affect a chicken's corneal surface?",
+        "What are the baseline descriptors for healthy poultry eyelids?",
+        "Are eyelids held open a normal feature in healthy chickens?",
+        "What is the significance of adherent crust on eyelid margins?",
+        "Can thickened periocular skin be a sign of disease in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Eyelids, periocular skin and nictitating membrane baseline",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_09_nares_patency_and_cleanliness",
+    "content": "In a healthy chicken, the external nares are patent, bilaterally similar, and bordered by clean margins without thick crust, with a dry appearance and quiet respiration at rest. The nostril area should not be wet, foamy, or show signs of repeated moist discharge, such as streaking in adjacent feathering. In dusty housing, a light film of dry particulate may be compatible with a normal baseline if it is superficial and does not narrow the openings, but persistent sticky material or crust that reforms quickly after wiping, or narrows the openings and changes nostril shape, is not considered normal and should be noted as an exception in baseline records for fair later comparisons.",
+    "vector_context": {
+      "keywords": [
+        "nares",
+        "nostrils",
+        "patency",
+        "dry margins",
+        "dust context",
+        "upper airway"
+      ],
+      "hypothetical_questions": [
+        "What should the nostril area of a healthy chicken look like?",
+        "A healthy chicken's nares should be what?",
+        "What is normal near the nares in a dusty barn environment?",
+        "How can I tell if a chicken's nares are normal?",
+        "What should I look for when checking a chicken's nostril area?",
+        "What is the difference between a normal and abnormal nostril area in a chicken?",
+        "What should the margins around a healthy chicken's nares be like?",
+        "How can I determine if a chicken's nares are patent and clean?",
+        "What should I note in a baseline record for a chicken's nares in a dusty environment?",
+        "Is a light film of dry particulate on a chicken's nares always abnormal?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Nares patency, dryness and dust-context interpretation",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/physical-examination-of-backyard-poultry",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_10_beak_alignment_keratin_integrity",
+    "content": "A normal beak closes neatly, with smooth keratin covering and predictable wear at the tip. Minor scratches can occur, but deep cracks, splits, bleeding, or excessive flaking are excluded. Breed and management can affect beak shape, with some birds having a beak-trimmed profile, and strains differing in curvature and length. Baseline assessment prioritizes function, including effective closure, stable alignment, and no distortion, and benefits from both frontal (alignment) and side (profile and tip wear) views for later disease comparison in image datasets.",
+    "vector_context": {
+      "keywords": [
+        "beak",
+        "keratin",
+        "alignment",
+        "commissure",
+        "beak trim",
+        "functional closure"
+      ],
+      "hypothetical_questions": [
+        "What's normal beak closure in chickens?",
+        "A healthy beak should be smooth, right?",
+        "What happens to a chicken's beak tip from feeding?",
+        "How do breed and management affect a chicken's beak shape?",
+        "What's the difference between a beak-trimmed profile and a normal beak?",
+        "What are the key features of a healthy beak?",
+        "Can beaks be trimmed for any reason?",
+        "What's the importance of beak alignment in poultry?",
+        "Is excessive flaking a sign of a healthy beak?",
+        "Can minor scratches on a beak be a problem?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Beak closure, alignment and keratin surface condition",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/physical-examination-of-backyard-poultry",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_11_facial_contours_and_sinus_flatness",
+    "content": "A healthy head profile appears symmetric with a stable outline when viewed from the front and sides, featuring a flat infraorbital sinus region and a smooth transition from eyelid to cheek. Baseline descriptions should focus on the underlying contour rather than feather direction, which can change due to dust bathing, wind, or social interactions. For imaging, frontal and lateral views support left-right comparison, capture the infraorbital region and beak profile, and help establish a baseline statement: symmetric facial contours and an undistorted periocular outline without focal puffiness.",
+    "vector_context": {
+      "keywords": [
+        "facial symmetry",
+        "infraorbital region",
+        "head contour",
+        "periocular outline",
+        "photo standardization"
+      ],
+      "hypothetical_questions": [
+        "What does a healthy chicken head look like?",
+        "How can I tell if a chicken's head is healthy?",
+        "What is the normal shape of a chicken's face?",
+        "Is a bulging infraorbital sinus normal in chickens?",
+        "What is the significance of a smooth transition from eyelid to cheek in chickens?",
+        "How does dust bathing affect a chicken's head profile?",
+        "What is the purpose of a frontal head view in poultry imaging?",
+        "What is the periocular outline in chickens and how is it affected by disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Facial symmetry and infraorbital contour baseline",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_12_ear_opening_and_earlobe_baseline",
+    "content": "Routine baseline inspection of the external ear opening involves briefly parting feathers to view the canal entrance, which appears similar in healthy birds, with intact exposed skin and no visible crust, exudate, or mass. Gentle handling is necessary to avoid creating transient redness. The adjacent earlobes, whose color and size are primarily breed traits, should have a smooth, unbroken surface, without adherent scab or thick crust, and recording breed-typical earlobe color helps prevent later misclassification in multi-breed datasets.",
+    "vector_context": {
+      "keywords": [
+        "ear opening",
+        "ear canal entrance",
+        "earlobe",
+        "breed characteristics",
+        "clean skin"
+      ],
+      "hypothetical_questions": [
+        "What do I look for when inspecting a chicken's ear opening?",
+        "How do I check if a chicken's ear opening is healthy?",
+        "What should I see when inspecting a chicken's earlobe?",
+        "How can I tell if a chicken's earlobe is normal?",
+        "What is the purpose of checking a chicken's ear opening and earlobe?",
+        "What are the key observations when inspecting a chicken's ear opening?",
+        "How do I prevent misclassification when recording earlobe color?",
+        "What are the breed-typical characteristics of a chicken's earlobe?",
+        "What should I avoid when inspecting a chicken's ear opening?",
+        "How can I distinguish between transient redness and a true abnormality in a chicken's ear opening?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Ear opening and earlobe as normal head landmarks",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://poultry.extension.org/articles/poultry-anatomy/external-anatomy-of-chickens/",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_13_oral_mucosa_pink_moist_clean",
+    "content": "A normal oral cavity has intact mucous membranes, without adherent plaques, erosions, or foul odor, and a tongue surface that appears intact and not coated with thick material. A practical baseline description for surveillance documentation is: oral mucosa intact, no visible plaques, and no abnormal odor, focusing on head-only structures to support later comparisons using images of the oral cavity, all achievable with minimal restraint and adequate lighting to avoid stress artifacts.",
+    "vector_context": {
+      "keywords": [
+        "oral cavity",
+        "mucosa",
+        "tongue",
+        "clean appearance",
+        "odor absent",
+        "minimal restraint"
+      ],
+      "hypothetical_questions": [
+        "What does healthy poultry oral mucosa look like?",
+        "How do I check for oral plaque in poultry?",
+        "What is normal oral cavity saliva in birds?",
+        "Can you describe a healthy poultry tongue surface?",
+        "What is the significance of oral mucosa integrity in poultry?",
+        "How do I document oral cavity health in poultry?",
+        "What are signs of oral disease in poultry?",
+        "What is the role of oral examination in poultry health?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Oral mucosa baseline during a brief beak opening",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_14_choanal_cleft_and_papillae_baseline",
+    "content": "The choanal cleft, a slit-like opening in the roof of the mouth, connects the nasal passages to the oral cavity and is typically visible, not narrowed by debris, and bordered by smooth mucosa. Many chickens have choanal papillae at the caudal edge, which appear sharp and well-defined. For KB construction, choanal images are most useful when the camera is aligned to the palate, allowing comparison of papillae shape and cleft patency over time, with baseline notes describing the choana as visible, mucosa as smooth, and papillae as sharp, without attributing deviations to specific causes, such as HPAI, LPAI, H5N1, or other pathogens like NDV or Mycoplasma, which can be identified using rRT-PCR, and may be associated with specific clades, like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "choanal cleft",
+        "choana",
+        "papillae",
+        "palate",
+        "nasal connection",
+        "oral exam"
+      ],
+      "hypothetical_questions": [
+        "What is the choanal cleft in chickens?",
+        "What is visible in a normal choanal cleft?",
+        "Are choanal papillae normal in chickens?",
+        "How do you describe a normal choanal cleft?",
+        "What is the purpose of taking baseline choanal images?",
+        "What should be noted in baseline choanal exam?",
+        "How do you compare choanal papillae shape over time?",
+        "What is the significance of smooth mucosa in choanal cleft?",
+        "Can choanal papillae be used as a reference feature?",
+        "How should the camera be aligned for choanal image comparison?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Choanal cleft patency and choanal papillae baseline",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_15_glottis_tracheal_inlet_normal",
+    "content": "The glottis, located at the base of the tongue on the laryngeal mound, leads into the proximal trachea. A healthy baseline features a clean tracheal inlet and smooth surrounding mucosa, with no adherent material at the opening. During swallowing or vocalization, the glottis may change shape momentarily, but baseline documentation should describe consistent observations after a short, calm inspection: a visible glottis, clean inlet, and no material attached to the edges, focusing on the head airway entrance.",
+    "vector_context": {
+      "keywords": [
+        "glottis",
+        "tracheal inlet",
+        "laryngeal mound",
+        "no epiglottis",
+        "swallowing",
+        "airway entrance"
+      ],
+      "hypothetical_questions": [
+        "What is normal for the glottis in poultry?",
+        "What do I see during a healthy poultry oral exam?",
+        "Where is the glottis located in a bird's throat?",
+        "How do I check for a clean tracheal inlet in poultry?",
+        "What is the normal motion of the glottis during swallowing in birds?",
+        "Are there any specific things to look for during a poultry glottis exam?",
+        "How does the glottis change shape during vocalization in birds?",
+        "What is the significance of a clean tracheal inlet in poultry health?",
+        "What is the normal appearance of the glottis in a calm bird?",
+        "Can the glottis be visible during an oral exam in poultry without being abnormal?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Glottis and tracheal inlet baseline findings",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_physiology_16_head_thermoregulation_surface_temperature_variation",
+    "content": "The comb, wattles, periocular area, earlobes, and beak/nostril region function as adjustable heat-exchange surfaces, showing predictable changes in surface temperature and color intensity across different conditions due to regulated blood flow. A healthy bird's comb and wattles may appear more flushed and warmer in warm conditions, and cooler and less flushed in cold conditions, remaining intact and symmetric. Recording environmental context alongside head images helps distinguish normal thermoregulatory variation from abnormalities, establishing a surveillance-quality baseline that links appearance to context.",
+    "vector_context": {
+      "keywords": [
+        "thermoregulation",
+        "surface temperature",
+        "comb",
+        "wattles",
+        "periocular area",
+        "context recording"
+      ],
+      "hypothetical_questions": [
+        "What causes a flushed comb in a warm bird?",
+        "What happens to a bird's comb in cold conditions?",
+        "How do healthy poultry regulate their head temperature?",
+        "Why is it important to record environmental context with head images?",
+        "What are the normal changes in surface temperature and color intensity across different conditions?",
+        "What is the role of blood flow in thermoregulation in poultry?",
+        "How do the comb and wattles change in response to warm conditions?",
+        "What is the significance of the periocular area in thermoregulation?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal physiology: Head thermoregulation and temperature-dependent normal range",
+      "disease": "healthy_poultry",
+      "category": "normal_physiology",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8255873/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_immunity_03_head_associated_lymphoid_tissue_halt",
+    "content": "Healthy chickens have mucosal defenses at head entry points, including conjunctiva and nasal mucosa, which are supported by head-associated lymphoid tissue, comprising conjunctiva-associated lymphoid tissue, nasal-associated lymphoid tissue, and the Harderian gland. These tissues provide local immune surveillance and antibody-mediated protection, allowing them to sample antigens and contribute to defense even in clinically normal birds. This inherent immune readiness in normal head anatomy forms a baseline concept, enabling interpretation of clean head findings under exposure without needing to discuss specific pathogens, such as HPAI, LPAI, H5N1, or NDV, or treatments, and can be applied to various poultry diseases, including those caused by Mycoplasma, and diagnosed using methods like rRT-PCR, and can be relevant to understanding the spread of specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "HALT",
+        "CALT",
+        "NALT",
+        "Harderian gland",
+        "mucosal immunity",
+        "entry points"
+      ],
+      "hypothetical_questions": [
+        "What helps protect chickens from airborne diseases?",
+        "What are the immune structures in a chicken's head?",
+        "Can chickens get sick even if they look healthy?",
+        "How do chickens fight off infections in their eyes and nose?",
+        "What is the role of the Harderian gland in a chicken's immune system?",
+        "What is conjunctiva-associated lymphoid tissue?",
+        "How do chickens' nasal-associated lymphoid tissues work?",
+        "What is the significance of the head-associated lymphoid tissue in chickens?",
+        "Are there any immune tissues in a chicken's head that can detect antigens?",
+        "Does a chicken's immune system have built-in protection at the head?"
+      ]
+    },
+    "metadata": {
+      "title": "Immune status: Head-associated lymphoid tissues in normal mucosal defense",
+      "disease": "healthy_poultry",
+      "category": "immune_status",
+      "source_urls": [
+        "https://journals.pan.pl/Content/98940"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_immunity_04_harderian_gland_ocular_nasal_link",
+    "content": "The Harderian gland secretes material into the conjunctival sac, which drains through the nasolacrimal duct toward the nasal pathway, establishing a link between the ocular surface and proximal nasal passages. This connection allows locally produced immune factors to distribute across connected mucosa, supporting the view of the eye and nares as an integrated unit during surveillance, where mild tear drainage can influence periocular feather appearance and the nares region, even without any independent abnormal process.",
+    "vector_context": {
+      "keywords": [
+        "Harderian gland",
+        "nasolacrimal duct",
+        "tear drainage",
+        "ocular-nasal link",
+        "local immunity"
+      ],
+      "hypothetical_questions": [
+        "What's the role of the Harderian gland in chicken health?",
+        "How does the Harderian gland help protect the chicken's eyes?",
+        "What's the connection between the eye and nasal passages in chickens?",
+        "Does tear drainage affect the appearance of feathers around the eye?",
+        "What are the immune factors produced by the Harderian gland in chickens?",
+        "How does the nasolacrimal duct contribute to local immune function in chickens?",
+        "What's the significance of the anatomical link between the ocular surface and nasal passages?",
+        "Can abnormal tear drainage cause changes in the nares region of chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Immune status: Harderian gland drainage pathway linking eye and nose",
+      "disease": "healthy_poultry",
+      "category": "immune_status",
+      "source_urls": [
+        "https://journals.pan.pl/Content/98940"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_immunity_05_nalt_nasal_mucosa_first_contact_defenses",
+    "content": "The nasal cavity, containing nasal-associated lymphoid tissue (NALT), is the first-contact interface for inhaled material, including pathogens like HPAI, LPAI, H5N1, and NDV, as well as bacteria like Mycoplasma. NALT, comprising lymphoid aggregates within or beneath nasal mucosa, enables rapid recognition of inhaled antigens and local immune activation, as detected by rRT-PCR, particularly for clade 2.3.4.4b. This organization is a normal baseline function, allowing healthy birds to thrive in dusty or microbe-rich environments with patent nares and minimal nasal staining, and should be recorded as background physiology, not a disease sign, when building a knowledge base for later comparison.",
+    "vector_context": {
+      "keywords": [
+        "NALT",
+        "nasal cavity",
+        "lymphoid aggregates",
+        "antigen sampling",
+        "upper airway immunity"
+      ],
+      "hypothetical_questions": [
+        "What's the first line of defense for birds in dusty environments?",
+        "What's the name of the immune tissue in the nasal cavity of birds?",
+        "Can healthy birds stay in dusty environments without getting sick?",
+        "What's the role of nasal-associated lymphoid tissue in birds?",
+        "What's the function of NALT in the nasal cavity of birds?",
+        "Is NALT a feature that only appears during illness in birds?",
+        "What's the normal baseline function of NALT in birds?",
+        "Does NALT support local immune activation in birds?",
+        "What's the biological context of NALT in healthy birds?",
+        "Is nasal staining a feature of NALT in healthy birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Immune status: NALT as a normal immune interface of the nasal cavity",
+      "disease": "healthy_poultry",
+      "category": "immune_status",
+      "source_urls": [
+        "https://journals.pan.pl/Content/98940"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_immunity_06_mucociliary_clearance_upper_airway_baseline",
+    "content": "Mucociliary clearance is a core non-specific defense of the upper airway, where respiratory mucus traps fine particles and cilia transport material toward the pharynx for removal, reducing contaminant burden on mucosa. In healthy chickens, this mechanism keeps head-entry sites clean despite environmental exposure. For head-only baselines, nares margins are expected to remain dry, the choanal region free of thick debris, and the tracheal inlet clear of attached material, reflecting the normal protective process without attributing variation to specific agents like HPAI, LPAI, H5N1, or other pathogens such as NDV, Mycoplasma, which can be detected using methods like rRT-PCR, and may involve specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "mucociliary clearance",
+        "mucus",
+        "cilia",
+        "particle removal",
+        "choana",
+        "tracheal inlet"
+      ],
+      "hypothetical_questions": [
+        "What keeps chickens' airways clean?",
+        "What happens to mucus in healthy chickens?",
+        "How do chickens get rid of dust and dirt in their airways?",
+        "What is the purpose of cilia in chickens' airways?",
+        "What is the role of mucociliary clearance in respiratory health?",
+        "How does mucociliary clearance affect the burden of contaminants in chickens?",
+        "What is the effect of mucociliary clearance on the exposed mucosa of chickens?",
+        "What is the relationship between mucociliary clearance and the upper airway in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Immune status: Mucociliary clearance as a normal upper-airway protective process",
+      "disease": "healthy_poultry",
+      "category": "immune_status",
+      "source_urls": [
+        "https://journals.pan.pl/Content/98940"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_05_standard_head_inspection_sequence",
+    "content": "A standardized head inspection sequence enhances comparability by starting at a distance in good light to record visible features: eyes, comb, wattle, and facial symmetry. Gentle restraint is then applied to check nares patency and dryness, beak closure, and keratin integrity, while briefly parting feathers at each ear opening. For internal head structures, a brief beak opening with a light source can capture the oral cavity, choanal cleft, and glottis/tracheal inlet. A repeatable photo set includes frontal, left and right profile, nares close-up, and oral cavity close-up, supporting consistent baseline records in a head-focused check.",
+    "vector_context": {
+      "keywords": [
+        "inspection protocol",
+        "baseline photos",
+        "eyes",
+        "nares",
+        "beak",
+        "oral structures",
+        "symmetry"
+      ],
+      "hypothetical_questions": [
+        "What is the best way to inspect a chicken's head?",
+        "How can I ensure head inspections are comparable across time and observers?",
+        "What should I look for when inspecting a chicken's eyes?",
+        "How do I check for facial asymmetry in poultry?",
+        "What is the purpose of checking nares patency and dryness?",
+        "What is the significance of beak closure and keratin integrity?",
+        "How can I document internal head structures in poultry?",
+        "What is the importance of a repeatable photo set in poultry head inspections?",
+        "What are the key components of a standard head inspection sequence?",
+        "What is the best way to capture the oral cavity, choanal cleft, and glottis/tracheal inlet?"
+      ]
+    },
+    "metadata": {
+      "title": "Monitoring & surveillance: Standard head inspection sequence and baseline photo set",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/backyard-poultry/physical-examination-of-backyard-poultry",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_06_comb_blanching_refill_context",
+    "content": "The comb is a suitable site for assessing peripheral perfusion due to its thin skin and visible vasculature. To evaluate, apply gentle pressure to blanch a small area, then release and observe for uniform color return. In normal birds, refill is prompt and the surrounding comb remains pliable. Environmental context, such as cool conditions or recent capture/handling, can slow blood flow and prolong refill time without indicating illness. Recording context notes, like temperature conditions and handling status, alongside observations enables later comparisons to focus on true deviations rather than physiological variations.",
+    "vector_context": {
+      "keywords": [
+        "comb test",
+        "capillary refill",
+        "perfusion",
+        "context recording",
+        "handling effects"
+      ],
+      "hypothetical_questions": [
+        "What is the normal refill time for a bird's comb?",
+        "How do cool conditions affect comb perfusion in poultry?",
+        "What is the purpose of recording context notes during comb blanching assessments?",
+        "What happens to a bird's comb if it has been recently restrained?",
+        "Can comb blanching be used to assess peripheral perfusion in poultry?",
+        "What is the significance of a stiff or brittle comb in poultry?",
+        "How does handling affect comb perfusion in poultry?",
+        "What is the normal appearance of a bird's comb in a healthy state?",
+        "Is it possible to use comb blanching to diagnose illness in poultry?",
+        "Does environmental temperature affect the interpretation of comb blanching results?"
+      ]
+    },
+    "metadata": {
+      "title": "Monitoring & surveillance: Comb blanching and capillary refill as a context-based baseline check",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_surveillance_07_contextual_reading_of_head_temperature_signals",
+    "content": "Head-region temperature and color signals should be interpreted as context-dependent patterns. Thermal studies show that comb and wattles' surface temperature changes with environment, and periocular regions vary with arousal and restraint, occurring in healthy birds through normal blood flow regulation. For thermography or repeated imaging surveillance, baseline records should include ambient temperature, time since handling, and ventilation status to allow fair comparison and distinguish normal thermoregulatory patterns from abnormal ones, enabling later disease-comparison work to focus on persistent changes outside expected context effects.",
+    "vector_context": {
+      "keywords": [
+        "thermography",
+        "temperature patterns",
+        "comb",
+        "wattles",
+        "periocular region",
+        "context metadata"
+      ],
+      "hypothetical_questions": [
+        "What does a normal head temperature look like in a healthy chicken?",
+        "How do I interpret head temperature readings in poultry?",
+        "What are some common factors that affect head temperature in birds?",
+        "Can head temperature be used to diagnose illness in poultry?",
+        "What is the normal range for comb temperature in healthy chickens?",
+        "How does ambient temperature affect head temperature readings in poultry?",
+        "What are some normal patterns of blood flow in a healthy chicken's head?",
+        "Can thermography be used to monitor blood flow in poultry?",
+        "What are some common mistakes when interpreting head temperature signals in poultry?",
+        "How do I take baseline records for thermoregulatory patterns in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Monitoring & surveillance: Context fields needed to interpret head temperature patterns",
+      "disease": "healthy_poultry",
+      "category": "monitoring_surveillance",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8255873/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_biosecurity_04_air_quality_protects_eyes_and_nares",
+    "content": "Elevated ammonia and airborne dust can irritate the conjunctiva and upper airway mucosa, increasing the likelihood of watery eyes, dirty periocular feathering, or visible nasal staining. A head-focused preventive baseline links clear eyes and dry nares margins to controllable environmental drivers such as ventilation adequacy, litter moisture control, and dust mitigation, supporting a stable healthy head baseline, which is crucial in preventing diseases, similar to how managing environmental factors can help prevent the spread of diseases like HPAI, LPAI, H5N1, and NDV, and bacterial infections like Mycoplasma, by reducing stress and irritation, and improving overall health, thereby reducing the need for diagnostic tests like rRT-PCR, particularly for monitoring clade 2.3.4.4b, and allowing for more effective surveillance and management of poultry health.",
+    "vector_context": {
+      "keywords": [
+        "air quality",
+        "ammonia",
+        "dust",
+        "ventilation",
+        "conjunctiva",
+        "nares"
+      ],
+      "hypothetical_questions": [
+        "What can cause watery eyes in chickens?",
+        "How does ammonia affect poultry?",
+        "What is the role of ventilation in poultry health?",
+        "What are the signs of dirty periocular feathering?",
+        "What is the relationship between litter moisture and poultry eye health?",
+        "What is the effect of airborne dust on poultry respiratory health?",
+        "What is the difference between management-related irritation and true deviations in poultry health?",
+        "What are the key factors in maintaining a healthy head baseline in poultry?",
+        "What is the significance of recording head observations in poultry surveillance data?"
+      ]
+    },
+    "metadata": {
+      "title": "Preventive biosecurity: Air quality to preserve normal ocular and nasal baselines",
+      "disease": "healthy_poultry",
+      "category": "preventive_biosecurity",
+      "source_urls": [
+        "https://site.caes.uga.edu/precisionpoultry/2023/02/controlling-ammonia-emissions-in-poultry-houses/",
+        "https://www.aphis.usda.gov/sites/default/files/poultry_ind_manual.pdf"
+      ]
+    }
+  },
+  {
+    "id": "healthy_poultry_biosecurity_05_hygienic_handling_head_exam",
+    "content": "Hygienic handling is crucial during head inspections to prevent cross-contamination and protect baseline record validity. Using clean hands, gloves, and equipment minimizes the risk of smearing litter residue onto eyelid margins, pushing debris toward the nares, or contaminating the oral cavity. This is particularly important when checking multiple pens or age groups sequentially, as it helps maintain label quality and prevent false abnormalities in images, ultimately preserving the usefulness of the baseline knowledge base by minimizing contact with mucosa and maintaining consistent handling with clean gloves or hand sanitation between groups.",
+    "vector_context": {
+      "keywords": [
+        "handling hygiene",
+        "cross-contamination",
+        "gloves",
+        "ocular surface",
+        "nares",
+        "oral exam"
+      ],
+      "hypothetical_questions": [
+        "What do I need to do to prevent cross-contamination during head inspections?",
+        "How can I keep my hands clean during a poultry head exam?",
+        "What is the importance of using clean gloves during a head inspection?",
+        "How can I prevent smearing litter residue onto the eyelids of poultry?",
+        "What are the consequences of contaminating the oral cavity during a head exam?",
+        "How can I minimize contact with mucosa during a head inspection?",
+        "What is the purpose of using hand sanitation between groups of poultry?",
+        "What are the risks of smearing debris toward the nares during a head exam?",
+        "How can I ensure the validity of baseline records during a head inspection?",
+        "What is the effect of dirty hands on the quality of baseline images?"
+      ]
+    },
+    "metadata": {
+      "title": "Preventive biosecurity: Hygienic technique during head-only examinations",
+      "disease": "healthy_poultry",
+      "category": "preventive_biosecurity",
+      "source_urls": [
+        "https://www.aphis.usda.gov/sites/default/files/poultry_ind_manual.pdf",
+        "https://todaysveterinarypractice.com/exotic-medicine/performing-an-avian-physical-examination-in-practice/"
+      ]
+    }
+  }
+]

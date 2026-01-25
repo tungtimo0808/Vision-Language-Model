@@ -1,0 +1,133 @@
+[
+  {
+    "qid": "sal_01",
+    "query": "What is the overall role of Salmonella Typhimurium in egg contamination compared with other serovars?",
+    "supporting_chunk_ids": [
+      "salmonella_typhimurium_overview"
+    ],
+    "answer": "Salmonella Typhimurium can contaminate eggs but plays a less dominant role than Salmonella Enteritidis, which remains the primary serovar associated with egg contamination in most regions."
+  },
+  {
+    "qid": "sal_02",
+    "query": "What did field studies show about natural ovarian colonization by Salmonella Typhimurium in laying hens?",
+    "supporting_chunk_ids": [
+      "salmonella_typhimurium_natural_infection"
+    ],
+    "answer": "Field studies indicate that Salmonella Typhimurium is rarely isolated from ovarian tissue, suggesting that natural reproductive tract colonization is uncommon under field conditions."
+  },
+  {
+    "qid": "sal_03",
+    "query": "Which Salmonella serovar was most prevalent in both chickens and humans in the Mekong Delta study?",
+    "supporting_chunk_ids": [
+      "nts_mekong_serovars"
+    ],
+    "answer": "Salmonella Weltevreden was the predominant serovar detected in both chickens and humans in the Mekong Delta study."
+  },
+  {
+    "qid": "sal_04",
+    "query": "What was the flock-level prevalence of Salmonella Infantis in broiler chickens based on meta-analysis?",
+    "supporting_chunk_ids": [
+      "salmonella_infantis_flock_prevalence"
+    ],
+    "answer": "The pooled flock-level prevalence of Salmonella Infantis in broiler chickens was estimated at 9%, with wide confidence intervals and high heterogeneity."
+  },
+  {
+    "qid": "sal_05",
+    "query": "Why is antimicrobial treatment generally discouraged for controlling salmonellosis in poultry flocks?",
+    "supporting_chunk_ids": [
+      "salmonella_treatment_antimicrobial_not_recommended"
+    ],
+    "answer": "Antimicrobial treatment rarely eliminates Salmonella, may promote antimicrobial resistance, and treated birds often continue to shed the organism in feces."
+  },
+  {
+    "qid": "sal_06",
+    "query": "Why does oral infection with Salmonella Typhimurium often lead to fecal shedding without consistent egg contamination?",
+    "supporting_chunk_ids": [
+      "salmonella_typhimurium_oral_infection",
+      "salmonella_typhimurium_egg_contamination"
+    ],
+    "answer": "Oral infection frequently results in intestinal colonization and fecal shedding, but reproductive tract invasion and egg contamination are inconsistent, indicating that gastrointestinal infection alone does not reliably lead to internal egg contamination."
+  },
+  {
+    "qid": "sal_07",
+    "query": "How do infection route and dose influence systemic invasion by Salmonella Typhimurium under experimental conditions?",
+    "supporting_chunk_ids": [
+      "salmonella_typhimurium_intravenous_infection",
+      "salmonella_typhimurium_oral_infection"
+    ],
+    "answer": "High-dose intravenous inoculation promotes prolonged bacteremia and reproductive tissue invasion, whereas oral exposure shows inconsistent relationships between dose, tissue invasion, and egg contamination."
+  },
+  {
+    "qid": "sal_08",
+    "query": "Why can aerosol or vaginal exposure result in higher internal egg contamination than oral infection?",
+    "supporting_chunk_ids": [
+      "salmonella_typhimurium_alternative_routes",
+      "salmonella_typhimurium_oral_infection"
+    ],
+    "answer": "Alternative routes such as aerosol or vaginal exposure bypass some gastrointestinal barriers, facilitating systemic infection and increasing the likelihood of internal egg contamination compared with oral exposure."
+  },
+  {
+    "qid": "sal_09",
+    "query": "How does fecal–oral transmission contribute to rapid horizontal spread of Salmonella within poultry flocks?",
+    "supporting_chunk_ids": [
+      "salmonella_transmission_fecal_environment",
+      "salmonella_overview_food_safety"
+    ],
+    "answer": "Infected birds shed Salmonella in feces, contaminating litter, feed, and water, which facilitates fecal–oral transmission and rapid horizontal spread, especially under poor hygiene conditions."
+  },
+  {
+    "qid": "sal_10",
+    "query": "Why is salmonellosis in poultry difficult to diagnose based solely on clinical signs?",
+    "supporting_chunk_ids": [
+      "salmonella_paratyphoid_diarrhea",
+      "salmonella_diagnosis_bacteriology"
+    ],
+    "answer": "Clinical signs are variable and overlap with other gastrointestinal diseases, so definitive diagnosis requires bacteriologic isolation rather than relying on fecal appearance or general symptoms alone."
+  },
+  {
+    "qid": "sal_11",
+    "query": "How do host-adapted and non–host-adapted Salmonella serotypes differ in transmission dynamics?",
+    "supporting_chunk_ids": [
+      "salmonella_transmission_vertical_egg",
+      "salmonella_transmission_fecal_environment"
+    ],
+    "answer": "Host-adapted serotypes are commonly transmitted vertically through eggs, while non–host-adapted paratyphoid serotypes primarily spread horizontally via fecal–oral transmission and environmental contamination."
+  },
+  {
+    "qid": "sal_12",
+    "query": "Why are vaccination and biosecurity considered complementary strategies for controlling Salmonella in poultry?",
+    "supporting_chunk_ids": [
+      "salmonella_vaccine_efficacy_shedding",
+      "salmonella_prevention_biosecurity"
+    ],
+    "answer": "Vaccination reduces intestinal colonization and fecal shedding, while biosecurity limits pathogen introduction and spread; together they provide more effective control than either approach alone."
+  },
+  {
+    "qid": "sal_13",
+    "query": "How do combined non-antibiotic interventions outperform single strategies in pre-harvest Salmonella control?",
+    "supporting_chunk_ids": [
+      "salmonella_meta_analysis_overall_effect",
+      "salmonella_combined_interventions"
+    ],
+    "answer": "Combination strategies achieve greater reductions in intestinal Salmonella load than single interventions, supporting a multi-hurdle approach to pre-harvest control."
+  },
+  {
+    "qid": "sal_14",
+    "query": "Why is Salmonella Infantis particularly difficult to control in broiler production systems?",
+    "supporting_chunk_ids": [
+      "salmonella_infantis_broiler_importance",
+      "salmonella_infantis_antimicrobial_resistance",
+      "salmonella_infantis_risk_factors"
+    ],
+    "answer": "Salmonella Infantis shows high prevalence in broilers, frequent multidrug resistance linked to the pESI megaplasmid, and persistence driven by farm-level risk factors such as biosecurity gaps."
+  },
+  {
+    "qid": "sal_15",
+    "query": "Why is a multi-hurdle approach aligned with a One Health framework recommended for Salmonella control?",
+    "supporting_chunk_ids": [
+      "salmonella_multi_hurdle_overview",
+      "salmonella_multi_hurdle_one_health"
+    ],
+    "answer": "Because Salmonella transmission spans farm, processing, and human health interfaces, integrating multiple control measures across the production continuum provides synergistic and more sustainable reductions in prevalence."
+  }
+]

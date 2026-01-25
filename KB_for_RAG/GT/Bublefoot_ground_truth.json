@@ -1,0 +1,159 @@
+[
+  {
+    "qid": "bf_cov_01",
+    "query": "What is bumblefoot in chickens?",
+    "supporting_chunk_ids": [
+      "bumblefoot_overview_definition"
+    ],
+    "answer": "Bumblefoot is a bacterial infection of the footpad that develops after repeated pressure or small injuries allow bacteria to enter the tissue."
+  },
+  {
+    "qid": "bf_cov_02",
+    "query": "Why does bumblefoot usually start on the bottom of the foot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_transmission_pathogenesis"
+    ],
+    "answer": "The footpad takes most of the bird’s weight, so repeated pressure and small cracks make it the most vulnerable entry point for infection."
+  },
+  {
+    "qid": "bf_cov_03",
+    "query": "What does early bumblefoot usually look like?",
+    "supporting_chunk_ids": [
+      "bumblefoot_symptom_clinical_signs"
+    ],
+    "answer": "Early bumblefoot may appear as mild swelling or redness, sometimes before a clear scab forms."
+  },
+  {
+    "qid": "bf_cov_04",
+    "query": "What is the dark scab seen in bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_symptom_clinical_signs"
+    ],
+    "answer": "The dark scab forms over infected tissue as the body walls off infection beneath the footpad."
+  },
+  {
+    "qid": "bf_cov_05",
+    "query": "Why does bumblefoot cause limping?",
+    "supporting_chunk_ids": [
+      "bumblefoot_symptom_clinical_signs"
+    ],
+    "answer": "Inflammation and pressure inside the footpad make weight-bearing painful, leading to lameness."
+  },
+  {
+    "qid": "bf_cov_06",
+    "query": "How does bumblefoot progress if untreated?",
+    "supporting_chunk_ids": [
+      "bumblefoot_diagnosis_five_stage_system"
+    ],
+    "answer": "The infection can move from the skin into deeper tissues, becoming chronic and harder to treat."
+  },
+  {
+    "qid": "bf_cov_07",
+    "query": "Why is bumblefoot often hard to cure completely?",
+    "supporting_chunk_ids": [
+      "bumblefoot_pathology_staphylococcal_biofilms"
+    ],
+    "answer": "The infection forms a firm, caseous core surrounded by fibrous tissue that blocks drainage and limits antibiotic penetration."
+  },
+  {
+    "qid": "bf_cov_08",
+    "query": "Which birds are most at risk of bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_cause_genetic_susceptibility"
+    ],
+    "answer": "Heavier birds place more pressure on their footpads, making them more prone to developing bumblefoot."
+  },
+  {
+    "qid": "bf_cov_09",
+    "query": "What is a serious complication of advanced bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_diagnosis_radiographic_osteomyelitis"
+    ],
+    "answer": "In severe cases, infection can spread to bone, causing osteomyelitis and long-term lameness."
+  },
+  {
+    "qid": "bf_cov_10",
+    "query": "Why do vets often recommend bandaging after treatment?",
+    "supporting_chunk_ids": [
+      "bumblefoot_treatment_postoperative_bandaging"
+    ],
+    "answer": "Bandaging protects the footpad from pressure and contamination while healing occurs."
+  },
+  {
+    "qid": "bf_multi_01",
+    "query": "My chicken started limping, then I noticed a dark scab on the foot. How are these connected?",
+    "supporting_chunk_ids": [
+      "bumblefoot_transmission_pathogenesis",
+      "bumblefoot_symptom_clinical_signs"
+    ],
+    "answer": "Repeated pressure damages the footpad, allowing infection to develop under the skin. This leads to swelling, pain, and formation of the dark scab that causes lameness."
+  },
+  {
+    "qid": "bf_multi_02",
+    "query": "The foot looks swollen but the scab is still small. Is it early or already serious?",
+    "supporting_chunk_ids": [
+      "bumblefoot_diagnosis_five_stage_system",
+      "bumblefoot_symptom_clinical_signs"
+    ],
+    "answer": "Swelling can occur early while infection is already developing beneath the surface, even before a large scab appears."
+  },
+  {
+    "qid": "bf_multi_03",
+    "query": "I cleaned the scab, but the swelling keeps coming back. Why doesn’t that solve it?",
+    "supporting_chunk_ids": [
+      "bumblefoot_pathology_staphylococcal_biofilms",
+      "bumblefoot_treatment_protocol"
+    ],
+    "answer": "Bumblefoot often has a solid infected core that surface cleaning cannot remove, so inflammation and swelling persist."
+  },
+  {
+    "qid": "bf_multi_04",
+    "query": "When does bumblefoot stop being a skin problem and start affecting the bone?",
+    "supporting_chunk_ids": [
+      "bumblefoot_diagnosis_five_stage_system",
+      "bumblefoot_diagnosis_radiographic_osteomyelitis"
+    ],
+    "answer": "In advanced stages, infection spreads deeper and can reach the bone, leading to osteomyelitis."
+  },
+  {
+    "qid": "bf_multi_05",
+    "query": "Why do heavier chickens in my flock get bumblefoot more often than lighter ones?",
+    "supporting_chunk_ids": [
+      "bumblefoot_cause_genetic_susceptibility",
+      "bumblefoot_transmission_pathogenesis"
+    ],
+    "answer": "Extra body weight increases pressure on the footpad, causing more micro-trauma and increasing infection risk."
+  },
+  {
+    "qid": "bf_diff_01",
+    "query": "There’s a lump on the foot, but no dark scab yet. Could this still be bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_symptom_clinical_signs"
+    ],
+    "answer": "Yes. Bumblefoot can begin with swelling or inflammation before a clear scab forms."
+  },
+  {
+    "qid": "bf_diff_02",
+    "query": "The leg scales look rough, but the footpad itself isn’t swollen. Is that bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_differential_diagnosis"
+    ],
+    "answer": "Rough, raised leg scales without footpad swelling suggest scaly leg mite rather than bumblefoot."
+  },
+  {
+    "qid": "bf_diff_03",
+    "query": "My rooster limps, but the problem seems higher up the leg, not on the footpad. Could it still be bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_differential_diagnosis"
+    ],
+    "answer": "Bumblefoot primarily affects the footpad. Lameness without footpad lesions suggests another leg or joint problem."
+  },
+  {
+    "qid": "bf_diff_04",
+    "query": "The bird stepped on something sharp yesterday and now limps. Is that the same as bumblefoot?",
+    "supporting_chunk_ids": [
+      "bumblefoot_differential_diagnosis"
+    ],
+    "answer": "A fresh traumatic wound can cause lameness, but bumblefoot is a chronic infection that develops over time from repeated pressure and contamination."
+  }
+]

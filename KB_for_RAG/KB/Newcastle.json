@@ -1,0 +1,1827 @@
+[
+  {
+    "id": "newcastle_gastrointestinal_virus_shedding",
+    "content": "Newcastle disease virus (NDV) can infect the gastrointestinal tract of poultry and be actively shed through feces, even in birds that appear clinically healthy or have recovered from mild infection. The detection of NDV in cloacal swabs indicates viral replication and persistence in the intestinal system, establishing fecal shedding as a significant route of environmental contamination and interspecies transmission.",
+    "vector_context": {
+      "keywords": [
+        "gastrointestinal tract",
+        "fecal shedding",
+        "cloacal swab",
+        "virus persistence"
+      ],
+      "hypothetical_questions": [
+        "What is the primary route of environmental contamination for Newcastle disease virus?",
+        "Can birds that appear clinically healthy still shed Newcastle disease virus?",
+        "How does Newcastle disease virus infect poultry?",
+        "What is the significance of detecting NDV in cloacal swabs?",
+        "Can Newcastle disease virus be shed through feces in birds that have recovered from mild infection?",
+        "Is fecal shedding a major factor in interspecies transmission of Newcastle disease virus?",
+        "Where does Newcastle disease virus replicate and persist in infected birds?",
+        "How does Newcastle disease virus contaminate the environment?",
+        "Can birds that have recovered from Newcastle disease virus still be carriers of the disease?",
+        "What is the relationship between viral replication in the intestinal system and fecal shedding of Newcastle disease virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Gastrointestinal infection and fecal shedding of Newcastle disease virus",
+      "disease": "newcastle_disease",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429372/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_intestinal_reservoir_carrier_state",
+    "content": "The presence of Newcastle disease virus in feces of seropositive but unvaccinated poultry suggests that the intestinal tract may serve as a reservoir for persistent viral shedding. Birds that have recovered from infection or show no overt clinical signs can maintain a carrier state, continuously excreting NDV via feces and contributing to silent transmission within mixed-species poultry systems.",
+    "vector_context": {
+      "keywords": [
+        "intestinal reservoir",
+        "carrier birds",
+        "subclinical infection",
+        "fecal excretion"
+      ],
+      "hypothetical_questions": [
+        "What is the role of the intestinal tract in Newcastle disease virus shedding?",
+        "Can unvaccinated poultry that are seropositive for Newcastle disease virus still shed the virus?",
+        "How do birds that have recovered from Newcastle disease virus infection contribute to its transmission?",
+        "What is the carrier state in birds that have been infected with Newcastle disease virus?",
+        "Can birds that show no clinical signs of Newcastle disease virus still excrete the virus?",
+        "How does the presence of Newcastle disease virus in feces affect its transmission in mixed-species poultry systems?",
+        "What is the relationship between seropositivity and viral shedding in unvaccinated poultry?",
+        "Do birds that have recovered from Newcastle disease virus infection still pose a risk of transmission to other birds?",
+        "How does the intestinal tract serve as a reservoir for Newcastle disease virus in poultry?",
+        "Can silent transmission of Newcastle disease virus occur within mixed-species poultry systems?"
+      ]
+    },
+    "metadata": {
+      "title": "Intestinal reservoir and carrier state in Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429372/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_contamination_environment",
+    "content": "Fecal shedding of Newcastle disease virus plays a critical role in environmental contamination. NDV-positive feces can contaminate poultry manure, soil, footwear, and vehicle tires, facilitating indirect transmission from intestinal excreta to susceptible birds. The study highlights feces as a key medium linking gastrointestinal infection to farm-level and community-level disease spread.",
+    "vector_context": {
+      "keywords": [
+        "fecal contamination",
+        "environmental spread",
+        "manure",
+        "biosecurity risk"
+      ],
+      "hypothetical_questions": [
+        "What is the primary role of fecal shedding in the spread of Newcastle disease virus?",
+        "How does Newcastle disease virus contaminate the environment through feces?",
+        "What are the possible mediums that can be contaminated by NDV-positive feces?",
+        "Can vehicle tires be contaminated with Newcastle disease virus through feces?",
+        "How does gastrointestinal infection contribute to farm-level disease spread?",
+        "What is the link between fecal shedding and community-level disease transmission?",
+        "Can footwear be a medium for indirect transmission of Newcastle disease virus?",
+        "How does fecal shedding facilitate the spread of Newcastle disease virus to susceptible birds?",
+        "What is the significance of feces in the transmission of Newcastle disease virus?",
+        "Can soil be contaminated with Newcastle disease virus through NDV-positive feces?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental contamination through NDV-infected feces",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429372/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_digestive_route_transmission",
+    "content": "Ingestion of feed or water contaminated with NDV-infected feces represents a major digestive-route transmission pathway for Newcastle disease. The study associates intestinal exposure to contaminated materials with subsequent viral replication and shedding, emphasizing the role of fecal–oral transmission in outbreaks occurring in backyard and free-range poultry systems.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral route",
+        "contaminated feed",
+        "intestinal infection",
+        "backyard poultry"
+      ],
+      "hypothetical_questions": [
+        "What is the primary mode of transmission for Newcastle disease in poultry?",
+        "How does Newcastle disease virus spread through contaminated materials?",
+        "What role does fecal-oral transmission play in Newcastle disease outbreaks?",
+        "Can Newcastle disease be transmitted through contaminated water?",
+        "What are the risks of intestinal exposure to NDV-infected feces in poultry?",
+        "How does viral replication occur in poultry that ingest contaminated feed?",
+        "What is the significance of fecal-oral transmission in backyard poultry systems?",
+        "Can free-range poultry systems be affected by Newcastle disease outbreaks?",
+        "What are the consequences of ingesting NDV-infected feces in poultry digestion?",
+        "How can Newcastle disease be prevented in poultry through transmission control?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal–oral transmission via the digestive system in Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429372/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_gastrointestinal_role_mixed_species",
+    "content": "The circulation of Newcastle disease virus through the gastrointestinal tract and feces is amplified in mixed-species poultry systems. Intestinal shedding of NDV by turkeys and other avian species increases exposure risk for chickens housed in the same environment, reinforcing the role of fecal transmission in cross-species spread of enteric infection.",
+    "vector_context": {
+      "keywords": [
+        "mixed-species rearing",
+        "cross-species transmission",
+        "intestinal shedding",
+        "fecal exposure"
+      ],
+      "hypothetical_questions": [
+        "What is the role of the gastrointestinal tract in the circulation of Newcastle disease virus?",
+        "How does the presence of multiple avian species affect the spread of Newcastle disease virus?",
+        "Can turkeys transmit Newcastle disease virus to chickens through feces?",
+        "What is the primary mode of transmission for enteric infections in mixed-species poultry systems?",
+        "How does intestinal shedding of NDV by turkeys impact the risk of infection for chickens?",
+        "Is the circulation of Newcastle disease virus higher in single-species or mixed-species poultry systems?",
+        "What is the relationship between fecal transmission and cross-species spread of enteric infections?",
+        "Can Newcastle disease virus be transmitted through the feces of other avian species besides turkeys?",
+        "How does housing multiple avian species together increase the exposure risk for chickens to Newcastle disease virus?",
+        "What is the significance of fecal transmission in the spread of Newcastle disease virus in poultry systems?"
+      ]
+    },
+    "metadata": {
+      "title": "Role of gastrointestinal shedding in cross-species NDV transmission",
+      "disease": "newcastle_disease",
+      "category": "risk_factor",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7429372/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_gastrointestinal_fecal_shedding_detection",
+    "content": "Newcastle disease virus (NDV) is shed through the gastrointestinal tract and can be detected in fecal samples collected from infected chickens. Feces represent a major route of virus excretion and play an essential role in the fecal–oral transmission of Newcastle disease. However, fecal samples are considered complex matrices due to the presence of inhibitory substances, bacteria, and toxic compounds that interfere with conventional molecular detection methods.",
+    "vector_context": {
+      "keywords": [
+        "gastrointestinal tract",
+        "fecal shedding",
+        "feces",
+        "viral excretion"
+      ],
+      "hypothetical_questions": [
+        "How is Newcastle disease virus shed from infected chickens?",
+        "What is the role of feces in the transmission of Newcastle disease?",
+        "Can Newcastle disease virus be detected in fecal samples?",
+        "What substances are present in fecal samples that interfere with molecular detection methods?",
+        "Why are fecal samples considered complex matrices for virus detection?",
+        "What is the primary route of Newcastle disease virus excretion?",
+        "How does the gastrointestinal tract contribute to the spread of Newcastle disease?",
+        "What methods are used to detect Newcastle disease virus in fecal samples?",
+        "Are there any alternative methods for detecting Newcastle disease virus in complex matrices?",
+        "How do inhibitory substances in fecal samples affect the detection of Newcastle disease virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal shedding and gastrointestinal involvement in Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3096100/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_feces_interference_molecular_detection",
+    "content": "Fecal material from NDV-infected poultry contains organic substances, microbial contaminants, and toxic compounds that inhibit reverse transcriptase and Taq polymerase activity. These inhibitory factors reduce the sensitivity of standard RT-PCR assays and may lead to false-negative or inconsistent detection results when analyzing gastrointestinal samples from infected birds.",
+    "vector_context": {
+      "keywords": [
+        "fecal inhibitors",
+        "RT-PCR limitation",
+        "intestinal samples",
+        "diagnostic sensitivity"
+      ],
+      "hypothetical_questions": [
+        "What is NDV and how does it affect poultry?",
+        "How do inhibitory factors in fecal material impact RT-PCR assays?",
+        "What types of organic substances are present in fecal material from NDV-infected poultry?",
+        "Can microbial contaminants in fecal material interfere with reverse transcriptase activity?",
+        "What are the consequences of false-negative detection results in gastrointestinal samples?",
+        "How do toxic compounds in fecal material affect Taq polymerase activity?",
+        "What are the limitations of standard RT-PCR assays when analyzing gastrointestinal samples?",
+        "Can the sensitivity of RT-PCR assays be improved for detecting NDV in poultry?",
+        "How do inhibitory factors in fecal material contribute to inconsistent detection results?",
+        "What methods can be used to overcome the inhibitory effects of fecal material on RT-PCR assays?"
+      ]
+    },
+    "metadata": {
+      "title": "Inhibitory effects of fecal components on NDV detection",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3096100/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_rbc_rt_pcr_fecal_samples",
+    "content": "To improve the detection of Newcastle disease virus in fecal samples, a red blood cell adsorption–coupled RT-PCR method was developed. This approach exploits the ability of NDV to bind chicken red blood cells, allowing viral particles to be concentrated and purified from feces before RNA extraction. The method significantly enhances detection sensitivity in gastrointestinal samples compared with conventional RT-PCR.",
+    "vector_context": {
+      "keywords": [
+        "fecal samples",
+        "RBC adsorption",
+        "RT-PCR",
+        "virus concentration"
+      ],
+      "hypothetical_questions": [
+        "What is Newcastle disease virus and how is it detected?",
+        "How does the red blood cell adsorption-coupled RT-PCR method work for detecting NDV?",
+        "What is the main advantage of using the red blood cell adsorption-coupled RT-PCR method over conventional RT-PCR?",
+        "In what type of samples is the red blood cell adsorption-coupled RT-PCR method most effective for detecting NDV?",
+        "Can the red blood cell adsorption-coupled RT-PCR method be used to detect other types of viruses?",
+        "What is the role of chicken red blood cells in the detection of Newcastle disease virus?",
+        "How does the red blood cell adsorption-coupled RT-PCR method enhance detection sensitivity in gastrointestinal samples?",
+        "What is the difference between conventional RT-PCR and the red blood cell adsorption-coupled RT-PCR method?",
+        "Is the red blood cell adsorption-coupled RT-PCR method suitable for detecting NDV in all types of biological samples?",
+        "Can the red blood cell adsorption-coupled RT-PCR method be used for the detection of NDV in non-gastrointestinal samples?"
+      ]
+    },
+    "metadata": {
+      "title": "Enhanced detection of NDV in feces using RBC-coupled RT-PCR",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3096100/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_detection_sensitivity",
+    "content": "The red blood cell adsorption–coupled RT-PCR method demonstrated high sensitivity in detecting Newcastle disease virus from diluted fecal samples. NDV RNA was successfully detected in feces diluted up to 10⁴-fold, indicating that intestinal shedding can be identified even when viral load in droppings is low. This highlights the importance of sensitive diagnostic approaches for early detection of gastrointestinal NDV shedding.",
+    "vector_context": {
+      "keywords": [
+        "fecal dilution",
+        "viral load",
+        "intestinal shedding",
+        "early detection"
+      ],
+      "hypothetical_questions": [
+        "What is the main purpose of the red blood cell adsorption–coupled RT-PCR method?",
+        "How sensitive is the red blood cell adsorption–coupled RT-PCR method in detecting Newcastle disease virus?",
+        "What type of samples were used to detect Newcastle disease virus using the RT-PCR method?",
+        "Up to what fold can fecal samples be diluted and still detect NDV RNA using the RT-PCR method?",
+        "What does the successful detection of NDV RNA in diluted fecal samples indicate about intestinal shedding?",
+        "Why is it important to have sensitive diagnostic approaches for detecting gastrointestinal NDV shedding?",
+        "What is the significance of detecting Newcastle disease virus in diluted fecal samples?",
+        "Can the red blood cell adsorption–coupled RT-PCR method detect NDV RNA in feces with low viral load?",
+        "How does the red blood cell adsorption–coupled RT-PCR method contribute to the early detection of Newcastle disease virus?",
+        "What are the implications of identifying intestinal shedding of Newcastle disease virus using the RT-PCR method?"
+      ]
+    },
+    "metadata": {
+      "title": "Sensitivity of NDV detection in feces from infected chickens",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3096100/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_feces_role_transmission",
+    "content": "Feces from Newcastle disease virus–infected birds play a critical role in the spread of infection within poultry populations. Gastrointestinal excretion of NDV contributes to contamination of the surrounding environment, feed, and water sources. Effective detection of NDV in feces is therefore essential for monitoring intestinal virus shedding and controlling transmission during the early stages of outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "fecal contamination",
+        "fecal-oral transmission",
+        "environmental spread",
+        "intestinal infection"
+      ],
+      "hypothetical_questions": [
+        "What role do feces from Newcastle disease virus-infected birds play in the spread of infection?",
+        "How does gastrointestinal excretion of NDV contribute to environmental contamination?",
+        "Why is detection of NDV in feces essential for controlling transmission?",
+        "What sources can become contaminated with NDV through gastrointestinal excretion?",
+        "How does NDV shedding in the intestines impact the surrounding environment?",
+        "What is the importance of monitoring intestinal virus shedding in poultry populations?",
+        "Can NDV be detected in the feed of infected birds?",
+        "How does the contamination of water sources affect the spread of NDV?",
+        "What are the consequences of not detecting NDV in feces during the early stages of outbreaks?",
+        "How does early detection of NDV in feces help in controlling the transmission of the virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Role of fecal excretion in Newcastle disease transmission",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3096100/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_gastrointestinal_shedding_cloacal",
+    "content": "Newcastle disease virus (NDV) is shed through the gastrointestinal tract and can be detected in cloacal swabs collected from infected chickens. The presence of viral RNA in cloacal samples reflects intestinal involvement and active shedding via feces, confirming the role of the digestive tract as a major route for virus excretion during infection.",
+    "vector_context": {
+      "keywords": [
+        "gastrointestinal tract",
+        "cloacal shedding",
+        "fecal excretion",
+        "intestinal infection"
+      ],
+      "hypothetical_questions": [
+        "How is the Newcastle disease virus shed from infected chickens?",
+        "What type of samples can be collected to detect the Newcastle disease virus?",
+        "Where can viral RNA be detected in infected chickens?",
+        "What is the role of the digestive tract in Newcastle disease virus infection?",
+        "How does the presence of viral RNA in cloacal samples indicate intestinal involvement?",
+        "What is the primary route for Newcastle disease virus excretion during infection?",
+        "Can Newcastle disease virus be detected in the gastrointestinal tract of infected chickens?",
+        "What is the significance of detecting viral RNA in cloacal swabs collected from infected chickens?",
+        "How does the Newcastle disease virus infect the digestive tract of chickens?",
+        "What is the relationship between viral RNA in cloacal samples and active shedding of the Newcastle disease virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Gastrointestinal shedding of Newcastle disease virus via cloaca",
+      "disease": "newcastle_disease",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_oral_transmission_route",
+    "content": "Shedding of Newcastle disease virus through feces contributes directly to fecal–oral transmission among poultry. Viral excretion from the intestinal tract contaminates the environment, feed, and water, facilitating the spread of infection within and between flocks, particularly in intensive or backyard poultry systems.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral transmission",
+        "environmental contamination",
+        "intestinal shedding",
+        "virus spread"
+      ],
+      "hypothetical_questions": [
+        "How does Newcastle disease virus spread among poultry through feces?",
+        "What role does the intestinal tract play in the transmission of Newcastle disease virus?",
+        "Can Newcastle disease virus be transmitted through contaminated feed?",
+        "How does the environment contribute to the spread of Newcastle disease virus?",
+        "Is fecal-oral transmission a common mode of Newcastle disease virus transmission?",
+        "Are intensive poultry systems more prone to Newcastle disease virus outbreaks?",
+        "Can backyard poultry systems be affected by Newcastle disease virus transmission?",
+        "What is the primary mode of Newcastle disease virus shedding?",
+        "How does contaminated water contribute to the spread of Newcastle disease virus?",
+        "Can Newcastle disease virus be transmitted between flocks through indirect contact?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal–oral transmission linked to intestinal NDV shedding",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_cloacal_vs_oral_shedding_dynamics",
+    "content": "Detection of NDV RNA in cloacal swabs varies with the stage of infection. Early after infection, cloacal shedding may be limited, whereas at later stages viral RNA is more consistently detected in fecal samples. This indicates that gastrointestinal shedding intensifies as systemic infection progresses.",
+    "vector_context": {
+      "keywords": [
+        "cloacal swabs",
+        "shedding dynamics",
+        "intestinal involvement",
+        "infection stage"
+      ],
+      "hypothetical_questions": [
+        "What is the relationship between the stage of NDV infection and the detection of RNA in cloacal swabs?",
+        "How does cloacal shedding of NDV RNA change over the course of an infection?",
+        "At what stage of infection is viral RNA more consistently detected in fecal samples?",
+        "Does gastrointestinal shedding of NDV RNA increase or decrease as the infection progresses?",
+        "How does the detection of NDV RNA in cloacal swabs relate to the progression of systemic infection?",
+        "What happens to the consistency of viral RNA detection in fecal samples as the infection reaches later stages?",
+        "Is cloacal shedding of NDV RNA more prominent during the early or late stages of infection?",
+        "Can NDV RNA be detected in fecal samples during the early stages of infection?",
+        "How does the intensity of gastrointestinal shedding change as the systemic infection progresses?",
+        "What is the pattern of NDV RNA detection in cloacal swabs in relation to the stage of infection?"
+      ]
+    },
+    "metadata": {
+      "title": "Temporal dynamics of cloacal shedding in Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_samples_diagnostic_challenges",
+    "content": "Cloacal and fecal samples may contain substances that interfere with molecular detection of Newcastle disease virus, resulting in reduced sensitivity during early infection. Limited detection in fecal samples shortly after infection may reflect low intestinal viral load rather than absence of infection.",
+    "vector_context": {
+      "keywords": [
+        "fecal samples",
+        "PCR inhibition",
+        "intestinal viral load",
+        "diagnostic sensitivity"
+      ],
+      "hypothetical_questions": [
+        "What substances in cloacal samples can interfere with molecular detection of Newcastle disease virus?",
+        "Can fecal samples be used for accurate detection of Newcastle disease virus during early infection?",
+        "How does the presence of interfering substances affect the sensitivity of molecular detection?",
+        "What is the relationship between intestinal viral load and detection of Newcastle disease virus in fecal samples?",
+        "Why is detection of Newcastle disease virus limited in fecal samples shortly after infection?",
+        "Do cloacal samples provide more accurate results than fecal samples for detecting Newcastle disease virus?",
+        "How long after infection can Newcastle disease virus be detected in fecal samples?",
+        "What factors contribute to reduced sensitivity in molecular detection of Newcastle disease virus?",
+        "Can low intestinal viral load be mistaken for absence of infection in fecal samples?",
+        "How can the accuracy of molecular detection of Newcastle disease virus be improved in cloacal and fecal samples?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnostic limitations of fecal samples in early NDV infection",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_cloacal_detection_vs_virus_isolation",
+    "content": "A strong correlation exists between detection of NDV RNA in cloacal swabs and virus isolation at later stages of infection. As intestinal shedding increases, cloacal samples become reliable indicators of active Newcastle disease virus excretion through the digestive system.",
+    "vector_context": {
+      "keywords": [
+        "cloacal detection",
+        "virus isolation",
+        "intestinal shedding",
+        "fecal diagnostics"
+      ],
+      "hypothetical_questions": [
+        "What is the relationship between NDV RNA detection and virus isolation?",
+        "How does intestinal shedding affect the reliability of cloacal samples?",
+        "What is the significance of cloacal swabs in detecting NDV RNA?",
+        "At what stages of infection is NDV RNA detection most relevant?",
+        "Can cloacal samples be used to indicate active Newcastle disease virus excretion?",
+        "How does the digestive system play a role in Newcastle disease virus excretion?",
+        "What is the correlation between NDV RNA detection and intestinal shedding?",
+        "Are cloacal swabs a reliable method for detecting NDV RNA at all stages of infection?",
+        "How does the detection of NDV RNA in cloacal swabs relate to the overall infection process?",
+        "What are the implications of a strong correlation between NDV RNA detection and virus isolation?"
+      ]
+    },
+    "metadata": {
+      "title": "Correlation between cloacal NDV detection and intestinal shedding",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_vaccination_effect_fecal_shedding",
+    "content": "Vaccination against Newcastle disease significantly reduces gastrointestinal shedding of NDV. Vaccinated chickens showed markedly lower detection of viral RNA in cloacal swabs following challenge, indicating reduced intestinal replication and fecal excretion compared with unvaccinated birds.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "reduced fecal shedding",
+        "intestinal replication",
+        "cloacal samples"
+      ],
+      "hypothetical_questions": [
+        "What is the effect of vaccination on Newcastle disease in chickens?",
+        "How does vaccination reduce the shedding of NDV in chickens?",
+        "What is the difference in viral RNA detection between vaccinated and unvaccinated chickens?",
+        "Does vaccination against Newcastle disease reduce intestinal replication of NDV?",
+        "How does vaccination impact the fecal excretion of NDV in chickens?",
+        "What is the role of cloacal swabs in detecting NDV in chickens?",
+        "Can vaccination completely eliminate gastrointestinal shedding of NDV in chickens?",
+        "How does the level of viral RNA in cloacal swabs change after vaccination against NDV?",
+        "Is there a significant reduction in NDV shedding in vaccinated chickens compared to unvaccinated ones?",
+        "What are the benefits of vaccinating chickens against Newcastle disease in terms of reducing NDV replication?"
+      ]
+    },
+    "metadata": {
+      "title": "Effect of vaccination on intestinal shedding of NDV",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_shedding_surveillance_value",
+    "content": "Monitoring cloacal and fecal samples provides a practical approach for surveillance of Newcastle disease at the flock level. Detection of NDV RNA in gastrointestinal excreta supports rapid identification of infected flocks and assessment of ongoing intestinal virus shedding.",
+    "vector_context": {
+      "keywords": [
+        "fecal surveillance",
+        "cloacal swabs",
+        "intestinal shedding",
+        "flock monitoring"
+      ],
+      "hypothetical_questions": [
+        "What is the purpose of monitoring cloacal and fecal samples in poultry?",
+        "How can Newcastle disease be surveilled at the flock level effectively?",
+        "What role does detection of NDV RNA play in identifying infected flocks?",
+        "Can gastrointestinal excreta be used for rapid identification of NDV infection?",
+        "How does monitoring fecal samples support the assessment of intestinal virus shedding?",
+        "What are the benefits of using cloacal samples for Newcastle disease surveillance?",
+        "Is NDV RNA detection in fecal samples a reliable method for disease surveillance?",
+        "How often should cloacal and fecal samples be monitored for NDV RNA detection?",
+        "What are the implications of detecting NDV RNA in gastrointestinal excreta for flock health?",
+        "Can monitoring of cloacal and fecal samples help in preventing the spread of Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Use of fecal shedding for Newcastle disease surveillance",
+      "disease": "newcastle_disease",
+      "category": "surveillance",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC321685/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_enteric_pathotype_overview",
+    "content": "Certain pathotypes of Newcastle disease virus are characterized by predominant involvement of the gastrointestinal tract. Viscerotropic velogenic strains frequently induce severe hemorrhagic lesions in the intestine, while subclinical enteric strains may cause localized intestinal infection without obvious respiratory or neurological signs. These enteric forms highlight the importance of the digestive system as a major target organ for NDV.",
+    "vector_context": {
+      "keywords": [
+        "enteric infection",
+        "intestinal lesions",
+        "viscerotropic strain",
+        "pathotype"
+      ],
+      "hypothetical_questions": [
+        "What are the characteristics of certain pathotypes of Newcastle disease virus?",
+        "How do viscerotropic velogenic strains of NDV affect the intestine?",
+        "What type of lesions do viscerotropic velogenic strains frequently induce in the intestine?",
+        "Can subclinical enteric strains of NDV cause respiratory signs?",
+        "What is the role of the digestive system in NDV infection?",
+        "Do all strains of NDV cause obvious neurological signs?",
+        "What is the difference between viscerotropic velogenic strains and subclinical enteric strains of NDV?",
+        "How does the involvement of the gastrointestinal tract vary among different pathotypes of NDV?",
+        "Are hemorrhagic lesions in the intestine a common symptom of NDV infection?",
+        "What is the significance of the enteric forms of NDV in understanding the disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Enteric and viscerotropic gastrointestinal involvement in Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_hemorrhagic_intestinal_lesions",
+    "content": "Highly virulent viscerotropic velogenic Newcastle disease virus strains are commonly associated with hemorrhagic lesions of the intestinal tract. These lesions are considered a hallmark of severe enteric involvement and contribute to diarrhea, rapid deterioration, and high mortality in affected chickens.",
+    "vector_context": {
+      "keywords": [
+        "hemorrhagic intestine",
+        "severe enteric disease",
+        "intestinal pathology",
+        "diarrhea"
+      ],
+      "hypothetical_questions": [
+        "What are the characteristics of highly virulent Newcastle disease virus strains?",
+        "Are hemorrhagic lesions of the intestinal tract a common symptom of Newcastle disease?",
+        "What is the relationship between viscerotropic velogenic Newcastle disease virus and intestinal tract lesions?",
+        "Can Newcastle disease cause diarrhea in affected chickens?",
+        "How do hemorrhagic lesions of the intestinal tract contribute to the deterioration of chickens?",
+        "What is the mortality rate of chickens infected with highly virulent Newcastle disease virus strains?",
+        "Are enteric lesions a hallmark of severe Newcastle disease in chickens?",
+        "Do all Newcastle disease virus strains cause hemorrhagic lesions of the intestinal tract?",
+        "How does Newcastle disease affect the intestinal health of chickens?",
+        "What are the symptoms of severe enteric involvement in chickens infected with Newcastle disease virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Hemorrhagic intestinal lesions in severe Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_diarrhea_clinical_sign",
+    "content": "Diarrhea is a recognized clinical manifestation of Newcastle disease, particularly in infections involving enteric or viscerotropic strains. Gastrointestinal dysfunction contributes to watery or abnormal droppings and may occur alongside neurological or respiratory signs depending on virus virulence and host factors.",
+    "vector_context": {
+      "keywords": [
+        "diarrhea",
+        "digestive signs",
+        "enteric disease",
+        "abnormal droppings"
+      ],
+      "hypothetical_questions": [
+        "What is a recognized clinical manifestation of Newcastle disease?",
+        "Which strains of Newcastle disease are associated with diarrhea?",
+        "What is the role of gastrointestinal dysfunction in Newcastle disease?",
+        "What type of droppings can occur in birds infected with Newcastle disease?",
+        "Can neurological signs occur alongside gastrointestinal signs in Newcastle disease?",
+        "Does the virulence of the virus affect the clinical manifestations of Newcastle disease?",
+        "What factors influence the severity of Newcastle disease in hosts?",
+        "Are respiratory signs a common occurrence in Newcastle disease?",
+        "Can enteric strains of Newcastle disease cause respiratory problems?",
+        "How do host factors contribute to the development of diarrhea in Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Diarrhea as a gastrointestinal sign of Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_cloacal_shedding",
+    "content": "Newcastle disease virus is shed through the gastrointestinal tract and can be detected in feces and cloacal swabs from infected birds. Cloacal shedding reflects active intestinal replication and represents a major route for environmental contamination and onward transmission within poultry populations.",
+    "vector_context": {
+      "keywords": [
+        "fecal shedding",
+        "cloacal swab",
+        "intestinal replication",
+        "virus excretion"
+      ],
+      "hypothetical_questions": [
+        "How is the Newcastle disease virus shed from infected birds?",
+        "What are the common samples used to detect Newcastle disease virus in birds?",
+        "Can Newcastle disease virus be detected in the feces of infected birds?",
+        "What does cloacal shedding indicate in birds infected with Newcastle disease virus?",
+        "Is cloacal shedding a significant route for environmental contamination?",
+        "How does Newcastle disease virus spread within poultry populations?",
+        "What role does the gastrointestinal tract play in shedding the Newcastle disease virus?",
+        "Are cloacal swabs effective in detecting Newcastle disease virus in infected birds?",
+        "Can Newcastle disease virus be transmitted through contact with contaminated feces?",
+        "What is the relationship between intestinal replication and cloacal shedding in Newcastle disease virus infection?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal and cloacal shedding of Newcastle disease virus",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_oral_environmental_contamination",
+    "content": "Excretion of Newcastle disease virus in feces leads to contamination of the surrounding environment, including litter, feed, and water. This fecal–oral route plays a central role in virus spread, particularly under conditions of poor hygiene or high stocking density.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral transmission",
+        "environmental contamination",
+        "litter",
+        "biosecurity"
+      ],
+      "hypothetical_questions": [
+        "What is the primary route of Newcastle disease virus transmission?",
+        "How does the Newcastle disease virus contaminate the environment?",
+        "What are the main factors that contribute to the spread of Newcastle disease virus?",
+        "What role does hygiene play in the transmission of Newcastle disease virus?",
+        "How does stocking density affect the spread of Newcastle disease virus?",
+        "What is the significance of feces in the transmission of Newcastle disease virus?",
+        "Can Newcastle disease virus be spread through contaminated water?",
+        "What is the impact of poor hygiene on the spread of Newcastle disease virus in high-density settings?",
+        "How does the fecal-oral route contribute to the spread of Newcastle disease virus?",
+        "What are the consequences of Newcastle disease virus contamination of litter and feed?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental contamination via fecal shedding in Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_sampling_feces_cloacal_swabs",
+    "content": "For laboratory diagnosis of Newcastle disease, feces and cloacal swabs are recommended sample types for detecting gastrointestinal shedding of NDV. Cloacal swabs should be visibly coated with fecal material to ensure adequate sampling of intestinal virus excretion.",
+    "vector_context": {
+      "keywords": [
+        "fecal samples",
+        "cloacal swabs",
+        "intestinal virus",
+        "sample collection"
+      ],
+      "hypothetical_questions": [
+        "What are the recommended sample types for laboratory diagnosis of Newcastle disease?",
+        "What is the purpose of using feces for detecting NDV in laboratory diagnosis?",
+        "How should cloacal swabs be prepared for laboratory diagnosis of Newcastle disease?",
+        "What is the importance of fecal material on cloacal swabs for NDV detection?",
+        "Can other sample types be used for laboratory diagnosis of Newcastle disease?",
+        "What is NDV and how is it related to Newcastle disease?",
+        "Why is gastrointestinal shedding of NDV important for laboratory diagnosis?",
+        "How do intestinal virus excretion and cloacal swabs relate to each other?",
+        "What are the consequences of not having enough fecal material on cloacal swabs?",
+        "Are there any specific laboratory tests used for detecting NDV in feces and cloacal swabs?"
+      ]
+    },
+    "metadata": {
+      "title": "Use of feces and cloacal swabs for NDV detection",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_detection_limitations",
+    "content": "Detection of Newcastle disease virus in fecal material may be less sensitive than in respiratory samples due to the presence of inhibitory substances and variable viral loads in the gastrointestinal tract. Despite these limitations, feces may contain high levels of virus depending on strain tropism and stage of infection.",
+    "vector_context": {
+      "keywords": [
+        "PCR inhibition",
+        "fecal matrix",
+        "intestinal viral load",
+        "diagnostic challenges"
+      ],
+      "hypothetical_questions": [
+        "What are the challenges of detecting Newcastle disease virus in fecal material?",
+        "How does the presence of inhibitory substances affect virus detection in feces?",
+        "Are respiratory samples more sensitive for Newcastle disease virus detection than fecal material?",
+        "What role does strain tropism play in the levels of virus found in feces?",
+        "Can the stage of infection impact the amount of virus present in fecal material?",
+        "Why is detecting Newcastle disease virus in feces less sensitive than in respiratory samples?",
+        "Do inhibitory substances in the gastrointestinal tract reduce virus detection sensitivity?",
+        "Under what conditions may feces contain high levels of Newcastle disease virus?",
+        "How does variable viral load in the gastrointestinal tract affect detection of the virus?",
+        "Is it possible to reliably detect Newcastle disease virus in fecal material despite limitations?"
+      ]
+    },
+    "metadata": {
+      "title": "Limitations of NDV detection in fecal samples",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_vaccination_effect_intestinal_shedding",
+    "content": "Vaccination against Newcastle disease reduces but does not completely prevent intestinal replication and fecal shedding of NDV. Vaccinated birds may remain protected against clinical disease while still contributing to low-level environmental contamination through feces.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "reduced shedding",
+        "intestinal replication",
+        "carrier risk"
+      ],
+      "hypothetical_questions": [
+        "What is the effect of vaccination on Newcastle disease in birds?",
+        "Does vaccination completely prevent intestinal replication of NDV?",
+        "Can vaccinated birds still shed NDV in their feces?",
+        "What is the relationship between vaccination and clinical disease in birds?",
+        "How does vaccination impact environmental contamination with NDV?",
+        "Do vaccinated birds remain completely free of NDV?",
+        "What is the level of protection provided by vaccination against Newcastle disease?",
+        "Can birds that have been vaccinated against Newcastle disease still carry the virus?",
+        "Is it possible for vaccinated birds to contribute to the spread of NDV?",
+        "How effective is vaccination in preventing fecal shedding of NDV in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Impact of vaccination on gastrointestinal shedding of NDV",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Health_standards/tahm/3.03.10_NEWCASTLE_DIS.pdf"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_gastrointestinal_clinical_signs_canada",
+    "content": "Newcastle disease may affect the gastrointestinal system of birds, with diarrhea being one of the clinical signs observed in infected domestic fowl. Gastrointestinal involvement is part of the disease’s multisystem presentation alongside respiratory and nervous signs.",
+    "vector_context": {
+      "keywords": [
+        "diarrhea",
+        "gastrointestinal involvement",
+        "clinical signs",
+        "poultry"
+      ],
+      "hypothetical_questions": [
+        "What are the clinical signs of Newcastle disease in domestic fowl?",
+        "Can Newcastle disease affect the respiratory system of birds?",
+        "How does Newcastle disease impact the nervous system of infected birds?",
+        "What are the multisystem presentations of Newcastle disease in birds?",
+        "Is diarrhea a common symptom of Newcastle disease in birds?",
+        "Can Newcastle disease be limited to only the gastrointestinal system?",
+        "What are the signs of gastrointestinal involvement in Newcastle disease?",
+        "Does Newcastle disease only affect domestic fowl or other birds as well?",
+        "How does the multisystem presentation of Newcastle disease affect bird health?",
+        "Are the clinical signs of Newcastle disease in birds always apparent?"
+      ]
+    },
+    "metadata": {
+      "title": "Facts about Newcastle Disease – Clinical signs",
+      "disease": "newcastle_disease",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_shedding_environment_contamination_canada",
+    "content": "Infected birds may shed Newcastle disease virus in their feces, contaminating the surrounding environment. The virus can survive for days in litter, feed, water, soil, carcasses, eggs, and feathers, making fecal shedding a key route of environmental contamination and indirect spread among susceptible birds.",
+    "vector_context": {
+      "keywords": [
+        "fecal shedding",
+        "environmental contamination",
+        "feces",
+        "survival"
+      ],
+      "hypothetical_questions": [
+        "How do infected birds contribute to the spread of Newcastle disease virus in their environment?",
+        "What are some common ways that Newcastle disease virus can be shed by infected birds?",
+        "Can Newcastle disease virus survive outside of a host bird's body?",
+        "How long can Newcastle disease virus survive in contaminated litter?",
+        "What role does fecal shedding play in the spread of Newcastle disease among birds?",
+        "Can Newcastle disease virus be found in the eggs of infected birds?",
+        "How does the virus contaminate the surrounding environment of infected birds?",
+        "Are feathers a potential source of Newcastle disease virus contamination?",
+        "Can infected birds spread Newcastle disease virus through their water sources?",
+        "What are some potential routes of indirect spread of Newcastle disease virus among susceptible birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Facts about Newcastle Disease – Transmission",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_fecal_cloacal_route_spread_canada",
+    "content": "Shedding of Newcastle disease virus in feces contributes to its spread through contaminated materials and environments. Fecal excretion facilitates indirect transmission via infected litter, equipment, water, and feed, especially in settings with close confinement of flocks.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral transmission",
+        "indirect spread",
+        "contaminated material",
+        "poultry environment"
+      ],
+      "hypothetical_questions": [
+        "How does Newcastle disease virus spread through the environment?",
+        "What role does fecal excretion play in the transmission of Newcastle disease virus?",
+        "Can contaminated equipment contribute to the spread of Newcastle disease virus?",
+        "How does close confinement of flocks impact the transmission of Newcastle disease virus?",
+        "What is the primary mode of indirect transmission of Newcastle disease virus?",
+        "Does infected litter pose a risk for the spread of Newcastle disease virus?",
+        "Can Newcastle disease virus be transmitted through contaminated water?",
+        "How long does Newcastle disease virus survive in contaminated environments?",
+        "What is the significance of feces in the shedding of Newcastle disease virus?",
+        "Can feed contaminated with Newcastle disease virus infect other flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Facts about Newcastle Disease – Fecal spread",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_environment_survival_of_virus_canada",
+    "content": "The Newcastle disease virus can survive for extended periods in materials contaminated with infected droppings, including litter, water, and soil. This environmental persistence of virus shed through feces increases the risk of continued exposure and transmission if hygiene and biosecurity are insufficient.",
+    "vector_context": {
+      "keywords": [
+        "virus survival",
+        "feces contamination",
+        "environment",
+        "biosecurity risk"
+      ],
+      "hypothetical_questions": [
+        "How long can the Newcastle disease virus survive in contaminated materials?",
+        "What types of materials can be contaminated with the Newcastle disease virus?",
+        "Can the Newcastle disease virus survive in water?",
+        "What is the primary mode of transmission for the Newcastle disease virus?",
+        "How can the risk of continued exposure to the Newcastle disease virus be reduced?",
+        "What is the role of hygiene in preventing the spread of the Newcastle disease virus?",
+        "Can the Newcastle disease virus survive in soil?",
+        "What are the consequences of insufficient biosecurity for the Newcastle disease virus?",
+        "How does the environmental persistence of the Newcastle disease virus affect transmission?",
+        "What is the relationship between infected droppings and the spread of the Newcastle disease virus?"
+      ]
+    },
+    "metadata": {
+      "title": "Facts about Newcastle Disease – Virus survival",
+      "disease": "newcastle_disease",
+      "category": "transmission_risk",
+      "source_urls": [
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_surveillance_biosecurity_implications_feces_canada",
+    "content": "Because infected birds shed Newcastle disease virus in their feces and contaminate environments, surveillance and strict biosecurity protocols are critical. Monitoring manure, litter, water, and other materials prone to fecal contamination helps detect silent virus circulation and aids early intervention to protect domestic poultry.",
+    "vector_context": {
+      "keywords": [
+        "surveillance",
+        "biosecurity",
+        "fecal monitoring",
+        "poultry protection"
+      ],
+      "hypothetical_questions": [
+        "How do infected birds contribute to the spread of Newcastle disease virus in their environment?",
+        "What is the importance of surveillance in preventing the spread of Newcastle disease virus?",
+        "What materials are most prone to fecal contamination by infected birds?",
+        "Why are strict biosecurity protocols necessary for domestic poultry?",
+        "How can silent virus circulation be detected in poultry environments?",
+        "What role does monitoring manure play in detecting Newcastle disease virus?",
+        "Can contaminated water be a source of Newcastle disease virus transmission?",
+        "How does early intervention help protect domestic poultry from Newcastle disease virus?",
+        "What are the consequences of not implementing strict biosecurity protocols in poultry farming?",
+        "How can monitoring litter help in the detection and prevention of Newcastle disease virus spread?"
+      ]
+    },
+    "metadata": {
+      "title": "Facts about Newcastle Disease – Biosecurity and surveillance",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://inspection.canada.ca/en/animal-health/terrestrial-animals/diseases/reportable/newcastle-disease/facts"
+      ]
+    }
+  },
+  {
+    "id": "chicken_droppings_gut_health_indicator",
+    "content": "Chicken droppings directly reflect the functional status of the gastrointestinal tract and can serve as sensitive indicators of digestive health. Alterations in intestinal integrity, microbiota composition, and nutrient absorption are manifested through changes in droppings’ texture, color, moisture, and chemical composition.",
+    "vector_context": {
+      "keywords": [
+        "gut health",
+        "digestive system",
+        "droppings",
+        "intestinal function"
+      ],
+      "hypothetical_questions": [
+        "What can chicken droppings indicate about a chicken's health?",
+        "How do alterations in intestinal integrity affect chicken droppings?",
+        "What is the relationship between microbiota composition and chicken droppings?",
+        "Can changes in droppings' texture be a sign of digestive issues in chickens?",
+        "How do nutrient absorption issues manifest in chicken droppings?",
+        "What role do chicken droppings play in assessing digestive health?",
+        "Do changes in droppings' color always indicate a health problem in chickens?",
+        "How can the chemical composition of chicken droppings be used to evaluate health?",
+        "What are some common signs of poor digestive health in chicken droppings?",
+        "Can the moisture level of chicken droppings be an indicator of gastrointestinal issues?"
+      ]
+    },
+    "metadata": {
+      "title": "Chicken droppings as indicators of gastrointestinal health",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "pathophysiology",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "normal_vs_abnormal_chicken_droppings",
+    "content": "Normal chicken droppings are typically solid, brown or greyish-brown, and covered by a small white urate cap, whereas abnormal droppings may appear liquid, foamy, mixed with feed residues, or contain intestinal mucus. These visual differences reflect disturbances in digestion, gut motility, or intestinal integrity.",
+    "vector_context": {
+      "keywords": [
+        "normal droppings",
+        "abnormal droppings",
+        "visual assessment",
+        "digestive disorder"
+      ],
+      "hypothetical_questions": [
+        "What is the typical color of normal chicken droppings?",
+        "What is the texture of abnormal chicken droppings?",
+        "What is the purpose of the white urate cap on chicken droppings?",
+        "Can chicken droppings be used to diagnose digestive issues?",
+        "What does it mean if chicken droppings are mixed with feed residues?",
+        "Are foamy chicken droppings a sign of a healthy chicken?",
+        "Do intestinal mucus and abnormal droppings indicate a serious health issue?",
+        "How do disturbances in gut motility affect chicken droppings?",
+        "What role does digestion play in the formation of normal chicken droppings?",
+        "Can the appearance of chicken droppings be used to assess intestinal integrity?"
+      ]
+    },
+    "metadata": {
+      "title": "Visual differences between normal and abnormal chicken droppings",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "chicken_diarrhea_and_droppings_texture",
+    "content": "Abnormal droppings characterized by liquid or foamy texture are indicative of gastrointestinal dysfunction, including impaired water absorption and altered intestinal motility. Such changes are commonly associated with enteric disturbances caused by infectious agents, nutritional imbalances, or microbiota disruption.",
+    "vector_context": {
+      "keywords": [
+        "diarrhea",
+        "liquid droppings",
+        "intestinal dysfunction",
+        "gut motility"
+      ],
+      "hypothetical_questions": [
+        "What are the characteristics of abnormal droppings in gastrointestinal dysfunction?",
+        "Can impaired water absorption cause liquid or foamy texture in droppings?",
+        "What role does altered intestinal motility play in gastrointestinal dysfunction?",
+        "Are enteric disturbances always caused by infectious agents?",
+        "Can nutritional imbalances lead to gastrointestinal dysfunction and abnormal droppings?",
+        "How does microbiota disruption affect the gastrointestinal system?",
+        "What are the common causes of enteric disturbances in gastrointestinal dysfunction?",
+        "Do all cases of gastrointestinal dysfunction exhibit abnormal droppings?",
+        "Can abnormal droppings be a symptom of an underlying nutritional imbalance?",
+        "Are liquid or foamy droppings always indicative of gastrointestinal dysfunction?"
+      ]
+    },
+    "metadata": {
+      "title": "Droppings texture as a sign of gastrointestinal disturbance",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "dry_matter_texture_gut_function",
+    "content": "Normal droppings exhibit significantly higher dry matter content and harder texture compared to abnormal droppings across all age periods. Reduced dry matter content in droppings reflects impaired digestion or absorption processes within the gastrointestinal tract.",
+    "vector_context": {
+      "keywords": [
+        "dry matter",
+        "texture hardness",
+        "digestive efficiency",
+        "nutrient absorption"
+      ],
+      "hypothetical_questions": [
+        "What is the normal texture of droppings in comparison to abnormal ones?",
+        "How does the dry matter content of droppings change with age?",
+        "What does reduced dry matter content in droppings typically indicate?",
+        "Can impaired digestion affect the dry matter content of droppings?",
+        "How do abnormal droppings differ from normal ones in terms of texture?",
+        "What role does the gastrointestinal tract play in determining dropping texture?",
+        "Do digestion and absorption processes impact the dry matter content of droppings?",
+        "What are the key characteristics of normal droppings across all age periods?",
+        "How can one distinguish between normal and abnormal droppings based on texture?",
+        "What are the implications of having droppings with low dry matter content?"
+      ]
+    },
+    "metadata": {
+      "title": "Dry matter and texture as markers of digestive efficiency",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "pathophysiology",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "droppings_color_gastrointestinal_status",
+    "content": "Color parameters of chicken droppings, including lightness, redness, and yellowness, vary significantly between normal and abnormal samples. Increased redness and yellowness in droppings are associated with abnormal gastrointestinal conditions, although color changes alone are not disease-specific.",
+    "vector_context": {
+      "keywords": [
+        "droppings color",
+        "redness",
+        "yellowness",
+        "digestive health"
+      ],
+      "hypothetical_questions": [
+        "What are the color parameters of chicken droppings that can indicate abnormal conditions?",
+        "Do changes in lightness of chicken droppings signify any specific health issues?",
+        "How do the color parameters of normal chicken droppings compare to those of abnormal samples?",
+        "Can increased redness in chicken droppings be a reliable indicator of gastrointestinal problems?",
+        "What is the relationship between yellowness in chicken droppings and gastrointestinal health?",
+        "Are color changes in chicken droppings disease-specific or can they be caused by various factors?",
+        "How can the color of chicken droppings be used to monitor the health of chickens?",
+        "Do all abnormal gastrointestinal conditions in chickens result in increased redness and yellowness of droppings?",
+        "Can the analysis of color parameters in chicken droppings replace other diagnostic methods for gastrointestinal conditions?",
+        "Are there any other factors besides gastrointestinal conditions that can cause changes in the color of chicken droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Droppings color as a reflection of gastrointestinal status",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "short_chain_fatty_acids_gut_microbiota",
+    "content": "Short-chain fatty acids present in chicken droppings originate from microbial fermentation in the gut and reflect microbiota activity. Abnormal droppings tend to show higher concentrations of acetic acid and altered SCFA profiles, indicating intestinal dysbiosis or disturbed fermentation processes.",
+    "vector_context": {
+      "keywords": [
+        "SCFAs",
+        "gut microbiota",
+        "fermentation",
+        "intestinal dysbiosis"
+      ],
+      "hypothetical_questions": [
+        "What are short-chain fatty acids in chicken droppings derived from?",
+        "How do microbial fermentation and microbiota activity relate to each other in chickens?",
+        "What is indicated by abnormal droppings in chickens with higher concentrations of acetic acid?",
+        "Can intestinal dysbiosis be detected through the analysis of chicken droppings?",
+        "What role do fermentation processes play in the formation of short-chain fatty acids in chickens?",
+        "How do altered SCFA profiles in chicken droppings reflect microbiota activity?",
+        "Are short-chain fatty acids present in all types of chicken droppings?",
+        "What is the primary difference between normal and abnormal chicken droppings in terms of acetic acid concentration?",
+        "Do changes in SCFA profiles always indicate disturbed fermentation processes in chickens?",
+        "Can the analysis of chicken droppings be used as a diagnostic tool for intestinal health in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "SCFA profile of droppings as an indicator of gut microbiota activity",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "microbiota",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "fatty_acid_profile_droppings_health_marker",
+    "content": "The fatty acid composition of chicken droppings differs significantly between normal and abnormal samples. Normal droppings consistently contain higher levels of linoleic acid and lower levels of α-linolenic acid, suggesting that fatty acid profiles may serve as chemical markers of intestinal health status.",
+    "vector_context": {
+      "keywords": [
+        "fatty acids",
+        "linoleic acid",
+        "alpha-linolenic acid",
+        "health markers"
+      ],
+      "hypothetical_questions": [
+        "What is the difference in fatty acid composition between normal and abnormal chicken droppings?",
+        "Do chicken droppings contain linoleic acid and if so, what are its effects?",
+        "What role do fatty acid profiles play in determining intestinal health status in chickens?",
+        "Can abnormal chicken droppings be identified by their fatty acid composition?",
+        "How do the levels of α-linolenic acid vary between normal and abnormal chicken droppings?",
+        "Are there any other chemical markers of intestinal health status besides fatty acid profiles?",
+        "What is the significance of linoleic acid in normal chicken droppings?",
+        "Do the fatty acid compositions of chicken droppings change over time?",
+        "Can the analysis of fatty acid profiles in chicken droppings be used for diagnostic purposes?",
+        "How do the levels of linoleic acid and α-linolenic acid relate to each other in chicken droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Fatty acid profiles of droppings as markers of chicken health",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "biomarkers",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "volatile_compounds_droppings_fermentation",
+    "content": "Volatile compounds detected in chicken droppings originate from microbial degradation and fermentation of feed components in the digestive tract. Elevated levels of specific alcohols, organic acids, and indole-related compounds are more frequently observed in abnormal droppings, reflecting altered intestinal microbial activity.",
+    "vector_context": {
+      "keywords": [
+        "volatile compounds",
+        "fermentation",
+        "gut microbiota",
+        "intestinal metabolism"
+      ],
+      "hypothetical_questions": [
+        "What are the sources of volatile compounds in chicken droppings?",
+        "How do microbial activities affect the composition of chicken droppings?",
+        "What role does fermentation play in the formation of volatile compounds in chicken droppings?",
+        "Are there any specific alcohols that are commonly found in abnormal chicken droppings?",
+        "What is the relationship between intestinal microbial activity and the types of compounds found in chicken droppings?",
+        "Can the presence of indole-related compounds in chicken droppings indicate any health issues in chickens?",
+        "How do feed components contribute to the formation of volatile compounds in chicken droppings?",
+        "What are the differences in volatile compound profiles between normal and abnormal chicken droppings?",
+        "Do changes in intestinal microbial activity always result in the production of abnormal droppings?",
+        "Can the analysis of volatile compounds in chicken droppings be used as a diagnostic tool for chicken health?"
+      ]
+    },
+    "metadata": {
+      "title": "Volatile compounds in droppings as indicators of gut fermentation",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "microbiota",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "age_effect_on_droppings_characteristics",
+    "content": "The age of chickens significantly influences the physical and chemical characteristics of droppings, including texture, pH, dry matter, color, and metabolite composition. Age-related variation must be considered when interpreting droppings as indicators of gastrointestinal health or disease.",
+    "vector_context": {
+      "keywords": [
+        "age effect",
+        "broiler development",
+        "droppings variation",
+        "interpretation bias"
+      ],
+      "hypothetical_questions": [
+        "How does the age of chickens affect the texture of their droppings?",
+        "What is the relationship between the age of chickens and the pH of their droppings?",
+        "Do older chickens produce droppings with higher dry matter content than younger chickens?",
+        "Can the color of chicken droppings be used to determine the age of the chicken?",
+        "How do metabolite compositions in chicken droppings change as the chicken ages?",
+        "Why is it important to consider the age of chickens when interpreting their droppings?",
+        "Are there any specific age-related variations in chicken droppings that indicate gastrointestinal disease?",
+        "How does the age of chickens influence the overall composition of their droppings?",
+        "Can the physical characteristics of chicken droppings be used to determine the health status of the chicken?",
+        "What role does the age of chickens play in determining the chemical characteristics of their droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Influence of age on chicken droppings characteristics",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "risk_factor",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "non_invasive_droppings_based_health_monitoring",
+    "content": "Assessment of chicken droppings provides a non-invasive approach for early detection of gastrointestinal disturbances and overall health status. The integration of physical, chemical, and visual droppings characteristics supports the development of automated monitoring systems and artificial intelligence-based diagnostic tools.",
+    "vector_context": {
+      "keywords": [
+        "non-invasive monitoring",
+        "early detection",
+        "AI diagnostics",
+        "poultry welfare"
+      ],
+      "hypothetical_questions": [
+        "What are the benefits of assessing chicken droppings for health status?",
+        "How can chicken droppings be used for early detection of gastrointestinal disturbances?",
+        "What characteristics of droppings are used for health assessment?",
+        "Can automated monitoring systems be developed using chicken droppings data?",
+        "How does the integration of physical and chemical characteristics support health assessment?",
+        "What role does artificial intelligence play in diagnostic tools for chicken health?",
+        "Are there any non-invasive methods for detecting gastrointestinal disturbances in chickens?",
+        "Can visual characteristics of droppings be used for health diagnosis?",
+        "How do automated monitoring systems contribute to the overall health status of chickens?",
+        "What are the potential applications of artificial intelligence-based diagnostic tools in poultry farming?"
+      ]
+    },
+    "metadata": {
+      "title": "Droppings-based non-invasive monitoring of chicken health",
+      "disease": "general_gastrointestinal_disorders",
+      "category": "surveillance",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/9/1389"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_overview_01_definition",
+    "content": "Newcastle disease (ND) is a highly contagious viral disease of birds caused by virulent strains of avian orthoavulavirus 1 (AOAV-1), formerly known as Newcastle disease virus (NDV). The disease affects a wide range of avian species, with chickens being particularly susceptible to severe clinical disease and high mortality. Virulent Newcastle disease is recognised internationally as a transboundary animal disease and, in Australia, is classified as an emergency animal disease requiring immediate notification and official response.\n\nClinically, virulent Newcastle disease is characterised by systemic infection with prominent involvement of the respiratory, gastrointestinal, and nervous systems. Disease expression varies depending on viral strain virulence, host species and age, immune status, and environmental conditions. Outbreaks may be peracute with sudden death, or may progress rapidly with mixed respiratory, neurological, and digestive signs. Due to this variability and its close clinical resemblance to highly pathogenic avian influenza, laboratory confirmation is essential for definitive diagnosis.",
+    "vector_context": {
+      "keywords": [
+        "definition",
+        "AOAV1",
+        "emergency_animal_disease",
+        "notifiable",
+        "avian_influenza_differential"
+      ],
+      "hypothetical_questions": [
+        "What is the cause of Newcastle disease in birds?",
+        "Is Newcastle disease contagious among birds?",
+        "What is the former name of the virus that causes Newcastle disease?",
+        "Which avian species is particularly susceptible to severe clinical disease and high mortality from Newcastle disease?",
+        "Is Newcastle disease considered a transboundary animal disease internationally?",
+        "How is virulent Newcastle disease classified in Australia?",
+        "What systems are prominently involved in a systemic infection of virulent Newcastle disease?",
+        "Can Newcastle disease be diagnosed without laboratory confirmation?",
+        "What factors can affect the expression of Newcastle disease in birds?",
+        "How does the clinical presentation of Newcastle disease compare to highly pathogenic avian influenza?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Definition of virulent Newcastle disease",
+      "disease": "newcastle_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/",
+        "https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/newcastle"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_overview_02_importance",
+    "content": "Within the clinical spectrum of virulent Newcastle disease, manifestations affecting the head and neck region are of particular importance. These include swelling of facial tissues, cyanosis of the comb and wattles, and neurological abnormalities involving head and neck posture. Such signs are visually conspicuous at flock level and are commonly associated with advanced systemic disease.\n\nAlthough head-related signs are not pathognomonic for Newcastle disease, they play a critical role in field suspicion and early reporting. Their appearance often coincides with severe respiratory compromise, neurological involvement, and rapidly increasing mortality. In surveillance and emergency response systems, recognition of head manifestations serves as a key trigger for implementation of biocontainment measures and initiation of official diagnostic pathways.",
+    "vector_context": {
+      "keywords": [
+        "head_signs",
+        "field_recognition",
+        "systemic_disease",
+        "surveillance"
+      ],
+      "hypothetical_questions": [
+        "What are the common manifestations of Newcastle disease in the head and neck region?",
+        "How do neurological abnormalities affect the head and neck posture in Newcastle disease?",
+        "What is the significance of swelling of facial tissues in diagnosing Newcastle disease?",
+        "Are head-related signs pathognomonic for Newcastle disease?",
+        "What is the relationship between head manifestations and respiratory compromise in Newcastle disease?",
+        "How do head-related signs contribute to the suspicion and reporting of Newcastle disease?",
+        "What role do head manifestations play in triggering biocontainment measures and diagnostic pathways?",
+        "Can Newcastle disease be diagnosed solely based on head-related signs?",
+        "How do the signs of Newcastle disease in the head and neck region relate to mortality rates?",
+        "What is the importance of recognizing head manifestations in surveillance and emergency response systems for Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Importance of head-related manifestations",
+      "disease": "newcastle_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_01_endothelial_damage",
+    "content": "Virulent Newcastle disease virus causes widespread systemic infection that includes significant damage to vascular endothelium. Viral replication and associated inflammatory responses increase vascular permeability, resulting in congestion, haemorrhage, and leakage of plasma into surrounding tissues.\n\nIn the head region, this endothelial injury manifests as swelling of the face, eyelids, and peri-orbital tissues. Facial edema is therefore not a localized lesion but a visible expression of systemic vascular involvement. Its presence indicates advanced disease severity and is frequently observed in birds approaching death during velogenic Newcastle disease outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "pathogenesis",
+        "endothelial_damage",
+        "facial_edema",
+        "systemic_infection"
+      ],
+      "hypothetical_questions": [
+        "What is the effect of Virulent Newcastle disease virus on vascular endothelium?",
+        "How does viral replication contribute to increased vascular permeability?",
+        "What are the symptoms of endothelial injury in the head region of infected birds?",
+        "Is facial edema a localized lesion or a systemic issue in birds with Newcastle disease?",
+        "What is the relationship between facial edema and disease severity in birds?",
+        "Can facial edema be used as an indicator of advanced Newcastle disease?",
+        "How does the viral infection cause congestion, haemorrhage, and leakage of plasma?",
+        "What is the difference between velogenic and other forms of Newcastle disease?",
+        "In what stage of Newcastle disease is facial edema most frequently observed?",
+        "How does the presence of facial edema relate to the likelihood of death in infected birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Systemic endothelial damage and facial edema",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_02_respiratory_hypoxia",
+    "content": "Severe respiratory tract involvement is a hallmark of virulent Newcastle disease. Lesions affecting the trachea, bronchi, and lungs impair gas exchange and lead to progressive hypoxaemia. As oxygenation of the blood declines, peripheral tissues become cyanotic.\n\nThe comb and wattles, being highly vascular and exposed, are particularly sensitive to reduced oxygen levels. Hypoxia causes these structures to darken, appearing blue or purple. This cyanosis reflects systemic respiratory failure rather than primary disease of the comb itself and is commonly observed alongside marked respiratory distress and rapid deterioration.",
+    "vector_context": {
+      "keywords": [
+        "respiratory_failure",
+        "hypoxia",
+        "cyanosis",
+        "comb_wattles"
+      ],
+      "hypothetical_questions": [
+        "What are the effects of severe respiratory tract involvement in Newcastle disease?",
+        "How do lesions in the trachea, bronchi, and lungs affect gas exchange in the body?",
+        "What happens to the oxygenation of the blood as a result of severe respiratory tract involvement?",
+        "Why do peripheral tissues become cyanotic as oxygenation of the blood declines?",
+        "What is the effect of hypoxia on the comb and wattles of a bird with Newcastle disease?",
+        "How do the comb and wattles typically appear when they are affected by reduced oxygen levels?",
+        "Is cyanosis of the comb and wattles a sign of primary disease of the comb itself?",
+        "What is the relationship between cyanosis and systemic respiratory failure in Newcastle disease?",
+        "Can respiratory distress and rapid deterioration be expected alongside cyanosis in Newcastle disease?",
+        "How does the appearance of the comb and wattles relate to the overall health of a bird with Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Respiratory failure and hypoxia causing comb and wattle cyanosis",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_03_neurotropism",
+    "content": "Certain virulent strains of Newcastle disease virus exhibit marked neurotropism. Following systemic spread, the virus may cross the blood–brain barrier, leading to encephalitis and neuronal damage. Viral replication within the central nervous system disrupts normal neural function.\n\nThis neuroinvasion underlies many of the head and neck neurological signs observed in affected birds. Neurological involvement is particularly associated with velogenic neurotropic strains but may also develop during later stages of other severe infections.",
+    "vector_context": {
+      "keywords": [
+        "neurotropism",
+        "encephalitis",
+        "central_nervous_system",
+        "virulence"
+      ],
+      "hypothetical_questions": [
+        "What is the effect of Newcastle disease virus on the central nervous system?",
+        "Can Newcastle disease virus cross the blood–brain barrier in birds?",
+        "What are the consequences of viral replication within the central nervous system?",
+        "Which strains of Newcastle disease virus are most associated with neurological involvement?",
+        "How does the virus cause encephalitis and neuronal damage in birds?",
+        "What are the typical head and neck neurological signs observed in affected birds?",
+        "Do all strains of Newcastle disease virus exhibit neurotropism?",
+        "At what stage of infection do neurological signs typically develop in birds?",
+        "How does the neuroinvasion of Newcastle disease virus disrupt normal neural function?",
+        "Are velogenic neurotropic strains the only ones that can cause neurological signs in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Neurotropism and central nervous system invasion",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_cause_04_host_factors",
+    "content": "Expression of head-related signs varies between outbreaks due to host-related factors. Younger birds are more likely to exhibit pronounced neurological signs, while older birds may succumb rapidly to systemic disease before such signs become apparent. Partial immunity, whether from prior exposure or vaccination, may slow disease progression and allow time for neurological manifestations to develop.\n\nHighly virulent infections in fully susceptible flocks may result in sudden death with minimal observable signs. Consequently, absence of head signs does not exclude virulent Newcastle disease, particularly in peracute outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "host_factors",
+        "age_susceptibility",
+        "immunity",
+        "disease_variability"
+      ],
+      "hypothetical_questions": [
+        "What factors contribute to the variation in head-related signs between outbreaks of a disease?",
+        "Are older birds more likely to exhibit pronounced neurological signs during an outbreak?",
+        "Can partial immunity from prior exposure affect the progression of a disease in birds?",
+        "How does vaccination impact the development of neurological manifestations in birds?",
+        "What happens to younger birds in terms of neurological signs during an outbreak?",
+        "Can highly virulent infections result in sudden death with minimal observable signs in birds?",
+        "Does the absence of head signs necessarily mean that the disease is not virulent Newcastle disease?",
+        "How does the age of birds affect their susceptibility to systemic disease during an outbreak?",
+        "What role does prior exposure play in the development of neurological signs in birds?",
+        "Are peracute outbreaks of a disease more likely to result in sudden death with minimal observable signs in fully susceptible flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Host, age, and immunity factors influencing head signs",
+      "disease": "newcastle_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_01_shedding",
+    "content": "Infected birds shed large quantities of Newcastle disease virus through nasal, oral, and ocular secretions. These secretions originate from virus replication in the upper respiratory tract and associated tissues of the head.\n\nBirds exhibiting head-related respiratory signs actively contaminate their surroundings through coughing, sneezing, and nasal discharge. Shedding via head-region secretions plays a major role in within-flock transmission, particularly during the early and acute stages of infection.",
+    "vector_context": {
+      "keywords": [
+        "respiratory_shedding",
+        "ocular_secretions",
+        "within_flock_spread"
+      ],
+      "hypothetical_questions": [
+        "How do infected birds shed the Newcastle disease virus?",
+        "What are the primary sources of Newcastle disease virus secretions in birds?",
+        "Where does the virus replication occur in infected birds?",
+        "What are the common signs of respiratory infection in birds related to the head?",
+        "How do birds contaminate their surroundings when they are infected?",
+        "What role does shedding via head-region secretions play in the transmission of Newcastle disease?",
+        "At what stages of infection is within-flock transmission most prevalent?",
+        "Can birds shed the Newcastle disease virus through other means besides head-region secretions?",
+        "How does coughing contribute to the spread of Newcastle disease in birds?",
+        "Are nasal discharge and sneezing significant factors in the transmission of Newcastle disease among birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Virus shedding via head-region secretions",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_transmission_02_aerosol",
+    "content": "Respiratory distress accompanying head involvement increases aerosol generation within poultry housing. Fine droplets containing virus may remain suspended in air, especially in enclosed environments with high stocking density.\n\nThis facilitates rapid airborne spread over short distances, allowing infection of birds without direct contact. Aerosol transmission contributes to the explosive nature of virulent Newcastle disease outbreaks.",
+    "vector_context": {
+      "keywords": [
+        "aerosol_transmission",
+        "respiratory_distress",
+        "rapid_spread"
+      ],
+      "hypothetical_questions": [
+        "What role does head involvement play in respiratory distress within poultry housing?",
+        "How does aerosol generation increase in poultry housing with head involvement?",
+        "What type of environments are more prone to suspended fine droplets containing virus?",
+        "How does stocking density affect the suspension of fine droplets in the air?",
+        "Can birds become infected with Newcastle disease without direct contact with other birds?",
+        "What facilitates the rapid airborne spread of Newcastle disease over short distances?",
+        "How does aerosol transmission contribute to the spread of Newcastle disease?",
+        "What is the nature of virulent Newcastle disease outbreaks in poultry housing?",
+        "Does respiratory distress in birds increase the risk of airborne disease transmission?",
+        "How does the enclosed environment of poultry housing impact the spread of Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Aerosol amplification associated with respiratory distress",
+      "disease": "newcastle_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_01_facial_swelling",
+    "content": "One of the most striking clinical features of virulent Newcastle disease is swelling of the head and facial tissues. Birds may show marked peri-orbital edema, swollen eyelids, and generalized facial enlargement.\n\nThese changes are often accompanied by depression and respiratory distress and are commonly observed in multiple birds within affected flocks, indicating severe systemic disease.",
+    "vector_context": {
+      "keywords": [
+        "facial_edema",
+        "head_swelling",
+        "systemic_disease"
+      ],
+      "hypothetical_questions": [
+        "What are the clinical features of virulent Newcastle disease?",
+        "What is peri-orbital edema and how does it relate to Newcastle disease?",
+        "Do birds with Newcastle disease always show swelling of the head and facial tissues?",
+        "Can depression be a symptom of Newcastle disease in birds?",
+        "How does Newcastle disease affect the respiratory system of birds?",
+        "What are the common signs of severe systemic disease in birds with Newcastle disease?",
+        "Are the symptoms of Newcastle disease limited to individual birds or can they affect entire flocks?",
+        "How does generalized facial enlargement impact the health of birds with Newcastle disease?",
+        "Can swollen eyelids be an indicator of Newcastle disease in birds?",
+        "What is the relationship between facial swelling and respiratory distress in birds with Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Facial swelling and peri-orbital edema",
+      "disease": "newcastle_disease",
+      "category": "symptoms",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_02_cyanosis",
+    "content": "Cyanosis of the comb and wattles is a characteristic sign of virulent Newcastle disease. Affected tissues become dark blue or purple due to systemic hypoxia.\n\nWhen observed concurrently in multiple birds, cyanotic combs and wattles strongly suggest severe respiratory compromise and high outbreak severity, although they are not specific to Newcastle disease.",
+    "vector_context": {
+      "keywords": [
+        "cyanosis",
+        "comb_wattles",
+        "respiratory_compromise"
+      ],
+      "hypothetical_questions": [
+        "What is the characteristic sign of virulent Newcastle disease in birds?",
+        "What color do the comb and wattles turn due to systemic hypoxia?",
+        "Is cyanosis of the comb and wattles specific to Newcastle disease?",
+        "What does the presence of cyanotic combs and wattles in multiple birds indicate?",
+        "Can cyanosis of the comb and wattles be caused by factors other than Newcastle disease?",
+        "What is the relationship between cyanotic combs and wattles and respiratory compromise?",
+        "How does systemic hypoxia contribute to the development of cyanosis in birds?",
+        "Are cyanotic combs and wattles a reliable indicator of outbreak severity?",
+        "What is the difference between the color of affected tissues in cyanosis and normal tissues?",
+        "Can the presence of cyanotic combs and wattles in a single bird confirm a diagnosis of Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Cyanotic comb and wattles",
+      "disease": "newcastle_disease",
+      "category": "symptoms",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_symptoms_03_neurological",
+    "content": "Neurological signs involving the head and neck are frequently observed in virulent Newcastle disease. These include head tremors, abnormal head movements, torticollis (twisted neck), loss of balance, and incoordination.\n\nSuch signs indicate central nervous system involvement and are associated with poor prognosis. Birds that survive may retain permanent neurological impairment.",
+    "vector_context": {
+      "keywords": [
+        "neurological_signs",
+        "torticollis",
+        "head_tremors"
+      ],
+      "hypothetical_questions": [
+        "What are the common neurological signs observed in virulent Newcastle disease?",
+        "Are head tremors a typical symptom of Newcastle disease in birds?",
+        "Do abnormal head movements indicate central nervous system involvement in birds?",
+        "What is torticollis and how is it related to Newcastle disease?",
+        "Can birds with Newcastle disease recover from loss of balance and incoordination?",
+        "What is the prognosis for birds showing neurological signs of Newcastle disease?",
+        "Are neurological signs in Newcastle disease limited to the head and neck area?",
+        "Can birds that survive Newcastle disease experience permanent neurological impairment?",
+        "How does central nervous system involvement affect the prognosis of Newcastle disease in birds?",
+        "What are the long-term effects of Newcastle disease on the nervous system of birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Neurological head and neck manifestations",
+      "disease": "newcastle_disease",
+      "category": "symptoms",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_digestive_symptoms_diarrhea",
+    "content": "In some forms of Newcastle disease, particularly infections caused by more virulent strains, affected birds may develop digestive signs. These signs can include watery, greenish diarrhea, reflecting systemic viral infection and intestinal involvement. Abnormal feces may be observed alongside other clinical signs and can contribute to dehydration and general weakness in affected poultry.",
+    "vector_context": {
+      "keywords": [
+        "diarrhea",
+        "green feces",
+        "digestive signs"
+      ],
+      "hypothetical_questions": [
+        "What are the digestive signs of Newcastle disease in birds?",
+        "Can Newcastle disease cause diarrhea in affected birds?",
+        "What color is the diarrhea associated with Newcastle disease?",
+        "Do all forms of Newcastle disease cause digestive signs in birds?",
+        "What are the consequences of abnormal feces in birds with Newcastle disease?",
+        "How does Newcastle disease affect the intestinal system of birds?",
+        "Are there any other clinical signs that occur alongside abnormal feces in Newcastle disease?",
+        "Can Newcastle disease cause dehydration in affected poultry?",
+        "What are the systemic effects of viral infection in birds with Newcastle disease?",
+        "How does the virulence of the Newcastle disease strain impact the development of digestive signs in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Digestive signs associated with Newcastle disease",
+      "disease": "newcastle",
+      "category": "symptoms",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://extension.psu.edu/newcastle-disease-avian-paramyxovirus-1",
+        "https://www.poultrydvm.com/condition/newcastle-disease"
+      ]
+    }
+  },
+  {
+    "id": "newcastle_abnormal_feces_blood",
+    "content": "In severe cases of Newcastle disease, particularly with viscerotropic velogenic strains, gastrointestinal involvement may result in abnormal feces that occasionally contain blood. These changes are associated with hemorrhagic lesions in the intestinal tract and are typically observed in outbreaks with high virulence and mortality.",
+    "vector_context": {
+      "keywords": [
+        "bloody feces",
+        "velogenic strains"
+      ],
+      "hypothetical_questions": [
+        "What are the symptoms of severe Newcastle disease in birds?",
+        "Can viscerotropic velogenic strains of Newcastle disease cause gastrointestinal problems?",
+        "What kind of feces are associated with severe cases of Newcastle disease?",
+        "Do all strains of Newcastle disease cause hemorrhagic lesions in the intestinal tract?",
+        "What is the relationship between Newcastle disease and abnormal feces?",
+        "Are hemorrhagic lesions in the intestinal tract common in Newcastle disease outbreaks?",
+        "How do high virulence and mortality affect the symptoms of Newcastle disease?",
+        "Can Newcastle disease cause blood to appear in a bird's feces?",
+        "What are the typical characteristics of outbreaks with high virulence and mortality in Newcastle disease?",
+        "Are gastrointestinal changes always present in severe cases of Newcastle disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Severe gastrointestinal manifestations of Newcastle disease",
+      "disease": "newcastle",
+      "category": "symptoms",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.aphis.usda.gov/sites/default/files/nd_ee.pdf"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_01_suspicion",
+    "content": "Head-related signs play a key role in triggering field suspicion of virulent Newcastle disease. Observation of facial swelling, cyanotic combs, or neurological head and neck abnormalities—particularly when occurring in multiple birds—warrants immediate notification of animal health authorities.\n\nBecause these signs closely overlap with highly pathogenic avian influenza, field diagnosis based on head manifestations alone is not possible.",
+    "vector_context": {
+      "keywords": [
+        "field_suspicion",
+        "notifiable",
+        "AI_differential"
+      ],
+      "hypothetical_questions": [
+        "What are the key signs that trigger suspicion of virulent Newcastle disease?",
+        "How do facial swelling and cyanotic combs relate to Newcastle disease?",
+        "What are the neurological head and neck abnormalities associated with Newcastle disease?",
+        "Can a field diagnosis of Newcastle disease be made based on head manifestations alone?",
+        "What are the consequences of observing multiple birds with head-related signs?",
+        "How do animal health authorities respond to reports of suspected Newcastle disease?",
+        "What is the difference between Newcastle disease and highly pathogenic avian influenza?",
+        "Can head-related signs be used to distinguish between Newcastle disease and avian influenza?",
+        "Why is it important to notify animal health authorities immediately if head-related signs are observed?",
+        "What are the implications of overlapping signs between Newcastle disease and highly pathogenic avian influenza for field diagnosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Head signs as triggers for field suspicion",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/newcastle",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_diagnosis_02_sampling",
+    "content": "Birds displaying respiratory or neurological head signs are appropriate candidates for diagnostic sampling. Oropharyngeal, nasal, and conjunctival swabs are commonly used to detect viral shedding.\n\nRecently dead birds with neurological manifestations may provide valuable tissue samples. Diagnostic investigation should always include exclusion of avian influenza.",
+    "vector_context": {
+      "keywords": [
+        "sampling",
+        "laboratory_confirmation",
+        "avian_influenza_exclusion"
+      ],
+      "hypothetical_questions": [
+        "What are the symptoms that require a vet to take a sample from a bird?",
+        "How do I know if my chicken has a respiratory problem that needs testing?",
+        "Which swab types are most effective for detecting viral shedding in poultry?",
+        "What diagnostic samples can be collected from recently dead birds with neurological signs?",
+        "What is the protocol for excluding avian influenza in birds with neurological manifestations?",
+        "Can oropharyngeal swabs be used to detect viral shedding in birds with respiratory symptoms?",
+        "What are the appropriate tissue samples to collect from birds with neurological signs for diagnostic investigation?",
+        "What are the common swab types used for diagnostic sampling in birds with respiratory or neurological signs?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Sampling strategy informed by head involvement",
+      "disease": "newcastle_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry",
+        "https://www.woah.org/en/disease/newcastle-disease/"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_control_01_response",
+    "content": "Severe head-related signs indicate high virulence and substantial transmission risk. There is no permitted curative treatment for individual birds in suspected or confirmed virulent Newcastle disease outbreaks in Australia.\n\nRecognition of head signs should prompt immediate implementation of quarantine, movement restriction, and official response measures to prevent further spread.",
+    "vector_context": {
+      "keywords": [
+        "control_measures",
+        "quarantine",
+        "no_treatment"
+      ],
+      "hypothetical_questions": [
+        "What are the symptoms of Newcastle disease in chickens?",
+        "Can you treat Newcastle disease in individual birds in Australia?",
+        "Recognizing severe head signs in poultry, what are the immediate actions to take?",
+        "What are the movement restrictions for suspected Newcastle disease outbreaks?",
+        "How does virulent Newcastle disease affect the head of infected birds?",
+        "What is the pathology of Newcastle disease in poultry and its relation to head signs?",
+        "Severe head signs in chickens, what to do?",
+        "What are the official response measures for suspected virulent Newcastle disease outbreaks?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Response implications of head manifestations",
+      "disease": "newcastle_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.agriculture.gov.au/biosecurity-trade/policy/australia/naqs/naqs-target-lists/newcastle"
+      ]
+    }
+  },
+  {
+    "id": "ncd_head_prevention_01_training",
+    "content": "Training of poultry workers and veterinarians to recognise head-related signs is a key preventive strategy for Newcastle disease. Facial swelling, cyanotic combs, and abnormal head or neck posture are visually prominent and can be detected early.\n\nEarly recognition supports rapid reporting, timely containment, and reduction of spread within and between poultry populations.",
+    "vector_context": {
+      "keywords": [
+        "prevention",
+        "training",
+        "early_detection",
+        "surveillance"
+      ],
+      "hypothetical_questions": [
+        "What are the signs of Newcastle disease in chickens?",
+        "Can facial swelling be a symptom of a disease in poultry?",
+        "How do I recognize Newcastle disease in my chicken flock?",
+        "What are the early signs of illness in poultry that I should look out for?",
+        "What is the role of cyanotic combs in the diagnosis of Newcastle disease in poultry?",
+        "Can abnormal head or neck posture be an indicator of Newcastle disease in birds?",
+        "What training is necessary for veterinarians to diagnose Newcastle disease?",
+        "Are there specific drugs used to treat Newcastle disease in poultry populations?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Training and early recognition of head-related signs",
+      "disease": "newcastle_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.woah.org/en/disease/newcastle-disease/",
+        "https://www.merckvetmanual.com/poultry/newcastle-disease-and-other-paramyxovirus-infections/newcastle-disease-in-poultry"
+      ]
+    }
+  }
+]

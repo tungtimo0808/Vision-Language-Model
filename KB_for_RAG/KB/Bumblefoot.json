@@ -1,0 +1,969 @@
+[
+  {
+    "id": "bumblefoot_overview_definition",
+    "content": "Bumblefoot, clinically known as ulcerative pododermatitis or plantar pododermatitis, is a common inflammatory or degenerative condition of the avian footpad. It ranges from mild redness and epithelial thickening to severe, deep-seated infections involving abscesses, necrotic plugs (scabs), and in advanced stages, infection of the underlying bones and joints (osteomyelitis). While commonly associated with captive poultry and birds of prey, it is a significant welfare concern in commercial poultry production, particularly in broilers and turkeys.",
+    "vector_context": {
+      "keywords": [
+        "bumblefoot",
+        "pododermatitis",
+        "poultry",
+        "inflammation",
+        "footpad"
+      ],
+      "hypothetical_questions": [
+              "What is Bumblefoot in chickens and why does it occur?",
+              "Is Bumblefoot the same as pododermatitis in poultry?",
+              "How serious is Bumblefoot if left untreated?",
+              "What parts of the chicken foot are affected by Bumblefoot?",
+              "Is Bumblefoot more common in backyard hens or commercial flocks?",
+              "Is Bumblefoot considered an infection or an inflammatory condition?",
+              "Can Bumblefoot impact chicken welfare and mobility?",
+              "Why is Bumblefoot such a common foot problem in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of Bumblefoot (Pododermatitis)",
+      "disease": "Bumblefoot",
+      "category": "overview",
+      "source_urls": [
+        "https://www.aphis.usda.gov/sites/default/files/ac-aid-pododermatitis-bumblefoot-in-birds.pdf?utm_source=chatgpt.com",
+        "https://education.nsw.gov.au/teaching-and-learning/animals-in-schools/animals-in-schools-resources/information-and-fact-sheets-about-animals/bumblefoot-plantar-pododermatitis",
+        "https://poultrydvm.com/condition/bumblefoot"
+      ]
+    }
+  },
+
+  {
+    "id": "bumblefoot_cause_etiology",
+    "content": "The primary bacterial agent isolated from Bumblefoot lesions is Staphylococcus aureus, though other opportunistic pathogens such as Escherichia coli, Proteus, and Pseudomonas may also be present. The condition is multi-factorial, triggered by trauma or pressure necrosis of the footpad skin. Predisposing causes include poor litter quality (high moisture and ammonia levels), improper perch design (rough surfaces or incorrect diameter), nutritional deficiencies (specifically Vitamin A or Biotin), and obesity, which increases the weight-bearing pressure on the plantar surface.",
+    "vector_context": {
+      "keywords": [
+        "Staphylococcus aureus",
+        "etiology",
+        "trauma",
+        "litter quality",
+        "nutrition"
+      ],
+      "hypothetical_questions": [
+                "What bacteria are usually involved in causing Bumblefoot?",
+                "Is Staphylococcus aureus the main pathogen in Bumblefoot?",
+                "How does dirty or wet litter contribute to Bumblefoot?",
+                "Can poor nutrition increase the risk of Bumblefoot forming?",
+                "Does excess body weight make chickens more prone to Bumblefoot?",
+                "Can rough or poorly designed perches trigger Bumblefoot injuries?",
+                "Is Bumblefoot caused by a combination of environmental and biological factors?",
+                "Why do microtraumas in the footpad lead to Bumblefoot?"
+      ]
+    },
+    "metadata": {
+      "title": "Causes and Etiology of Bumblefoot",
+      "disease": "Bumblefoot",
+      "category": "cause",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/staphylococcosis/staphylococcosis-in-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312823/"
+      ]
+    }
+  },
+  
+  {
+    "id": "bumblefoot_transmission_pathogenesis",
+    "content": "Bumblefoot is not typically transmitted directly from bird to bird in a contagious manner. Instead, the 'transmission' of the infection occurs when environmental bacteria, predominantly Staphylococcus aureus, exploit a break in the skin's protective barrier. Pathogenesis begins with epithelial damage caused by damp litter or mechanical injury, followed by bacterial colonization of the subcutaneous tissue. Once inside, the bacteria form biofilms and localized abscesses, which can eventually track deeper into the flexor tendons and phalangeal bones.",
+    "vector_context": {
+      "keywords": [
+        "pathogenesis",
+        "biofilm",
+        "colonization",
+        "skin barrier",
+        "infection"
+      ],
+      "hypothetical_questions": [
+              "Is Bumblefoot contagious between birds?",
+              "How do bacteria enter the chicken’s foot to start Bumblefoot?",
+              "Why do tiny cracks in the skin escalate into Bumblefoot?",
+              "What happens inside the foot once Staphylococcus reaches deeper tissues?",
+              "How does a small foot injury develop into a large abscess?",
+              "What stages occur during Bumblefoot pathogenesis?",
+              "Do Bumblefoot infections form bacterial biofilms?",
+              "Why can Bumblefoot progress from mild irritation to deep infection?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission and Pathogenesis",
+      "disease": "Bumblefoot",
+      "category": "transmission",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8251962/",
+        "https://pubmed.ncbi.nlm.nih.gov/35076352/"
+      ]
+    }
+  },
+
+  {
+    "id": "bumblefoot_symptom_clinical_signs",
+    "content": "Clinical signs of Bumblefoot include lameness, reluctance to move or stand, and visible abnormalities on the bottom of the foot. Early symptoms manifest as thinning of the skin or small red calluses. As the condition progresses, a characteristic dark, hard, black scab (necrotic plug) develops over the central footpad. Severe cases involve significant swelling (edema) of the foot and toes, heat in the affected limb, and in chronic instances, a loss of digital function or systemic malaise due to pain and secondary infection.",
+    "vector_context": {
+      "keywords": [
+        "lameness",
+        "necrotic plug",
+        "scab",
+        "swelling",
+        "edema"
+      ],
+      "hypothetical_questions": [
+              "What early symptoms indicate a chicken might have Bumblefoot?",
+              "Why do chickens limp when Bumblefoot develops?",
+              "What does the typical dark scab of Bumblefoot look like?",
+              "Does Bumblefoot cause swelling or redness in the footpad?",
+              "What clinical differences appear between early and advanced Bumblefoot?",
+              "Is a Bumblefoot lesion painful for the bird?",
+              "Can Bumblefoot reduce appetite or activity levels?",
+              "What physical footpad changes should owners look for?",
+              "Does Bumblefoot lead to toe deformities or loss of function?",
+              "Can severe Bumblefoot cause systemic signs?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms and Clinical Signs",
+      "disease": "Bumblefoot",
+      "category": "symptom",
+      "source_urls": [
+        "https://poultrydvm.com/condition/bumblefoot",
+        "https://www.merckvetmanual.com/bird-owners/disorders-and-diseases-of-birds/skin-and-feather-disorders-of-pet-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_pathology_lesions",
+    "content": "Histopathologically and macroscopically, Bumblefoot lesions exhibit chronic granulomatous inflammation. Gross pathology reveals a central caseous (cheese-like) core of necrotic debris and inflammatory cells. Microscopic examination of the footpad tissue often shows extensive necrosis, heterophil infiltration, and fibroplasia. In advanced cases, the infection causes septic arthritis or osteomyelitis, characterized by the destruction of the distal phalanges and articular surfaces. Edema and necrosis of the footpad are hallmark indicators in poultry photomicrographs.",
+    "vector_context": {
+      "keywords": [
+        "granulomatous",
+        "caseous core",
+        "necrosis",
+        "heterophil",
+        "osteomyelitis"
+      ],
+      "hypothetical_questions": [
+            "What does a Bumblefoot lesion look like internally?",
+            "Why do Bumblefoot wounds contain a cheese-like core?",
+            "What type of inflammation is present in Bumblefoot lesions?",
+            "Which immune cells are commonly found in Bumblefoot tissue?",
+            "How does bone become involved in advanced Bumblefoot?",
+            "What is osteomyelitis in the context of Bumblefoot?",
+            "Are granulomas typical in chronic Bumblefoot cases?",
+            "What does necrosis indicate in a Bumblefoot lesion?",
+            "How does septic arthritis occur as a Bumblefoot complication?",
+            "What are the key microscopic changes visible in Bumblefoot pathology?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology and Gross Lesions",
+      "disease": "Bumblefoot",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.merckvetmanual.com/multimedia/image/edema-and-necrosis-footpad-photomicrograph-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312823/"
+      ]
+    }
+  },
+
+  {
+    "id": "bumblefoot_diagnosis_procedures",
+    "content": "Diagnosis of Bumblefoot is primarily based on physical examination and the presence of characteristic plantar lesions. Veterinarians use a grading system (typically Stage 1 to 5) to assess severity. Diagnostic confirmation may involve bacterial culture and sensitivity testing of the exudate to identify the specific Staphylococcus strain. In chronic or severe cases, radiography (X-rays) is essential to determine if the infection has spread to the bone (osteomyelitis) or joints, which significantly alters the prognosis and treatment plan.",
+    "vector_context": {
+      "keywords": [
+        "diagnosis",
+        "radiography",
+        "bacterial culture",
+        "grading system",
+        "X-ray"
+      ],
+      "hypothetical_questions": [
+                "How do veterinarians diagnose Bumblefoot in chickens?",
+                "Is visual examination enough to confirm Bumblefoot?",
+                "What does the Bumblefoot grading system measure?",
+                "When should bacterial cultures be taken for Bumblefoot?",
+                "Why is antibiotic sensitivity testing recommended for Bumblefoot?",
+                "How can radiographs help in diagnosing severe Bumblefoot?",
+                "What X-ray signs indicate bone infection from Bumblefoot?",
+                "Does diagnosis influence treatment decisions for Bumblefoot?",
+                "How is joint involvement confirmed in Bumblefoot cases?",
+                "Can early diagnosis improve recovery outcomes?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis and Clinical Evaluation",
+      "disease": "Bumblefoot",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.aphis.usda.gov/sites/default/files/ac-aid-pododermatitis-bumblefoot-in-birds.pdf?utm_source=chatgpt.com",
+        "https://pubmed.ncbi.nlm.nih.gov/24640931/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_treatment_protocol",
+    "content": "Treatment for Bumblefoot depends on the severity grade. Mild cases may respond to environmental correction and soaking the feet in warm water with Epsom salts or povidone-iodine. Moderate to severe cases require surgical debridement to remove the necrotic caseous 'plug.' Following surgery, the wound must be flushed with antiseptics, packed with antibiotic ointment (such as silver sulfadiazine), and bandaged securely. Systemic antibiotics (e.g., amoxicillin, clindamycin, or cephalexin) are often prescribed based on culture results, alongside pain management using NSAIDs like Meloxicam.",
+    "vector_context": {
+      "keywords": [
+        "debridement",
+        "Epsom salt",
+        "antibiotics",
+        "Meloxicam",
+        "bandaging"
+      ],
+      "hypothetical_questions": [
+            "What are the best treatment options for mild Bumblefoot?",
+            "When is surgical removal of the Bumblefoot core necessary?",
+            "Why must the necrotic plug be removed during treatment?",
+            "What antibiotics are commonly used to treat Bumblefoot?",
+            "Should antibiotics be selected based on lab testing?",
+            "How is pain controlled during Bumblefoot treatment?",
+            "Do Epsom salt soaks help reduce swelling and infection?",
+            "Can early Bumblefoot heal without surgical intervention?",
+            "How long does recovery usually take after Bumblefoot treatment?",
+            "Is bandaging required after treating Bumblefoot?",
+            "What happens if Bumblefoot is treated incorrectly?",
+            "Can Bumblefoot treatment fail even with antibiotics?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment and Management",
+      "disease": "Bumblefoot",
+      "category": "treatment",
+      "source_urls": [
+        "https://poultrydvm.com/condition/bumblefoot",
+        "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/bacterial-diseases-of-pet-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_prevention_strategies",
+    "content": "Prevention focuses on mitigating environmental risk factors. Maintaining dry, clean, and friable litter is critical to prevent skin softening and ammonia burns. Perches should be designed with appropriate diameters and smooth surfaces to distribute weight evenly and prevent pressure sores. Nutritional optimization, ensuring adequate levels of biotin and zinc, supports skin integrity. Regular foot inspections, especially in heavy breeds or overweight birds, allow for early intervention before lesions become deep-seated.",
+    "vector_context": {
+      "keywords": [
+        "prevention",
+        "biotin",
+        "perch design",
+        "litter management",
+        "zinc"
+      ],
+      "hypothetical_questions": [
+            "What daily practices help prevent Bumblefoot in a flock?",
+            "Why is maintaining dry litter important for preventing Bumblefoot?",
+            "How does perch design impact the risk of Bumblefoot?",
+            "What nutritional factors help keep footpads healthy?",
+            "How often should chickens be checked for early Bumblefoot signs?",
+            "Are large or heavy breeds more susceptible to Bumblefoot even with prevention?",
+            "Can better ventilation reduce Bumblefoot incidence?",
+            "Is it easier to prevent Bumblefoot than to treat it?",
+            "What flock management mistakes contribute to recurring Bumblefoot?",
+            "Can flock-wide preventive programs reduce Bumblefoot cases?",
+            "How does early detection change outcomes for Bumblefoot?",
+            "Are prevention steps different for broilers versus layers?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention and Biosecurity",
+      "disease": "Bumblefoot",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/A_TAHSC_Sep_2015_Part_A.pdf",
+        "https://education.nsw.gov.au/teaching-and-learning/animals-in-schools/animals-in-schools-resources/information-and-fact-sheets-about-animals/bumblefoot-plantar-pododermatitis"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_differential_diagnosis",
+    "content": "Differential diagnosis for Bumblefoot (Pododermatitis) includes several conditions that manifest with foot swelling or lameness. Articular Gout must be ruled out; it presents as hard, white urate deposits in the joints rather than a necrotic external scab. Mycoplasma synovitis can cause joint swelling and lameness but is usually systemic and affects the hock joints and keel bone bursa as well. Other differentials include nutritional deficiencies (Vitamin B2/Riboflavin causing curled-toe paralysis) or localized trauma/fractures without bacterial infection.",
+    "vector_context": {
+      "keywords": [
+        "differential diagnosis",
+        "articular gout",
+        "Mycoplasma synovitis",
+        "riboflavin deficiency",
+        "urate deposits"
+      ],
+      "hypothetical_questions": [
+                "What conditions can be confused with Bumblefoot?",
+                "How can Bumblefoot be distinguished from articular gout?",
+                "Does joint swelling automatically indicate Bumblefoot?",
+                "How does Mycoplasma synoviae differ from Bumblefoot symptoms?",
+                "Can vitamin deficiencies mimic Bumblefoot lameness?",
+                "What foot problems resemble Bumblefoot but are non-infectious?",
+                "Why is differential diagnosis important for lameness in chickens?",
+                "Can fractures be mistaken for Bumblefoot lesions?",
+                "Why do vets examine for urate deposits during diagnosis?",
+                "What happens if Bumblefoot is misdiagnosed and treated incorrectly?"
+      ]
+    },
+    "metadata": {
+      "title": "Differential Diagnosis",
+      "disease": "Bumblefoot",
+      "category": "differential",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/staphylococcosis/staphylococcosis-in-poultry",
+        "https://pubmed.ncbi.nlm.nih.gov/38393107/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_grading_welfare_standard",
+    "content": "Clinical grading of Bumblefoot (Pododermatitis) is essential for welfare assessment, particularly in commercial broiler and turkey production. A standardized 3-point scale is often used: Grade 0 indicates a healthy footpad with no lesions; Grade 1 indicates mild lesions involving superficial discoloration, hyperkeratosis, or small calluses; and Grade 2 indicates severe lesions with deep-seated ulcers, large necrotic scabs, and significant swelling. These scores are used by the World Organisation for Animal Health (WOAH) and regional authorities as key welfare indicators to monitor environmental quality and bird health.",
+    "vector_context": {
+      "keywords": [
+        "grading scale",
+        "welfare indicator",
+        "hyperkeratosis",
+        "ulceration",
+        "clinical assessment"
+      ],
+      "hypothetical_questions": [
+                "How is Bumblefoot severity graded in welfare assessments?",
+                "What does a Grade 1 Bumblefoot lesion represent?",
+                "Why are Grade 2 lesions considered severe in commercial audits?",
+                "How do farms use footpad scoring in inspections?",
+                "Which poultry welfare groups rely on footpad scoring systems?",
+                "Can high Bumblefoot scores indicate poor living conditions?",
+                "How does grading help track health trends in flocks?",
+                "Are Bumblefoot grading systems standardized across countries?",
+                "Why is hyperkeratosis included in footpad scoring?",
+                "Can grading influence management and housing changes?"
+      ]
+    },
+    "metadata": {
+      "title": "Clinical Grading and Welfare Standards",
+      "disease": "Bumblefoot",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.woah.org/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/A_TAHSC_Sep_2015_Part_A.pdf",
+        "https://www.aphis.usda.gov/sites/default/files/ac-aid-pododermatitis-bumblefoot-in-birds.pdf?utm_source=chatgpt.com"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_cause_environmental_ammonia",
+    "content": "Environmental moisture and ammonia concentrations in the litter are primary catalysts for Bumblefoot development. High litter moisture (exceeding 25-30%) causes maceration of the plantar skin, which weakens the keratinized epithelial barrier. Ammonia ($NH_3$) produced by the microbial breakdown of uric acid further chemically irritates the skin, leading to chemical burns and focal necrosis. This synergy between moisture and chemical irritation creates micro-fissures that allow opportunistic Staphylococcus aureus to invade the subcutaneous tissue.",
+    "vector_context": {
+      "keywords": [
+        "ammonia",
+        "litter moisture",
+        "maceration",
+        "chemical burns",
+        "skin barrier"
+      ],
+      "hypothetical_questions": [
+            "How does wet litter contribute to Bumblefoot formation?",
+            "What ammonia level becomes harmful to chicken footpads?",
+            "Why does ammonia burn the skin and promote Bumblefoot?",
+            "How does moisture weaken the natural barrier of the footpad?",
+            "What happens when moisture and ammonia act together on the skin?",
+            "Can ammonia alone cause Bumblefoot without injury?",
+            "How do micro-cracks form under poor litter conditions?",
+            "What litter moisture percentage is considered unsafe for foot health?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental Ammonia and Moisture Factors",
+      "disease": "Bumblefoot",
+      "category": "cause",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11067544/",
+        "https://pubmed.ncbi.nlm.nih.gov/13183861/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_treatment_surgical_debridement",
+    "content": "Surgical debridement is the standard clinical intervention for advanced Bumblefoot (Grades 3-5). The procedure involves the radical excision of the necrotic 'plug' or 'kernal' (caseous exudate). The clinician must remove all devitalized tissue until healthy, bleeding margins are visible. If the infection has reached the flexor tendons, careful dissection is required to avoid permanent lameness. Following debridement, the cavity is typically flushed with a dilute chlorhexidine or povidone-iodine solution and packed with silver sulfadiazine or a triple-antibiotic ointment to prevent bacterial regrowth.",
+    "vector_context": {
+      "keywords": [
+        "surgical debridement",
+        "necrotic plug",
+        "caseous exudate",
+        "excision",
+        "wound flushing"
+      ],
+      "hypothetical_questions": [
+            "When does Bumblefoot require surgical debridement?",
+            "What exactly is removed during Bumblefoot surgery?",
+            "Why must all necrotic tissue be fully removed?",
+            "How do vets avoid tendon damage during Bumblefoot operations?",
+            "What solutions are used to flush Bumblefoot wounds?",
+            "Why is silver sulfadiazine applied after surgery?",
+            "Can incomplete debridement lead to Bumblefoot recurrence?",
+            "How does surgery improve antibiotic effectiveness?",
+            "What risks come with severe Bumblefoot surgical procedures?",
+            "Is surgical treatment always successful for advanced Bumblefoot?",
+            "How long does healing typically take after debridement?",
+            "Can surgery restore full foot function?"
+      ]
+    },
+    "metadata": {
+      "title": "Surgical Debridement Procedures",
+      "disease": "Bumblefoot",
+      "category": "treatment",
+      "source_urls": [
+        "https://poultrydvm.com/condition/bumblefoot",
+        "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/bacterial-diseases-of-pet-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_pathology_staphylococcal_biofilms",
+    "content": "Staphylococcus aureus, the primary pathogen in Bumblefoot, often forms complex biofilms within the abscessed tissue of the footpad. These biofilms protect the bacteria from the bird's immune response and significantly reduce the efficacy of systemic antibiotic therapy. Histopathological analysis shows that the infection is characterized by a central zone of liquefactive and caseous necrosis surrounded by a zone of heterophils and giant cells, eventually leading to a fibrous capsule. This encapsulated structure is why topical treatments alone are often unsuccessful for deep-seated infections.",
+    "vector_context": {
+      "keywords": [
+        "biofilm",
+        "Staphylococcus aureus",
+        "liquefactive necrosis",
+        "heterophils",
+        "encapsulation"
+      ],
+      "hypothetical_questions": [
+            "Why are some Bumblefoot infections resistant to antibiotics?",
+            "What is a bacterial biofilm in a Bumblefoot lesion?",
+            "How do biofilms protect Staphylococcus inside the footpad?",
+            "What does liquefactive necrosis look like in Bumblefoot?",
+            "Which immune cells form the wall around a Bumblefoot abscess?",
+            "Why do topical treatments often fail in deep Bumblefoot infections?",
+            "How does the encapsulated lesion prevent drug penetration?",
+            "What microscopic signs indicate chronic Bumblefoot?",
+            "Can biofilms explain why Bumblefoot recurs after treatment?",
+            "How does pathology shape the recommended treatment plan?"
+      ]
+    },
+    "metadata": {
+      "title": "Staphylococcal Biofilms and Pathology",
+      "disease": "Bumblefoot",
+      "category": "pathology",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8251962/",
+        "https://pubmed.ncbi.nlm.nih.gov/35076352/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_prevention_nutritional_biotin_zinc",
+    "content": "Nutritional management for the prevention of Bumblefoot focuses on supporting the integrity of the keratinized epithelium. Biotin (Vitamin $B_7$) is a crucial cofactor for lipogenesis and keratin synthesis; deficiencies lead to fragile skin that easily cracks. Similarly, Zinc ($Zn$) is essential for wound healing and skin cellular regeneration. Supplements of chelated zinc and methionine-biotin complexes are frequently added to broiler and turkey rations to strengthen the footpad and increase resistance to mechanical and chemical trauma from the litter environment.",
+    "vector_context": {
+      "keywords": [
+        "Biotin",
+        "Zinc",
+        "keratin synthesis",
+        "nutritional prevention",
+        "methionine"
+      ],
+      "hypothetical_questions": [
+              "How does biotin deficiency affect a chicken’s foot health?",
+              "Why is zinc essential for wound healing in poultry?",
+              "Can feed supplements reduce Bumblefoot risk?",
+              "What nutrients support stronger keratin in the footpad?",
+              "Are fast-growing broilers more sensitive to nutrient imbalance?",
+              "Do chelated minerals improve absorption for better foot health?",
+              "Can improved diet alone prevent Bumblefoot?",
+              "What signs indicate Bumblefoot caused by nutritional issues?",
+              "Is biotin supplementation standard in commercial feed?",
+              "How does methionine contribute to healthy skin?",
+              "Can nutrient problems worsen existing Bumblefoot cases?",
+              "Can nutrition replace environmental prevention measures?"
+      ]
+    },
+    "metadata": {
+      "title": "Nutritional Prevention and Skin Integrity",
+      "disease": "Bumblefoot",
+      "category": "prevention",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312823/",
+        "https://pubmed.ncbi.nlm.nih.gov/25653750/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_differential_articular_gout",
+    "content": "Articular Gout is a critical differential diagnosis for Bumblefoot, as both present with swollen joints and lameness. While Bumblefoot is an infectious condition with a necrotic external scab, Articular Gout is a metabolic disorder characterized by the deposition of monosodium urate crystals in the synovial joints. Gout lesions typically appear as hard, whitish nodules (tophi) beneath the skin, often involving the hock and toe joints. Unlike Bumblefoot, Articular Gout is usually associated with renal failure or high-protein diets and will not respond to antibiotic therapy or debridement.",
+    "vector_context": {
+      "keywords": [
+        "Articular Gout",
+        "urate crystals",
+        "tophi",
+        "metabolic disorder",
+        "joint swelling"
+      ],
+      "hypothetical_questions": [
+                "How can gout be mistaken for Bumblefoot?",
+                "What do urate tophi look like in avian joints?",
+                "Why doesn't gout improve with Bumblefoot antibiotics?",
+                "Which joints are commonly affected by gout in chickens?",
+                "How does kidney damage lead to gout symptoms?",
+                "Can high-protein diets trigger gout development?",
+                "What visual differences separate gout from Bumblefoot?",
+                "Does lameness always indicate an infection like Bumblefoot?",
+                "How is gout confirmed in poultry?",
+                "Why is accurate diagnosis important for treating gout?"
+      ]
+    },
+    "metadata": {
+      "title": "Differential Diagnosis: Articular Gout",
+      "disease": "Bumblefoot",
+      "category": "differential",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/staphylococcosis/staphylococcosis-in-poultry",
+        "https://pubmed.ncbi.nlm.nih.gov/38393107/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_diagnosis_radiographic_osteomyelitis",
+    "content": "Radiographic evaluation is the gold standard for diagnosing osteomyelitis secondary to chronic Bumblefoot. Radiographs should be taken in both lateral and dorsoventral views. Key indicators of bone involvement include periosteal reaction, bony lysis (destruction) of the phalanges, and joint space narrowing. If radiographic evidence shows significant bone lysis or septic arthritis of the interphalangeal joints, the prognosis for full recovery is guarded, and aggressive surgical intervention or digit amputation may be the only clinical options.",
+    "vector_context": {
+      "keywords": [
+        "osteomyelitis",
+        "radiography",
+        "bony lysis",
+        "periosteal reaction",
+        "prognosis"
+      ],
+      "hypothetical_questions": [
+              "When should X-rays be taken for suspected Bumblefoot?",
+              "What radiographic signs indicate bone infection?",
+              "What does periosteal reaction mean on chicken X-rays?",
+              "How is bone lysis detected in Bumblefoot imaging?",
+              "What does narrowed joint space imply for prognosis?",
+              "When is amputation considered for severe Bumblefoot?",
+              "Can radiographs predict the success of treatment?",
+              "Why do vets take multiple X-ray angles?",
+              "How does osteomyelitis affect long-term outcomes?",
+              "Is radiography essential for diagnosing chronic Bumblefoot?"
+      ]
+    },
+    "metadata": {
+      "title": "Radiographic Diagnosis of Osteomyelitis",
+      "disease": "Bumblefoot",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/24640931/",
+        "https://www.aphis.usda.gov/sites/default/files/ac-aid-pododermatitis-bumblefoot-in-birds.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_symptom_systemic_staphylococcosis",
+    "content": "In severe, untreated cases of Bumblefoot, the localized Staphylococcus aureus infection can become systemic, a condition known as staphylococcosis or staphylococcal septicemia. Symptoms of systemic involvement include lethargy, ruffled feathers, decreased water/feed intake, and potentially endocarditis or osteomyelitis in other parts of the skeletal system. Systemic spread is often marked by the presence of bacteria in the bloodstream, leading to high mortality rates. This progression highlights the importance of early detection and management of localized footpad lesions.",
+    "vector_context": {
+      "keywords": [
+        "staphylococcosis",
+        "septicemia",
+        "systemic infection",
+        "mortality",
+        "lethargy"
+      ],
+      "hypothetical_questions": [
+              "Can Bumblefoot spread beyond the footpad to other organs?",
+              "What are signs of systemic Staphylococcus infection in birds?",
+              "How does a localized Bumblefoot infection progress to septicemia?",
+              "Why does untreated Bumblefoot increase death risk?",
+              "What organs can be infected if Staphylococcus spreads from the foot?",
+              "Can Bumblefoot lead to internal organ abscesses?"
+      ]
+    },
+    "metadata": {
+      "title": "Systemic Complications: Staphylococcosis",
+      "disease": "Bumblefoot",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/staphylococcosis/staphylococcosis-in-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12388063/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_treatment_postoperative_bandaging",
+    "content": "Postoperative bandaging for Bumblefoot is critical to protect the surgical site and provide pressure relief (offloading). A 'ball bandage' or a 'donut bandage' is typically used. The donut bandage is shaped to encircle the lesion site, transferring the bird's weight to the healthy surrounding tissues and preventing direct pressure on the healing wound. Bandages must be changed every 2-3 days, or more frequently if they become wet or soiled, to maintain a clean environment for granulation tissue to form.",
+    "vector_context": {
+      "keywords": [
+        "donut bandage",
+        "offloading",
+        "pressure relief",
+        "postoperative care",
+        "granulation tissue"
+      ],
+      "hypothetical_questions": [
+              "Why is bandaging required after Bumblefoot surgery?",
+              "What is a donut bandage and how is it used?",
+              "How does reducing pressure help foot healing?",
+              "How often should Bumblefoot bandages be changed?",
+              "What happens if a bandage becomes wet or dirty?",
+              "Can improper wrapping delay recovery?",
+              "How does pressure interfere with granulation tissue?",
+              "What materials work best for chicken foot bandages?",
+              "Is a ball-style bandage better than a flat wrap?",
+              "How long should birds remain bandaged after surgery?",
+              "Can chickens walk normally with a donut bandage?",
+              "What signs indicate a bandage needs replacement?"
+      ]
+    },
+    "metadata": {
+      "title": "Postoperative Bandaging and Offloading",
+      "disease": "Bumblefoot",
+      "category": "treatment",
+      "source_urls": [
+        "https://education.nsw.gov.au/teaching-and-learning/animals-in-schools/animals-in-schools-resources/information-and-fact-sheets-about-animals/bumblefoot-plantar-pododermatitis",
+        "https://poultrydvm.com/condition/bumblefoot"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_cause_perch_geometry",
+    "content": "In perching birds, the geometry and material of the perch are significant mechanical causes of Bumblefoot. Perches that are too narrow (causing excessive toe curling) or too large (preventing a secure grip) create abnormal pressure points on the plantar surface. Rough, abrasive surfaces (like sandpaper perches) or hard, non-yielding materials (like narrow plastic) cause repetitive micro-trauma. Ideally, perches should be of varying diameters and made of natural, non-toxic wood to allow for a natural distribution of weight and foot positions.",
+    "vector_context": {
+      "keywords": [
+        "perch diameter",
+        "pressure points",
+        "mechanical trauma",
+        "perching birds",
+        "natural wood"
+      ],
+      "hypothetical_questions": [
+              "How does perch diameter affect Bumblefoot development?",
+              "Why are sandpaper-covered perches harmful?",
+              "What perch materials help prevent Bumblefoot?",
+              "Do narrow perches cause pressure points that lead to foot injury?",
+              "Should perches have multiple diameter sizes for birds?",
+              "How does micro-trauma from perches contribute to Bumblefoot?",
+              "Are plastic perches bad for chicken feet?",
+              "What perch design distributes weight most safely?"
+      ]
+    },
+    "metadata": {
+      "title": "Perch Geometry and Mechanical Stress",
+      "disease": "Bumblefoot",
+      "category": "cause",
+      "source_urls": [
+        "https://www.aphis.usda.gov/sites/default/files/ac-aid-pododermatitis-bumblefoot-in-birds.pdf?utm_source=chatgpt.com",
+        "https://www.merckvetmanual.com/bird-owners/disorders-and-diseases-of-birds/skin-and-feather-disorders-of-pet-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_pathology_histological_zones",
+    "content": "Histological examination of Bumblefoot lesions reveals distinct pathological zones. The central zone consists of a sequestered mass of necrotic tissue, fibrin, and heterophils, often forming a 'caseous plug.' Surrounding this is a layer of granulomatous inflammatory tissue characterized by the presence of multinucleated giant cells and macrophages attempting to wall off the Staphylococcus aureus infection. The outermost layer typically shows extensive fibroplasia (scar tissue formation). This chronic inflammatory response often leads to permanent thickening of the footpad even after the primary infection is cleared.",
+    "vector_context": {
+      "keywords": [
+        "histology",
+        "granulomatous",
+        "heterophils",
+        "giant cells",
+        "fibroplasia"
+      ],
+      "hypothetical_questions": [
+            "What histological layers appear in a Bumblefoot lesion?",
+            "Why does a hard caseous core form inside the lesion?",
+            "What role do giant cells play in chronic Bumblefoot?",
+            "How does fibroplasia alter the footpad over time?",
+            "Why does tissue thickening persist after healing?",
+            "How does the immune system wall off Bumblefoot infections?",
+            "How do macrophages contribute to granuloma formation?",
+            "What microscopic features indicate chronic inflammation?",
+            "What defines the chronic nature of Bumblefoot histologically?",
+            "How do histology findings influence prognosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Histopathological Zonation of Lesions",
+      "disease": "Bumblefoot",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.merckvetmanual.com/multimedia/image/edema-and-necrosis-footpad-photomicrograph-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4312823/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_cause_genetic_susceptibility",
+    "content": "Genetic factors and bird weight play a significant role in the predisposition to Bumblefoot. Heavy-bodied poultry breeds, particularly fast-growing broiler lines and meat-type turkeys, are at higher risk due to the increased vertical pressure (mechanical load) placed on the plantar surface. Studies indicate that birds with a genetic predisposition for higher body weight-to-foot-surface-area ratios exhibit higher incidences of footpad dermatitis. Selection for improved gait scores and leg strength in breeding programs is a primary long-term strategy to reduce prevalence.",
+    "vector_context": {
+      "keywords": [
+        "genetics",
+        "broilers",
+        "mechanical load",
+        "breeding",
+        "gait score"
+      ],
+      "hypothetical_questions": [
+            "Are heavy chicken breeds more prone to developing Bumblefoot?",
+            "How does body weight affect the risk of Bumblefoot in poultry?",
+            "Do fast-growing broilers get Bumblefoot more often than other breeds?",
+            "Why does pressure on the footpad increase susceptibility to Bumblefoot?",
+            "Can genetics influence how likely a bird is to develop pododermatitis?",
+            "Is the body-weight-to-foot-surface-area ratio important in Bumblefoot risk?",
+            "Can selective breeding reduce the prevalence of Bumblefoot in flocks?",
+            "How do gait scores relate to genetic susceptibility to Bumblefoot?"
+      ]
+    },
+    "metadata": {
+      "title": "Genetic and Physiological Predispositions",
+      "disease": "Bumblefoot",
+      "category": "cause",
+      "source_urls": [
+        "https://pubmed.ncbi.nlm.nih.gov/25573284/",
+        "https://www.woah.org/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/A_TA_HSC_Sept_2018_Part_C.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_diagnosis_five_stage_system",
+    "content": "A detailed 5-stage clinical system is used to diagnose the progression of Bumblefoot. Stage 1 involves mild epithelial thinning and erythema. Stage 2 presents with a small, localized scab with minimal swelling. Stage 3 is characterized by a prominent necrotic plug and localized edema. Stage 4 involves deep-seated infection with significant swelling of the entire footpad and potential digital involvement. Stage 5 is the most severe, manifesting as massive swelling, loss of function, and radiographic evidence of osteomyelitis or septic arthritis.",
+    "vector_context": {
+      "keywords": [
+        "staging",
+        "clinical progression",
+        "erythema",
+        "edema",
+        "osteomyelitis"
+      ],
+      "hypothetical_questions": [
+          "What are the five clinical stages of Bumblefoot progression?",
+          "What does Stage 1 Bumblefoot look like in chickens?",
+          "What changes occur when Bumblefoot progresses to Stage 2?",
+          "How is the necrotic plug identified in Stage 3 Bumblefoot?",
+          "What symptoms indicate that Bumblefoot has reached Stage 4?",
+          "At what stage does Bumblefoot involve swelling of the entire footpad?",
+          "When is digital involvement seen in Bumblefoot staging?",
+          "What distinguishes Stage 5 Bumblefoot from earlier stages?",
+          "Does Stage 5 always indicate osteomyelitis or septic arthritis?",
+          "How do vets determine which stage of Bumblefoot a bird is in?"
+      ]
+    },
+    "metadata": {
+      "title": "Five-Stage Clinical Classification",
+      "disease": "Bumblefoot",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://poultrydvm.com/condition/bumblefoot",
+        "https://www.aphis.usda.gov/sites/default/files/ac-aid-pododermatitis-bumblefoot-in-birds.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_treatment_antimicrobial_resistance",
+    "content": "Antimicrobial resistance is a major challenge in treating Bumblefoot, as Staphylococcus aureus isolates frequently exhibit resistance to common antibiotics like tetracyclines and penicillins. In some poultry environments, Methicillin-resistant Staphylococcus aureus (MRSA) has been identified. Effective treatment requires culture and sensitivity testing. If systemic antibiotics are required, drugs such as Enrofloxacin or Trimethoprim-Sulfamethoxazole (TMP-SMZ) may be utilized based on legal availability and susceptibility profiles, often requiring prolonged courses to penetrate the encapsulated abscesses.",
+    "vector_context": {
+      "keywords": [
+        "antibiotic resistance",
+        "MRSA",
+        "Enrofloxacin",
+        "sensitivity testing",
+        "Staphylococcus aureus"
+      ],
+      "hypothetical_questions": [
+              "Why do some Bumblefoot infections not respond to antibiotics?",
+              "How common is antibiotic-resistant Staphylococcus aureus in poultry?",
+              "Can MRSA be found in chickens with Bumblefoot?",
+              "Which antibiotics are still effective for resistant Bumblefoot cases?",
+              "Why is culture and sensitivity testing important before choosing antibiotics?",
+              "Is Enrofloxacin used to treat resistant Bumblefoot infections?",
+              "Can TMP-SMZ be used for severe Bumblefoot cases?",
+              "Do encapsulated Bumblefoot abscesses require long antibiotic courses?",
+              "How does antibiotic resistance affect Bumblefoot treatment success?",
+              "Are tetracyclines often ineffective for Bumblefoot?",
+              "Can misuse of antibiotics worsen resistance in poultry flocks?",
+              "What precautions are needed when treating MRSA-related Bumblefoot?"
+      ]
+    },
+    "metadata": {
+      "title": "Antibiotic Resistance and Pharmacotherapy",
+      "disease": "Bumblefoot",
+      "category": "treatment",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4663678/",
+        "https://www.merckvetmanual.com/exotic-and-laboratory-animals/pet-birds/bacterial-diseases-of-pet-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_differential_mycoplasma_synoviae",
+    "content": "Mycoplasma synoviae (MS) is a significant differential diagnosis for Bumblefoot-related lameness. MS primarily causes infectious synovitis, resulting in swelling of the hock joints and footpads. Unlike Bumblefoot, MS-induced swelling is typically filled with a creamy-to-gray exudate and lacks the central necrotic black scab characteristic of pododermatitis. MS is a systemic respiratory pathogen that can be confirmed via PCR or serology, whereas Bumblefoot is typically a localized environmental infection resulting from skin trauma.",
+    "vector_context": {
+      "keywords": [
+        "Mycoplasma synoviae",
+        "synovitis",
+        "exudate",
+        "PCR",
+        "differential diagnosis"
+      ],
+      "hypothetical_questions": [
+                  "How can you tell Bumblefoot apart from Mycoplasma synoviae?",
+                  "Does MS cause swelling of the footpad similar to Bumblefoot?",
+                  "What does the exudate in MS infections look like?",
+                  "Why doesn’t MS produce a black necrotic scab like Bumblefoot?",
+                  "Can MS cause lameness that resembles pododermatitis?",
+                  "How is Mycoplasma synoviae diagnosed in poultry?",
+                  "Is PCR required to confirm Mycoplasma synoviae infection?",
+                  "How does respiratory disease relate to MS-associated lameness?",
+                  "Can MS and Bumblefoot occur simultaneously?",
+                  "Why is it important to differentiate MS from localized foot infections?"
+      ]
+    },
+    "metadata": {
+      "title": "Differential Diagnosis: Mycoplasma synoviae",
+      "disease": "Bumblefoot",
+      "category": "differential",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/staphylococcosis/staphylococcosis-in-poultry",
+        "https://pubmed.ncbi.nlm.nih.gov/38393107/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_prevention_litter_amendments",
+    "content": "The use of litter amendments is a proactive prevention strategy for Bumblefoot. Chemical acidifiers, such as sodium bisulfate, are applied to poultry litter to lower the pH. A lower pH inhibits the growth of ammonia-producing bacteria and directly reduces the concentration of volatile ammonia ($NH_3$). By maintaining a lower pH and keeping the litter dry through proper ventilation and nipple drinker management, the chemical and mechanical integrity of the birds' footpads is preserved, significantly lowering the incidence of Stage 1 lesions.",
+    "vector_context": {
+      "keywords": [
+        "litter amendments",
+        "sodium bisulfate",
+        "pH levels",
+        "ammonia control",
+        "ventilation"
+      ],
+      "hypothetical_questions": [
+            "How do litter amendments help prevent Bumblefoot?",
+            "What does sodium bisulfate do when added to poultry litter?",
+            "How does lowering litter pH reduce ammonia production?",
+            "Why is ammonia control essential for footpad health?",
+            "Can litter acidifiers prevent early footpad dermatitis lesions?",
+            "How does good ventilation support litter amendment effectiveness?",
+            "Do nipple drinkers reduce moisture and help prevent Bumblefoot?",
+            "How often should litter amendments be applied in poultry houses?",
+            "Can pH management replace full litter replacement?",
+            "What common mistakes reduce the effectiveness of litter amendments?",
+            "Are chemical litter treatments safe for birds?",
+            "How do litter amendments improve welfare scores related to foot health?"
+      ]
+    },
+    "metadata": {
+      "title": "Litter Amendments and pH Management",
+      "disease": "Bumblefoot",
+      "category": "prevention",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11067544/",
+        "https://www.woah.org/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/A_TAHSC_Sep_2015_Part_A.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_treatment_povidone_soaks",
+    "content": "For early-stage Bumblefoot (Stages 1 and 2), antiseptic soaking is a non-invasive treatment. Dilute povidone-iodine (Betadine) or Chlorhexidine soaks help reduce the bacterial load on the skin surface and soften the initial calluses or scabs. The foot should be submerged for 10-15 minutes daily. This process facilitates the natural shedding of superficial necrotic tissue and can prevent the progression to Stage 3, provided the underlying environmental cause (such as wet litter or rough perches) is simultaneously corrected.",
+    "vector_context": {
+      "keywords": [
+        "povidone-iodine",
+        "Betadine",
+        "antiseptic soak",
+        "early intervention",
+        "Chlorhexidine"
+      ],
+      "hypothetical_questions": [
+                  "How do povidone-iodine soaks help treat early Bumblefoot?",
+                  "Is Betadine effective for softening early Bumblefoot scabs?",
+                  "How long should a chicken’s foot be soaked in antiseptic solution?",
+                  "Can Chlorhexidine soaks be used instead of Betadine for Bumblefoot?",
+                  "Why do antiseptic soaks reduce bacterial load on the footpad?",
+                  "Can soaking prevent mild Bumblefoot from progressing to severe stages?",
+                  "How often should a bird’s foot be soaked for early-stage Bumblefoot?",
+                  "Do antiseptic soaks work without fixing environmental problems?",
+                  "Can foot soaks alone resolve Stage 1 or 2 Bumblefoot?",
+                  "Is daily soaking stressful for chickens?",
+                  "Should the foot be dried completely after antiseptic soaking?",
+                  "How do soaks help the natural shedding of necrotic tissue?"
+      ]
+    },
+    "metadata": {
+      "title": "Antiseptic Soaking for Early Lesions",
+      "disease": "Bumblefoot",
+      "category": "treatment",
+      "source_urls": [
+        "https://education.nsw.gov.au/teaching-and-learning/animals-in-schools/animals-in-schools-resources/information-and-fact-sheets-about-animals/bumblefoot-plantar-pododermatitis",
+        "https://poultrydvm.com/condition/bumblefoot"
+      ]
+    }
+  },
+
+
+  {
+    "id": "bumblefoot_differential_riboflavin_deficiency",
+    "content": "Riboflavin (Vitamin B_2) deficiency can be mistaken for Bumblefoot due to the resulting lameness. Clinically known as 'curled-toe paralysis,' this deficiency causes the toes to curl inward and the bird to walk on its hocks. While it does not produce a necrotic plantar scab like Bumblefoot, the constant pressure on the hocks and the unusual gait can lead to secondary skin breakdown and opportunistic infections that mimic pododermatitis. Confirmation of deficiency is through feed analysis or response to vitamin supplementation.",
+    "vector_context": {
+      "keywords": [
+        "Riboflavin",
+        "Vitamin B2",
+        "curled-toe paralysis",
+        "deficiency",
+        "lameness"
+      ],
+      "hypothetical_questions": [
+            "Can Riboflavin deficiency be mistaken for Bumblefoot?",
+            "What is curled-toe paralysis in chickens?",
+            "How does Vitamin B2 deficiency affect gait and posture?",
+            "Why does Riboflavin deficiency cause birds to walk on their hocks?",
+            "Can Riboflavin deficiency lead to secondary foot infections?",
+            "How do you distinguish vitamin deficiency from pododermatitis?",
+            "Does Riboflavin deficiency cause necrotic footpad scabs?",
+            "What signs suggest a nutritional cause of lameness instead of Bumblefoot?",
+            "How is Riboflavin deficiency confirmed in poultry?",
+            "Can vitamin supplementation reverse curled-toe paralysis?"
+      ]
+    },
+    "metadata": {
+      "title": "Differential Diagnosis: Riboflavin Deficiency",
+      "disease": "Bumblefoot",
+      "category": "differential",
+      "source_urls": [
+        "https://www.merckvetmanual.com/bird-owners/disorders-and-diseases-of-birds/skin-and-feather-disorders-of-pet-birds",
+        "https://pubmed.ncbi.nlm.nih.gov/38393107/"
+      ]
+    }
+  }
+]

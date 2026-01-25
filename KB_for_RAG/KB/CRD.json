@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "crd_overview_01_definition_and_importance",
+    "content": "Chronic Respiratory Disease (CRD) is a persistent respiratory condition of poultry, primarily associated with Mycoplasma gallisepticum infection. It develops gradually, persisting within flocks over long periods, and affects chickens and turkeys across various production systems. Infected birds can become long-term carriers, harboring Mycoplasma gallisepticum without obvious clinical signs, and intermittently shedding the organism, serving as a continuous source of infection. This leads to CRD becoming endemic in many regions, making elimination difficult. The disease has a cumulative impact, causing reduced feed efficiency, slower growth, and decreased egg production and quality, with vertical transmission through eggs in breeder flocks further extending its impact. Environmental and husbandry factors, such as poor ventilation, high ammonia levels, overcrowding, and stress, can convert subclinical infection into overt disease, emphasizing the need for flock-level management rather than individual-bird treatment.",
+    "vector_context": {
+      "keywords": [
+        "chronic respiratory disease",
+        "CRD",
+        "mycoplasma gallisepticum",
+        "carrier state",
+        "poultry respiratory disease",
+        "production impact"
+      ],
+      "hypothetical_questions": [
+        "What is Chronic Respiratory Disease in poultry?",
+        "What causes Chronic Respiratory Disease in chickens?",
+        "Is Chronic Respiratory Disease contagious?",
+        "What are the symptoms of Chronic Respiratory Disease in turkeys?",
+        "How does Chronic Respiratory Disease affect feed efficiency in broilers?",
+        "What is the role of Mycoplasma gallisepticum in Chronic Respiratory Disease?",
+        "Can Chronic Respiratory Disease be transmitted vertically through eggs?",
+        "What are the management factors that influence Chronic Respiratory Disease expression?",
+        "What is the impact of Chronic Respiratory Disease on egg production in layers?",
+        "Is Chronic Respiratory Disease a production-limiting disease in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Definition and importance of Chronic Respiratory Disease",
+      "disease": "chronic_respiratory_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease"
+      ]
+    }
+  },
+  {
+    "id": "crd_overview_02_crd_as_a_disease_complex_and_management_context",
+    "content": "Chronic Respiratory Disease (CRD) in poultry is a complex condition, rarely caused by a single agent, and is influenced by interactions with other pathogens such as Escherichia coli, infectious bronchitis virus, and Newcastle disease virus (NDV). Mycoplasma gallisepticum is the primary causative agent, but interactions with other pathogens result in complicated CRD, associated with more severe lesions and production losses. The severity of CRD varies between flocks due to differences in immune status, environmental conditions, and concurrent stressors. Management of CRD relies on long-term preventive strategies, including sourcing Mycoplasma-free breeding stock, maintaining biosecurity, and optimizing housing conditions, as antibiotics only reduce clinical signs temporarily without eliminating infection. Effective control requires integrated management at the flock and system level, emphasizing the importance of a comprehensive approach to understanding and addressing CRD.",
+    "vector_context": {
+      "keywords": [
+        "complicated CRD",
+        "disease complex",
+        "coinfection",
+        "flock management",
+        "biosecurity",
+        "long-term control"
+      ],
+      "hypothetical_questions": [
+        "What is Chronic Respiratory Disease in poultry?",
+        "Can you explain CRD in simple terms?",
+        "What's the main issue with Chronic Respiratory Disease in birds?",
+        "How would you describe Chronic Respiratory Disease in poultry?",
+        "What's the difference between CRD and other respiratory diseases?",
+        "Is CRD a single disease or a complex condition?",
+        "What's the impact of CRD on poultry production?",
+        "Can you give an example of a flock affected by CRD?",
+        "How does CRD affect the health of poultry?",
+        "What makes CRD a complex condition in poultry?",
+        "How does CRD interact with other pathogens in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: CRD as a disease complex and management-driven condition",
+      "disease": "chronic_respiratory_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_cause_01_primary_etiologic_agent_mycoplasma_gallisepticum",
+    "content": "Mycoplasma gallisepticum, a small bacterium in the class Mollicutes, is the primary etiologic agent of Chronic Respiratory Disease (CRD) in poultry, characterized by the absence of a cell wall, making it resistant to beta-lactam antibiotics. It colonizes the upper respiratory tract and air sacs, causing chronic inflammation that gradually impairs respiratory function, leading to a long-term flock problem. The carrier state, where birds harbor and intermittently shed the organism while remaining clinically normal, serves as a reservoir, allowing CRD to persist and spread. Vertical transmission from infected breeder flocks to progeny via eggs also contributes to long-term maintenance and reintroduction, establishing Mycoplasma gallisepticum as the core etiologic agent, with other factors modifying severity, duration, or losses, but not replacing it.",
+    "vector_context": {
+      "keywords": [
+        "mycoplasma gallisepticum",
+        "primary cause",
+        "no cell wall",
+        "carrier state",
+        "vertical transmission",
+        "respiratory colonization"
+      ],
+      "hypothetical_questions": [
+        "What causes Chronic Respiratory Disease in poultry?",
+        "What is the main bacteria that causes CRD?",
+        "Is Mycoplasma gallisepticum a cell wall bacterium?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Primary etiologic agent (Mycoplasma gallisepticum)",
+      "disease": "chronic_respiratory_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease"
+      ]
+    }
+  },
+  {
+    "id": "crd_cause_02_complicated_crd_and_coinfections",
+    "content": "Mycoplasma gallisepticum is the primary cause of Chronic Respiratory Disease (CRD), but the most severe outcomes occur when combined with other pathogens, producing complicated CRD. Mycoplasma infection weakens local respiratory defenses, predisposing birds to secondary invasion and increasing respiratory damage. Escherichia coli is a key secondary contributor, colonizing and extending disease into the lower respiratory tract and air sacs, worsening airsacculitis and pneumonia. Respiratory viruses like infectious bronchitis virus and Newcastle disease virus (NDV) amplify disease expression by increasing respiratory stress and disrupting immune balance. These co-infections determine clinical severity, lesion burden, and economic losses, explaining why flocks with similar Mycoplasma exposure can show different outcomes depending on secondary infections, thus preserving a clear causal hierarchy with Mycoplasma as the initiating agent and co-infections as amplifiers.",
+    "vector_context": {
+      "keywords": [
+        "complicated CRD",
+        "coinfection",
+        "Escherichia coli",
+        "infectious bronchitis",
+        "Newcastle disease",
+        "disease complex"
+      ],
+      "hypothetical_questions": [
+        "What causes complicated Chronic Respiratory Disease in chickens?",
+        "What happens when Mycoplasma gallisepticum infects chickens?",
+        "Can E. coli cause secondary infections in chickens with CRD?",
+        "What is the role of secondary pathogens in complicated CRD?",
+        "Mycoplasma gallisepticum weakens local respiratory defenses in chickens, what happens next?",
+        "How does E. coli colonize respiratory tissues in chickens with CRD?",
+        "What viruses can amplify disease expression in chickens with CRD?",
+        "Can secondary infections replace Mycoplasma gallisepticum as the cause of CRD?",
+        "What determines the clinical severity of CRD in chicken flocks?",
+        "Is Mycoplasma gallisepticum the only cause of complicated CRD in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Complicated CRD and co-infections",
+      "disease": "chronic_respiratory_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_cause_03_host_and_environmental_amplifying_factors",
+    "content": "Host-related and environmental factors significantly influence the expression of Chronic Respiratory Disease (CRD) in a flock, determining whether Mycoplasma gallisepticum infection remains subclinical or becomes clinically apparent with significant production losses. Important host factors include age, immune status, and physiological stress, with younger birds or those experiencing immune suppression more likely to show clinical signs. Environmental and housing conditions, such as poor ventilation, high ammonia levels, and overcrowding, damage respiratory mucosa and reduce pathogen clearance, allowing low-grade Mycoplasma infection to progress to severe air sac involvement, especially with secondary pathogens. Management practices like high stocking density, frequent bird or personnel movement, and inconsistent biosecurity increase stress and exposure pressure, amplifying disease severity and economic impact without initiating it, similar to how factors like HPAI, LPAI, H5N1, rRT-PCR, clade 2.3.4.4b, NDV, and Mycoplasma can impact disease dynamics, highlighting the importance of distinguishing between primary etiologic agents and amplifying conditions for targeted prevention and control planning.",
+    "vector_context": {
+      "keywords": [
+        "risk factors",
+        "ventilation",
+        "ammonia",
+        "stocking density",
+        "stress",
+        "management amplifiers"
+      ],
+      "hypothetical_questions": [
+        "What makes birds more likely to show respiratory signs after getting infected with Mycoplasma gallisepticum?",
+        "What are some common stressors that can lower a bird's resistance to disease?",
+        "Can poor ventilation in a chicken coop make respiratory problems worse?",
+        "What are some environmental conditions that can damage a chicken's respiratory system?",
+        "What makes a low-grade Mycoplasma infection turn into a persistent cough?",
+        "Can secondary pathogens make air sac involvement in chickens worse?",
+        "How do management practices like high stocking density affect the severity of CRD?",
+        "What are some biosecurity measures that can help prevent the spread of CRD?",
+        "Can stress related to handling or transport make a bird more susceptible to disease?",
+        "What are some common secondary pathogens that can make CRD worse in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Host and environmental amplifying factors",
+      "disease": "chronic_respiratory_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_01_vertical_transmission_via_eggs",
+    "content": "Chronic Respiratory Disease (CRD) is introduced and maintained in poultry populations through vertical transmission, where infected breeder flocks pass Mycoplasma gallisepticum to offspring via hatching eggs. This route is crucial in multi-stage production systems, as it seeds infection into chicks before farm-level contact with other birds. Infected chicks enter brooder houses carrying the organism, increasing the likelihood of flock-wide persistence. Vertical transmission creates an epidemiological pattern where infection appears early in life without clear external exposure events, making control difficult as removing infected birds does not remove the source. This pathway supports long-term endemicity by reintroducing infection into new cohorts, emphasizing the importance of sourcing Mycoplasma-free breeder stock and maintaining monitored breeder programs to break the cycle of introduction into future flocks.",
+    "vector_context": {
+      "keywords": [
+        "vertical transmission",
+        "egg transmission",
+        "breeders",
+        "hatching eggs",
+        "Mycoplasma gallisepticum",
+        "endemic persistence"
+      ],
+      "hypothetical_questions": [
+        "Can CRD be passed to chicks from infected breeder hens?",
+        "What causes CRD in young chickens?",
+        "How do Mycoplasma gallisepticum bacteria spread to chicks?",
+        "What is the main route of CRD transmission in multi-stage production systems?",
+        "What is the impact of infected breeder flocks on CRD in poultry populations?",
+        "How does vertical transmission affect CRD control strategies?",
+        "What is the role of Mycoplasma gallisepticum in CRD transmission via eggs?",
+        "Can infected breeder flocks seed CRD infection into chicks before farm-level contact?",
+        "What is the epidemiological pattern of CRD caused by vertical transmission?",
+        "Is it possible to break the cycle of CRD introduction into future flocks with farm-level interventions?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Vertical transmission via eggs from infected breeders",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://nre.tas.gov.au/biosecurity-tasmania/animal-biosecurity/animal-health/poultry-and-pigeons/chronic-respiratory-disease-%28crd%29",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_02_horizontal_direct_bird_to_bird",
+    "content": "Mycoplasma gallisepticum spreads within a flock primarily through horizontal transmission via direct bird-to-bird contact and exposure to infectious respiratory secretions. Crowding, shared feeders and drinkers, and mixing of age groups increase the probability of susceptible birds inhaling contaminated droplets and mucous. Unlike highly contagious viral respiratory diseases like HPAI or LPAI, the spread of Mycoplasma gallisepticum appears \"slow-burn\" due to its chronic nature, with infected birds shedding intermittently and exhibiting mild or absent clinical signs early on. Prolonged close housing, poor air quality, and stressors like temperature swings or vaccination reactions increase shedding and lower respiratory defenses, driving within-flock spread. Additionally, short-distance airborne spread can occur, particularly in poorly ventilated houses with high dust levels, allowing carriers to transmit the disease through repeated close-contact exposure, even when only a few birds appear sick, similar to the dynamics observed with other respiratory pathogens like NDV or H5N1, particularly clade 2.3.4.4b, which can be detected using rRT-PCR.",
+    "vector_context": {
+      "keywords": [
+        "horizontal transmission",
+        "bird-to-bird",
+        "respiratory secretions",
+        "within-flock spread",
+        "carriers",
+        "airborne short distance"
+      ],
+      "hypothetical_questions": [
+        "How does CRD spread within a flock?",
+        "Why does CRD keep circulating even when only a few birds look sick?",
+        "What is the main route of spread of Mycoplasma gallisepticum in a flock?",
+        "Can birds spread CRD to each other through close contact?",
+        "What are the factors that increase the probability of susceptible birds inhaling or contacting contaminated droplets and mucous?",
+        "How does the shedding of Mycoplasma gallisepticum from the upper respiratory tract contribute to the spread of CRD?",
+        "What is the role of crowding in the spread of CRD within a flock?",
+        "Can CRD be spread through shared feeders and drinkers?",
+        "Why does CRD appear to spread slowly compared to highly contagious viral respiratory diseases?",
+        "Is CRD spread primarily through direct bird-to-bird contact or airborne transmission?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Horizontal spread within flocks via direct contact and respiratory secretions",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://nre.tas.gov.au/biosecurity-tasmania/animal-biosecurity/animal-health/poultry-and-pigeons/chronic-respiratory-disease-%28crd%29",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_03_indirect_fomite_and_between_farm_spread",
+    "content": "Chronic Respiratory Disease (CRD) spreads mainly through indirect pathways, including movement of infected birds and mechanical transfer on fomites such as footwear, hands, and equipment. This allows CRD to appear on premises even with indoor housing and limited outside contact. Introducing infected birds, which may not show signs at the time of purchase, is a key mechanism. Fomite transmission is shaped by production logistics, with shared equipment, vehicles, and tools carrying contamination between locations if cleaning and disinfection are inconsistent. Human movement patterns, such as visiting multiple farms, can also spread infection. Within-flock spread is driven by close contact and air quality, while between-farm spread is driven by movement and biosecurity breakdowns, emphasizing the need for prevention through sourcing policies, traffic control, and equipment separation to control CRD, which cannot be solved by antibiotics alone.",
+    "vector_context": {
+      "keywords": [
+        "fomite transmission",
+        "between farms",
+        "biosecurity",
+        "transport crates",
+        "human movement",
+        "carrier birds"
+      ],
+      "hypothetical_questions": [
+        "CRD spreads between farms how?",
+        "Can CRD be spread through contact with infected birds?",
+        "Is CRD mainly spread through movement of infected birds?",
+        "How do fomites like footwear and equipment spread CRD?",
+        "What is the main difference between within-flock and between-farm spread of CRD?",
+        "How can antibiotics alone not solve CRD?",
+        "What are the main factors that drive between-farm spread of CRD?",
+        "Can human movement patterns spread CRD between farms?",
+        "What are the most common fomites that carry CRD contamination?",
+        "How can biosecurity breakdowns lead to between-farm spread of CRD?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Indirect spread via fomites, bird movement, and farm-to-farm connections",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://nre.tas.gov.au/biosecurity-tasmania/animal-biosecurity/animal-health/poultry-and-pigeons/chronic-respiratory-disease-%28crd%29",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_symptom_01_respiratory_clinical_signs",
+    "content": "Chronic Respiratory Disease (CRD) typically develops gradually, with clinical manifestations including coughing, sneezing, nasal discharge, and audible respiratory sounds like rales or wheezing, which are more noticeable during stress. Ocular involvement is common, with conjunctivitis, eye discharge, and mild swelling of the infraorbital sinuses, and facial swelling may occur with secondary bacterial infections. Unlike acute viral respiratory diseases, such as those caused by HPAI, LPAI, or H5N1, CRD rarely causes sudden severe respiratory distress, instead, signs appear mild at first and gradually involve a larger proportion of the flock over time, often leading to underestimation of the disease until production losses become evident, and can be differentiated through diagnostic tests like rRT-PCR, particularly in cases where NDV or other viruses like clade 2.3.4.4b are suspected, and Mycoplasma gallisepticum infection is confirmed.",
+    "vector_context": {
+      "keywords": [
+        "respiratory signs",
+        "coughing",
+        "sneezing",
+        "nasal discharge",
+        "conjunctivitis",
+        "facial swelling"
+      ],
+      "hypothetical_questions": [
+        "What are the main respiratory symptoms in chickens with CRD?",
+        "What do you call the sounds birds make when they have CRD?",
+        "My chicken is coughing and sneezing, what could it be?",
+        "What are the signs of respiratory disease in poultry?",
+        "What are the common respiratory symptoms of CRD in birds?",
+        "What are the audible respiratory sounds in birds with CRD?",
+        "What are the ocular symptoms of CRD in birds?",
+        "CRD respiratory symptoms in poultry include?",
+        "What are the chronic respiratory symptoms in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Respiratory clinical signs of Chronic Respiratory Disease",
+      "disease": "chronic_respiratory_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease"
+      ]
+    }
+  },
+  {
+    "id": "crd_symptom_02_systemic_and_production_effects",
+    "content": "Chronic Respiratory Disease (CRD) has significant systemic and production-related effects, contributing to its economic importance. In broilers, it leads to reduced feed intake, poor feed conversion efficiency, slower growth rates, and uneven body weights. In layers and breeder flocks, CRD is associated with declined egg production, reduced egg size, and poorer shell quality, as well as reduced hatchability and increased transmission of infection to progeny in breeders. General signs like lethargy, reduced activity, and decreased appetite may accompany respiratory disease, especially with co-infections. While mortality from uncomplicated CRD is usually low, it can increase substantially with secondary pathogens like Escherichia coli, highlighting the need to recognize CRD's chronic impact on productivity and flock uniformity as a major economic burden.",
+    "vector_context": {
+      "keywords": [
+        "production losses",
+        "poor growth",
+        "feed conversion",
+        "reduced egg production",
+        "egg quality",
+        "uneven flock"
+      ],
+      "hypothetical_questions": [
+        "What are the signs of Chronic Respiratory Disease in broilers?",
+        "How does Chronic Respiratory Disease affect feed intake in chickens?",
+        "What are the long-term effects of CRD on egg production in layers?",
+        "Can CRD cause uneven body weights in a flock?",
+        "What are the common signs of CRD in birds?",
+        "How does CRD impact hatchability in breeders?",
+        "What are the secondary pathogens that can increase mortality in CRD?",
+        "Can CRD be mistaken for nutrition or management issues?",
+        "What are the chronic effects of CRD on flock uniformity?",
+        "Does CRD typically cause high mortality in uncomplicated cases?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Systemic effects and production losses associated with CRD",
+      "disease": "chronic_respiratory_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_symptom_03_subclinical_presentation_and_diagnostic_overlap",
+    "content": "Chronic Respiratory Disease (CRD) is characterized by subclinical or non-specific presentations, with many infected birds carrying and shedding Mycoplasma gallisepticum without showing obvious respiratory signs. Clinical signs, when present, overlap with those of other respiratory diseases, such as infectious bronchitis, Newcastle disease (NDV), and colibacillosis, making diagnosis based on signs alone unreliable. This overlap increases the risk of misclassification, potentially leading to inappropriate treatment that fails to address the underlying chronic infection. Definitive identification of CRD requires diagnostic testing, such as rRT-PCR, and evaluation of flock history, rather than relying solely on symptom recognition, which is an initial indicator that must be confirmed through further diagnosis, similar to the approach used for diseases like HPAI, LPAI, H5N1, and other avian diseases, including those caused by NDV and Mycoplasma, and is crucial for distinguishing CRD from other diseases, such as those caused by clade 2.3.4.4b viruses.",
+    "vector_context": {
+      "keywords": [
+        "subclinical infection",
+        "non-specific signs",
+        "diagnostic overlap",
+        "misdiagnosis",
+        "chronic infection"
+      ],
+      "hypothetical_questions": [
+        "What are the signs of Chronic Respiratory Disease in chickens?",
+        "What causes Chronic Respiratory Disease in poultry?",
+        "How do you diagnose Chronic Respiratory Disease in a flock?",
+        "What are the common symptoms of Chronic Respiratory Disease in birds?",
+        "What is the pathophysiology of subclinical presentations in Chronic Respiratory Disease?",
+        "How does Mycoplasma gallisepticum contribute to Chronic Respiratory Disease?",
+        "What is the role of diagnostic testing in identifying Chronic Respiratory Disease?",
+        "What are the secondary infections associated with Chronic Respiratory Disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Subclinical infection and overlap with other respiratory diseases",
+      "disease": "chronic_respiratory_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_diagnosis_01_clinical_suspicion_and_flock_history",
+    "content": "Diagnosis of Chronic Respiratory Disease (CRD) begins with clinical suspicion based on flock history, production performance, and respiratory signs, such as persistent coughing or rales, uneven growth, reduced feed efficiency, and declines in egg production, often associated with Mycoplasma gallisepticum infection. Key elements include the age of birds at onset, chronic or progressive signs, and poor response to management adjustments, as well as introduction of new birds, movement between houses, or links to infected breeder flocks. Environmental factors like poor ventilation, high ammonia levels, dust, and stressors can intensify signs, but do not confirm CRD. Clinical signs justify testing, but are insufficient for definitive diagnosis due to overlap with other diseases, such as HPAI, LPAI, H5N1, NDV, emphasizing the need for further testing, including rRT-PCR, to identify specific pathogens, like clade 2.3.4.4b, and determine the underlying cause of CRD.",
+    "vector_context": {
+      "keywords": [
+        "clinical suspicion",
+        "flock history",
+        "chronic respiratory signs",
+        "production decline",
+        "pattern recognition"
+      ],
+      "hypothetical_questions": [
+        "What causes chronic respiratory disease in poultry?",
+        "How do you diagnose chronic respiratory disease in a flock?",
+        "What are the early signs of Mycoplasma gallisepticum infection?",
+        "Can poor ventilation cause respiratory problems in chickens?",
+        "What is the role of ammonia levels in chronic respiratory disease?",
+        "Can vaccination stress trigger chronic respiratory disease?",
+        "How do you determine if a flock has chronic respiratory disease?",
+        "What are the key elements of clinical suspicion for CRD?",
+        "Is it possible to diagnose CRD based on single-bird examination?",
+        "Can CRD be linked to infected breeder flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Clinical suspicion based on flock history and presentation",
+      "disease": "chronic_respiratory_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease"
+      ]
+    }
+  },
+  {
+    "id": "crd_diagnosis_02_laboratory_testing_and_confirmation",
+    "content": "Definitive diagnosis of Chronic Respiratory Disease requires laboratory confirmation, as clinical signs are not pathognomonic. Diagnostic methods target Mycoplasma gallisepticum detection through molecular (PCR), serologic (ELISA or rapid plate agglutination), or culture-based approaches. PCR assays directly detect Mycoplasma gallisepticum DNA in tracheal, choanal cleft, or air sac samples, providing high sensitivity and specificity for confirming active infection. Serologic tests detect antibodies, indicating exposure rather than current shedding, and interpretation must consider vaccination status, age, and sampling timing. Laboratory confirmation is essential for accurate diagnosis, distinguishing active infection from past exposure or subclinical carriage, and is crucial in the context of other poultry diseases such as HPAI, LPAI, H5N1, NDV, and clade 2.3.4.4b, which can be diagnosed using methods like rRT-PCR.",
+    "vector_context": {
+      "keywords": [
+        "PCR",
+        "serology",
+        "ELISA",
+        "mycoplasma culture",
+        "laboratory confirmation"
+      ],
+      "hypothetical_questions": [
+        "What tests confirm Chronic Respiratory Disease?",
+        "How do you test for CRD in poultry?",
+        "What's the best way to diagnose CRD in a flock?",
+        "Can you test for CRD with a simple blood test?",
+        "What's the difference between PCR and culture for CRD diagnosis?",
+        "How do serologic tests help with CRD surveillance?",
+        "What's the purpose of PCR assays in CRD diagnosis?",
+        "Can you use ELISA for CRD flock monitoring?",
+        "What's the role of Mycoplasma gallisepticum in CRD diagnosis?",
+        "How do you confirm active CRD infection in a flock?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Laboratory testing for Mycoplasma gallisepticum",
+      "disease": "chronic_respiratory_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/",
+        "https://nre.tas.gov.au/biosecurity-tasmania/animal-biosecurity/animal-health/poultry-and-pigeons/chronic-respiratory-disease-%28crd%29"
+      ]
+    }
+  },
+  {
+    "id": "crd_diagnosis_03_differential_diagnosis_and_interpretation",
+    "content": "Diagnosing Chronic Respiratory Disease (CRD) requires differentiation from other poultry respiratory conditions, such as infectious bronchitis, Newcastle disease (NDV), and infectious laryngotracheitis, which can produce similar signs, including coughing and nasal discharge. Laboratory results, including detection of Mycoplasma gallisepticum, must be interpreted in the context of flock history, clinical pattern, and environmental conditions, as multiple pathogens may be involved. Concurrent testing for viral and bacterial agents, such as HPAI, LPAI, H5N1, and NDV, using methods like rRT-PCR, is often necessary to characterize the respiratory disease complex, and clade 2.3.4.4b may be relevant in some cases. Diagnosis should not rely solely on serology or response to antibiotics, as temporary clinical improvement does not confirm elimination of infection, and absence of severe signs does not rule out CRD, especially in chronically infected or carrier flocks, highlighting the importance of integrating laboratory findings with epidemiological context to guide effective control strategies.",
+    "vector_context": {
+      "keywords": [
+        "differential diagnosis",
+        "infectious bronchitis",
+        "Newcastle disease",
+        "colibacillosis",
+        "diagnostic interpretation"
+      ],
+      "hypothetical_questions": [
+        "What causes coughing in chickens?",
+        "How do I diagnose Chronic Respiratory Disease in a flock?",
+        "What are the signs of infectious bronchitis in poultry?",
+        "What does a positive Mycoplasma gallisepticum test mean for a flock?",
+        "What are the limitations of serology in diagnosing CRD?",
+        "How do I interpret laboratory results for CRD diagnosis?",
+        "What is the role of concurrent testing in diagnosing CRD?",
+        "Can antibiotics alone confirm CRD diagnosis?",
+        "What is the difference between CRD and infectious laryngotracheitis?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Differential diagnosis and interpretation of results",
+      "disease": "chronic_respiratory_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_01_antimicrobial_therapy_and_its_limitations",
+    "content": "Treatment of Chronic Respiratory Disease (CRD) in poultry focuses on reducing clinical signs and limiting production losses, rather than eliminating infection. Since Mycoplasma gallisepticum lacks a cell wall, antimicrobials like macrolides, tetracyclines, and pleuromutilins are used to reduce bacterial load and improve respiratory function. While antimicrobial therapy can lead to short-term clinical improvement, including reduced coughing and improved feed intake, it rarely eliminates the infection, and surviving birds often remain carriers, resuming shedding under stress. This limitation highlights the need for integrated long-term management strategies, as reliance on repeated antimicrobial treatment can mask the underlying problem, delay control measures, and contribute to antimicrobial resistance, emphasizing that treatment is a supportive intervention rather than a curative solution.",
+    "vector_context": {
+      "keywords": [
+        "antimicrobial treatment",
+        "macrolides",
+        "tetracyclines",
+        "carrier state",
+        "treatment limitations"
+      ],
+      "hypothetical_questions": [
+        "What helps with CRD in chickens?",
+        "How do you treat Mycoplasma gallisepticum in poultry?",
+        "What is the best way to reduce coughing in birds with CRD?",
+        "Can antibiotics cure CRD in poultry?",
+        "How effective are macrolides in treating Mycoplasma gallisepticum?",
+        "What is the mechanism of action of pleuromutilins against M. gallisepticum?",
+        "Can tetracyclines eliminate M. gallisepticum from infected birds?",
+        "What is the role of antimicrobial resistance in CRD management?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment: Antimicrobial therapy and its limitations in CRD",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_02_supportive_care_and_environmental_management",
+    "content": "Supportive care and environmental management are crucial in treating CRD, determining the effectiveness of antimicrobial therapy. Improving ventilation, reducing ammonia and dust, and maintaining stable temperature and humidity decrease respiratory irritation and support recovery. Nutritional support, including adequate energy intake, balanced protein, and vitamin and mineral supplementation, enhances immune function and resilience. Management interventions like lowering stocking density and minimizing handling reduce stress and transmission pressure, which is particularly important when secondary bacterial infections, such as those caused by Mycoplasma, are suspected, and can significantly reduce mortality, highlighting that effective CRD treatment extends beyond medication to environmental and husbandry adjustments.",
+    "vector_context": {
+      "keywords": [
+        "supportive care",
+        "ventilation",
+        "ammonia control",
+        "stress reduction",
+        "environmental management"
+      ],
+      "hypothetical_questions": [
+        "What helps CRD treatment?",
+        "What can reduce respiratory irritation in birds?",
+        "Can you describe the importance of ventilation in CRD treatment?",
+        "How does reducing ammonia levels affect CRD symptoms?",
+        "What is the role of antimicrobial therapy in CRD treatment?",
+        "What are the effects of CRD on bird respiratory tracts?",
+        "Can you explain the benefits of balanced protein levels in CRD treatment?",
+        "What is the impact of stocking density on CRD transmission?",
+        "Does supportive care reduce mortality in CRD cases?",
+        "Can environmental adjustments help control CRD outbreaks?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment: Supportive care and environmental management",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_03_strategic_control_and_decision_making",
+    "content": "Treatment of Chronic Respiratory Disease (CRD) must be made within a strategic control framework, as it cannot be reliably cured at the individual-bird level. Managers weigh temporary symptom reduction against long-term consequences, particularly in breeder operations where continued treatment may perpetuate vertical transmission. Strategic options include targeted treatment, segregation, or flock replacement with Mycoplasma-free stock, considering bird type, production stage, disease severity, and economics. Treatment strategies should align with biosecurity and prevention plans, including sourcing, traffic control, and environmental management, to prevent recurrence. Clear communication between veterinarians and producers is essential to integrate treatment objectives into long-term control programs, framing treatment as a management decision linked to broader control and prevention strategies, which is crucial in managing diseases like HPAI, LPAI, H5N1, and NDV, and utilizing diagnostic tools such as rRT-PCR to identify specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "strategic treatment",
+        "carrier flocks",
+        "flock replacement",
+        "long-term control",
+        "management decisions"
+      ],
+      "hypothetical_questions": [
+        "What are the treatment options for Chronic Respiratory Disease in commercial systems?",
+        "How do you manage carrier flocks in breeder operations?",
+        "What are the long-term consequences of maintaining carrier flocks?",
+        "What is the role of targeted treatment in stabilizing flock performance?",
+        "What is the difference between targeted treatment and flock replacement?",
+        "How do you prevent vertical transmission of Chronic Respiratory Disease?",
+        "What are the economic considerations in treating Chronic Respiratory Disease?",
+        "What is the relationship between treatment and biosecurity plans?",
+        "What is the importance of clear communication between veterinarians and producers?",
+        "Is treatment alone enough to prevent recurrence of Chronic Respiratory Disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment: Strategic decision-making and long-term control considerations",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_01_biosecurity_and_source_control",
+    "content": "Prevention of Chronic Respiratory Disease (CRD) relies on biosecurity and source control, particularly sourcing birds from Mycoplasma-free breeder flocks with regular testing programs. Biosecurity measures minimize pathogen entry and spread by controlling access, restricting visitor movement, using dedicated clothing and footwear, and ensuring thorough cleaning and disinfection of equipment and vehicles. Introducing replacement birds or mixing flocks of different ages or origins is a major risk and should be avoided unless health status is documented. Traffic flow within farms should proceed from younger to older birds, with shared equipment cleaned and disinfected before use, emphasizing that CRD prevention begins with upstream sourcing and biosecurity design.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "source control",
+        "Mycoplasma-free stock",
+        "traffic control",
+        "flock introduction"
+      ],
+      "hypothetical_questions": [
+        "What can I do to stop birds from getting CRD?",
+        "How do I keep birds healthy from CRD?",
+        "What's the best way to prevent CRD in my flock?",
+        "Can you tell me about CRD prevention methods?",
+        "What are the most effective ways to prevent CRD?",
+        "How do I prevent Mycoplasma gallisepticum from infecting my birds?",
+        "What's the role of biosecurity in CRD prevention?",
+        "How can I minimize the risk of CRD in my poultry farm?",
+        "What are the key steps in preventing CRD in commercial poultry?",
+        "Can you explain the importance of sourcing birds from Mycoplasma-free breeder flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Biosecurity and source control for CRD",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_02_environmental_management_and_stress_reduction",
+    "content": "Environmental management is crucial in preventing Chronic Respiratory Disease, even when Mycoplasma gallisepticum is present. Optimal housing conditions, including adequate ventilation, reduce shedding, transmission, and disease progression by maintaining air quality and preventing ammonia, dust, and moisture accumulation. Appropriate stocking density and stable temperature and humidity, along with protection from drafts, support respiratory health and immune function. Stress reduction, achieved by minimizing handling, avoiding abrupt management changes, and careful vaccination scheduling, is also key, as it can trigger increased shedding and clinical signs, highlighting that prevention involves maintaining conditions that prevent subclinical infection from becoming a flock-level problem.",
+    "vector_context": {
+      "keywords": [
+        "ventilation",
+        "ammonia control",
+        "stocking density",
+        "stress reduction",
+        "housing management"
+      ],
+      "hypothetical_questions": [
+        "What can cause respiratory problems in chickens?",
+        "How does Mycoplasma gallisepticum affect poultry?",
+        "What is the role of ventilation in preventing respiratory disease?",
+        "What can happen if the litter is damp or dusty?",
+        "What are the effects of ammonia on the respiratory tract?",
+        "How does stocking density impact disease transmission?",
+        "What is the impact of stress on immune function in poultry?",
+        "What are some ways to reduce stress in poultry?",
+        "What is the importance of stable temperature and humidity?",
+        "Can vaccination programs trigger increased shedding?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Environmental management and stress reduction",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.birdhealth.com.au/crd-chronic-respiratory-disease",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_03_vaccination_surveillance_and_long_term_programs",
+    "content": "Prevention of Chronic Respiratory Disease involves a combination of surveillance programs and, in some systems, vaccination against Mycoplasma gallisepticum. Serologic and molecular monitoring of breeder and production flocks enables early detection of infection, informing decisions on flock replacement, segregation, or intensified biosecurity. Vaccines against Mycoplasma gallisepticum can reduce clinical signs and shedding, particularly in multi-age systems, but do not prevent infection entirely and should be used as a risk-reduction tool alongside biosecurity and source control. Effective prevention requires integrating these measures into a health management program, with monitoring results informing sourcing, biosecurity, and production strategies to minimize clinical disease and economic impact.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "surveillance",
+        "monitoring programs",
+        "long-term prevention",
+        "risk reduction"
+      ],
+      "hypothetical_questions": [
+        "What can I do to prevent Chronic Respiratory Disease in my chickens?",
+        "How do I stop Mycoplasma gallisepticum from spreading in my flock?",
+        "What are the benefits of vaccinating against Mycoplasma gallisepticum?",
+        "What are some long-term strategies for preventing CRD in layer and breeder systems?",
+        "What is the role of serologic monitoring in detecting Mycoplasma gallisepticum infection?",
+        "How does vaccination against Mycoplasma gallisepticum reduce clinical signs and shedding?",
+        "What are the limitations of using vaccination as a sole measure against CRD?",
+        "What is the importance of integrating surveillance and vaccination programs in CRD prevention?",
+        "Can vaccination against Mycoplasma gallisepticum prevent infection entirely?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Vaccination, surveillance, and long-term control programs",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.farmhealthonline.com/en/disease-management/poultry-diseases/mycoplasmosis/",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_overview_04_terminology_poultry_vs_human_crds",
+    "content": "In poultry health, Chronic Respiratory Disease (CRD) refers to a production-limiting syndrome primarily linked to Mycoplasma gallisepticum infection, characterized by long-lasting upper airway and air sac disease with intermittent flare-ups. To avoid confusion with the public-health term \"chronic respiratory diseases (CRDs)\" used for human conditions like asthma and COPD, it is essential to maintain a clear distinction, as human CRD pages are not relevant to the etiology, transmission, diagnostics, or control of Mycoplasma-associated respiratory disease in chickens and turkeys, and may introduce irrelevant human risk factors, such as tobacco smoke, thereby contaminating poultry decision-making and compromising the accuracy of a poultry knowledge base.",
+    "vector_context": {
+      "keywords": [
+        "terminology",
+        "scope",
+        "human_crds",
+        "poultry_crd",
+        "mycoplasma_gallisepticum",
+        "kb_hygiene"
+      ],
+      "hypothetical_questions": [
+        "What is CRD in chickens?",
+        "What causes Chronic Respiratory Disease in poultry?",
+        "Is Mycoplasma gallisepticum the same as human CRD?",
+        "What are the symptoms of CRD in turkeys?",
+        "Can tobacco smoke cause CRD in chickens?",
+        "What is the difference between poultry and human CRD?",
+        "Is Mycoplasma gallisepticum a zoonotic agent?",
+        "What are the diagnostic methods for CRD in poultry?",
+        "Can human CRD pages be used to define poultry CRD terminology?",
+        "What is the etiology of CRD in commercial poultry flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Terminology—poultry CRD versus human ‘chronic respiratory diseases’",
+      "disease": "chronic_respiratory_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://www.who.int/health-topics/chronic-respiratory-diseases",
+        "https://journals.sagepub.com/home/CRD",
+        "https://www.canada.ca/en/public-health/services/chronic-diseases/chronic-respiratory-diseases.html",
+        "https://www.physio-pedia.com/Chronic_Respiratory_Diseases",
+        "https://www.aihw.gov.au/reports/chronic-respiratory-conditions/chronic-respiratory-conditions/contents/summary",
+        "https://ncdalliance.org/explore-ncds/ncds/chronic-respiratory-diseases",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_overview_05_mixed_infections_and_control_challenge",
+    "content": "CRD in poultry is rarely a single-agent problem, as respiratory syndromes in commercial and backyard birds are shaped by simultaneous infections and unfavorable environmental conditions, driving rapid spread and high morbidity. Viral damage to the respiratory mucosa can facilitate bacterial invasion, while bacteria in the upper airways can lead to deeper air sac involvement and systemic complications. The mismatch between short production cycles and the biology of chronic colonizers, such as Mycoplasma, further complicates control, as birds may remain infected and resume shedding during stress, contributing to inconsistent vaccine impact and medication overuse. A practical poultry CRD approach must explicitly represent co-infections and stressors as core drivers, rather than optional complications, to effectively manage diseases like HPAI, LPAI, H5N1, and NDV, which can be detected using rRT-PCR, and may involve strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "mixed_infections",
+        "environmental_stress",
+        "secondary_pathogens",
+        "morbidity",
+        "control_complexity",
+        "poultry_industry"
+      ],
+      "hypothetical_questions": [
+        "What causes CRD in poultry?",
+        "Can stress trigger CRD in chickens?",
+        "How do bacteria affect CRD in poultry?",
+        "What is the role of viral damage in CRD?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Why CRD is hard to control in real flocks",
+      "disease": "chronic_respiratory_disease",
+      "category": "overview",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_cause_04_mycoplasma_biology_no_cell_wall",
+    "content": "Mycoplasma gallisepticum, a bacterial pathogen, lacks a rigid cell wall, relying on a membrane-based structure for survival, rendering antimicrobial strategies targeting cell-wall synthesis ineffective against it. As a mycoplasma adapted for persistent colonization of the avian respiratory tract, it can establish long-term carriage in birds with variable shedding, particularly when stressed or co-infected with other respiratory pathogens like HPAI, LPAI, H5N1, or NDV. This carrier state allows CRD to persist within a flock, and for control purposes, it is useful to consider Mycoplasma gallisepticum as a chronic colonizer that can amplify disease expression through co-infections, detectable by methods such as rRT-PCR, especially in cases involving clade 2.3.4.4b, rather than a short-lived infection that disappears once clinical signs decline.",
+    "vector_context": {
+      "keywords": [
+        "mycoplasma_gallisepticum",
+        "wall_less_bacteria",
+        "antimicrobial_target",
+        "chronic_carrier",
+        "poultry_myco"
+      ],
+      "hypothetical_questions": [
+        "What causes respiratory disease in chickens?",
+        "Mycoplasma gallisepticum lacks a cell wall, what does it rely on for survival?",
+        "Is Mycoplasma gallisepticum a common respiratory bacteria?",
+        "Why are some antimicrobial strategies not effective against Mycoplasma gallisepticum?",
+        "What is the primary structure of Mycoplasma gallisepticum?",
+        "How does Mycoplasma gallisepticum adapt to the avian respiratory tract?",
+        "Is Mycoplasma gallisepticum a chronic colonizer of the respiratory tract?",
+        "What triggers shedding of Mycoplasma gallisepticum in birds?",
+        "Does stress affect the shedding of Mycoplasma gallisepticum in birds?",
+        "Mycoplasma gallisepticum is a chronic colonizer, what does this mean for disease expression?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Mycoplasma gallisepticum biology that shapes therapy",
+      "disease": "chronic_respiratory_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens"
+      ]
+    }
+  },
+  {
+    "id": "crd_cause_05_ccrd_definition_mg_with_secondary_pathogens",
+    "content": "The term \"complex chronic respiratory disease\" (CCRD) refers to the intensification of classic CRD by secondary pathogens and systemic pathology. A case report in broilers documented respiratory distress and enteric signs, with laboratory detection of Mycoplasma gallisepticum, Escherichia coli, and concurrent Eimeria spp. infection, leading to widespread fibrin accumulation and intestinal mucosal hemorrhage. CCRD is an outcome of interactions, where respiratory mucosal injury, immune suppression, and environmental stressors allow opportunistic bacteria to invade, increasing mortality and carcass condemnation. Capturing CCRD in the \"cause\" section supports realistic differential diagnosis and control planning, preventing oversimplified attributions.",
+    "vector_context": {
+      "keywords": [
+        "ccrd",
+        "secondary_infection",
+        "e_coli",
+        "eimeria",
+        "synergism",
+        "fibrinous_lesions"
+      ],
+      "hypothetical_questions": [
+        "What causes complex chronic respiratory disease in poultry?",
+        "What is the role of Mycoplasma gallisepticum in complex chronic respiratory disease?",
+        "What are the secondary pathogens associated with complex chronic respiratory disease?",
+        "What is the impact of Eimeria spp. infection on complex chronic respiratory disease?",
+        "How does respiratory mucosal injury contribute to complex chronic respiratory disease?",
+        "What is the relationship between immune suppression and complex chronic respiratory disease?",
+        "What are the environmental stressors that can lead to complex chronic respiratory disease?",
+        "What is the difference between chronic respiratory disease and complex chronic respiratory disease?",
+        "Is complex chronic respiratory disease caused by a single organism or multiple factors?",
+        "Can Mycoplasma gallisepticum and Escherichia coli cause complex chronic respiratory disease together?"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Complex chronic respiratory disease as a multi-agent syndrome",
+      "disease": "chronic_respiratory_disease",
+      "category": "cause",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8757677/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_04_vertical_and_hatchery_spread",
+    "content": "Mycoplasma gallisepticum can be introduced into production systems through vertical transmission from infected breeders to their progeny, contaminating eggs and seeding infection in chicks. This early infection has a significant impact due to chicks' limited physiologic reserves and sensitivity to concurrent respiratory viruses and poor brooding conditions. Vertical spread links on-farm disease patterns to upstream supply chains, and weak infection control at the hatchery or breeder level can lead to repeated placement of infected chicks, creating recurring respiratory disease. Distinguishing vertically introduced infection from horizontally acquired infection is crucial, as intervention priorities differ, with breeder sourcing and monitoring being primary in the former, and on-site movement control dominating the latter.",
+    "vector_context": {
+      "keywords": [
+        "vertical_transmission",
+        "egg_transmission",
+        "breeder_flocks",
+        "hatchery",
+        "early_infection"
+      ],
+      "hypothetical_questions": [
+        "What causes CRD in chicks?",
+        "How do hens pass on Mycoplasma gallisepticum to their chicks?",
+        "What are the effects of early infection in chicks?",
+        "Can CRD be spread through contaminated eggs?",
+        "What is the role of vertical transmission in CRD establishment?",
+        "How does Mycoplasma gallisepticum affect the reproductive tract of hens?",
+        "What are the physiologic reserves of chicks and how do they impact CRD?",
+        "What is the significance of concurrent respiratory viruses in CRD?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Vertical transmission and early-life establishment",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens",
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_05_carriers_stress_reactivation",
+    "content": "CRD outbreaks can occur without new bird introductions due to carrier-driven transmission, where clinically normal birds maintain and spread infection. After exposure, some birds become carriers with fluctuating pathogen loads, shedding more heavily during stress periods, such as crowding, temperature swings, or concurrent disease, and triggering new waves of respiratory illness. This is particularly relevant in smallholder and backyard settings with multi-age flocks, where infection is continuously recycled between older birds and replacements. Recognizing carriers shifts control planning focus toward preventing introduction and minimizing stressors, as treatment may reduce signs but often fails to remove the organism, emphasizing the need for a proactive approach to manage CRD.",
+    "vector_context": {
+      "keywords": [
+        "carrier_state",
+        "latent_infection",
+        "stress",
+        "shedding",
+        "flock_persistence",
+        "backyard_flocks"
+      ],
+      "hypothetical_questions": [
+        "What causes CRD to spread in a flock?",
+        "How do stressors like crowding affect CRD carriers?",
+        "What triggers a new wave of respiratory illness in pen mates?",
+        "Why do CRD outbreaks seem to come and go in smallholder settings?",
+        "What is the role of carrier birds in CRD transmission?",
+        "How do multi-age flocks contribute to CRD infection?",
+        "Can treatment remove the CRD organism from a flock?",
+        "What is the difference between carrier and clinically affected birds?",
+        "CRD carriers can shed more heavily under what conditions?",
+        "How do stressors like temperature swings affect CRD carriers?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Carrier birds and stress-driven shedding",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_06_high_risk_movements_shows_new_stock",
+    "content": "Bird movement events accelerate CRD transmission by combining exposure with stress, particularly in backyard flocks infected through informal trading, adding rescue birds, or attending poultry shows where animals share airspace and surfaces. Respiratory pathogens like HPAI, LPAI, H5N1, NDV, and Mycoplasma can be carried on contaminated hands, crates, clothing, feeders, and drinkers, even when birds are penned separately. Risk increases during and after transport due to mixing, crowding, and temperature changes that impair mucosal defenses, leading to long-term colonization and intermittent shedding of pathogens. To control CRD, small flocks should isolate newcomers and show birds to observe for signs, avoid sharing equipment, and keep a movement log to trace introduction events, especially for diseases like H5N1 clade 2.3.4.4b, which can be detected using rRT-PCR, and other respiratory diseases caused by NDV and Mycoplasma.",
+    "vector_context": {
+      "keywords": [
+        "poultry_shows",
+        "new_birds",
+        "quarantine",
+        "transport",
+        "biosecurity_gaps",
+        "stocking_density"
+      ],
+      "hypothetical_questions": [
+        "What is CRD in poultry?",
+        "How does CRD affect birds?",
+        "What are the common symptoms of CRD?",
+        "What causes CRD in backyard flocks?",
+        "What is the main way CRD spreads among birds?",
+        "How do birds get infected with CRD?",
+        "What are the signs of CRD in poultry?",
+        "What is the impact of CRD on poultry farms?",
+        "How can CRD be prevented in poultry?",
+        "Can I trade birds with my neighbor if they have a backyard flock?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Movement-related risks in backyard and small-scale production",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://poultrydvm.com/condition/mycoplasma-gallisepticum",
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles"
+      ]
+    }
+  },
+  {
+    "id": "crd_transmission_07_direct_contact_aerosol_and_fomites",
+    "content": "Horizontal spread of poultry CRD occurs through close contact and respiratory secretions, with infected birds shedding organisms in droplets and mucus that transmit to pen mates via shared airspace and direct interactions. Poor ventilation and dense stocking increase infection pressure, sustaining clinical disease. Mechanical transfer, such as handling birds, moving equipment, or walking between sheds, also spreads contaminated organic material between groups, particularly in multi-age farms or backyard setups where tools are shared across pens, allowing disease to \"jump\" to neighboring sheds without direct bird movement, highlighting the need to consider horizontal transmission as a spectrum from rapid within-pen spread to slower, management-driven spread between pens via people and equipment.",
+    "vector_context": {
+      "keywords": [
+        "aerosol",
+        "direct_contact",
+        "fomites",
+        "people_movement",
+        "equipment",
+        "between_sheds"
+      ],
+      "hypothetical_questions": [
+        "How do chickens catch CRD?",
+        "What causes CRD to spread quickly in a flock?",
+        "Is CRD contagious between birds?",
+        "What makes CRD spread faster in crowded chicken coops?",
+        "How do respiratory secretions contribute to CRD transmission?",
+        "What is the role of ventilation in CRD spread?",
+        "Can CRD be transmitted through contaminated equipment?",
+        "How do birds shed CRD organisms?",
+        "What is the impact of poor housing on CRD infection pressure?",
+        "Is CRD transmitted through aerosolized droplets?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Direct contact, aerosols, and mechanical spread within and between sheds",
+      "disease": "chronic_respiratory_disease",
+      "category": "transmission",
+      "source_urls": [
+        "https://nre.tas.gov.au/biosecurity-tasmania/animal-biosecurity/animal-health/poultry-and-pigeons/chronic-respiratory-disease-(crd)",
+        "https://www.biopharmachemie.com/technical/health-management-disease-prevention-and-treatment-in-poultry/chronic-respiratory-disease-crd-and-crd-combined-with-e-coli-in-poultry.html",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_symptom_04_ocular_nasal_signs_and_head_swelling",
+    "content": "CRD cases often present with \"upper\" signs, including clear or watery ocular discharge, foamy tears, and head shaking, before progressing to dramatic respiratory distress. As inflammation extends into the infraorbital sinuses, facial swelling and sneezing may occur, with affected birds sounding wet or congested. Although these signs overlap with infectious coryza, infectious bronchitis, and laryngotracheitis, their chronicity and tendency to flare under stress are typical of CRD. In advanced cases, thick exudate may accumulate, and airway patency worsens, leading to open-mouth breathing. This symptom pattern is useful for flock surveillance, as it often appears before production losses or mortality, allowing for early intervention and movement control, particularly in diseases like Mycoplasma infection.",
+    "vector_context": {
+      "keywords": [
+        "weeping_eyes",
+        "foamy_eyes",
+        "sinus_swelling",
+        "nasal_discharge",
+        "head_shaking",
+        "upper_respiratory"
+      ],
+      "hypothetical_questions": [
+        "What are the first signs of CRD in chickens?",
+        "Upper respiratory signs in CRD include which of the following?",
+        "CRD symptoms include clear or watery ocular discharge and head shaking, what else?",
+        "CRD birds may develop a puffy facial appearance due to inflammation in the infraorbital sinuses, what is this symptom called?",
+        "CRD symptoms in birds include sneezing and snicking, what is the cause of this?",
+        "CRD birds may develop a runny nose and sound wet or congested, especially in quiet housing at night, what is the reason for this?",
+        "What are the chronic symptoms of CRD in poultry?",
+        "CRD symptoms include thick exudate accumulation in the oral cavity and around the eyes, what is the effect of this on airway patency?",
+        "CRD birds may develop open-mouth breathing due to worsening airway patency, what is the significance of this symptom?",
+        "CRD symptoms include ocular and nasal signs, what is the typical progression of these symptoms?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Ocular discharge, foamy eyes, and periorbital swelling",
+      "disease": "chronic_respiratory_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles"
+      ]
+    }
+  },
+  {
+    "id": "crd_symptom_05_reproductive_tract_and_egg_quality_effects",
+    "content": "Mycoplasma gallisepticum, a cause of CRD, can affect the reproductive tract of hens, leading to changes in egg shell appearance and quality, including altered shell color or poorer shell integrity, which can increase breakage, downgrade eggs, and reduce hatchability in breeder operations. Infected breeding hens can contaminate eggs, enabling vertical spread into chicks, and establishing the agent before birds enter grow-out housing. Reproductive impacts may occur even with mild respiratory signs, so considering \"egg quality changes and hatchery performance issues\" as part of the CRD symptom profile is crucial, particularly in the context of breeder operations where diseases like HPAI, LPAI, H5N1, NDV, and other avian diseases, diagnosed using rRT-PCR, and strains like clade 2.3.4.4b, can have significant economic implications.",
+    "vector_context": {
+      "keywords": [
+        "oviduct_infection",
+        "egg_shell_quality",
+        "egg_shell_color",
+        "reduced_hatchability",
+        "vertical_transmission",
+        "laying_hens"
+      ],
+      "hypothetical_questions": [
+        "What are the common respiratory signs of CRD in poultry?",
+        "How does CRD affect the respiratory system of chickens?",
+        "What are the typical respiratory symptoms of CRD in hens?",
+        "Can CRD cause respiratory issues in chickens?",
+        "What are the respiratory manifestations of CRD in poultry?",
+        "How does CRD infection impact the respiratory health of birds?",
+        "What are the respiratory signs of CRD in commercial poultry?",
+        "Can CRD lead to respiratory problems in chickens?",
+        "What are the reproductive tract symptoms of CRD in hens?",
+        "How does CRD affect egg shell appearance and quality?",
+        "What are the effects of CRD on egg shell color and integrity?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Reproductive tract involvement and egg-quality changes",
+      "disease": "chronic_respiratory_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_symptom_06_extrapulmonary_signs_lameness_and_synovitis",
+    "content": "Mycoplasma-associated disease can lead to swollen joints and lameness, reflecting a broader inflammatory process that can accompany or follow respiratory infection. Birds may exhibit reluctance to move, uneven gait, or decreased ability to reach feed and water, resulting in weight loss and welfare concerns. Joint involvement can complicate field interpretation due to multiple non-infectious and infectious causes of lameness in poultry. However, when lameness appears alongside chronic ocular and nasal signs, a Mycoplasma-driven syndrome is more plausible, highlighting the importance of considering extrapulmonary symptoms to prevent under-recognition of Mycoplasma impacts, particularly in backyard birds where individual clinical observation is more detailed.",
+    "vector_context": {
+      "keywords": [
+        "lameness",
+        "swollen_joints",
+        "synovitis",
+        "mycoplasma_spread",
+        "mobility_loss",
+        "welfare"
+      ],
+      "hypothetical_questions": [
+        "What causes swollen joints in chickens?",
+        "Lameness in poultry is often due to what?",
+        "Mycoplasma infection can lead to which symptoms in birds?",
+        "What are some common signs of joint involvement in birds?",
+        "What are the possible causes of lameness in poultry?",
+        "How does Mycoplasma infection affect the joints of birds?",
+        "What is the relationship between respiratory infection and joint inflammation in birds?",
+        "What are some extrapulmonary symptoms of Mycoplasma infection in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Lameness and joint involvement in Mycoplasma-associated disease",
+      "disease": "chronic_respiratory_disease",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_pathology_01_airsacculitis_and_caseous_exudate",
+    "content": "Lesions of clinically significant CRD are typically found in the upper respiratory tract and air sacs, where Mycoplasma colonization and inflammation can extend from the nasal passages and trachea, irritating the thin air sac membranes. Postmortem examination may reveal cloudy or thickened air sacs with serous to caseous exudate, and secondary bacterial pathogens can lead to fibrin deposition and more severe air sac changes. These lesions are diagnostically important as they link outward signs to internal disease severity, and can impact respiratory efficiency, especially under heat stress or high activity, even in birds with mild symptoms like sneezing, highlighting the importance of considering air sac lesions when selecting laboratory samples, such as those for rRT-PCR or testing for HPAI, LPAI, H5N1, NDV, or Mycoplasma, in the context of diseases like HPAI, which can be caused by viruses like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "airsacculitis",
+        "caseous_exudate",
+        "fibrin",
+        "tracheitis",
+        "sinusitis",
+        "lesions"
+      ],
+      "hypothetical_questions": [
+        "What causes cloudy air sacs in chickens?",
+        "What are the hallmark lesions of CRD in poultry?",
+        "Can caseous exudate be found in air sacs of birds with CRD?",
+        "What are the signs of air sac involvement in birds with CRD?",
+        "How does Mycoplasma colonization affect air sac membranes?",
+        "What is the significance of fibrin deposition in air sac lesions?",
+        "What are the differences in air sac changes due to secondary bacterial pathogens?",
+        "How does CRD affect respiratory efficiency in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology: Air sac disease and characteristic lesions in CRD",
+      "disease": "chronic_respiratory_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens"
+      ]
+    }
+  },
+  {
+    "id": "crd_pathology_02_respiratory_mucosa_damage_and_ciliary_loss",
+    "content": "Damage to the respiratory mucosal defenses is a key mechanism behind the severity of CRD, with the avian trachea relying on ciliary motion and mucus production to clear inhaled particles and microbes. Injury to the epithelial surface, caused by Mycoplasma-associated inflammation, poor air quality, or concurrent respiratory viruses like NDV or infectious bronchitis virus, impairs the mucociliary escalator, allowing opportunistic bacteria to persist and invade deeper tissues. This explains why flocks with similar Mycoplasma status may have different outcomes based on factors like ventilation, dust load, and ammonia levels, and why secondary infections are predictable events when the barrier fails, emphasizing the importance of controlling environment and co-infections to reduce lesion severity and mortality risk.",
+    "vector_context": {
+      "keywords": [
+        "respiratory_epithelium",
+        "ciliary_dysfunction",
+        "mucociliary_clearance",
+        "secondary_bacterial_infection",
+        "mucosal_barrier"
+      ],
+      "hypothetical_questions": [
+        "What's the role of the respiratory mucosa in clearing inhaled particles?",
+        "How does ciliary motion help protect birds from respiratory infections?",
+        "What's the impact of poor air quality on the respiratory mucociliary escalator?",
+        "What's the relationship between Mycoplasma and respiratory mucosal damage?",
+        "How does mucus production contribute to respiratory health in birds?",
+        "What's the effect of concurrent respiratory viruses on the respiratory mucosa?",
+        "How does damage to the respiratory epithelium affect disease severity?",
+        "What's the significance of the mucociliary escalator in avian respiratory health?",
+        "How does environmental quality influence respiratory mucosal defenses?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology: Respiratory epithelial injury that predisposes to secondary infection",
+      "disease": "chronic_respiratory_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/",
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles"
+      ]
+    }
+  },
+  {
+    "id": "crd_pathology_03_fibrinous_polyserositis_in_ccrd",
+    "content": "In CCRD, secondary bacterial invasion is associated with fibrinous inflammation on serosal surfaces, producing a \"widespread fibrin\" appearance across organs. A case report in broilers described extensive fibrin buildup in multiple organs alongside detection of Mycoplasma gallisepticum and Escherichia coli, illustrating systemic inflammation and sepsis-like pathology. Fibrinous pericarditis, perihepatitis, and generalized serositis lead to carcass trimming and condemnation, transforming chronic morbidity into direct economic loss. Effective respiratory control measures that prevent mucosal damage and reduce secondary bacterial entry can lower the probability of fibrinous serositis outcomes, highlighting the importance of respiratory control in maintaining carcass quality.",
+    "vector_context": {
+      "keywords": [
+        "polyserositis",
+        "pericarditis",
+        "perihepatitis",
+        "fibrin_deposition",
+        "apec",
+        "condemnation"
+      ],
+      "hypothetical_questions": [
+        "What causes widespread fibrin in organs?",
+        "Fibrin buildup in multiple organs is associated with what?",
+        "What is the effect of secondary bacterial invasion on serosal surfaces?",
+        "Fibrinous inflammation on serosal surfaces is a sign of what?",
+        "What is the role of Mycoplasma gallisepticum in fibrin buildup?",
+        "Can Escherichia coli cause fibrin buildup in organs?",
+        "How does systemic inflammation affect respiratory disease in flocks?",
+        "What is the relationship between respiratory disease and fibrinous pericarditis?",
+        "What are the consequences of fibrinous pericarditis and perihepatitis on carcass quality?",
+        "Can preventing mucosal damage reduce fibrinous serositis outcomes?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology: Fibrinous polyserositis and carcass condemnation in CCRD",
+      "disease": "chronic_respiratory_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8757677/",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/"
+      ]
+    }
+  },
+  {
+    "id": "crd_pathology_04_sinus_plugs_and_local_complications",
+    "content": "Advanced CRD can lead to mechanical complications due to inflammatory exudate accumulation in confined spaces, such as the infraorbital sinuses and nasal passages, causing obstruction and impaired drainage. Clinically, this manifests as facial swelling, noisy breathing, and exudate around the eyes or oral cavity, with birds adopting open-mouth breathing to compensate. The resulting local pathology can limit the effectiveness of systemic interventions, as organized and adherent exudate requires restoration of drainage and removal of obstructive material, rather than relying solely on antimicrobial suppression, highlighting the importance of recognizing the transition from chronic inflammation to a physical blockage problem to explain variable individual-bird outcomes within a flock outbreak.",
+    "vector_context": {
+      "keywords": [
+        "infraorbital_sinus",
+        "caseous_pus",
+        "choanal_slit",
+        "nasal_plugs",
+        "local_obstruction",
+        "advanced_disease"
+      ],
+      "hypothetical_questions": [
+        "What causes facial swelling in chickens?",
+        "What are the symptoms of blocked sinuses in birds?",
+        "Can chronic inflammation in birds lead to physical blockages?",
+        "What are the signs of nasal passages obstruction in poultry?",
+        "What are the complications of CRD in confined spaces?",
+        "What is the effect of inflammatory exudate on airflow in birds?",
+        "How do birds compensate for severe nasal obstruction?",
+        "What are the key factors in clearing exudate in birds with CRD?",
+        "Can systemic interventions alone treat CRD-related blockages?",
+        "What is the pathologic principle behind chronic inflammation in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology: Sinus obstruction and caseous accumulations in advanced cases",
+      "disease": "chronic_respiratory_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx",
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles"
+      ]
+    }
+  },
+  {
+    "id": "crd_pathology_05_coinfection_progression_to_colisepticemia",
+    "content": "Secondary infection with avian pathogenic Escherichia coli drives severe outcomes in CRD. When Mycoplasma-associated inflammation and environmental irritation compromise the respiratory mucosa and air sac membranes, E. coli can enter the respiratory tract, establishing localized airsacculitis or progressing to systemic invasion with septicemia-type lesions. Systemic spread is characterized by inflammatory changes on serosal surfaces and organs, strongly linked to processing losses through condemnation. Mucosal damage from primary respiratory pathogens, such as HPAI, LPAI, H5N1, or NDV, increases susceptibility to secondary APEC invasion, which can be detected using rRT-PCR and may involve strains like clade 2.3.4.4b. This mechanism ties flock-level husbandry and co-infection control to non-respiratory outcomes, and worsening mortality during a CRD episode often signals secondary bacterial invasion rather than a change in the primary agent.",
+    "vector_context": {
+      "keywords": [
+        "secondary_e_coli",
+        "apec",
+        "colisepticemia",
+        "entry_via_respiratory",
+        "sepsis",
+        "mortality"
+      ],
+      "hypothetical_questions": [
+        "What causes secondary infection in CRD?",
+        "What happens when E. coli infects the respiratory tract?",
+        "What is the role of Mycoplasma in CRD?",
+        "How does E. coli cause airsacculitis?",
+        "What is the relationship between CRD and secondary bacterial invasion?",
+        "How does mucosal damage increase susceptibility to secondary bacterial invasion?",
+        "What are the clinical signs of secondary bacterial invasion in CRD?",
+        "What is the impact of co-infection control on CRD outcomes?",
+        "What is the common entry point for APEC in poultry?",
+        "Can E. coli cause septicemia in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology: How secondary E. coli turns localized CRD into systemic disease",
+      "disease": "chronic_respiratory_disease",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.biopharmachemie.com/technical/health-management-disease-prevention-and-treatment-in-poultry/chronic-respiratory-disease-crd-and-crd-combined-with-e-coli-in-poultry.html",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/",
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "crd_diagnosis_04_serology_interpretation_and_limits",
+    "content": "Serologic testing is used to assess Mycoplasma exposure at the flock level, particularly in breeder and layer systems. Antibody detection is useful for surveillance and identifying exposed groups, even with minimal clinical signs. However, serology does not confirm active shedding and can be difficult to interpret in vaccinated flocks. Serology is most effective when used comparatively, with paired samples showing a rising antibody response indicating recent infection. Results should be considered in the context of flock history, clinical picture, and biosecurity breaches, as different testing platforms vary in sensitivity and specificity. In practice, serology functions best as a monitoring tool to trigger targeted organism detection, rather than as a stand-alone confirmation of causation for a current outbreak.",
+    "vector_context": {
+      "keywords": [
+        "serology",
+        "flock_monitoring",
+        "antibodies",
+        "paired_samples",
+        "vaccination_interference",
+        "interpretation"
+      ],
+      "hypothetical_questions": [
+        "What does serology testing show in a flock with minimal clinical signs?",
+        "How does serology confirm Mycoplasma exposure in breeder and layer systems?",
+        "What is the limitation of serology in vaccinated flocks?",
+        "Can serology directly confirm active shedding at the time of testing?",
+        "Does serology detect Mycoplasma antibodies in a flock?",
+        "What does a rising antibody response in paired samples indicate?",
+        "How does serology compare to other diagnostic methods for Mycoplasma?",
+        "What is the difference in sensitivity and specificity between testing platforms?",
+        "Can serology be used to confirm causation for a current outbreak?",
+        "Does serology trigger targeted organism detection in a flock?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Serology as a flock tool and its interpretation limits",
+      "disease": "chronic_respiratory_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens"
+      ]
+    }
+  },
+  {
+    "id": "crd_diagnosis_05_targeted_sampling_for_pcr_and_culture",
+    "content": "Confirming Mycoplasma involvement requires detecting the organism or its genetic material, typically using PCR-based assays that detect Mycoplasma DNA in clinical samples. The diagnostic yield depends on choosing the right sample type and timing, with swabs from the choanal cleft, trachea, or affected sinuses being more informative in birds with upper-airway signs. Sampling strategy should align with the clinical question, addressing secondary pathogens like HPAI, LPAI, H5N1, NDV, or other agents if explaining acute mortality or fibrinous serositis, as Mycoplasma alone may not account for systemic lesions. For flock surveillance, early sampling before antimicrobial exposure improves detection, and selecting the right tissue from the right birds at the right time is crucial for effective diagnostics, which may involve techniques like rRT-PCR, particularly for detecting specific strains such as clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "pcr",
+        "tracheal_swab",
+        "choanal_cleft",
+        "sinus_samples",
+        "culture",
+        "sampling_timing"
+      ],
+      "hypothetical_questions": [
+        "What sample type is best for detecting Mycoplasma in birds with upper-airway signs?",
+        "How does the timing of sampling affect the diagnostic yield for Mycoplasma?",
+        "What is the role of PCR-based assays in confirming Mycoplasma involvement?",
+        "Can you explain why choosing the right sample type is crucial for Mycoplasma detection?",
+        "What secondary pathogens should be tested for in birds with fibrinous serositis?",
+        "How does antimicrobial exposure impact the detection of Mycoplasma in clinical samples?",
+        "What is the importance of selecting the right tissue from the right birds for PCR and culture?",
+        "What are the clinical signs that suggest Mycoplasma involvement in birds?",
+        "What is the diagnostic yield of PCR-based assays compared to culture or targeted bacteriology?",
+        "What is the best approach for flock surveillance of Mycoplasma infections?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Targeted sampling for PCR and organism detection",
+      "disease": "chronic_respiratory_disease",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8757677/"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_control_01_antimicrobial_realism_and_resistance",
+    "content": "Antimicrobials can reduce the severity of CRD outbreaks by lowering bacterial load and suppressing secondary invaders, decreasing coughing, nasal discharge, and mortality. However, improvement in clinical signs does not guarantee elimination of Mycoplasma gallisepticum, and birds may remain carriers capable of renewed shedding when stressed, leading to potential relapse. Antimicrobial stewardship is also crucial, as overuse can increase bacterial resistance and complicate future control efforts, highlighting the need to balance short-term welfare and production goals with long-term sustainability by treating only when clinically justified and guided, rather than relying on medication as a substitute for biosecurity, ventilation, and supply-chain control.",
+    "vector_context": {
+      "keywords": [
+        "antimicrobials",
+        "clinical_suppression",
+        "carrier_persistence",
+        "antimicrobial_resistance",
+        "secondary_bacteria",
+        "therapy_limits"
+      ],
+      "hypothetical_questions": [
+        "Can antimicrobials cure CRD in chickens?",
+        "What are the risks of overusing antimicrobials in poultry?",
+        "How do antimicrobials affect Mycoplasma gallisepticum in flocks?",
+        "Can treated flocks still relapse with CRD?",
+        "What is antimicrobial stewardship in poultry?",
+        "How does repeated treatment affect bacterial resistance?",
+        "Can medication replace good biosecurity in poultry?",
+        "What are the long-term effects of overusing antimicrobials?",
+        "What is the best way to manage CRD in commercial flocks?",
+        "Can antimicrobials eliminate Mycoplasma gallisepticum completely?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: What antimicrobials can and cannot achieve",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_control_02_management_actions_during_outbreak",
+    "content": "Effective CRD control during an outbreak requires reducing transmission and physiologic stress through management actions. Separating visibly sick birds lowers contact exposure and improves access to warmth, hydration, and feed. Environmental corrections, such as improving ventilation, reducing dust and ammonia, and minimizing crowding, stabilize the respiratory mucosa and reduce secondary bacterial invasion. In severe cases, humane culling may be necessary to reduce infection pressure, and rapid removal of carcasses with hygienic disposal prevents opportunistic pathogen amplification. Early detection and prompt intervention are crucial to prevent mild CRD episodes from escalating into systemic disease and high mortality, as emphasized by field case reports and veterinary guidance.",
+    "vector_context": {
+      "keywords": [
+        "isolation",
+        "culling",
+        "carcass_disposal",
+        "stress_reduction",
+        "ventilation",
+        "outbreak_response"
+      ],
+      "hypothetical_questions": [
+        "What can I do to stop the spread of CRD in my flock?",
+        "How do I separate sick birds from the rest of the flock?",
+        "What are the benefits of improving ventilation in a flock with CRD?",
+        "How can I reduce dust and ammonia in my chicken coop?",
+        "What is the purpose of culling birds with severe CRD?",
+        "How does environmental correction help with CRD control?",
+        "What are the risks of not removing carcasses quickly?",
+        "Why is early detection of CRD important for flock health?",
+        "What are some humane ways to manage CRD in a flock?",
+        "How can I reduce the risk of secondary bacterial invasion in CRD?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Outbreak management beyond medication",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8757677/",
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles",
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_control_03_local_complication_management_sinus_drainage",
+    "content": "In backyard practice, challenging CRD cases often involve extensive sinus involvement and thick exudate that cannot drain, leading to persistent facial swelling and obstructed nostrils. Once material becomes caseous and organized, physical obstruction and chronic irritation become the primary clinical concerns. Individual-bird control focuses on restoring patency and reducing local inflammation through procedures that clear accumulated material and support drainage, alongside systemic therapy when indicated. These invasive interventions require expertise and are not a flock-level strategy, but are relevant for owners of valuable breeders or pets, providing a realistic understanding of advanced CRD disease.",
+    "vector_context": {
+      "keywords": [
+        "sinusitis",
+        "exudate",
+        "drainage",
+        "individual_treatment",
+        "backyard_veterinary_care",
+        "supportive_care"
+      ],
+      "hypothetical_questions": [
+        "What to do when CRD cases have blocked nostrils?",
+        "How to treat CRD with thick exudate?",
+        "What's the best way to manage sinus involvement in CRD?",
+        "Can CRD be treated with just supportive measures?",
+        "What is the role of systemic therapy in CRD treatment?",
+        "How do you restore patency in CRD cases with obstructed nostrils?",
+        "What are the challenges in treating CRD cases with extensive sinus involvement?",
+        "What procedures can clear accumulated material in CRD cases?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Managing sinus and exudate complications in individual birds",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.bird-vet.com/ChickenVet-ChronicRespiratoryDisease-CRD.aspx"
+      ]
+    }
+  },
+  {
+    "id": "crd_treatment_control_04_secondary_bacteria_management_and_withdrawal",
+    "content": "In severe CRD outbreaks, secondary bacterial pathogens can drive significant mortality and carcass loss, rather than the primary Mycoplasma agent alone. Interventions that improve ventilation, lower ammonia, and keep litter dry can reduce bacterial amplification and support mucosal recovery. When antimicrobials are used, safe use requires veterinary oversight, correct dosing routes, and adherence to withdrawal requirements to avoid selecting for resistance. Integrated control is the goal: stabilizing birds, reducing bacterial invasion, and addressing underlying environmental and management factors to break the outbreak cycle, thereby minimizing the need for repeated medication cycles and reducing the risk of resistance and residues.",
+    "vector_context": {
+      "keywords": [
+        "secondary_bacteria",
+        "e_coli",
+        "supportive_management",
+        "withdrawal_periods",
+        "stewardship",
+        "mortality_reduction"
+      ],
+      "hypothetical_questions": [
+        "What causes most deaths in CRD outbreaks?",
+        "How do secondary bacterial pathogens affect CRD?",
+        "What are the main factors that contribute to bacterial complications in CRD?",
+        "Can you explain the importance of reducing ammonia in CRD control?",
+        "What is the role of ventilation in controlling CRD?",
+        "How do repeated medication cycles contribute to antibiotic resistance?",
+        "What are the risks of using antimicrobials in CRD treatment?",
+        "How can we prevent the development of antibiotic-resistant bacteria in CRD?",
+        "What is the difference between treating symptoms and addressing the underlying causes of CRD?",
+        "Can you provide information on safe withdrawal requirements for meat and eggs in CRD treatment?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Managing secondary bacterial complications safely",
+      "disease": "chronic_respiratory_disease",
+      "category": "treatment_control",
+      "source_urls": [
+        "https://www.biopharmachemie.com/technical/health-management-disease-prevention-and-treatment-in-poultry/chronic-respiratory-disease-crd-and-crd-combined-with-e-coli-in-poultry.html",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_04_mg_free_sources_and_supply_chain",
+    "content": "Preventing the introduction of Mycoplasma gallisepticum into the flock is the most effective strategy for controlling Chronic Respiratory Disease (CRD). Sourcing chicks and hatching eggs from monitored MG-free breeder programs is crucial, especially for multi-cycle operations, as vertical transmission can occur. Breaking vertical transmission enhances the effectiveness of vaccination and medication strategies, which reduce clinical impact but do not replace clean sourcing for elimination. Securing clean supply is the first step, followed by protecting it with biosecurity and environment control, as breeder quality, hatchery hygiene, and monitoring are key determinants in preventing CRD from becoming a chronic farm problem.",
+    "vector_context": {
+      "keywords": [
+        "mg_free",
+        "breeder_programs",
+        "supply_chain",
+        "vertical_control",
+        "hatchery_quality",
+        "introduction_prevention"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to prevent CRD from entering a flock?",
+        "How can we keep Mycoplasma gallisepticum out of our farm?",
+        "What's the most effective way to prevent vertical transmission of CRD?",
+        "Can vaccination alone prevent CRD?",
+        "Is sourcing MG-free chicks and eggs from monitored breeder programs effective in preventing CRD?",
+        "How does the cleanliness of upstream supply affect downstream biosecurity?",
+        "What's the relationship between breeder quality and CRD infection in a flock?",
+        "Can hatchery hygiene alone prevent the spread of CRD?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Sourcing MG-free stock and breaking vertical transmission",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://www.thepoultrysite.com/disease-guide/mycoplasma-gallisepticum-infection-m-g-chronic-respiratory-disease-chickens",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8757677/"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_05_quarantine_and_contact_control_for_backyard",
+    "content": "For backyard and smallholder flocks, quarantine is the most effective CRD prevention step due to frequent introductions and uncommon testing. A practical approach separates new birds from the resident flock to observe for respiratory signs, using dedicated feeders, drinkers, and handling routines to reduce the chance of an undetected carrier introducing infection. Owners should also avoid shared areas, minimize movement between pens without proper hygiene, and postpone introductions if birds show signs of illness, as chronic respiratory pathogens like HPAI, LPAI, H5N1, NDV, or Mycoplasma can persist and reappear under stress, creating a long-term carrier problem that is difficult to reverse, highlighting the importance of careful introduction and monitoring, potentially utilizing diagnostic tools such as rRT-PCR to identify specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "quarantine",
+        "new_birds",
+        "observation_period",
+        "equipment_separation",
+        "backyard_biosecurity",
+        "introduction_risk"
+      ],
+      "hypothetical_questions": [
+        "What is the best way to prevent CRD in backyard flocks?",
+        "How long should new birds be quarantined before introducing them to the main coop?",
+        "What are the main reasons for quarantine in smallholder flocks?",
+        "What are some ways to reduce the chance of infection in the main coop?",
+        "What is the purpose of dedicated feeders and drinkers during quarantine?",
+        "How can owners avoid spreading infection between pens?",
+        "What are some signs that a bird may be carrying a chronic respiratory pathogen?",
+        "What should owners do if a bird develops sneezing or ocular discharge?",
+        "What is the importance of washing hands before handling birds?",
+        "What are the risks of adding a new bird to the flock too quickly?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Quarantine practices that match backyard realities",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles",
+        "https://poultrydvm.com/condition/mycoplasma-gallisepticum"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_06_vaccination_types_and_expectations",
+    "content": "Vaccination can reduce the clinical impact of Mycoplasma-associated respiratory disease, but it should be part of integrated control, not a stand-alone solution. Field protection is undermined by mixed infections, environmental stressors, and chronic colonizers. Vaccines may not deliver complete prevention in real production settings, especially when birds face multiple pathogens and adverse housing conditions. Within CRD programs, vaccination lowers severity, stabilizes production, and reduces outbreak risk, but can complicate serologic monitoring, requiring a clear testing and documentation strategy. Consistent prevention outcomes occur when vaccination is paired with clean sourcing, strict biosecurity, and environmental controls, avoiding the assumption that vaccination alone makes a flock resistant to infection, such as HPAI, LPAI, H5N1, or other diseases like NDV, which can be detected using rRT-PCR, and may involve specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "live_vaccine",
+        "inactivated_vaccine",
+        "field_protection",
+        "limitations",
+        "integrated_control"
+      ],
+      "hypothetical_questions": [
+        "What can vaccination do for Mycoplasma-associated respiratory disease in poultry?",
+        "Can vaccination alone prevent respiratory disease in poultry?",
+        "What are the limitations of vaccination in controlling mixed infections in poultry?",
+        "How does vaccination affect serologic monitoring in poultry?",
+        "What is the role of vaccination in CRD programs?",
+        "Can vaccination make a flock resistant to infection?",
+        "What are the triggers that can undermine field protection in vaccinated poultry?",
+        "What are the environmental stressors that can affect vaccinated poultry?",
+        "Can vaccination be used to stabilize production in poultry?",
+        "How does vaccination interact with biosecurity measures in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Vaccination roles and realistic expectations",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/mycoplasmosis/mycoplasma-gallisepticum-infection-in-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/"
+      ]
+    }
+  },
+  {
+    "id": "crd_prevention_07_housing_air_quality_and_stress_reduction",
+    "content": "The severity of CRD is strongly influenced by housing conditions, such as dust, high ammonia, damp litter, and inadequate ventilation, which irritate airway surfaces and reduce mucus and microbe clearance, increasing the likelihood of colonization and opportunistic bacterial invasion, particularly in air sacs. Prevention plans should include a \"respiratory hygiene\" component, alongside biosecurity, with practical measures like maintaining adequate airflow, controlling stocking density, keeping litter dry, and avoiding temperature fluctuations. Environmental control is a direct prevention strategy for complex CRD outcomes, as mucosal damage from primary pathogens like Mycoplasma, HPAI, LPAI, H5N1, NDV, and other respiratory pathogens increases susceptibility to secondary infections, highlighting the importance of air quality and stress reduction in prevention, which can be achieved through proper KB design and rRT-PCR testing for clade 2.3.4.4b and other pathogens.",
+    "vector_context": {
+      "keywords": [
+        "ventilation",
+        "ammonia",
+        "dust",
+        "litter_management",
+        "temperature_control",
+        "stress_reduction"
+      ],
+      "hypothetical_questions": [
+        "What causes stress in chickens?",
+        "How can we prevent respiratory disease in chickens?",
+        "What are the main factors affecting the respiratory mucosa in chickens?",
+        "What can we do to reduce ammonia levels in chicken coops?",
+        "What is the role of air sacs in the respiratory system of chickens?",
+        "What are the effects of Mycoplasma on chickens?",
+        "How can we control stocking density to prevent respiratory disease?",
+        "What is the relationship between dust and respiratory disease in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Air quality and stress reduction as core CRD prevention tools",
+      "disease": "chronic_respiratory_disease",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.rangioravetcentre.co.nz/chicken-snuffles",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12085855/",
+        "https://www.biopharmachemie.com/technical/health-management-disease-prevention-and-treatment-in-poultry/chronic-respiratory-disease-crd-and-crd-combined-with-e-coli-in-poultry.html"
+      ]
+    }
+  }
+]

@@ -1,0 +1,1876 @@
+[
+  {
+    "id": "salmonella_typhimurium_overview",
+    "content": "Salmonella Typhimurium is a major food-borne pathogen that can contaminate eggs, although Salmonella Enteritidis remains the dominant serovar in most regions. This review summarizes existing literature on Salmonella Typhimurium infection in laying hens and eggs, highlighting comparisons with other serovars and identifying key knowledge gaps.",
+    "vector_context": {
+      "keywords": [
+        "salmonella",
+        "typhimurium",
+        "laying hens",
+        "review"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonella in chicken eggs?",
+        "What are the symptoms of salmonella infection in hens?",
+        "How does salmonella typhimurium contaminate eggs?",
+        "What is the most common salmonella serovar in most regions?",
+        "What are the key differences between salmonella typhimurium and enteritidis?",
+        "What antibiotics are effective against salmonella typhimurium in poultry?",
+        "What is the role of the gut-associated lymphoid tissue in salmonella typhimurium infection?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of Salmonella Typhimurium infection in laying hens",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_natural_infection",
+    "content": "Field studies indicate that Salmonella Typhimurium is occasionally detected in the environments of laying flocks but is rarely isolated from ovarian tissue of hens. This suggests that natural reproductive tract colonization by this serovar is uncommon under field conditions.",
+    "vector_context": {
+      "keywords": [
+        "field studies",
+        "flock infection",
+        "ovary",
+        "environment"
+      ],
+      "hypothetical_questions": [
+        "Does Salmonella Typhimurium infect hens naturally?",
+        "What is the common serovar of Salmonella found in laying flocks?",
+        "Can Salmonella Typhimurium be isolated from ovarian tissue of hens?",
+        "How common is Salmonella Typhimurium infection in laying flocks?",
+        "What is the pathology of Salmonella Typhimurium in laying hens?",
+        "Is Salmonella Typhimurium a zoonotic pathogen in poultry?",
+        "What is the treatment for Salmonella Typhimurium infection in hens?",
+        "Can Salmonella Typhimurium be detected in the environment of laying flocks?",
+        "Is Salmonella Typhimurium a common cause of reproductive tract colonization in hens?"
+      ]
+    },
+    "metadata": {
+      "title": "Natural occurrence of Salmonella Typhimurium in laying flocks",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_intravenous_infection",
+    "content": "Intravenous inoculation studies show that Salmonella Enteritidis often causes more prolonged bacteraemia and higher recovery from reproductive tissues than Salmonella Typhimurium. However, at very high doses, both serovars can invade organs and contaminate eggs under experimental conditions.",
+    "vector_context": {
+      "keywords": [
+        "intravenous",
+        "experimental model",
+        "serovar comparison"
+      ],
+      "hypothetical_questions": [
+        "What happens when chickens get Salmonella Typhimurium?",
+        "How does Salmonella Typhimurium affect chicken reproductive tissues?",
+        "What is the difference between Salmonella Typhimurium and Salmonella Enteritidis in chickens?",
+        "Can Salmonella Typhimurium contaminate chicken eggs?",
+        "What is the effect of high doses of Salmonella Typhimurium on chicken organs?",
+        "How does Salmonella Typhimurium cause bacteraemia in chickens?",
+        "What is the pathology of Salmonella Typhimurium infection in poultry?",
+        "Is ciprofloxacin effective against Salmonella Typhimurium in chickens?",
+        "What is the duration of bacteraemia caused by Salmonella Typhimurium in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Intravenous experimental infection with Salmonella Typhimurium",
+      "disease": "salmonella",
+      "category": "experimental infection",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_oral_infection",
+    "content": "Oral inoculation experiments demonstrate inconsistent relationships between dose, tissue invasion, and egg contamination. High oral doses of Salmonella Typhimurium frequently lead to faecal shedding and tissue invasion without consistent contamination of eggs.",
+    "vector_context": {
+      "keywords": [
+        "oral route",
+        "dose response",
+        "faecal shedding"
+      ],
+      "hypothetical_questions": [
+        "What happens when chickens eat Salmonella Typhimurium?",
+        "How does Salmonella Typhimurium affect chicken eggs?",
+        "What are the symptoms of Salmonella Typhimurium infection in chickens?",
+        "Can chickens get sick from eating Salmonella Typhimurium?",
+        "What is the relationship between oral dose and tissue invasion in Salmonella Typhimurium infection?",
+        "How does Salmonella Typhimurium cause faecal shedding in chickens?",
+        "What is the role of tissue invasion in Salmonella Typhimurium egg contamination?",
+        "Is there a correlation between oral dose and egg contamination in Salmonella Typhimurium infection?",
+        "Can Salmonella Typhimurium be transmitted through oral inoculation?",
+        "What is the effect of high oral doses of Salmonella Typhimurium on chicken health?"
+      ]
+    },
+    "metadata": {
+      "title": "Oral infection and dose effects of Salmonella Typhimurium",
+      "disease": "salmonella",
+      "category": "experimental infection",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_alternative_routes",
+    "content": "Alternative infection routes such as vaginal and aerosol exposure can result in systemic infection and egg contamination by Salmonella Typhimurium. Aerosol exposure has been shown to produce higher rates of internal egg contamination than oral inoculation in some experimental models.",
+    "vector_context": {
+      "keywords": [
+        "aerosol",
+        "vaginal route",
+        "transmission",
+        "experimental"
+      ],
+      "hypothetical_questions": [
+        "What are the alternative routes of Salmonella Typhimurium infection?",
+        "What happens when chickens are exposed to Salmonella Typhimurium through the air?",
+        "Can Salmonella Typhimurium infect chickens through vaginal exposure?",
+        "How does Salmonella Typhimurium contaminate eggs in chickens?",
+        "What is the effect of aerosol exposure on internal egg contamination in chickens?",
+        "How does Salmonella Typhimurium cause systemic infection in chickens?",
+        "What is the difference between oral and aerosol inoculation of Salmonella Typhimurium in chickens?",
+        "What are the risks of Salmonella Typhimurium infection in chickens through vaginal exposure?",
+        "Can Salmonella Typhimurium be transmitted to chickens through the air?",
+        "How does Salmonella Typhimurium affect egg production in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Alternative infection routes of Salmonella Typhimurium",
+      "disease": "salmonella",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_in_vitro_comparison",
+    "content": "In vitro studies comparing Salmonella Typhimurium and Salmonella Enteritidis show conflicting results regarding survival in egg albumen, adhesion to reproductive tissues, and macrophage interactions. These findings suggest that regulatory mechanisms may play a larger role than gene presence alone.",
+    "vector_context": {
+      "keywords": [
+        "in vitro",
+        "egg albumen",
+        "immune response",
+        "comparison"
+      ],
+      "hypothetical_questions": [
+        "What happens when Salmonella Typhimurium is in egg albumen?",
+        "Why do some studies show Salmonella Typhimurium can survive in egg albumen?",
+        "What's the difference in adhesion to reproductive tissues between Salmonella Typhimurium and Salmonella Enteritidis?",
+        "How do macrophages interact with Salmonella Typhimurium in the reproductive system?",
+        "What regulatory mechanisms affect Salmonella Typhimurium survival in egg albumen?",
+        "Can Salmonella Typhimurium infect reproductive tissues in poultry?",
+        "What's the role of gene presence in Salmonella Typhimurium survival in egg albumen?",
+        "Are there any specific drugs that can treat Salmonella Typhimurium infections in poultry?",
+        "What's the pathogenesis of Salmonella Typhimurium in poultry reproductive systems?"
+      ]
+    },
+    "metadata": {
+      "title": "In vitro comparison of Salmonella Typhimurium and Enteritidis",
+      "disease": "salmonella",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_egg_contamination",
+    "content": "Salmonella Typhimurium is more frequently associated with external contamination of eggs than internal contamination. When internal contamination occurs, it is generally at a lower frequency compared with Salmonella Enteritidis.",
+    "vector_context": {
+      "keywords": [
+        "eggs",
+        "external contamination",
+        "internal contamination"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella Typhimurium in eggs?",
+        "Is Salmonella Typhimurium more likely to be on the outside of eggs?",
+        "How often is Salmonella Typhimurium inside eggs compared to Salmonella Enteritidis?",
+        "What happens when Salmonella Typhimurium gets inside an egg?",
+        "What is the typical route of transmission for Salmonella Typhimurium in poultry?",
+        "What are the implications of internal Salmonella Typhimurium contamination in eggs?",
+        "Is Salmonella Typhimurium more commonly associated with eggshell contamination?",
+        "What is the relative frequency of internal Salmonella Typhimurium contamination?",
+        "Can Salmonella Typhimurium be transmitted through contact with contaminated eggs?",
+        "How does Salmonella Typhimurium compare to Salmonella Enteritidis in terms of egg contamination?"
+      ]
+    },
+    "metadata": {
+      "title": "Egg contamination by Salmonella Typhimurium",
+      "disease": "salmonella",
+      "category": "egg contamination",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_flock_persistence",
+    "content": "Infections with Salmonella Typhimurium in laying flocks tend to be less persistent than those caused by Salmonella Enteritidis. Environmental reservoirs such as rodents play a smaller role in sustaining Salmonella Typhimurium infections.",
+    "vector_context": {
+      "keywords": [
+        "persistence",
+        "rodents",
+        "environment",
+        "flock dynamics"
+      ],
+      "hypothetical_questions": [
+        "What happens if a flock gets Salmonella Typhimurium?",
+        "How long do Salmonella Typhimurium infections last in a laying flock?",
+        "What's the difference between Salmonella Typhimurium and Salmonella Enteritidis in chickens?",
+        "Can rodents carry Salmonella Typhimurium in a chicken farm?",
+        "What's the role of environmental reservoirs in Salmonella Typhimurium infections?",
+        "Which antibiotics are effective against Salmonella Typhimurium in chickens?",
+        "What's the significance of Salmonella Typhimurium persistence in poultry flocks?",
+        "Salmonella Typhimurium vs Salmonella Enteritidis: What's the main difference?",
+        "Salmonella Typhimurium flock persistence: What are the key factors?"
+      ]
+    },
+    "metadata": {
+      "title": "Persistence of Salmonella Typhimurium in laying flocks",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_prevention_biosecurity",
+    "content": "Prevention of Salmonella Typhimurium infection in laying hens relies primarily on strict biosecurity and hygiene measures. These include cleaning and disinfection of housing, control of rodents, and prevention of contamination of feed and water to limit introduction and spread within flocks.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "hygiene",
+        "rodent control",
+        "flock management"
+      ],
+      "hypothetical_questions": [
+        "What can I do to stop Salmonella Typhimurium in my chickens?",
+        "How do I prevent Salmonella Typhimurium from spreading in my flock?",
+        "What are the main ways to keep Salmonella Typhimurium out of my chicken coop?",
+        "Can you give me some tips on how to keep my chickens safe from Salmonella Typhimurium?",
+        "What are the key factors in preventing Salmonella Typhimurium infection in laying hens?",
+        "What is the primary method of controlling Salmonella Typhimurium in poultry?",
+        "What role does biosecurity play in preventing Salmonella Typhimurium infection?",
+        "How does Salmonella Typhimurium typically enter a poultry flock?",
+        "What are the main hygiene measures for preventing Salmonella Typhimurium in chickens?",
+        "Can you explain the importance of rodent control in preventing Salmonella Typhimurium?"
+      ]
+    },
+    "metadata": {
+      "title": "Biosecurity measures for preventing Salmonella Typhimurium infection",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_typhimurium_conclusion",
+    "content": "Although Salmonella Typhimurium is capable of contaminating eggs, its role is currently less significant than Salmonella Enteritidis. The review highlights inconsistent findings across studies and emphasizes the need for long-term natural infection research.",
+    "vector_context": {
+      "keywords": [
+        "conclusion",
+        "knowledge gaps",
+        "future research"
+      ],
+      "hypothetical_questions": [
+        "What role does Salmonella Typhimurium play in contaminating eggs?",
+        "Is Salmonella Typhimurium more significant than Salmonella Enteritidis in egg contamination?",
+        "What are the inconsistent findings regarding Salmonella Typhimurium?",
+        "Why is long-term natural infection research needed for Salmonella Typhimurium?",
+        "What is the current significance of Salmonella Typhimurium in poultry diseases?",
+        "Does Salmonella Typhimurium have a higher pathogenicity than Salmonella Enteritidis?",
+        "Can you explain the inconsistent findings across studies on Salmonella Typhimurium?",
+        "What is the primary reason for the need of long-term research on Salmonella Typhimurium?",
+        "Is Salmonella Typhimurium a significant cause of egg contamination?",
+        "What are the implications of inconsistent findings on Salmonella Typhimurium research?"
+      ]
+    },
+    "metadata": {
+      "title": "Conclusions on Salmonella Typhimurium infection in laying hens",
+      "disease": "salmonella",
+      "category": "conclusion",
+      "source_urls": [
+        "https://www.tandfonline.com/doi/full/10.1080/03079457.2011.606799#d1e269"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_overview",
+    "content": "Non-typhoidal Salmonella is a zoonotic pathogen associated with gastroenteritis in humans. This study investigated asymptomatic colonization of non-typhoidal Salmonella in backyard chickens, chicken farmers, and unexposed individuals in the Mekong Delta of Vietnam to assess the impact of occupational exposure.",
+    "vector_context": {
+      "keywords": [
+        "non-typhoidal salmonella",
+        "zoonosis",
+        "vietnam",
+        "study overview"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella in backyard chickens?",
+        "Is Salmonella a zoonotic pathogen?",
+        "What are the symptoms of Salmonella in humans?",
+        "Can non-typhoidal Salmonella be asymptomatic in chickens?",
+        "What is the impact of occupational exposure to Salmonella?",
+        "What is the prevalence of non-typhoidal Salmonella in backyard chickens?",
+        "Is ciprofloxacin effective against non-typhoidal Salmonella in chickens?",
+        "What is the role of the Mekong Delta in Salmonella transmission?",
+        "Are unexposed individuals at risk of Salmonella colonization?",
+        "Can non-typhoidal Salmonella cause gastroenteritis in humans?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of non-typhoidal Salmonella colonization in Vietnam",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_study_design",
+    "content": "The study examined 204 backyard chicken farms, 204 chicken farmers, and 306 individuals not exposed to poultry farming in the Mekong Delta of Vietnam. Farms were categorized into household-size and small-size operations, and human participants were age- and sex-matched.",
+    "vector_context": {
+      "keywords": [
+        "study design",
+        "backyard farms",
+        "human exposure",
+        "mekong delta"
+      ],
+      "hypothetical_questions": [
+        "What farms were studied in Vietnam?",
+        "What type of farms were categorized in the study?",
+        "Are backyard chicken farms safe for humans?",
+        "What human participants were matched in the study?",
+        "What is the pathology of avian influenza in chickens?",
+        "What is the treatment for Newcastle disease in poultry?",
+        "What is the difference between household-size and small-size chicken farms?",
+        "What are the risk factors for zoonotic diseases in poultry farming?",
+        "Chicken farmers in Vietnam what drugs are used to treat fowl pox?",
+        "Avian diseases in Mekong Delta what is the common symptom?"
+      ]
+    },
+    "metadata": {
+      "title": "Study design and population sampling",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_prevalence",
+    "content": "Non-typhoidal Salmonella colonization was detected in 45.6% of chicken farms, 4.4% of chicken farmers, and 2.6% of unexposed individuals. Farmers showed a higher prevalence of colonization compared with rural and urban individuals not exposed to chickens.",
+    "vector_context": {
+      "keywords": [
+        "prevalence",
+        "chickens",
+        "farmers",
+        "colonization"
+      ],
+      "hypothetical_questions": [
+        "what percentage of chicken farms have non-typhoidal Salmonella colonization?",
+        "what is the prevalence of non-typhoidal Salmonella colonization in chicken farmers?",
+        "what percentage of unexposed individuals have non-typhoidal Salmonella colonization?",
+        "do chicken farmers have a higher risk of non-typhoidal Salmonella colonization?",
+        "what is the pathogenesis of non-typhoidal Salmonella colonization in chickens?",
+        "what are the common symptoms of non-typhoidal Salmonella infection in humans?",
+        "what is the role of non-typhoidal Salmonella in poultry disease?",
+        "what is the difference between non-typhoidal and typhoidal Salmonella in chickens?",
+        "what percentage of farmers have non-typhoidal Salmonella colonization?",
+        "what is the seroprevalence of non-typhoidal Salmonella in chicken farmers?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevalence of non-typhoidal Salmonella colonization",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_serovars",
+    "content": "A total of 28 non-typhoidal Salmonella serovars were identified. Salmonella Weltevreden was the predominant serovar in both chickens and humans, while Salmonella Enteritidis and Salmonella Typhimurium were detected only in chicken farms.",
+    "vector_context": {
+      "keywords": [
+        "serovars",
+        "weltevreden",
+        "enteritidis",
+        "typhimurium"
+      ],
+      "hypothetical_questions": [
+        "What are the common Salmonella serovars in chickens?",
+        "What causes Salmonella in humans and chickens?",
+        "Are Salmonella Enteritidis and Typhimurium found in humans?",
+        "What is the most common Salmonella serovar in chickens and humans?",
+        "What are the symptoms of Salmonella infection in chickens?",
+        "How do Salmonella serovars spread between chickens and humans?",
+        "What are the treatment options for Salmonella infection in chickens?",
+        "What is the role of Salmonella Weltevreden in chicken farms?",
+        "Can Salmonella Enteritidis and Typhimurium be transmitted to humans?",
+        "What is the prevalence of Salmonella serovars in chicken farms?"
+      ]
+    },
+    "metadata": {
+      "title": "Serovar distribution of non-typhoidal Salmonella",
+      "disease": "salmonella",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_antimicrobial_resistance",
+    "content": "Non-typhoidal Salmonella isolates from chickens and humans showed resistance to several antimicrobials, including tetracycline, chloramphenicol, sulfamethoxazole-trimethoprim, and ampicillin. Multidrug resistance was observed in 27.4% of chicken isolates.",
+    "vector_context": {
+      "keywords": [
+        "antimicrobial resistance",
+        "multidrug resistance",
+        "chickens"
+      ],
+      "hypothetical_questions": [
+        "What antibiotics are chickens resistant to?",
+        "What percentage of chicken isolates show multidrug resistance?",
+        "What are the common antimicrobials that Salmonella isolates from chickens are resistant to?",
+        "What are the symptoms of Salmonella infection in chickens?",
+        "Salmonella isolates from humans and chickens show resistance to which antimicrobials?"
+      ]
+    },
+    "metadata": {
+      "title": "Antimicrobial resistance patterns of non-typhoidal Salmonella",
+      "disease": "salmonella",
+      "category": "antimicrobial resistance",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_transmission",
+    "content": "Non-typhoidal Salmonella was detected in both chickens and farmers on a small number of farms. In one instance, identical serovars and resistance patterns were observed in chickens and their farmer, suggesting possible transmission between animals and humans.",
+    "vector_context": {
+      "keywords": [
+        "zoonotic transmission",
+        "farm exposure",
+        "human-animal contact"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella in chickens?",
+        "Can chickens give Salmonella to humans?"
+      ]
+    },
+    "metadata": {
+      "title": "Potential transmission of non-typhoidal Salmonella",
+      "disease": "salmonella",
+      "category": "transmission",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_limitations",
+    "content": "The study was limited by its cross-sectional design and the small number of human non-typhoidal Salmonella isolates, which reduced the ability to demonstrate direct transmission dynamics between chickens and humans.",
+    "vector_context": {
+      "keywords": [
+        "study limitations",
+        "cross-sectional study",
+        "sample size"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella in chickens?",
+        "How do chickens get Salmonella?",
+        "What are the limitations of studying Salmonella in chickens?",
+        "Can chickens transmit Salmonella to humans?",
+        "What is the pathogenesis of non-typhoidal Salmonella in chickens?",
+        "What are the common risk factors for Salmonella in backyard chickens?",
+        "How does the Mekong region's climate affect Salmonella transmission in chickens?",
+        "What are the key limitations of cross-sectional studies on Salmonella in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Study limitations in assessing NTS transmission",
+      "disease": "salmonella",
+      "category": "limitations",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "nts_mekong_conclusion",
+    "content": "The study demonstrates a high prevalence of non-typhoidal Salmonella colonization in backyard chicken farms and a higher colonization rate among exposed farmers compared with unexposed individuals. These findings highlight the public health relevance of poultry-associated Salmonella in Vietnam.",
+    "vector_context": {
+      "keywords": [
+        "public health",
+        "vietnam",
+        "poultry farming",
+        "zoonosis"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella in chickens?",
+        "Is Salmonella common in backyard farms?",
+        "What happens to farmers who handle Salmonella?",
+        "Can people get sick from Salmonella in chicken farms?",
+        "What is the rate of Salmonella colonization in farmers?",
+        "Is Salmonella more common in Vietnam?",
+        "What is the relationship between Salmonella and poultry?",
+        "How does Salmonella affect farmers in Vietnam?",
+        "Is Salmonella transmitted from chickens to humans?",
+        "Does Salmonella colonization increase in farmers exposed to chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Public health implications of non-typhoidal Salmonella in Vietnam",
+      "disease": "salmonella",
+      "category": "conclusion",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/zph.12270"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_overview_food_safety",
+    "content": "Salmonella is a major foodborne pathogen and a leading cause of hospitalization and death associated with foodborne illnesses worldwide. Poultry products are among the primary sources of non-typhoidal salmonellosis in humans, with contamination often originating at the pre-harvest stage through fecal–oral transmission within flocks.",
+    "vector_context": {
+      "keywords": [
+        "food_safety",
+        "zoonosis",
+        "poultry",
+        "public_health"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonella in chickens?",
+        "How does salmonella get into chicken meat?",
+        "What are the risks of eating chicken contaminated with salmonella?",
+        "What can farmers do to prevent salmonella in their flocks?",
+        "What are the common symptoms of salmonella in humans?",
+        "What is the role of fecal-oral transmission in salmonella outbreaks?",
+        "How does non-typhoidal salmonellosis affect the human body?",
+        "What are some common antibiotics used to treat salmonella infections in humans?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of Salmonella as a foodborne pathogen in poultry",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125008818"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_preharvest_control_strategies",
+    "content": "Control of Salmonella in poultry production increasingly relies on non-antibiotic pre-harvest interventions, including probiotics, prebiotics, organic acids, essential oils, bacteriophages, vaccines, and combinations of these strategies. These approaches aim to reduce intestinal colonization and subsequent contamination during processing.",
+    "vector_context": {
+      "keywords": [
+        "preharvest",
+        "non_antibiotic",
+        "interventions"
+      ],
+      "hypothetical_questions": [
+        "What can I use instead of antibiotics to control Salmonella in chickens?",
+        "What are some non-antibiotic ways to prevent Salmonella in poultry?",
+        "How do I reduce Salmonella contamination in my chicken farm?",
+        "What are some natural ways to control Salmonella in poultry?",
+        "What are the effects of probiotics on Salmonella colonization in poultry?",
+        "What is the role of bacteriophages in controlling Salmonella in poultry production?",
+        "How do prebiotics and organic acids work together to control Salmonella in poultry?",
+        "What are the benefits of using essential oils to control Salmonella in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Pre-harvest strategies to control Salmonella in poultry",
+      "disease": "salmonella",
+      "category": "control_strategies",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125008818"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_meta_analysis_overall_effect",
+    "content": "A random-effects meta-analysis of 97 studies demonstrated that non-antibiotic pre-harvest interventions significantly reduced Salmonella populations in meat-type poultry, with an overall standardized mean difference (SMD) of −1.58. This indicates a substantial reduction in intestinal Salmonella load compared with untreated controls.",
+    "vector_context": {
+      "keywords": [
+        "meta_analysis",
+        "efficacy",
+        "salmonella_reduction"
+      ],
+      "hypothetical_questions": [
+        "What reduces Salmonella in poultry?",
+        "How do non-antibiotic interventions affect Salmonella in meat-type poultry?",
+        "What is the overall effect of non-antibiotic pre-harvest interventions on Salmonella?",
+        "Does Salmonella decrease in poultry with non-antibiotic treatments?",
+        "What is the mean difference in Salmonella reduction with non-antibiotic interventions?"
+      ]
+    },
+    "metadata": {
+      "title": "Overall efficacy of non-antibiotic interventions against Salmonella",
+      "disease": "salmonella",
+      "category": "evidence",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125008818"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_vaccination_efficacy",
+    "content": "Vaccination was identified as one of the most effective pre-harvest interventions for reducing Salmonella colonization in poultry. Meta-analysis results showed a strong reduction effect with a standardized mean difference of −2.21, indicating significant potential for controlling both horizontal and vertical transmission within flocks.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "immune_control",
+        "preharvest"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to stop salmonella in chickens?",
+        "How does vaccination help with salmonella in poultry?",
+        "What's the effect of vaccination on salmonella in flocks?",
+        "Does vaccination really work for salmonella in chickens?",
+        "What's the pathology of salmonella in poultry?",
+        "How does vaccination impact the transmission of salmonella in flocks?",
+        "What's the role of vaccination in controlling vertical transmission of salmonella?",
+        "What's the standardized mean difference of vaccination effect on salmonella?"
+      ]
+    },
+    "metadata": {
+      "title": "Efficacy of vaccination against Salmonella in poultry",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125008818"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_combined_interventions",
+    "content": "Combination strategies involving multiple non-antibiotic interventions showed the greatest reduction in Salmonella populations in poultry. These combined approaches achieved the highest effect size (SMD = −2.34), supporting the concept of a multi-hurdle strategy for effective pre-harvest Salmonella control.",
+    "vector_context": {
+      "keywords": [
+        "combination",
+        "multi_hurdle",
+        "salmonella_control"
+      ],
+      "hypothetical_questions": [
+        "Is using multiple non-antibiotic methods best for reducing Salmonella in chickens?",
+        "What are the most effective methods to control Salmonella in poultry farms?",
+        "Can a combination of non-antibiotic interventions really reduce Salmonella populations?",
+        "What is the best strategy to control Salmonella in poultry before they are harvested?",
+        "What is the effect size of using multiple non-antibiotic interventions to control Salmonella?",
+        "Can a multi-hurdle approach be effective in controlling Salmonella in poultry?",
+        "What are the combined approaches that showed the greatest reduction in Salmonella populations?",
+        "Is a multi-hurdle strategy the best way to control Salmonella in poultry?",
+        "What is the significance of using a combination of non-antibiotic interventions to control Salmonella?",
+        "Can the use of multiple non-antibiotic interventions effectively reduce Salmonella populations in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Effectiveness of combined interventions against Salmonella",
+      "disease": "salmonella",
+      "category": "control_strategies",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125008818"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_host_immunity_overview",
+    "content": "Salmonella colonization in poultry is strongly influenced by host immune responses. Both innate and adaptive immunity play key roles in limiting intestinal colonization and systemic spread, making immune-based interventions central to Salmonella control strategies.",
+    "vector_context": {
+      "keywords": [
+        "host immunity",
+        "innate immunity",
+        "adaptive immunity"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella in chickens?",
+        "How does the immune system fight Salmonella in poultry?",
+        "What are the main factors that influence Salmonella colonization in poultry?",
+        "Can you explain how Salmonella affects the immune system of birds?",
+        "What is the role of innate immunity in controlling Salmonella in poultry?",
+        "How do adaptive immune responses help prevent Salmonella spread in chickens?",
+        "Is there a specific vaccine for Salmonella in poultry?",
+        "What are the key immune-based interventions for controlling Salmonella in poultry farms?",
+        "Can you describe the relationship between Salmonella and the host immune response?",
+        "What is the impact of Salmonella on the gut-associated lymphoid tissue of poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Role of host immunity in controlling Salmonella infection",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_innate_immunity",
+    "content": "Innate immune defenses such as gut-associated lymphoid tissue, macrophages, heterophils, and antimicrobial peptides form the first line of defense against Salmonella in poultry. These mechanisms restrict early colonization but are often insufficient to eliminate infection completely.",
+    "vector_context": {
+      "keywords": [
+        "innate immunity",
+        "gut immunity",
+        "heterophils"
+      ],
+      "hypothetical_questions": [
+        "What happens when chickens get salmonella?",
+        "How do chickens fight salmonella infection?",
+        "What stops salmonella from spreading in chickens?",
+        "Can chickens recover from salmonella infection?",
+        "What role do macrophages play in salmonella immunity?",
+        "How do antimicrobial peptides help against salmonella in poultry?",
+        "What is the first line of defense against salmonella in chickens?",
+        "What are the main immune mechanisms against salmonella in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Innate immune responses to Salmonella in poultry",
+      "disease": "salmonella",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_adaptive_immunity",
+    "content": "Adaptive immune responses, including Salmonella-specific T-cell responses and antibody production, are critical for long-term control of infection. Secretory IgA contributes to reduced intestinal colonization, while cell-mediated immunity is essential for clearance of intracellular Salmonella.",
+    "vector_context": {
+      "keywords": [
+        "adaptive immunity",
+        "T cells",
+        "IgA"
+      ],
+      "hypothetical_questions": [
+        "What causes long-term Salmonella infection?",
+        "Does Salmonella affect the chicken's immune system?",
+        "What is the role of IgA in Salmonella infection?",
+        "Can cell-mediated immunity clear Salmonella from the body?",
+        "How does the immune system respond to Salmonella?",
+        "What is the difference between humoral and cell-mediated immunity in Salmonella?",
+        "Is Salmonella-specific T-cell response essential for infection control?",
+        "What is the effect of Salmonella on the chicken's gut?",
+        "Can antibiotics treat Salmonella infection in poultry?",
+        "Does Salmonella trigger an adaptive immune response?"
+      ]
+    },
+    "metadata": {
+      "title": "Adaptive immune mechanisms against Salmonella",
+      "disease": "salmonella",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_vaccine_types",
+    "content": "Several vaccine types are used to control Salmonella in poultry, including live attenuated vaccines, inactivated vaccines, and subunit vaccines. Live attenuated vaccines generally induce stronger cellular and mucosal immune responses compared with inactivated formulations.",
+    "vector_context": {
+      "keywords": [
+        "vaccines",
+        "live attenuated",
+        "inactivated vaccines"
+      ],
+      "hypothetical_questions": [
+        "What vaccines are used to control Salmonella in poultry?",
+        "What is the difference between live and inactivated Salmonella vaccines?",
+        "What are the benefits of live attenuated vaccines for Salmonella?",
+        "What type of immune response do live attenuated vaccines induce?"
+      ]
+    },
+    "metadata": {
+      "title": "Types of vaccines used against Salmonella in poultry",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_vaccine_efficacy_shedding",
+    "content": "Vaccination reduces intestinal colonization and fecal shedding of Salmonella, thereby decreasing environmental contamination and transmission within poultry flocks. Vaccine-induced immunity is particularly effective when combined with good biosecurity practices.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "fecal shedding",
+        "flock control"
+      ],
+      "hypothetical_questions": [
+        "What does vaccination do to Salmonella in chickens?",
+        "How does vaccination help with Salmonella in poultry?",
+        "Can vaccination stop Salmonella from spreading in the coop?",
+        "What are the benefits of vaccinating against Salmonella in birds?",
+        "What is the effect of vaccination on Salmonella shedding in poultry?",
+        "How does vaccination reduce Salmonella transmission in flocks?",
+        "What is the role of biosecurity in Salmonella vaccination?",
+        "What are the mechanisms of Salmonella vaccine-induced immunity?",
+        "What is the relationship between Salmonella vaccination and fecal shedding?",
+        "Does Salmonella vaccination reduce environmental contamination?"
+      ]
+    },
+    "metadata": {
+      "title": "Effect of vaccination on Salmonella shedding",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_vaccine_limitations",
+    "content": "Despite their effectiveness, Salmonella vaccines have limitations, including serovar specificity, incomplete protection, and variable efficacy under field conditions. Vaccination alone is insufficient and must be integrated with other control measures.",
+    "vector_context": {
+      "keywords": [
+        "vaccine limitations",
+        "serovar specificity",
+        "field conditions"
+      ],
+      "hypothetical_questions": [
+        "What are the problems with Salmonella vaccines?",
+        "What are the limitations of Salmonella vaccines?"
+      ]
+    },
+    "metadata": {
+      "title": "Limitations of vaccination for Salmonella control",
+      "disease": "salmonella",
+      "category": "limitations",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_vaccine_biosecurity_combination",
+    "content": "Optimal control of Salmonella in poultry requires integration of vaccination with biosecurity, hygiene, and management practices. A combined approach enhances the effectiveness of immune-based strategies and reduces the risk of Salmonella persistence in production systems.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "integrated control",
+        "salmonella management"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to control Salmonella in chickens?",
+        "How can I prevent Salmonella from spreading on my farm?",
+        "What are the key factors in reducing Salmonella persistence in poultry?",
+        "Can vaccination alone control Salmonella in poultry?",
+        "What are the specific biosecurity measures required to prevent Salmonella in poultry?",
+        "How does vaccination interact with hygiene practices in controlling Salmonella?",
+        "What are the optimal management practices for reducing Salmonella risk in poultry?",
+        "What are the key immune-based strategies for controlling Salmonella in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Integrated vaccine and biosecurity approach for Salmonella control",
+      "disease": "salmonella",
+      "category": "control_strategies",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_immunity_future_directions",
+    "content": "Future Salmonella control strategies should focus on improving vaccine design, enhancing mucosal immunity, and combining immunological interventions with management practices to achieve sustainable reductions in Salmonella prevalence in poultry production.",
+    "vector_context": {
+      "keywords": [
+        "future research",
+        "immune strategies",
+        "salmonella control"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to control Salmonella in poultry?",
+        "How can we improve vaccine design for Salmonella?",
+        "What's the role of mucosal immunity in Salmonella control?",
+        "What are some effective management practices for reducing Salmonella in poultry?",
+        "What are the key factors in enhancing mucosal immunity against Salmonella?",
+        "How can immunological interventions be combined with management practices to reduce Salmonella?",
+        "What are the current limitations in Salmonella vaccine design?",
+        "What's the relationship between mucosal immunity and Salmonella prevalence?",
+        "What are some potential future directions for Salmonella control in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Future directions for immune-based Salmonella control",
+      "disease": "salmonella",
+      "category": "conclusion",
+      "source_urls": [
+        "https://www.sciencedirect.com/science/article/pii/S0032579125009344"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_multi_hurdle_overview",
+    "content": "Salmonella contamination in poultry remains a major public health concern, requiring control measures that span the entire poultry production continuum. A multi-hurdle approach integrates multiple pre-harvest and post-harvest interventions to reduce Salmonella prevalence more effectively than single control strategies.",
+    "vector_context": {
+      "keywords": [
+        "multi_hurdle",
+        "food_safety",
+        "poultry_production"
+      ],
+      "hypothetical_questions": [
+        "What can I do to stop Salmonella in my chicken farm?",
+        "How do I prevent Salmonella in my poultry?",
+        "What are the best ways to control Salmonella in chickens?",
+        "Is there a way to completely get rid of Salmonella in my farm?",
+        "What is the multi-hurdle approach to Salmonella control in poultry?",
+        "Which pre-harvest interventions are most effective against Salmonella?",
+        "What are the post-harvest interventions used to reduce Salmonella prevalence?",
+        "How does the multi-hurdle approach compare to single control strategies for Salmonella?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of multi-hurdle control of Salmonella in poultry",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_complexity_serovars",
+    "content": "Salmonella enterica comprises over 2500 serotypes with varying host adaptation, virulence, and persistence. Only a subset of serotypes, including Enteritidis, Typhimurium, Infantis, and Heidelberg, are commonly associated with poultry and human illness, complicating control efforts.",
+    "vector_context": {
+      "keywords": [
+        "serovars",
+        "salmonella_enterica",
+        "host_adaptation"
+      ],
+      "hypothetical_questions": [
+        "Is Salmonella enterica a simple disease?",
+        "What are the common serotypes of Salmonella in poultry?",
+        "Can you explain the virulence of Salmonella enterica in chickens?",
+        "What is the difference between Salmonella Enteritidis and Typhimurium?",
+        "Which serotypes of Salmonella are most commonly associated with human illness?",
+        "What is the role of host adaptation in Salmonella enterica?",
+        "Can you describe the pathology of Salmonella enterica in poultry?",
+        "What is the mechanism of persistence of Salmonella enterica in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Complexity and serovar diversity of Salmonella",
+      "disease": "salmonella",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_transmission_continuum",
+    "content": "Salmonella can be introduced into poultry production through contaminated feed, hatcheries, water, equipment, and personnel. Vertical transmission from breeder flocks and horizontal transmission among birds contribute to persistence, while cross-contamination occurs during processing stages such as evisceration and chilling.",
+    "vector_context": {
+      "keywords": [
+        "vertical transmission",
+        "horizontal transmission",
+        "cross_contamination"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonella in poultry farms?",
+        "How do salmonella bacteria spread in poultry?",
+        "Can salmonella be passed from breeder flocks to chicks?",
+        "What are the main ways salmonella gets into poultry feed?",
+        "What are the key stages where salmonella can be transmitted during poultry processing?",
+        "What factors contribute to the persistence of salmonella in poultry production?",
+        "Can salmonella be introduced through contaminated hatchery equipment?",
+        "What role does personnel play in the transmission of salmonella in poultry?",
+        "What is the difference between vertical and horizontal transmission of salmonella in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission routes of Salmonella along poultry production continuum",
+      "disease": "salmonella",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_preharvest_feed_interventions",
+    "content": "Pre-harvest control strategies include feed-based interventions such as probiotics, prebiotics, phytobiotics, and postbiotics. These approaches aim to promote competitive exclusion in the gut and reduce Salmonella colonization, though efficacy varies among serotypes and formulations.",
+    "vector_context": {
+      "keywords": [
+        "probiotics",
+        "prebiotics",
+        "feed_management"
+      ],
+      "hypothetical_questions": [
+        "What can I feed my chickens to prevent Salmonella?",
+        "What are some feed-based ways to control Salmonella in poultry?",
+        "What's the best probiotic for reducing Salmonella in layers?",
+        "Can prebiotics help prevent Salmonella in broilers?",
+        "How do phytobiotics work to reduce Salmonella colonization?",
+        "What's the effect of postbiotics on Salmonella in poultry?",
+        "What are some feed-based interventions for pre-harvest control of Salmonella?",
+        "Does Salmonella colonization vary among different probiotic formulations?",
+        "What's the competitive exclusion mechanism in the gut?",
+        "Can feed-based interventions reduce Salmonella serotype variability?"
+      ]
+    },
+    "metadata": {
+      "title": "Feed-based pre-harvest interventions against Salmonella",
+      "disease": "salmonella",
+      "category": "preharvest",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_preharvest_vaccination_biosecurity",
+    "content": "Vaccination and biosecurity are among the most effective pre-harvest measures to control Salmonella. Live attenuated and inactivated vaccines reduce intestinal colonization and shedding, while biosecurity practices such as rodent control, litter management, and sanitation limit pathogen introduction and spread.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "biosecurity",
+        "litter_management"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to stop Salmonella in chickens?",
+        "How do I prevent Salmonella from spreading in my farm?",
+        "What are some ways to control Salmonella in poultry?",
+        "Can you tell me about Salmonella vaccines for chickens?",
+        "Live attenuated vaccines reduce intestinal colonization and shedding of Salmonella, what does that mean?",
+        "What's the role of inactivated vaccines in controlling Salmonella in poultry?",
+        "Which biosecurity practices are most effective in limiting Salmonella introduction and spread?",
+        "What's the relationship between rodent control and Salmonella in poultry?",
+        "How do litter management and sanitation practices impact Salmonella in poultry?",
+        "Can you list the key biosecurity measures for controlling Salmonella in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccination and biosecurity for pre-harvest Salmonella control",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_postharvest_biomapping",
+    "content": "Post-harvest Salmonella control relies on HACCP programs, good manufacturing practices, and biomapping to identify contamination hotspots. Critical processing steps such as scalding, defeathering, and evisceration are key points where targeted interventions can reduce bacterial loads.",
+    "vector_context": {
+      "keywords": [
+        "HACCP",
+        "biomapping",
+        "processing_plants"
+      ],
+      "hypothetical_questions": [
+        "What can farmers do to stop Salmonella after harvest?",
+        "How can we control Salmonella in poultry processing?",
+        "What are some ways to reduce Salmonella on poultry?",
+        "Can you explain how to prevent Salmonella contamination in poultry farms?",
+        "What are the key steps in reducing Salmonella loads in poultry processing?",
+        "What are the critical processing steps for Salmonella control?",
+        "How do HACCP programs help control Salmonella in poultry?",
+        "What is the purpose of good manufacturing practices in poultry processing?",
+        "Can you list the main interventions for reducing Salmonella in poultry processing?"
+      ]
+    },
+    "metadata": {
+      "title": "Post-harvest Salmonella control using HACCP and biomapping",
+      "disease": "salmonella",
+      "category": "postharvest",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_postharvest_antimicrobials",
+    "content": "Chemical antimicrobials such as peracetic acid, chlorine-based compounds, and quaternary ammonium compounds are widely used during poultry processing. Peracetic acid has demonstrated superior efficacy in reducing Salmonella compared with chlorine, particularly during post-chill treatments.",
+    "vector_context": {
+      "keywords": [
+        "peracetic_acid",
+        "sanitation",
+        "antimicrobials"
+      ],
+      "hypothetical_questions": [
+        "What kills Salmonella in chicken after slaughter?",
+        "What is used to reduce Salmonella in poultry processing?",
+        "Is peracetic acid better than chlorine for killing Salmonella?",
+        "What chemical is used to kill Salmonella in chicken after processing?",
+        "What is the most effective antimicrobial for reducing Salmonella in poultry?",
+        "Does peracetic acid have a higher efficacy in reducing Salmonella compared to chlorine?",
+        "What is the mechanism of action of quaternary ammonium compounds against Salmonella?",
+        "What are the common antimicrobial compounds used during poultry processing?",
+        "What is the role of peracetic acid in post-chill treatments for reducing Salmonella?",
+        "Does chlorine have a lower efficacy in reducing Salmonella compared to peracetic acid?"
+      ]
+    },
+    "metadata": {
+      "title": "Antimicrobial and sanitation strategies for Salmonella reduction",
+      "disease": "salmonella",
+      "category": "postharvest",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_multi_hurdle_one_health",
+    "content": "Effective Salmonella control requires a multi-hurdle approach aligned with a One Health perspective, integrating farm-level management, processing interventions, surveillance, and regulatory frameworks. Combining strategies provides synergistic effects and reduces the risk of Salmonella persistence.",
+    "vector_context": {
+      "keywords": [
+        "one_health",
+        "integrated_control",
+        "food_safety"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to control Salmonella in poultry?",
+        "How can I prevent Salmonella from spreading on my farm?",
+        "What are the key factors in a One Health approach to Salmonella control?",
+        "Can you explain the multi-hurdle approach to Salmonella control?",
+        "What are the synergistic effects of combining Salmonella control strategies?",
+        "How does farm-level management contribute to Salmonella control?",
+        "What role do processing interventions play in Salmonella control?",
+        "What is the importance of surveillance in Salmonella control?",
+        "What regulatory frameworks are necessary for effective Salmonella control?"
+      ]
+    },
+    "metadata": {
+      "title": "Multi-hurdle Salmonella control within a One Health framework",
+      "disease": "salmonella",
+      "category": "control_strategies",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_multi_hurdle_future",
+    "content": "Future Salmonella control efforts should focus on optimizing combinations of interventions, evaluating cost–benefit trade-offs, and incorporating emerging technologies such as bacteriophages, genomics, and microbiome-based approaches to enhance food safety.",
+    "vector_context": {
+      "keywords": [
+        "future_research",
+        "bacteriophages",
+        "genomics"
+      ],
+      "hypothetical_questions": [
+        "What's the best way to control Salmonella in poultry?",
+        "How can I prevent Salmonella outbreaks on my farm?",
+        "What are some new technologies to help prevent Salmonella contamination?",
+        "Can you recommend a treatment for a flock with Salmonella infection?",
+        "What are the cost benefits of using bacteriophages to control Salmonella?",
+        "How do genomics and microbiome-based approaches help with Salmonella control?",
+        "What are the key factors to consider when evaluating cost-benefit trade-offs for Salmonella control?",
+        "Can you explain the role of bacteriophages in controlling Salmonella?",
+        "What are some emerging technologies for enhancing food safety from Salmonella?",
+        "How can I optimize interventions for controlling Salmonella in poultry production?"
+      ]
+    },
+    "metadata": {
+      "title": "Future directions for multi-hurdle Salmonella control",
+      "disease": "salmonella",
+      "category": "conclusion",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/15/6/875"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_overview",
+    "content": "Salmonella enterica serovar Infantis is an emerging non-typhoidal Salmonella serovar of major public health concern. Its global prevalence in humans has increased in recent decades, with broiler chickens identified as a primary reservoir and source of foodborne transmission.",
+    "vector_context": {
+      "keywords": [
+        "salmonella_infantis",
+        "zoonosis",
+        "broilers",
+        "public_health"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella Infantis in chickens?",
+        "Is Salmonella Infantis a common disease in broiler chickens?",
+        "What are the symptoms of Salmonella Infantis in humans?",
+        "How do humans get Salmonella Infantis from chickens?",
+        "What is the pathology of Salmonella Infantis in poultry?",
+        "Is Salmonella Infantis resistant to ciprofloxacin?",
+        "What is the serovar of Salmonella Infantis?",
+        "How does Salmonella Infantis affect the gut of chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of Salmonella Infantis as an emerging zoonotic pathogen",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_broiler_importance",
+    "content": "Among livestock species, broiler chickens are considered a major source of Salmonella Infantis. Since 2014, this serovar has become the most frequently isolated Salmonella serotype in broilers and broiler meat in several regions, particularly in Europe.",
+    "vector_context": {
+      "keywords": [
+        "broilers",
+        "food_chain",
+        "serovar_distribution"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella Infantis in broiler chickens?",
+        "Is Salmonella Infantis a major concern in broiler farms?",
+        "What is the most common Salmonella serotype found in broilers?",
+        "Can broiler chickens spread Salmonella Infantis to humans?",
+        "What is the significance of Salmonella Infantis in broiler meat?",
+        "How does Salmonella Infantis affect the poultry industry?",
+        "What are the common symptoms of Salmonella Infantis in broilers?",
+        "Is Salmonella Infantis resistant to antibiotics?",
+        "What is the role of Salmonella Infantis in poultry disease outbreaks?",
+        "Salmonella Infantis in broilers: what are the control measures?"
+      ]
+    },
+    "metadata": {
+      "title": "Importance of broiler chickens in Salmonella Infantis epidemiology",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_study_design",
+    "content": "The study followed PRISMA guidelines and analyzed English-language publications from 1957 to 2023. Eligible studies reported flock-level or individual-level prevalence of Salmonella Infantis in broiler chickens using environmental or bird-level sampling.",
+    "vector_context": {
+      "keywords": [
+        "systematic_review",
+        "PRISMA",
+        "study_design"
+      ],
+      "hypothetical_questions": [
+        "What studies show Salmonella Infantis in broiler chickens?",
+        "What is the study design for Salmonella Infantis in broiler chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Systematic review design for Salmonella Infantis prevalence",
+      "disease": "salmonella",
+      "category": "methods",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_flock_prevalence",
+    "content": "Meta-analysis of nine eligible studies estimated a pooled flock-level prevalence of Salmonella Infantis in broiler chickens of 9%, with a wide confidence interval (95% CI: 1–26%) and high between-study heterogeneity (I² = 99%).",
+    "vector_context": {
+      "keywords": [
+        "prevalence",
+        "meta_analysis",
+        "flock_level"
+      ],
+      "hypothetical_questions": [
+        "What's the rate of Salmonella Infantis in broiler chicken flocks?",
+        "How common is Salmonella Infantis in commercial chicken farms?",
+        "What percentage of broiler chickens have Salmonella Infantis?",
+        "Is Salmonella Infantis widespread in chicken farms?",
+        "What is the estimated pooled prevalence of Salmonella Infantis in broiler chickens?",
+        "What is the confidence interval for the prevalence of Salmonella Infantis in broiler chickens?",
+        "Can you explain the between-study heterogeneity of Salmonella Infantis in broiler chickens?",
+        "What is the I² value for the heterogeneity of Salmonella Infantis in broiler chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Flock-level prevalence of Salmonella Infantis in broilers",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_individual_prevalence",
+    "content": "Only four studies reported individual-level prevalence of Salmonella Infantis in broiler chickens. Due to the limited number of eligible studies, a pooled prevalence estimate at the individual level could not be calculated.",
+    "vector_context": {
+      "keywords": [
+        "individual_level",
+        "sampling",
+        "data_gap"
+      ],
+      "hypothetical_questions": [
+        "What's the prevalence of Salmonella Infantis in broiler chickens?",
+        "How common is Salmonella Infantis in individual broiler chickens?",
+        "Can you tell me about Salmonella Infantis in broiler chickens?",
+        "What's the individual-level prevalence of Salmonella Infantis?",
+        "What is the pathology of Salmonella Infantis infection in broiler chickens?",
+        "How does Salmonella Infantis affect the gut of broiler chickens?",
+        "What is the treatment for Salmonella Infantis in broiler chickens?",
+        "What are the risk factors for Salmonella Infantis in broiler chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Individual-level prevalence of Salmonella Infantis in broilers",
+      "disease": "salmonella",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_antimicrobial_resistance",
+    "content": "Most studies reported high levels of antimicrobial resistance in Salmonella Infantis isolates, frequently involving multidrug-resistant clones. Resistance genes were commonly associated with the pESI megaplasmid, which contributes to persistence and spread within poultry production systems.",
+    "vector_context": {
+      "keywords": [
+        "MDR",
+        "pESI",
+        "antibiotic_resistance"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella Infantis to be resistant to antibiotics?",
+        "What are the common resistance genes associated with Salmonella Infantis?",
+        "What is the role of the pESI megaplasmid in antimicrobial resistance?",
+        "How do antimicrobial-resistant Salmonella Infantis clones spread in poultry farms?",
+        "What are the implications of multidrug-resistant Salmonella Infantis in poultry production?",
+        "What is the relationship between the pESI megaplasmid and persistence of Salmonella Infantis?"
+      ]
+    },
+    "metadata": {
+      "title": "Antimicrobial resistance in Salmonella Infantis from broilers",
+      "disease": "salmonella",
+      "category": "antimicrobial resistance",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_risk_factors",
+    "content": "Risk factors for Salmonella Infantis persistence in broiler farms include poor litter quality, thinning practices, equipment sharing, and suboptimal biosecurity. Stress-related factors such as high stocking density and feed withdrawal may further increase susceptibility.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "thinning",
+        "litter_quality"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella Infantis to persist in broiler farms?",
+        "What are the risk factors for Salmonella Infantis in broilers?",
+        "Is poor litter quality a risk factor for Salmonella Infantis?",
+        "Can thinning practices increase the risk of Salmonella Infantis?",
+        "What are the stress-related factors that increase susceptibility to Salmonella Infantis?",
+        "What is the effect of high stocking density on Salmonella Infantis?",
+        "Does equipment sharing contribute to Salmonella Infantis persistence?",
+        "What is the role of biosecurity in preventing Salmonella Infantis?",
+        "Is feed withdrawal a risk factor for Salmonella Infantis in broilers?"
+      ]
+    },
+    "metadata": {
+      "title": "Risk factors for Salmonella Infantis persistence in broiler farms",
+      "disease": "salmonella",
+      "category": "risk_factors",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_control_strategies",
+    "content": "Effective control of Salmonella Infantis requires strict biosecurity, continuous monitoring, and targeted interventions. Inactivated vaccines for breeders and layers are available in some regions, while universal vaccines against Salmonella Infantis are still under development.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "biosecurity",
+        "monitoring"
+      ],
+      "hypothetical_questions": [
+        "What are the best ways to control Salmonella Infantis in poultry?",
+        "How can I prevent Salmonella Infantis outbreaks on my farm?",
+        "What are the symptoms of Salmonella Infantis infection in chickens?",
+        "What treatments are available for Salmonella Infantis in poultry?",
+        "What is the role of biosecurity in controlling Salmonella Infantis outbreaks?",
+        "Are there any specific vaccines available for Salmonella Infantis in breeders?",
+        "What is the current status of universal vaccines against Salmonella Infantis?",
+        "How do targeted interventions help control Salmonella Infantis in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Control strategies for Salmonella Infantis in poultry production",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_infantis_conclusion",
+    "content": "The review highlights the growing importance of Salmonella Infantis in broiler production and its public health relevance. Knowledge gaps remain regarding true geographic distribution, individual-level prevalence, and the long-term effectiveness of control strategies.",
+    "vector_context": {
+      "keywords": [
+        "research_gap",
+        "public_health",
+        "future_studies"
+      ],
+      "hypothetical_questions": [
+        "What causes Salmonella Infantis in chickens?",
+        "Is Salmonella Infantis a major concern in broiler production?",
+        "What are the symptoms of Salmonella Infantis in poultry?",
+        "How do I prevent Salmonella Infantis in my farm?",
+        "What is the pathogenesis of Salmonella Infantis in broilers?",
+        "How does Salmonella Infantis affect the gut microbiome of chickens?",
+        "What are the most effective treatments for Salmonella Infantis in poultry?",
+        "What is the role of antibiotics in controlling Salmonella Infantis outbreaks?"
+      ]
+    },
+    "metadata": {
+      "title": "Conclusions and research gaps on Salmonella Infantis",
+      "disease": "salmonella",
+      "category": "conclusion",
+      "source_urls": [
+        "https://www.mdpi.com/2076-2615/14/23/3453"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_overview_poultry",
+    "content": "Salmonellosis in poultry refers to a group of infectious diseases caused by bacteria of the genus Salmonella. These diseases vary in clinical presentation and epidemiology depending on the serotype involved and the age of the affected birds. Salmonellosis in poultry includes host-adapted infections, such as pullorum disease and fowl typhoid, as well as non–host-adapted paratyphoid infections that are widely distributed in poultry populations and are important sources of environmental contamination.",
+    "vector_context": {
+      "keywords": [
+        "salmonellosis",
+        "poultry"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonellosis in chickens?",
+        "What are the symptoms of salmonellosis in poultry?",
+        "Is salmonellosis contagious to humans?",
+        "What are the different types of salmonellosis in poultry?",
+        "What is the pathology of pullorum disease in chickens?",
+        "What is the treatment for fowl typhoid in poultry?",
+        "Which antibiotics are effective against Salmonella in poultry?",
+        "What is the role of Salmonella serotypes in poultry diseases?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of salmonellosis in poultry",
+      "disease": "salmonella",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_cause_serotypes",
+    "content": "Salmonellosis in poultry is caused by bacteria belonging to the genus Salmonella. Host-adapted serotypes include Salmonella enterica serovar Gallinarum biovar Pullorum, which causes pullorum disease, and Salmonella enterica serovar Gallinarum biovar Gallinarum, which causes fowl typhoid. In addition, numerous non–host-adapted paratyphoid Salmonella serotypes, such as Salmonella Enteritidis and Salmonella Typhimurium, can infect poultry and contribute to fecal shedding and environmental contamination.",
+    "vector_context": {
+      "keywords": [
+        "salmonella",
+        "serotypes"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonellosis in poultry?",
+        "What are the bacteria that cause pullorum disease?",
+        "What is the cause of fowl typhoid in poultry?",
+        "What are the non-host-adapted Salmonella serotypes that infect poultry?",
+        "What are the host-adapted Salmonella serotypes in poultry?",
+        "What is the role of Salmonella Enteritidis in poultry disease?",
+        "What is the biovar of Salmonella enterica serovar Gallinarum that causes pullorum disease?",
+        "What is the pathogenesis of fowl typhoid in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Causative agents of salmonellosis in poultry",
+      "disease": "salmonella",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry",
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/paratyphoid-infections-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_transmission_fecal_environment",
+    "content": "Salmonella is commonly transmitted among poultry through the fecal–oral route. Infected birds shed the organism in their feces, leading to contamination of litter, feed, water, and housing environments. This mode of transmission facilitates rapid horizontal spread within flocks, particularly under conditions of poor hygiene and high stocking density.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral",
+        "environmental contamination"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonella in chickens?",
+        "How do chickens get salmonella?",
+        "What is the main route of salmonella transmission in poultry?",
+        "Is salmonella spread through feces in chickens?",
+        "What are the risk factors for salmonella transmission in poultry flocks?",
+        "Can salmonella be transmitted through contaminated feed?",
+        "What is the role of hygiene in preventing salmonella spread in poultry?",
+        "How does high stocking density contribute to salmonella transmission?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal–oral transmission of salmonellosis in poultry",
+      "disease": "salmonella",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/paratyphoid-infections-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_transmission_vertical_egg",
+    "content": "Certain Salmonella serotypes, particularly host-adapted strains such as Salmonella Pullorum and Salmonella Gallinarum, can be transmitted vertically from infected breeder hens to their offspring through eggs. Vertical transmission plays a critical role in the persistence of salmonellosis within breeding flocks and contributes to early infection and high mortality in young chicks.",
+    "vector_context": {
+      "keywords": [
+        "vertical transmission",
+        "eggs"
+      ],
+      "hypothetical_questions": [
+        "What causes salmonella in chicks?",
+        "How do hens pass salmonella to their babies?",
+        "What is the main way salmonella spreads in chicken farms?",
+        "Can salmonella be passed from mother to child in chickens?",
+        "What are the specific Salmonella serotypes that cause vertical transmission in poultry?",
+        "How does Salmonella Pullorum affect young chicks?",
+        "What is the role of Salmonella Gallinarum in vertical transmission of salmonellosis?",
+        "What is the pathogenesis of vertical transmission of salmonellosis in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Vertical transmission of salmonellosis through eggs",
+      "disease": "salmonella",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry",
+        "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/fowl-typhoid"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_paratyphoid_diarrhea",
+    "content": "Paratyphoid Salmonella infections are most commonly observed in young poultry and may range from subclinical infection to overt disease. Clinically affected birds often show depression, poor growth, weakness, dehydration, and diarrhea. Infected birds can shed large numbers of Salmonella organisms in their feces, contributing to environmental contamination and transmission within flocks.",
+    "vector_context": {
+      "keywords": [
+        "paratyphoid",
+        "diarrhea"
+      ],
+      "hypothetical_questions": [
+        "What causes diarrhea in young chickens?",
+        "What are the symptoms of Paratyphoid Salmonella infection in poultry?",
+        "How do Salmonella organisms spread within a flock?",
+        "What are the common signs of Paratyphoid Salmonella infection in birds?",
+        "What is the typical age range for Paratyphoid Salmonella infections in poultry?",
+        "What are the effects of Salmonella shedding on environmental contamination?",
+        "What are the most common clinical signs of Paratyphoid Salmonella infection?",
+        "Can Paratyphoid Salmonella infection be asymptomatic in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Diarrhea associated with paratyphoid salmonellosis",
+      "disease": "salmonella",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/paratyphoid-infections-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_pullorum_white_feces",
+    "content": "Pullorum disease, caused by Salmonella Pullorum, primarily affects young chicks and is characterized by high mortality. Affected birds are anorectic, weak, and lethargic and commonly produce white or whitish fecal material that becomes pasted around the vent area. This distinctive fecal appearance is considered a hallmark clinical sign of pullorum disease.",
+    "vector_context": {
+      "keywords": [
+        "pullorum",
+        "white feces"
+      ],
+      "hypothetical_questions": [
+        "what causes white poop in chicks?",
+        "how to treat pullorum disease in poultry?",
+        "what is the hallmark clinical sign of pullorum disease?"
+      ]
+    },
+    "metadata": {
+      "title": "White fecal material in pullorum disease",
+      "disease": "salmonella",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_fowl_typhoid_fecal_signs",
+    "content": "In fowl typhoid, clinical signs vary with the age of the affected birds. Young birds may appear weak, anorectic, and depressed and can show white fecal material pasted to the vent area. Older birds are more likely to be pale and dehydrated and may develop diarrhea. Gastrointestinal signs may be present but are not always the dominant feature of the disease.",
+    "vector_context": {
+      "keywords": [
+        "fowl typhoid",
+        "age-related signs"
+      ],
+      "hypothetical_questions": [
+        "What are the signs of fowl typhoid in young birds?",
+        "What do you call white fecal material pasted to the vent area?",
+        "What are the clinical signs of fowl typhoid in older birds?",
+        "What do you do if you see white feces on a chicken?",
+        "What are the gastrointestinal signs of fowl typhoid?",
+        "What age group is more likely to be pale and dehydrated?",
+        "Is fowl typhoid more common in young or old birds?",
+        "What is the pathology of fowl typhoid in chickens?",
+        "What are the symptoms of fowl typhoid in birds with diarrhea?",
+        "Is fowl typhoid a zoonotic disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal abnormalities in fowl typhoid",
+      "disease": "salmonella",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/salmonelloses-in-poultry/fowl-typhoid"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_enteritidis_layers_diarrhea",
+    "content": "In laying hens, infection with Salmonella Enteritidis may be associated with gastrointestinal disturbances, including diarrhea and reduced feed consumption. Affected birds may also exhibit decreased egg production while continuing to shed Salmonella organisms in their feces, increasing the risk of environmental contamination.",
+    "vector_context": {
+      "keywords": [
+        "enteritidis",
+        "layers"
+      ],
+      "hypothetical_questions": [
+        "What causes diarrhea in laying hens?",
+        "Symptoms of Salmonella Enteritidis in egg-laying hens?",
+        "Can Salmonella Enteritidis infection affect egg production in laying hens?",
+        "What are the gastrointestinal symptoms of Salmonella Enteritidis in laying hens?"
+      ]
+    },
+    "metadata": {
+      "title": "Digestive signs of Salmonella Enteritidis in layers",
+      "disease": "salmonella",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/paratyphoid-infections-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_pathology_intestinal_lesions",
+    "content": "Salmonella infections in poultry may result in inflammatory changes within the intestinal tract, reflecting bacterial invasion and systemic spread. Intestinal involvement contributes to impaired digestion and altered fecal consistency. In some cases, lesions may also be observed in internal organs such as the liver and spleen, particularly in severe or systemic infections.",
+    "vector_context": {
+      "keywords": [
+        "pathology",
+        "intestinal lesions"
+      ],
+      "hypothetical_questions": [
+        "what causes salmonella infections in chickens?",
+        "what are the symptoms of salmonella in poultry?",
+        "how does salmonella affect the digestive system of birds?",
+        "what are the common lesions observed in salmonella infections?",
+        "what is the pathology of salmonella infection in poultry?",
+        "how does salmonella invade the intestinal tract of birds?",
+        "what are the effects of salmonella on liver and spleen function?",
+        "what is the role of systemic spread in salmonella infections?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathological changes associated with salmonellosis",
+      "disease": "salmonella",
+      "category": "pathology",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_diagnosis_bacteriology",
+    "content": "Clinical signs of salmonellosis in poultry are variable and may overlap with those of other infectious diseases, particularly those affecting the gastrointestinal system. Because fecal appearance and general clinical signs alone are insufficient for definitive identification, diagnosis relies on isolation and identification of the organism using bacteriologic methods.",
+    "vector_context": {
+      "keywords": [
+        "diagnosis",
+        "bacteriology"
+      ],
+      "hypothetical_questions": [
+        "What are the symptoms of salmonellosis in chickens?",
+        "How do you diagnose salmonella in poultry?",
+        "What are the clinical signs of salmonellosis in birds?",
+        "Can you isolate salmonella from poultry feces?",
+        "What is the best method for identifying salmonella in poultry?",
+        "How does salmonellosis affect the gastrointestinal system of poultry?",
+        "What are the common laboratory tests for diagnosing salmonellosis?",
+        "Can you use PCR to diagnose salmonella in poultry?",
+        "What is the significance of fecal appearance in diagnosing salmonellosis?",
+        "Is bacteriologic culture the gold standard for diagnosing salmonellosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis of salmonellosis in poultry",
+      "disease": "salmonella",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_treatment_culling_and_isolation",
+    "content": "In poultry flocks affected by salmonellosis, treatment is generally based on management measures rather than therapeutic intervention. Elimination of infected birds, particularly in breeding flocks, is recommended to reduce the risk of persistent carrier states and ongoing environmental contamination. Isolation and removal of affected birds play a key role in limiting transmission within flocks.",
+    "vector_context": {
+      "keywords": [
+        "culling",
+        "isolation",
+        "management"
+      ],
+      "hypothetical_questions": [
+        "What do you do with infected birds in a salmonella outbreak?",
+        "What is the main goal of isolating birds with salmonella?",
+        "Can you treat salmonella in poultry with medicine?",
+        "Why do you remove birds with salmonella from the flock?",
+        "What is the best way to stop salmonella from spreading in a flock?",
+        "How do you prevent salmonella from becoming a persistent carrier state?",
+        "What are the management measures for treating salmonella in poultry?",
+        "What is the role of isolation in limiting salmonella transmission?",
+        "Can you use antibiotics to treat salmonella in poultry?",
+        "What is the significance of removing infected birds in breeding flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Culling and isolation as a management strategy for salmonellosis",
+      "disease": "salmonella",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_treatment_antimicrobial_not_recommended",
+    "content": "Antimicrobial treatment of salmonellosis in poultry is generally discouraged because it rarely eliminates the organism and may contribute to the development of antimicrobial resistance. Treated birds may continue to shed Salmonella in their feces, resulting in persistent environmental contamination and limited long-term benefit at the flock level.",
+    "vector_context": {
+      "keywords": [
+        "antimicrobial resistance",
+        "fecal shedding"
+      ],
+      "hypothetical_questions": [
+        "Is antimicrobial treatment effective for salmonellosis in chickens?",
+        "What happens if you give antibiotics to birds with salmonella?",
+        "Can treating salmonella in poultry with antibiotics make the problem worse?",
+        "Why is it hard to get rid of salmonella in a flock of birds?",
+        "What are the risks of using antibiotics to treat salmonella in poultry?",
+        "How does salmonella infection affect the gut of poultry birds?",
+        "What is the best way to control salmonella in a poultry farm?",
+        "Does antimicrobial treatment of salmonella in poultry contribute to antibiotic resistance?",
+        "Can birds with salmonella still spread the disease even after treatment?",
+        "What are the long-term effects of treating salmonella in poultry with antibiotics?"
+      ]
+    },
+    "metadata": {
+      "title": "Limitations of antimicrobial treatment in salmonellosis",
+      "disease": "salmonella",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_treatment_exception_young_birds",
+    "content": "In certain circumstances, such as clinical salmonellosis in young birds, antimicrobial therapy may be considered under veterinary supervision. In these cases, treatment decisions should be guided by bacterial culture and antimicrobial susceptibility testing due to variability in resistance patterns among Salmonella isolates.",
+    "vector_context": {
+      "keywords": [
+        "exception",
+        "veterinary supervision"
+      ],
+      "hypothetical_questions": [
+        "What do you do when young birds get salmonellosis?",
+        "Can you treat young birds with salmonellosis?",
+        "Is it safe to give antibiotics to young birds with salmonellosis?",
+        "How do you decide when to give antibiotics to young birds with salmonellosis?",
+        "What is the best way to determine antibiotic resistance in Salmonella isolates?",
+        "Which antibiotics are effective against Salmonella in young birds?",
+        "What is the role of bacterial culture in treating salmonellosis in young birds?",
+        "How does antimicrobial susceptibility testing guide treatment decisions for salmonellosis in young birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Restricted antimicrobial use in young birds with salmonellosis",
+      "disease": "salmonella",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_prevention_biosecurity",
+    "content": "Prevention of salmonellosis in poultry relies heavily on good hygiene, sanitation, and strict biosecurity measures. These include proper cleaning and disinfection of housing, control of rodent and insect vectors, and prevention of fecal contamination of feed and water. Effective biosecurity reduces the introduction and spread of Salmonella within flocks.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "hygiene"
+      ],
+      "hypothetical_questions": [
+        "What stops salmonella in chickens?",
+        "How do I prevent salmonella in my flock?",
+        "What are the main causes of salmonella in poultry?",
+        "What can I do to stop salmonella spreading?",
+        "What is the role of biosecurity in preventing salmonella?"
+      ]
+    },
+    "metadata": {
+      "title": "Biosecurity measures for preventing salmonellosis",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/overview-of-salmonelloses-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "salmonella_prevention_breeding_flocks",
+    "content": "Control of salmonellosis in breeding flocks is essential to prevent vertical transmission of the organism to offspring. Monitoring, testing, and removal of infected breeder birds are important strategies to reduce the risk of egg-borne infection and subsequent spread of Salmonella in poultry production systems.",
+    "vector_context": {
+      "keywords": [
+        "breeding flocks",
+        "vertical transmission"
+      ],
+      "hypothetical_questions": [
+        "What can cause salmonella in chickens?",
+        "How do I prevent salmonella in my breeding flock?",
+        "What are the risks of salmonella in poultry production?",
+        "What should I do if I find salmonella in my breeder birds?",
+        "How does vertical transmission of salmonella occur in poultry?",
+        "What are the key strategies for controlling salmonella in breeding flocks?",
+        "What is the role of testing in preventing salmonella in poultry?",
+        "What are the consequences of egg-borne infection with salmonella?"
+      ]
+    },
+    "metadata": {
+      "title": "Control of salmonellosis in breeding flocks",
+      "disease": "salmonella",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/salmonelloses-in-poultry/pullorum-disease-in-poultry"
+      ]
+    }
+  }
+]

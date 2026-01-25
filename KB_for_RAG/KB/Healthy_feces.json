@@ -1,0 +1,1496 @@
+[
+  {
+    "id": "healthy_digestive_system_normal_droppings_characteristics",
+    "content": "In healthy broiler chickens, normal digestive tract function is reflected through characteristic fecal output. Normal droppings are typically solid, continuous in shape, and appear in shades of brown or blue-gray, often with a small white urate cap on the surface. These visual and physical features indicate balanced intestinal digestion, proper nutrient absorption, and normal water regulation within the gastrointestinal tract. The consistency and color stability of droppings serve as reliable external indicators of a healthy gut environment in intensively reared broilers.",
+    "vector_context": {
+      "keywords": [
+        "healthy gut",
+        "normal droppings",
+        "digestive physiology",
+        "intestinal health"
+      ],
+      "hypothetical_questions": [
+        "What do healthy broiler chicken droppings look like?",
+        "What color are normal broiler chicken droppings?",
+        "Are broiler chicken droppings usually solid or liquid?",
+        "What is the urate cap on broiler chicken droppings?",
+        "What are the physical features of normal broiler chicken droppings?",
+        "What is the significance of a white urate cap on broiler chicken droppings?",
+        "How do broiler chicken droppings indicate a healthy gut environment?",
+        "What is the role of nutrient absorption in broiler chicken droppings?",
+        "What is the relationship between gut environment and broiler chicken droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal droppings as indicators of a healthy chicken digestive system",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "physiology",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1155/2019/3823515"
+      ]
+    }
+  },
+  {
+    "id": "digestive_homeostasis_reflected_by_droppings_consistency",
+    "content": "The gastrointestinal homeostasis of healthy broiler chickens is closely associated with stable droppings texture and water content. Birds with normal intestinal function produce droppings that are neither excessively watery nor fragmented, demonstrating effective water absorption and coordinated intestinal motility. Consistent droppings morphology over time reflects proper enzymatic digestion and microbial balance within the digestive tract, making fecal observation a practical and non-invasive method for monitoring gut health under standard feeding conditions.",
+    "vector_context": {
+      "keywords": [
+        "intestinal balance",
+        "water absorption",
+        "gut homeostasis",
+        "non-invasive assessment"
+      ],
+      "hypothetical_questions": [
+        "What affects droppings texture in broiler chickens?",
+        "How do healthy broilers produce normal droppings?",
+        "What is the role of water absorption in droppings?",
+        "Why do broilers with normal gut function have consistent droppings?",
+        "What are the consequences of poor water absorption in broilers?",
+        "How does enzymatic digestion impact droppings morphology?",
+        "What is the relationship between gut health and droppings texture?",
+        "What are the benefits of fecal observation in monitoring gut health?"
+      ]
+    },
+    "metadata": {
+      "title": "Droppings consistency as a reflection of gastrointestinal homeostasis",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "gut_function",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1155/2019/3823515"
+      ]
+    }
+  },
+  {
+    "id": "baseline_healthy_droppings_for_digestive_disease_detection",
+    "content": "Establishing a baseline definition of healthy chicken droppings is essential for the early detection of digestive tract disorders. In healthy broilers, droppings display regular shape, normal coloration, and moderate moisture content, forming a reference standard against which deviations can be identified. This baseline enables automated vision-based systems to distinguish healthy gastrointestinal function from early-stage digestive abnormalities, supporting continuous health surveillance in modern poultry production systems.",
+    "vector_context": {
+      "keywords": [
+        "baseline health",
+        "digestive monitoring",
+        "poultry surveillance",
+        "AI readiness"
+      ],
+      "hypothetical_questions": [
+        "What makes healthy chicken poop?",
+        "How do I know if my chickens have healthy droppings?",
+        "What's normal chicken poop supposed to look like?",
+        "Can you describe healthy chicken droppings?",
+        "What's the normal color of chicken droppings?",
+        "How do I identify early-stage digestive problems in chickens?",
+        "What's the role of moisture content in healthy chicken droppings?",
+        "What's the significance of regular shape in healthy chicken droppings?",
+        "Can you explain the importance of baseline definition in poultry health?",
+        "Is there a standard reference for healthy chicken droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Baseline healthy droppings for digestive tract monitoring",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_definition",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1155/2019/3823515"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_fecal_microbiota_overview",
+    "content": "The gastrointestinal tract of healthy chickens harbors a complex and stable fecal microbiota that plays a critical role in digestion, nutrient utilization, and overall gut health. In healthy birds, the fecal microbial community is dominated by bacteria adapted to anaerobic intestinal environments, reflecting a balanced and functional digestive system. Characterizing this baseline microbiota provides essential reference information for understanding normal intestinal physiology in poultry.",
+    "vector_context": {
+      "keywords": [
+        "healthy gut",
+        "fecal microbiota",
+        "intestinal ecology",
+        "baseline health"
+      ],
+      "hypothetical_questions": [
+        "What's normal gut health in chickens?",
+        "How do chickens digest food?",
+        "What's the main role of gut bacteria in chickens?",
+        "What's a balanced gut in chickens?",
+        "What bacteria live in a healthy chicken's gut?",
+        "What's the difference between anaerobic and aerobic gut bacteria in chickens?",
+        "How do antibiotics affect gut health in chickens?",
+        "What's the impact of gut microbiota on nutrient utilization in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of fecal microbiota in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbiome",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "dominant_bacterial_phyla_in_healthy_chickens",
+    "content": "In healthy chickens, the fecal microbiota is primarily composed of bacteria belonging to the phyla Firmicutes and Bacteroidetes, with lower proportions of Proteobacteria and Actinobacteria. This phylum-level structure reflects efficient fermentation of dietary components and normal metabolic activity within the gut. The dominance of these bacterial groups is considered a hallmark of a stable and healthy intestinal ecosystem in poultry.",
+    "vector_context": {
+      "keywords": [
+        "Firmicutes",
+        "Bacteroidetes",
+        "gut balance",
+        "healthy microbiome"
+      ],
+      "hypothetical_questions": [
+        "What are the main types of bacteria in a healthy chicken's gut?",
+        "What bacteria are found in a normal chicken's poop?",
+        "What are the main bacterial groups in a healthy chicken's intestines?",
+        "Are there any bad bacteria in a healthy chicken's gut?",
+        "What are the phyla of bacteria that make up the majority of a chicken's fecal microbiota?",
+        "What is the typical bacterial composition of a healthy chicken's gut?",
+        "What are the dominant bacterial groups in a chicken's intestinal ecosystem?",
+        "What is the role of Firmicutes and Bacteroidetes in a healthy chicken's gut?",
+        "What are the most common bacteria in a chicken's feces?",
+        "Are there any specific bacteria that are always present in a healthy chicken's gut?"
+      ]
+    },
+    "metadata": {
+      "title": "Dominant bacterial phyla in healthy chicken feces",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbial_composition",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "microbial_diversity_as_marker_of_healthy_gut",
+    "content": "High microbial diversity is a defining feature of a healthy chicken gastrointestinal tract. Healthy birds exhibit a rich and even distribution of bacterial taxa within their fecal microbiota, indicating ecological stability and resilience. This diversity supports efficient digestion, competitive exclusion of pathogens, and maintenance of normal intestinal function.",
+    "vector_context": {
+      "keywords": [
+        "microbial diversity",
+        "gut stability",
+        "intestinal resilience",
+        "healthy digestion"
+      ],
+      "hypothetical_questions": [
+        "What makes a chicken's gut healthy?",
+        "How can I tell if my chickens have a healthy gut?",
+        "What are the benefits of a diverse gut microbiome in chickens?",
+        "Can a healthy chicken's gut fight off diseases?",
+        "What are the key characteristics of a healthy chicken fecal microbiota?",
+        "How does high microbial diversity support efficient digestion in chickens?",
+        "What is the role of ecological stability in maintaining a healthy chicken gut?",
+        "What are the implications of competitive exclusion of pathogens in chicken health?"
+      ]
+    },
+    "metadata": {
+      "title": "Microbial diversity as a marker of healthy gut function",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "gut_health_indicator",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "differences_between_broiler_and_layer_microbiota",
+    "content": "Healthy broiler chickens and laying hens exhibit distinct fecal microbiota profiles, reflecting differences in genetics, diet, and production purpose. While both groups share core bacterial taxa associated with normal gut function, their relative abundances vary, highlighting that a healthy digestive system may present different microbial configurations depending on production type.",
+    "vector_context": {
+      "keywords": [
+        "broilers",
+        "laying hens",
+        "gut microbiota variation",
+        "production type"
+      ],
+      "hypothetical_questions": [
+        "What's the difference in poop between broilers and layers?",
+        "Can you explain the gut bacteria in healthy chickens?",
+        "How do genetics affect the gut microbiota in broilers and layers?",
+        "What's the normal poop bacteria in chickens?",
+        "How do diet and production purpose impact the gut microbiota in chickens?",
+        "What are the core bacterial taxa in healthy chicken gut microbiota?",
+        "What's the relative abundance of gut bacteria in broilers vs layers?",
+        "How does the gut microbiota differ between broilers and layers?"
+      ]
+    },
+    "metadata": {
+      "title": "Differences in fecal microbiota between healthy broilers and layers",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "comparative_microbiome",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "age_related_changes_in_healthy_fecal_microbiota",
+    "content": "The fecal microbiota of healthy chickens evolves with age, gradually increasing in complexity and stability as the digestive system matures. Early-life microbial communities are more variable, while adult birds exhibit a more stable and functionally specialized microbiota. These age-related dynamics represent normal physiological development rather than pathological change.",
+    "vector_context": {
+      "keywords": [
+        "age effect",
+        "gut maturation",
+        "microbiota development",
+        "healthy growth"
+      ],
+      "hypothetical_questions": [
+        "What happens to chicken poop as they get older?",
+        "How do chicken guts change over time?",
+        "Does chicken poop get better with age?",
+        "What's normal for chicken gut health?",
+        "What's the difference in gut bacteria between young and old chickens?",
+        "How does the gut microbiome develop in chickens?",
+        "What's the role of gut bacteria in mature chickens?",
+        "What's the impact of age on chicken gut health?"
+      ]
+    },
+    "metadata": {
+      "title": "Age-related development of fecal microbiota in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "developmental_physiology",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "fecal_microbiota_and_digestive_efficiency",
+    "content": "The composition of fecal microbiota in healthy chickens is closely linked to digestive efficiency and nutrient metabolism. Beneficial bacterial populations contribute to the breakdown of complex dietary components and production of metabolites that support intestinal health. A balanced fecal microbiota therefore reflects optimal digestive tract function in healthy birds.",
+    "vector_context": {
+      "keywords": [
+        "digestion",
+        "nutrient metabolism",
+        "functional microbiota",
+        "healthy intestine"
+      ],
+      "hypothetical_questions": [
+        "What affects gut health in chickens?",
+        "How do beneficial bacteria help chickens digest food?",
+        "What is the role of fecal microbiota in nutrient metabolism?",
+        "Why is a balanced gut microbiome important for chickens?",
+        "What are the key bacterial populations involved in breaking down complex dietary components in chickens?",
+        "How do metabolites produced by beneficial bacteria support intestinal health in chickens?",
+        "What are the consequences of an imbalance in fecal microbiota in chickens?",
+        "What is the relationship between fecal microbiota and digestive efficiency in healthy chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Relationship between fecal microbiota and digestive efficiency",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "functional_microbiology",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "healthy_microbiota_as_protective_intestinal_barrier",
+    "content": "A well-balanced fecal microbiota in healthy chickens contributes to intestinal protection by limiting ecological niches available to opportunistic pathogens. Through competitive exclusion and metabolic activity, normal gut bacteria support intestinal barrier function and reduce susceptibility to digestive disturbances.",
+    "vector_context": {
+      "keywords": [
+        "colonization resistance",
+        "intestinal protection",
+        "gut barrier",
+        "healthy birds"
+      ],
+      "hypothetical_questions": [
+        "What keeps chickens healthy from getting sick?",
+        "How do chickens' guts stay protected?",
+        "What's the role of good bacteria in chickens' intestines?",
+        "Why do chickens get sick if their gut bacteria is off?",
+        "What are the mechanisms by which gut bacteria protect the intestinal barrier in chickens?",
+        "How does the fecal microbiota of healthy chickens impact the presence of opportunistic pathogens?",
+        "What is the relationship between gut bacteria and susceptibility to digestive disturbances in chickens?",
+        "What are the specific metabolic activities of normal gut bacteria that support intestinal barrier function?"
+      ]
+    },
+    "metadata": {
+      "title": "Protective role of healthy fecal microbiota in the chicken gut",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "intestinal_defense",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "healthy_fecal_microbiota_as_baseline_for_disease_detection",
+    "content": "Defining the fecal microbiota of healthy chickens establishes a critical baseline for detecting deviations associated with digestive disorders. Comparisons against this healthy reference enable early identification of gut dysbiosis and support data-driven surveillance systems in poultry health management.",
+    "vector_context": {
+      "keywords": [
+        "baseline microbiome",
+        "gut dysbiosis",
+        "health monitoring",
+        "poultry surveillance"
+      ],
+      "hypothetical_questions": [
+        "What's the normal poop of healthy chickens like?",
+        "How do I know if my chickens have a gut problem?",
+        "What's the best way to check for digestive disorders in chickens?",
+        "Can you tell me about the poop of healthy chickens?",
+        "What are the key characteristics of the fecal microbiota of healthy chickens?",
+        "How does gut dysbiosis affect the health of chickens?",
+        "What are the implications of using healthy chicken fecal microbiota as a baseline for disease detection?",
+        "What are the key differences between healthy and diseased chicken gut microbiota?"
+      ]
+    },
+    "metadata": {
+      "title": "Healthy fecal microbiota as a baseline for digestive disease monitoring",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_definition",
+      "source_urls": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0110076"
+      ]
+    }
+  },
+  {
+    "id": "healthy_laying_hen_gut_microbiota_overview",
+    "content": "Healthy laying hens harbor a diverse and complex gastrointestinal microbiota that plays a central role in digestion, nutrient absorption, immune modulation, and overall intestinal homeostasis. The presence of stable commensal bacterial communities in the gut is a defining feature of healthy chickens and supports optimal productivity and disease resistance.",
+    "vector_context": {
+      "keywords": [
+        "healthy gut",
+        "laying hens",
+        "intestinal microbiota",
+        "baseline physiology"
+      ],
+      "hypothetical_questions": [
+        "What's good for hens' tummies?",
+        "What affects a chicken's digestion?",
+        "Can you tell me about gut bacteria in chickens?",
+        "What helps hens stay healthy?",
+        "What is the significance of commensal bacteria in the gut of healthy chickens?",
+        "What are the benefits of a diverse gut microbiota in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of gastrointestinal microbiota in healthy laying hens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbiome_overview",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "functional_roles_of_healthy_chicken_microbiota",
+    "content": "In healthy chickens, the gastrointestinal microbiota contributes to key physiological functions including nutrient digestion, energy harvest, immune modulation, stress tolerance, and resistance to infectious diseases. These benefits arise from reduced intestinal inflammation, efficient fermentation processes, and competitive exclusion of pathogenic organisms, collectively supporting intestinal health.",
+    "vector_context": {
+      "keywords": [
+        "digestion",
+        "immune modulation",
+        "competitive exclusion",
+        "intestinal health"
+      ],
+      "hypothetical_questions": [
+        "What does chicken gut bacteria do?",
+        "What helps chickens digest food?",
+        "Can gut bacteria in chickens fight off diseases?",
+        "How does healthy chicken gut bacteria work?",
+        "What are the benefits of a healthy chicken gut microbiota?",
+        "How does the chicken gut microbiota reduce inflammation?",
+        "What is the role of gut fermentation in chickens?",
+        "What are the effects of a healthy chicken gut microbiota on stress?"
+      ]
+    },
+    "metadata": {
+      "title": "Functional roles of gut microbiota in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "gut_function",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "taxonomic_structure_of_culturable_healthy_microbiota",
+    "content": "Deep culturing of fecal samples from healthy laying hens revealed that the culturable microbiota is primarily composed of bacteria from the phyla Bacillota, Pseudomonadota, Actinomycetota, and Bacteroidota. These phyla represent key bacterial groups adapted to the avian intestinal environment and reflect a functional and balanced gut ecosystem.",
+    "vector_context": {
+      "keywords": [
+        "culturable microbiota",
+        "Firmicutes",
+        "Proteobacteria",
+        "gut ecology"
+      ],
+      "hypothetical_questions": [
+        "What are the main types of bacteria in healthy laying hens?",
+        "What bacteria are found in the gut of healthy chickens?",
+        "What are the four main phyla of bacteria in a healthy chicken's gut?",
+        "Are there any specific bacteria that are good for chickens' health?",
+        "What are the characteristics of the avian intestinal environment?",
+        "What are the key bacterial groups adapted to the avian intestinal environment?",
+        "What is the functional and balanced gut ecosystem in chickens?",
+        "What are the main bacterial phyla found in the fecal samples of healthy laying hens?"
+      ]
+    },
+    "metadata": {
+      "title": "Taxonomic structure of culturable fecal microbiota in healthy hens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbial_composition",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "core_microbiota_in_healthy_laying_hens",
+    "content": "Shotgun metagenomic analysis of fecal samples from healthy laying hens identified a small core microbiota shared across individuals. Core bacterial species, including multiple Lactobacillus-related taxa and Enterococcus cecorum, represent stable and prevalent members of the healthy chicken gut and are indicative of normal intestinal function.",
+    "vector_context": {
+      "keywords": [
+        "core microbiota",
+        "Lactobacillus",
+        "gut stability",
+        "healthy baseline"
+      ],
+      "hypothetical_questions": [
+        "What is the core microbiota in healthy laying hens?",
+        "What bacteria are found in the healthy chicken gut?",
+        "What are the stable and prevalent members of the healthy chicken gut?",
+        "What bacteria are indicative of normal intestinal function in chickens?",
+        "What are the core bacterial species identified in healthy laying hens?",
+        "What is the role of Lactobacillus-related taxa in the chicken gut?",
+        "How does Enterococcus cecorum contribute to normal intestinal function?",
+        "What is the significance of a small core microbiota in healthy laying hens?"
+      ]
+    },
+    "metadata": {
+      "title": "Core fecal microbiota of healthy laying hens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "core_microbiome",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "microbial_diversity_within_healthy_chicken_gut",
+    "content": "Healthy chickens exhibit high microbial diversity within their gastrointestinal tract, including substantial inter-species and intra-species variation. This diversity reflects ecological stability and resilience, allowing the gut microbiota to adapt to dietary and environmental changes while maintaining normal digestive function.",
+    "vector_context": {
+      "keywords": [
+        "microbial diversity",
+        "resilience",
+        "intestinal balance",
+        "healthy birds"
+      ],
+      "hypothetical_questions": [
+        "What causes high microbial diversity in chicken guts?",
+        "Can chickens with high gut microbial diversity get sick?",
+        "What is the role of gut microbiota in healthy chickens?",
+        "Are there any diseases caused by low microbial diversity in chicken guts?",
+        "What are the key factors influencing gut microbiota in chickens?",
+        "How does the gut microbiome adapt to changes in chicken diet?",
+        "What is the relationship between gut microbiota and digestive function in chickens?",
+        "Can antibiotics affect the microbial diversity in chicken guts?"
+      ]
+    },
+    "metadata": {
+      "title": "Microbial diversity as a feature of healthy chicken gut",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "gut_stability",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "commensal_ecoli_in_healthy_chickens",
+    "content": "Escherichia coli is commonly present as a commensal organism in the gastrointestinal tract of healthy chickens. Multiple E. coli strains can coexist within a single individual, indicating that strain-level diversity is a normal feature of the healthy avian gut and does not necessarily indicate disease.",
+    "vector_context": {
+      "keywords": [
+        "E. coli",
+        "commensal bacteria",
+        "strain diversity",
+        "healthy intestine"
+      ],
+      "hypothetical_questions": [
+        "What causes E. coli in healthy chickens?",
+        "Is E. coli always bad for chickens?",
+        "Can chickens have multiple types of E. coli?",
+        "How do chickens normally carry E. coli?",
+        "What is the role of E. coli in the avian gut?",
+        "Does E. coli diversity in chickens indicate disease?",
+        "What strains of E. coli are commonly found in chickens?",
+        "How does E. coli coexist with other bacteria in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Commensal Escherichia coli diversity in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "commensal_bacteria",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_microbiota_and_pathogen_exclusion",
+    "content": "The gut microbiota of healthy laying hens contributes to protection against enteric pathogens through competitive exclusion mechanisms. By occupying ecological niches and producing beneficial metabolites, commensal bacteria reduce the likelihood of pathogen overgrowth and support intestinal barrier integrity.",
+    "vector_context": {
+      "keywords": [
+        "competitive exclusion",
+        "pathogen resistance",
+        "gut barrier",
+        "healthy microbiome"
+      ],
+      "hypothetical_questions": [
+        "What helps keep my chickens healthy?",
+        "How do I prevent disease in my laying hens?",
+        "What keeps my chickens from getting sick?",
+        "What's the best way to keep my chickens healthy?",
+        "What is the role of commensal bacteria in gut health of laying hens?",
+        "How do beneficial metabolites produced by gut microbiota support intestinal barrier integrity?",
+        "What is the mechanism of competitive exclusion in gut microbiota of healthy laying hens?",
+        "What is the impact of gut microbiota on enteric pathogen overgrowth in laying hens?"
+      ]
+    },
+    "metadata": {
+      "title": "Protective role of healthy microbiota against pathogens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "intestinal_defense",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_culturable_microbiota_as_reference_baseline",
+    "content": "Establishing a culture collection of bacteria from healthy chicken feces provides a critical reference baseline for understanding normal gut microbiology. This baseline enables meaningful comparisons with diseased states, supports functional studies of individual commensals, and facilitates the development of targeted probiotic strategies in poultry production.",
+    "vector_context": {
+      "keywords": [
+        "baseline microbiota",
+        "probiotic development",
+        "healthy reference",
+        "poultry gut"
+      ],
+      "hypothetical_questions": [
+        "What's a normal gut microbiology baseline for chickens?",
+        "How do I compare diseased chicken gut to healthy?",
+        "What's the purpose of a healthy chicken feces culture collection?",
+        "What's a good reference for healthy chicken gut bacteria?",
+        "What are the benefits of establishing a healthy chicken gut microbiota baseline?",
+        "How does a healthy chicken gut microbiota baseline support functional studies?",
+        "What's the role of healthy chicken gut microbiota in probiotic development?",
+        "How does a healthy chicken gut microbiota baseline compare to diseased states?"
+      ]
+    },
+    "metadata": {
+      "title": "Culturable healthy microbiota as a baseline reference",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_definition",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11951684/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_broiler_fecal_microbiota_baseline",
+    "content": "Fresh fecal samples from healthy broiler chickens exhibit a microbiota dominated by obligate anaerobic bacteria, primarily belonging to the phyla Firmicutes and Bacteroidetes. This baseline community structure reflects normal gastrointestinal function, efficient digestion, and a stable anaerobic gut environment prior to environmental perturbation.",
+    "vector_context": {
+      "keywords": [
+        "healthy broiler",
+        "baseline microbiota",
+        "anaerobic gut",
+        "intestinal health"
+      ],
+      "hypothetical_questions": [
+        "What's normal poop look like in healthy chickens?",
+        "What bacteria are in a healthy chicken's gut?",
+        "Can you tell me about the gut bacteria in broiler chickens?",
+        "What's the typical gut bacteria in a healthy chicken?",
+        "What are the main phyla of bacteria in a healthy broiler chicken's gut?",
+        "What's the role of Firmicutes in a chicken's gut microbiota?",
+        "How does Bacteroidetes contribute to a chicken's gut health?",
+        "What's the significance of an anaerobic gut environment in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Baseline fecal microbiota of healthy broiler chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_microbiome",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "microbial_diversity_as_feature_of_healthy_broiler_gut",
+    "content": "Healthy broiler chickens display moderate microbial richness, evenness, and phylogenetic diversity in their fecal microbiota. These diversity metrics indicate a balanced intestinal ecosystem that supports digestive efficiency and microbial resilience under normal physiological conditions.",
+    "vector_context": {
+      "keywords": [
+        "microbial diversity",
+        "gut balance",
+        "healthy digestion",
+        "intestinal resilience"
+      ],
+      "hypothetical_questions": [
+        "What causes imbalance in broiler chicken gut?",
+        "Are healthy broilers more resistant to diseases?",
+        "What is the role of fecal microbiota in broiler chickens?",
+        "Can antibiotics affect the gut microbiome of broilers?",
+        "What are the diversity metrics used to assess gut health in broilers?",
+        "What is the relationship between phylogenetic diversity and digestive efficiency in broilers?",
+        "Can a balanced gut microbiome prevent disease in broiler chickens?",
+        "What specific pathogens are affected by the gut microbiota of healthy broilers?"
+      ]
+    },
+    "metadata": {
+      "title": "Microbial diversity characteristics of a healthy broiler gut",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "gut_stability",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "dominance_of_anaerobes_in_healthy_chicken_feces",
+    "content": "The fecal microbiota of healthy broiler chickens is dominated by obligate anaerobic taxa, including members of the families Lachnospiraceae, Ruminococcaceae, and Lactobacillaceae. These bacteria are associated with normal fermentation processes, short-chain fatty acid production, and maintenance of intestinal homeostasis.",
+    "vector_context": {
+      "keywords": [
+        "Firmicutes",
+        "anaerobes",
+        "SCFA producers",
+        "gut homeostasis"
+      ],
+      "hypothetical_questions": [
+        "What bacteria live in healthy chicken poop?",
+        "What causes anaerobic bacteria in chicken intestines?",
+        "Are Lachnospiraceae good for chickens?",
+        "What's the role of Ruminococcaceae in chicken health?",
+        "What's the difference between anaerobic and aerobic bacteria in chickens?",
+        "How do Lactobacillaceae affect chicken gut health?",
+        "What's the best way to maintain anaerobic balance in chickens?",
+        "What's the effect of antibiotics on anaerobic bacteria in chickens?",
+        "Can probiotics help with anaerobic dominance in chickens?",
+        "Are anaerobic bacteria essential for chicken gut function?"
+      ]
+    },
+    "metadata": {
+      "title": "Anaerobic bacterial dominance in healthy chicken feces",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbial_composition",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "sensitivity_of_healthy_broiler_microbiota_to_oxygen",
+    "content": "The healthy fecal microbiota of broiler chickens is highly sensitive to aerobic exposure, with rapid reductions in microbial diversity occurring within the first few days. This sensitivity reflects the naturally anaerobic adaptation of the healthy chicken gut microbiome and highlights oxygen as a critical factor influencing gut microbial stability.",
+    "vector_context": {
+      "keywords": [
+        "oxygen sensitivity",
+        "anaerobic gut",
+        "microbiota stability",
+        "healthy baseline"
+      ],
+      "hypothetical_questions": [
+        "What happens to the gut of a healthy broiler chicken when exposed to oxygen?",
+        "Why do broiler chickens have an anaerobic gut?",
+        "What affects the stability of the gut microbiome in broilers?",
+        "How does oxygen impact the diversity of gut microbes in chickens?",
+        "What is the impact of oxygen on the gut microbiota of healthy broilers?",
+        "How do broilers adapt to the anaerobic environment of their gut?",
+        "What is the effect of aerobic exposure on the gut microbiome of broilers?",
+        "Why is oxygen a critical factor for gut microbial stability in broilers?"
+      ]
+    },
+    "metadata": {
+      "title": "Sensitivity of healthy broiler microbiota to oxygen exposure",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "environmental_response",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "beneficial_taxa_reduction_after_environmental_stress",
+    "content": "In healthy broiler chickens, beneficial anaerobic taxa such as Prevotella-related and Lachnospiraceae-associated bacteria are abundant under baseline conditions but decrease rapidly following aerobic exposure. These taxa are commonly associated with carbohydrate metabolism and intestinal health in poultry.",
+    "vector_context": {
+      "keywords": [
+        "Prevotella",
+        "Lachnospiraceae",
+        "beneficial bacteria",
+        "healthy gut"
+      ],
+      "hypothetical_questions": [
+        "What happens to beneficial bacteria in chickens when they get too much air?",
+        "Why do Prevotella-related bacteria decrease in healthy chickens?",
+        "What is the effect of aerobic exposure on Lachnospiraceae-associated bacteria?",
+        "How do anaerobic bacteria help with carbohydrate metabolism in chickens?",
+        "What are the common characteristics of Prevotella-related bacteria in poultry?",
+        "What is the relationship between Lachnospiraceae-associated bacteria and intestinal health?",
+        "Can you explain the decrease of beneficial bacteria in chickens after exposure to air?",
+        "What is the role of Prevotella-related bacteria in carbohydrate metabolism?",
+        "How do beneficial anaerobic bacteria change after environmental stress in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Beneficial gut bacteria in healthy broilers",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "beneficial_microbes",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "commensal_ecoli_in_healthy_broiler_gut",
+    "content": "Escherichia and related Enterobacteriaceae taxa are present at low abundance in healthy broiler fecal microbiota, reflecting a commensal state rather than pathology. Their controlled abundance is a characteristic feature of a balanced and healthy intestinal ecosystem.",
+    "vector_context": {
+      "keywords": [
+        "E. coli",
+        "commensal bacteria",
+        "gut balance",
+        "healthy intestine"
+      ],
+      "hypothetical_questions": [
+        "What causes E coli in healthy chickens?",
+        "Is E coli a sign of illness in broilers?",
+        "What is the normal amount of E coli in a chicken's poop?",
+        "Can E coli be good for chickens?",
+        "What is the role of Enterobacteriaceae in a healthy chicken gut?",
+        "How does E coli affect the balance of a chicken's intestinal ecosystem?",
+        "What is the difference between commensal and pathogenic E coli in chickens?",
+        "Can antibiotics affect the amount of E coli in a chicken's gut?",
+        "What is the significance of low E coli abundance in healthy broiler fecal microbiota?",
+        "Is E coli a common problem in commercial chicken farms?"
+      ]
+    },
+    "metadata": {
+      "title": "Commensal Enterobacteriaceae in healthy broiler chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "commensal_bacteria",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "physiological_basis_of_healthy_broiler_gut_sensitivity",
+    "content": "The rapid microbiota shifts observed in healthy broiler feces are partly explained by the physiological properties of broiler excreta, including shorter gastrointestinal transit time, higher nutrient density, and lower viscosity. These characteristics facilitate oxygen penetration, making the healthy broiler microbiota particularly sensitive to environmental changes.",
+    "vector_context": {
+      "keywords": [
+        "gut physiology",
+        "transit time",
+        "broiler digestion",
+        "healthy gut"
+      ],
+      "hypothetical_questions": [
+        "What makes broiler gut sensitive to change?",
+        "Why do healthy broilers have rapid microbiota shifts?",
+        "What causes oxygen to penetrate broiler excreta?",
+        "How does nutrient density affect broiler gut health?",
+        "What are the key factors influencing broiler excreta viscosity?",
+        "How does shorter gastrointestinal transit time impact broiler microbiota?",
+        "What is the role of oxygen penetration in broiler gut health?",
+        "What are the consequences of rapid microbiota shifts in broilers?"
+      ]
+    },
+    "metadata": {
+      "title": "Physiological factors shaping healthy broiler gut microbiota",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "digestive_physiology",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "healthy_broiler_microbiota_as_reference_for_dysbiosis",
+    "content": "The initial fecal microbiota of healthy broiler chickens provides a critical reference state for identifying dysbiosis associated with disease or environmental stress. Deviations from this anaerobe-dominated, diverse baseline can be used to detect early disruptions in gut health and inform poultry health monitoring strategies.",
+    "vector_context": {
+      "keywords": [
+        "healthy baseline",
+        "gut dysbiosis",
+        "early detection",
+        "poultry surveillance"
+      ],
+      "hypothetical_questions": [
+        "What is normal poop like in healthy chickens?",
+        "What causes unhealthy poop in chickens?",
+        "What is the initial poop like in healthy broiler chickens?",
+        "How do I know if my chickens have unhealthy poop?",
+        "What is the typical anaerobic composition of healthy broiler chicken feces?",
+        "How do I identify dysbiosis in poultry gut health?",
+        "What are the early signs of gut health disruption in broiler chickens?",
+        "What is the role of anaerobes in the gut health of healthy broiler chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Healthy broiler microbiota as a dysbiosis reference baseline",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_definition",
+      "source_urls": [
+        "https://journals.asm.org/doi/10.1128/spectrum.04084-23"
+      ]
+    }
+  },
+  {
+    "id": "normal_moisture_content_in_healthy_broiler_excreta",
+    "content": "Fresh excreta from healthy broiler chickens typically contains a high proportion of moisture, averaging around 70–80 percent. This moisture level reflects normal digestive physiology, including water intake, intestinal absorption, and renal excretion, and does not by itself indicate digestive disease.",
+    "vector_context": {
+      "keywords": [
+        "normal droppings",
+        "excreta moisture",
+        "healthy digestion",
+        "water balance"
+      ],
+      "hypothetical_questions": [
+        "What's normal moisture in chicken poop?",
+        "What percentage of moisture is normal in healthy broiler chicken excreta?",
+        "Is 70-80% moisture in chicken droppings a sign of disease?",
+        "What's the normal moisture level in healthy chicken feces?",
+        "What is the typical water content of healthy broiler chicken excreta?",
+        "What percentage of moisture is considered normal in the excreta of healthy broiler chickens?",
+        "How does the moisture level in healthy broiler chicken excreta relate to digestive physiology?",
+        "What is the normal moisture level in the feces of healthy broiler chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal moisture content of excreta in healthy broiler chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "droppings_characteristics",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "water_balance_and_digestive_function_in_healthy_chickens",
+    "content": "In healthy chickens, excreta moisture is strongly influenced by the balance between water intake, intestinal water absorption, and renal regulation. Efficient gastrointestinal function allows most water to be reabsorbed in the hindgut, while excess water is excreted to maintain osmotic and physiological homeostasis.",
+    "vector_context": {
+      "keywords": [
+        "water absorption",
+        "hindgut function",
+        "osmoregulation",
+        "healthy gut"
+      ],
+      "hypothetical_questions": [
+        "What affects moisture in chicken poop?",
+        "How do chickens control water in their bodies?",
+        "What happens to water in chicken intestines?",
+        "Why do chickens have to pee a lot?",
+        "What is the role of the hindgut in water absorption?",
+        "How does the kidney help regulate water in chickens?",
+        "What is the balance between water intake and absorption?",
+        "What is the effect of renal regulation on chicken excreta?"
+      ]
+    },
+    "metadata": {
+      "title": "Water balance as a component of healthy chicken digestion",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "digestive_physiology",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "dietary_minerals_shape_excreta_moisture_in_healthy_broilers",
+    "content": "The moisture content of excreta in healthy broilers is closely linked to the excretion of dietary minerals, particularly sodium, phosphorus, calcium, and potassium. Elevated excretion of sodium, phosphorus, and calcium is associated with increased moisture output, reflecting osmotic effects rather than pathological intestinal dysfunction.",
+    "vector_context": {
+      "keywords": [
+        "minerals",
+        "sodium",
+        "calcium",
+        "phosphorus",
+        "healthy digestion"
+      ],
+      "hypothetical_questions": [
+        "What affects moisture in chicken poop?",
+        "How do minerals in chicken feed affect their poop?",
+        "What makes chicken poop more moist?",
+        "Does high sodium in chicken feed make their poop wetter?",
+        "How do sodium, phosphorus, and calcium levels in broiler feed impact excreta moisture?",
+        "What is the relationship between dietary phosphorus and moisture content in chicken excreta?",
+        "What is the effect of calcium on moisture levels in healthy broiler excreta?",
+        "What is the osmotic effect of high sodium levels on moisture output in broilers?"
+      ]
+    },
+    "metadata": {
+      "title": "Influence of dietary minerals on excreta moisture in healthy broilers",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "nutrition_digestive_interaction",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "protein_excretion_and_normal_moisture_variation",
+    "content": "In healthy broiler chickens, higher protein intake and subsequent nitrogen excretion can increase excreta moisture due to uric acid formation and osmotic effects. This response represents a normal metabolic outcome of protein digestion and does not necessarily indicate intestinal pathology.",
+    "vector_context": {
+      "keywords": [
+        "protein digestion",
+        "uric acid",
+        "nitrogen excretion",
+        "healthy metabolism"
+      ],
+      "hypothetical_questions": [
+        "What causes high moisture in chicken poop?",
+        "Can high protein intake cause wet droppings in chickens?",
+        "Why do healthy chickens get more watery poop after eating more protein?",
+        "Is it normal for chicken excreta to be more moist after a high-protein diet?",
+        "What are the osmotic effects of uric acid on chicken excreta?",
+        "How does protein digestion affect nitrogen excretion in broilers?",
+        "What is the normal metabolic response to high protein intake in chickens?",
+        "Does increased uric acid formation contribute to higher moisture in chicken droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Protein metabolism and excreta moisture in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "metabolic_physiology",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "role_of_dietary_fiber_in_healthy_excreta_consistency",
+    "content": "Insoluble dietary fiber, measured as neutral detergent fiber, influences excreta moisture in healthy chickens by binding water within the gastrointestinal tract and altering digesta passage. Fiber-related moisture changes reflect normal digestive responses rather than disease-associated diarrhea.",
+    "vector_context": {
+      "keywords": [
+        "dietary fiber",
+        "NDF",
+        "digesta passage",
+        "healthy droppings"
+      ],
+      "hypothetical_questions": [
+        "What affects moisture in chicken poop?",
+        "How does fiber help chickens digest food?",
+        "What makes chicken excreta more or less moist?",
+        "Why do chickens have normal diarrhea sometimes?",
+        "What is the effect of insoluble dietary fiber on water binding in chickens?",
+        "How does neutral detergent fiber influence excreta moisture in healthy chickens?",
+        "What is the role of gastrointestinal tract in fiber-related moisture changes in chickens?",
+        "What is the difference between normal digestive responses and disease-associated diarrhea in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Dietary fiber effects on excreta consistency in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "digestive_mechanics",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "trace_minerals_and_gut_function_in_healthy_broilers",
+    "content": "Trace minerals such as zinc play a regulatory role in excreta moisture in healthy broilers. Increased zinc excretion is associated with reduced moisture output, potentially through effects on intestinal ion transport and water reabsorption, reflecting normal physiological regulation of gut function.",
+    "vector_context": {
+      "keywords": [
+        "zinc",
+        "trace minerals",
+        "ion transport",
+        "healthy intestine"
+      ],
+      "hypothetical_questions": [
+        "What role do trace minerals play in healthy broilers?",
+        "Can zinc affect moisture levels in broiler excreta?",
+        "What happens to moisture output when zinc excretion increases?",
+        "Does zinc influence water reabsorption in broiler intestines?",
+        "What is the effect of increased zinc excretion on intestinal ion transport?",
+        "Can zinc deficiency affect gut function in broilers?",
+        "Is there a link between zinc levels and moisture content in broiler droppings?",
+        "What is the normal physiological role of zinc in regulating gut function?",
+        "Does zinc play a regulatory role in water reabsorption in broiler intestines?"
+      ]
+    },
+    "metadata": {
+      "title": "Trace minerals and moisture regulation in healthy chicken gut",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "intestinal_regulation",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "age_related_changes_in_excreta_moisture_of_healthy_broilers",
+    "content": "Excreta moisture in healthy broiler chickens varies with age, reflecting developmental changes in digestive efficiency, water intake, and nutrient utilization. These age-related shifts represent normal physiological adaptation rather than signs of gastrointestinal disease.",
+    "vector_context": {
+      "keywords": [
+        "age effect",
+        "digestive development",
+        "healthy growth",
+        "broiler physiology"
+      ],
+      "hypothetical_questions": [
+        "What causes changes in excreta moisture in broiler chickens?",
+        "How does age affect excreta moisture in healthy chickens?",
+        "What are normal levels of excreta moisture in broilers?",
+        "Is it normal for broiler chickens to have varying excreta moisture?",
+        "What are the developmental changes in digestive efficiency in broilers?",
+        "How does water intake affect excreta moisture in healthy broilers?",
+        "What are the nutrient utilization patterns in broilers?",
+        "What are the age-related shifts in excreta moisture in broilers?",
+        "Is excreta moisture a reliable indicator of digestive health in broilers?",
+        "Excreta moisture in broilers: what age-related changes are normal?"
+      ]
+    },
+    "metadata": {
+      "title": "Age-related variation in excreta moisture in healthy broilers",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "developmental_physiology",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "healthy_excreta_moisture_as_baseline_for_disease_detection",
+    "content": "Understanding the normal range and nutritional determinants of excreta moisture in healthy broilers provides a critical baseline for distinguishing physiological variation from disease-associated diarrhea. Deviations from this nutritionally driven baseline may signal digestive disorders or infectious conditions.",
+    "vector_context": {
+      "keywords": [
+        "baseline health",
+        "digestive monitoring",
+        "normal variation",
+        "poultry surveillance"
+      ],
+      "hypothetical_questions": [
+        "What's normal poop moisture in healthy chickens?",
+        "How do I know if my chickens have healthy poop?",
+        "What's the ideal moisture level for chicken poop?",
+        "Is it normal for chicken poop to be runny?",
+        "What are the nutritional factors affecting chicken excreta moisture?",
+        "How does dietary composition influence chicken excreta moisture levels?",
+        "What's the role of water intake on chicken excreta moisture?",
+        "Can you explain the relationship between feed composition and chicken excreta moisture?"
+      ]
+    },
+    "metadata": {
+      "title": "Healthy excreta moisture as a baseline for digestive health monitoring",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_definition",
+      "source_urls": [
+        "https://scispace.com/pdf/moisture-content-in-broiler-excreta-is-influenced-by-excreta-59jp02be7r.pdf"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_gut_microbiota_structural_overview",
+    "content": "Healthy chickens harbor a structured and functionally organized gut microbiota that supports normal digestion, nutrient utilization, and intestinal homeostasis. The fecal microbial community reflects this healthy state by exhibiting stable taxonomic composition and metabolic potential adapted to the avian gastrointestinal environment.",
+    "vector_context": {
+      "keywords": [
+        "healthy gut",
+        "fecal microbiota",
+        "intestinal homeostasis",
+        "baseline physiology"
+      ],
+      "hypothetical_questions": [
+        "What's the gut microbiota like in healthy chickens?",
+        "How does a chicken's gut microbiota help with digestion?",
+        "What's the normal taxonomic composition of a chicken's fecal microbial community?",
+        "Why is it important for chickens to have a healthy gut microbiota?",
+        "What are the key characteristics of a healthy avian gut microbiota?",
+        "How does the gut microbiota of chickens contribute to intestinal homeostasis?",
+        "What are the metabolic adaptations of a chicken's gut microbiota?",
+        "What's the role of the gut microbiota in nutrient utilization in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Structural organization of gut microbiota in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbiome_overview",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "dominant_taxa_in_healthy_chicken_fecal_microbiota",
+    "content": "The fecal microbiota of healthy chickens is dominated by obligate anaerobic bacterial groups primarily belonging to the phyla Firmicutes and Bacteroidetes. These taxa are well adapted to the intestinal environment and are commonly associated with fermentation processes and maintenance of gut health.",
+    "vector_context": {
+      "keywords": [
+        "Firmicutes",
+        "Bacteroidetes",
+        "anaerobic bacteria",
+        "healthy intestine"
+      ],
+      "hypothetical_questions": [
+        "What bacteria are in a healthy chicken's poop?",
+        "What is the main type of bacteria in a chicken's gut?",
+        "What kind of bacteria live in a chicken's intestines?",
+        "What bacteria are good for a chicken's health?",
+        "What are the phyla of bacteria that dominate a healthy chicken's fecal microbiota?",
+        "What is the role of Firmicutes in a chicken's gut health?",
+        "What is the relationship between Bacteroidetes and gut health in chickens?",
+        "What is the significance of obligate anaerobic bacteria in a chicken's fecal microbiota?"
+      ]
+    },
+    "metadata": {
+      "title": "Dominant bacterial taxa in healthy chicken feces",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "microbial_composition",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "functional_metabolic_roles_of_healthy_gut_microbiota",
+    "content": "In healthy chickens, gut microbiota contributes essential metabolic functions including carbohydrate fermentation, short-chain fatty acid production, and recycling of nitrogenous compounds. These metabolic activities support intestinal epithelial health and efficient energy utilization, reflecting a functional and balanced digestive system.",
+    "vector_context": {
+      "keywords": [
+        "SCFA",
+        "fermentation",
+        "nutrient metabolism",
+        "healthy digestion"
+      ],
+      "hypothetical_questions": [
+        "What are the roles of gut microbiota in healthy chickens?",
+        "What do gut bacteria do in a chicken's digestive system?",
+        "Can you explain how gut microbiota helps chickens digest food?",
+        "How does gut microbiota support a chicken's overall health?",
+        "What are the metabolic functions of gut microbiota in chickens?",
+        "Can you describe the role of short-chain fatty acid production in gut health?",
+        "How does gut microbiota recycle nitrogenous compounds in chickens?",
+        "What is the significance of gut microbiota in maintaining intestinal epithelial health?",
+        "What are the metabolic activities of gut microbiota in chickens?",
+        "Can you explain how gut microbiota supports efficient energy utilization in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Metabolic functions of gut microbiota in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "functional_microbiology",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "microbial_diversity_as_marker_of_healthy_gut_state",
+    "content": "Healthy chickens exhibit a fecal microbiota characterized by relatively high diversity and evenness, indicating ecological stability within the gut. Such diversity enhances functional redundancy and resilience, allowing the digestive system to maintain normal function under varying dietary and environmental conditions.",
+    "vector_context": {
+      "keywords": [
+        "microbial diversity",
+        "gut resilience",
+        "intestinal balance",
+        "healthy birds"
+      ],
+      "hypothetical_questions": [
+        "What causes healthy chickens to have diverse gut bacteria?",
+        "How can I tell if a chicken's gut is healthy?",
+        "What's the relationship between gut bacteria and chicken health?",
+        "Are there any diseases that affect a chicken's gut bacteria?",
+        "What are the implications of low gut microbiota diversity in chickens?",
+        "How does the gut microbiota of healthy chickens respond to dietary changes?",
+        "What are the key factors influencing the gut microbiota of commercial chicken flocks?",
+        "Can antibiotics affect the balance of gut bacteria in chickens?",
+        "What are the characteristics of a healthy chicken gut microbiota?",
+        "Can probiotics be used to improve gut health in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Microbial diversity as a marker of healthy gut status",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "gut_stability",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "commensal_bacteria_and_intestinal_homeostasis",
+    "content": "Commensal bacterial populations in healthy chickens contribute to intestinal homeostasis by occupying ecological niches and modulating gut environmental conditions. Their presence limits the expansion of opportunistic microorganisms and supports normal mucosal function.",
+    "vector_context": {
+      "keywords": [
+        "commensal bacteria",
+        "gut homeostasis",
+        "microbial balance",
+        "healthy gut"
+      ],
+      "hypothetical_questions": [
+        "What causes imbalance in chicken gut?",
+        "How do healthy chickens maintain a balanced gut?",
+        "What role do bacteria play in chicken health?",
+        "Can you explain how bacteria help chickens?",
+        "What are the ecological niches occupied by commensal bacteria in chickens?",
+        "How do commensal bacteria modulate gut environmental conditions?",
+        "What is the effect of commensal bacteria on opportunistic microorganisms in chickens?",
+        "Can you describe the relationship between commensal bacteria and mucosal function in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Role of commensal bacteria in healthy chicken intestines",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "intestinal_ecology",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "host_microbiota_interaction_in_healthy_chickens",
+    "content": "The interaction between the host and gut microbiota in healthy chickens supports immune maturation and intestinal barrier integrity. Normal microbial signals contribute to immune tolerance and prevent excessive inflammatory responses within the gastrointestinal tract.",
+    "vector_context": {
+      "keywords": [
+        "immune modulation",
+        "gut barrier",
+        "host-microbiota interaction",
+        "healthy physiology"
+      ],
+      "hypothetical_questions": [
+        "What causes immune problems in chickens?",
+        "How do gut bacteria help chickens stay healthy?",
+        "What is the role of gut microbiota in chicken immune system?",
+        "Can antibiotics harm chicken gut microbiota?",
+        "What are the effects of dysbiosis on chicken intestinal barrier?",
+        "How does the gut microbiota influence chicken immune tolerance?",
+        "What is the relationship between gut microbiota and chicken inflammatory responses?",
+        "Can probiotics help restore balance in chicken gut microbiota?"
+      ]
+    },
+    "metadata": {
+      "title": "Host–microbiota interactions in healthy chicken gut",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "host_microbe_interaction",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "stability_of_healthy_chicken_microbiota_over_time",
+    "content": "In the absence of disease or major environmental stressors, the gut microbiota of healthy chickens remains relatively stable over time. This temporal stability reflects effective host regulation and ecological balance within the intestinal environment.",
+    "vector_context": {
+      "keywords": [
+        "microbiota stability",
+        "healthy baseline",
+        "gut regulation",
+        "intestinal ecology"
+      ],
+      "hypothetical_questions": [
+        "What happens to a chicken's gut microbiota if it's healthy?",
+        "How does a chicken's gut stay stable over time?",
+        "What keeps a chicken's gut microbiota from getting worse?",
+        "Do chickens have good gut health if their microbiota stays the same?",
+        "What are the key factors that contribute to temporal stability of gut microbiota in chickens?",
+        "How does the intestinal environment affect the balance of gut microbiota in healthy chickens?",
+        "What are the implications of stable gut microbiota on chicken health and disease?",
+        "What specific mechanisms allow healthy chickens to regulate their gut microbiota effectively?"
+      ]
+    },
+    "metadata": {
+      "title": "Temporal stability of gut microbiota in healthy chickens",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "temporal_dynamics",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_gut_microbiota_as_reference_for_dysbiosis",
+    "content": "The fecal microbiota profile of healthy chickens provides a critical reference baseline for identifying dysbiosis associated with gastrointestinal disorders. Departures from this stable, functionally diverse microbiota can signal early disruptions in digestive health and inform poultry health monitoring systems.",
+    "vector_context": {
+      "keywords": [
+        "baseline microbiota",
+        "dysbiosis detection",
+        "gut health monitoring",
+        "poultry surveillance"
+      ],
+      "hypothetical_questions": [
+        "What is a normal gut microbiota in chickens?",
+        "How do I identify dysbiosis in chicken feces?",
+        "What are the symptoms of gastrointestinal disorders in chickens?",
+        "What is the importance of fecal microbiota profile in poultry health?",
+        "What are the key characteristics of a healthy chicken gut microbiota?",
+        "How does dysbiosis affect digestive health in chickens?",
+        "What are the early signs of gastrointestinal disorders in poultry?",
+        "What is the role of fecal microbiota in poultry health monitoring?"
+      ]
+    },
+    "metadata": {
+      "title": "Healthy gut microbiota as a reference baseline for dysbiosis detection",
+      "disease": "healthy_gastrointestinal_system",
+      "category": "baseline_definition",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016502/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_overview_digestive",
+    "content": "Healthy chickens normally produce feces that reflect proper digestive function and adequate hydration. Normal droppings may vary slightly in color and consistency depending on diet, age, and time of day, but they generally indicate effective digestion and intestinal health when birds are otherwise active, alert, and feeding normally.",
+    "vector_context": {
+      "keywords": [
+        "healthy chicken",
+        "normal digestion",
+        "baseline"
+      ],
+      "hypothetical_questions": [
+        "What color are normal chicken droppings?",
+        "How often should I see healthy chicken droppings?",
+        "What does it mean if my chicken's droppings are runny?",
+        "Are runny droppings a sign of disease in chickens?",
+        "What is the normal consistency of healthy chicken droppings?",
+        "Can diet affect the color of chicken droppings?",
+        "What is the relationship between hydration and chicken droppings?",
+        "How does age affect the appearance of chicken droppings?",
+        "What is the role of intestinal health in chicken droppings?",
+        "Can time of day affect the color of chicken droppings?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of normal digestive function in healthy chickens",
+      "disease": "healthy",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/nutrition-and-management-poultry/nutritional-requirements-of-poultry"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_normal_feces",
+    "content": "Normal chicken feces are typically brown to greenish-brown in color, with a formed but soft consistency. A small amount of white, pasty material composed of urates is commonly present and represents normal urinary excretion in birds. The feces should not be excessively watery, bloody, or foul-smelling in healthy chickens.",
+    "vector_context": {
+      "keywords": [
+        "normal feces",
+        "urates",
+        "formed droppings",
+        "digestive health"
+      ],
+      "hypothetical_questions": [
+        "What color should chicken poop be?",
+        "Is it normal for chicken poop to be watery?",
+        "What should I do if my chicken's poop is bloody?",
+        "Is it normal for chicken poop to smell bad?",
+        "What is the normal consistency of chicken feces?",
+        "What is the normal composition of chicken urates?",
+        "How often should I check my chicken's poop?",
+        "What are the signs of a healthy chicken's poop?"
+      ]
+    },
+    "metadata": {
+      "title": "Normal fecal appearance in healthy chickens",
+      "disease": "healthy",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/nutrition-and-management-poultry/nutritional-requirements-of-poultry",
+        "https://the-chicken-chick.com/whats-scoop-on-chicken-poop-digestive/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_fecal_variation",
+    "content": "Physiological variations in fecal appearance can occur in healthy chickens. Cecal droppings, which are normally passed several times per day, are softer, darker, and more odorous than regular feces. Temporary changes in fecal color or moisture may also be observed following dietary changes without indicating disease, provided birds remain clinically normal.",
+    "vector_context": {
+      "keywords": [
+        "cecal droppings",
+        "normal variation",
+        "dietary effects"
+      ],
+      "hypothetical_questions": [
+        "What causes soft droppings in chickens?",
+        "What does normal chicken poop look like?",
+        "Can changes in chicken diet cause changes in poop?",
+        "Why do healthy chickens have different poop sometimes?",
+        "What is the normal frequency of cecal droppings in chickens?",
+        "How do I identify abnormal fecal color in chickens?",
+        "What are the symptoms of cecal droppings in chickens?",
+        "Can antibiotics affect chicken fecal appearance?",
+        "What is the significance of dark and odorous feces in chickens?",
+        "Does cecal droppings indicate disease in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Physiological variation of feces in healthy chickens",
+      "disease": "healthy",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/nutrition-and-management-poultry/nutritional-requirements-of-poultry",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7022619/"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_no_intestinal_pathology",
+    "content": "In healthy chickens, the intestinal tract functions normally without evidence of inflammation, hemorrhage, or mucosal damage. Efficient digestion and absorption result in formed feces and stable hydration, and no pathological intestinal lesions are present in birds that are clinically normal.",
+    "vector_context": {
+      "keywords": [
+        "normal intestine",
+        "no lesions",
+        "intestinal health"
+      ],
+      "hypothetical_questions": [
+        "What causes intestinal inflammation in chickens?",
+        "Are there any signs of hemorrhage in normal chicken intestines?",
+        "What are the symptoms of intestinal damage in chickens?",
+        "Do healthy chickens have formed feces?",
+        "What is the normal function of the intestinal tract in chickens?",
+        "Is there mucosal damage in clinically normal chickens?",
+        "What are the pathological intestinal lesions in healthy chickens?",
+        "Can chickens with normal intestines have stable hydration?",
+        "What is the effect of efficient digestion and absorption in chickens?",
+        "Are there any intestinal lesions in birds that are clinically normal?"
+      ]
+    },
+    "metadata": {
+      "title": "Absence of intestinal pathology in healthy chickens",
+      "disease": "healthy",
+      "category": "pathology",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://extension.msstate.edu/publications/intestinal-health-and-necrotic-enteritis-broilers"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_digestive_assessment",
+    "content": "Assessment of digestive health in chickens relies on observation of normal fecal appearance in combination with normal behavior, appetite, and activity. In the absence of abnormal fecal characteristics or systemic clinical signs, healthy chickens do not require diagnostic testing for intestinal disease.",
+    "vector_context": {
+      "keywords": [
+        "baseline",
+        "normal assessment",
+        "digestive health"
+      ],
+      "hypothetical_questions": [
+        "What do healthy chickens look like?",
+        "How do you check for digestive problems in chickens?",
+        "What are normal fecal characteristics in chickens?",
+        "When do chickens not need a fecal test?",
+        "What are the key factors in assessing digestive health in chickens?",
+        "Can you describe normal behavior in healthy chickens?",
+        "What is the significance of appetite in evaluating chicken health?",
+        "How do you diagnose intestinal disease in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Baseline assessment of digestive health in chickens",
+      "disease": "healthy",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://extension.msstate.edu/publications/intestinal-health-and-necrotic-enteritis-broilers"
+      ]
+    }
+  },
+  {
+    "id": "healthy_chicken_digestive_maintenance",
+    "content": "Maintaining normal digestive health in chickens requires consistent access to clean water, nutritionally balanced feed, and good hygiene. Proper litter management and avoidance of sudden dietary changes help preserve normal intestinal function and fecal consistency in healthy flocks.",
+    "vector_context": {
+      "keywords": [
+        "nutrition",
+        "hygiene",
+        "litter management",
+        "digestive stability"
+      ],
+      "hypothetical_questions": [
+        "What do chickens need to stay healthy?",
+        "How do I keep my chickens' poop normal?",
+        "What can cause digestive problems in chickens?",
+        "Is it bad to change my chickens' food suddenly?",
+        "What is the best way to manage litter in chicken coops?",
+        "What are the main causes of intestinal dysfunction in chickens?",
+        "What role does nutrition play in maintaining healthy gut function in chickens?",
+        "What are some common signs of digestive issues in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Maintaining digestive health in chickens",
+      "disease": "healthy",
+      "category": "prevention",
+      "source_urls": [
+        "https://extension.msstate.edu/publications/intestinal-health-and-necrotic-enteritis-broilers",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC7022619/"
+      ]
+    }
+  }
+]

@@ -1,0 +1,321 @@
+[
+  {
+    "id": "spur_overview_definition",
+    "content": "Chicken spurs are pointed, conical projections located near the tarsometatarsus on both sides of the lower leg (shank), typically developing prominently in sexually mature roosters. Anatomically, the spur consists of a bony core (calcar) that protrudes from the tarsometatarsal bone and is covered by a keratinized (horny) sheath. Spurs are a sexually dimorphic trait: they are common and usually larger in males, while they may occur in some adult hens but are less common and often smaller. Functionally, spurs serve as weapons during intrasexual competition and for flock defense, but in domestic settings they can also become a welfare and safety risk due to injury potential to birds, handlers, and other animals.",
+    "vector_context": {
+      "keywords": [
+        "chicken spurs",
+        "tarsometatarsus",
+        "calcar",
+        "keratin sheath",
+        "sexual dimorphism"
+      ],
+      "hypothetical_questions": [
+        "What exactly are spurs on chickens, and where are they located?",
+        "Are chicken spurs made of bone, keratin, or both?",
+        "Why do roosters have spurs but most hens do not?",
+        "Can hens grow spurs, and is that considered normal?",
+        "What is the difference between a spur and an extra toe-like growth?",
+        "What is the calcar in relation to rooster spurs?",
+        "What is the main purpose of spurs in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview and Definition of Chicken Spurs",
+      "disease": "Spur",
+      "category": "overview",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200594/",
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://blog.meyerhatchery.com/2021/05/all-about-spurs-in-chickens/",
+        "https://en.wikipedia.org/wiki/Spur_(zoology)"
+      ]
+    }
+  },
+  {
+    "id": "spur_cause_development_sex_maturity",
+    "content": "Spur development begins early as a small projection (papilla) in male chicks and enlarges, hardens, and curves as the bird matures, reflecting normal sexual development. In adult roosters, spur size (length and diameter) varies widely among individuals and tends to increase with age. Spur expression is strongly sex-influenced (male-biased), but sporadic spur development in hens can occur, particularly as hens age, and is generally considered an atypical but recognized phenomenon in domestic flocks. Practical observation in poultry medicine emphasizes that spurs continuously grow (similar to nails), meaning overgrowth and sharpness can increase over time without intervention.",
+    "vector_context": {
+      "keywords": [
+        "spur papilla",
+        "sexual maturity",
+        "age-related growth",
+        "continuous growth",
+        "hen spurs"
+      ],
+      "hypothetical_questions": [
+        "When do rooster spurs start to appear and how do they change with age?",
+        "What is the spur papilla in young male chickens?",
+        "Do spurs keep growing throughout a rooster’s life?",
+        "Why do some older hens start developing noticeable spurs?",
+        "Is spur size mainly determined by age or genetics?",
+        "How can I tell if a small bump will become a full spur later?",
+        "Do spurs naturally curve more as roosters get older?"
+      ]
+    },
+    "metadata": {
+      "title": "Development, Sex Influence, and Growth Over Time",
+      "disease": "Spur",
+      "category": "cause",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200594/",
+        "https://www.backyardchickens.com/articles/rooster-spurs-everything-you-need-to-know.77577/",
+        "https://backyardpoultry.iamcountryside.com/feed-health/chicken-spurs-who-gets-them/"
+      ]
+    }
+  },
+  {
+    "id": "spur_cause_genetic_basis_spur_length",
+    "content": "Spur length shows substantial individual variation and can have a strong genetic component. Quantitative genetic analysis in chickens has reported high heritability estimates for male spur length (left and right), supporting polygenic control. Spur length may correlate positively with growth-related traits such as body weight and shank length in the same population. Genomic approaches have identified multiple candidate genes and genomic regions associated with spur-length variation, reinforcing that spur size is not merely an age effect but also an inherited trait that can respond to selection.",
+    "vector_context": {
+      "keywords": [
+        "heritability",
+        "polygenic trait",
+        "candidate genes",
+        "spur length",
+        "selection"
+      ],
+      "hypothetical_questions": [
+        "Is spur length in roosters strongly inherited or mostly environmental?",
+        "What does it mean that spur length is a polygenic trait?",
+        "Can breeding selection change average spur length in a chicken line?",
+        "Are left and right spur lengths genetically correlated?",
+        "Does spur length correlate with body weight or shank length?",
+        "Why do some roosters have unusually long spurs compared to others?",
+        "Can genomics identify genes linked to spur size in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Genetic Basis and Heritability of Spur Length",
+      "disease": "Spur",
+      "category": "cause",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200594/",
+        "https://pubmed.ncbi.nlm.nih.gov/38929399/"
+      ]
+    }
+  },
+  {
+    "id": "spur_cause_multiple_spur_trait_populations",
+    "content": "Beyond typical single spurs, some indigenous or specialty chicken populations express a multiple-spur phenotype (more than one spur per leg). Reports from multi-spurred chicken flocks describe males commonly carrying several spurs across both legs, and breeder communities may value higher spur counts. Field and production-oriented accounts describe multi-spurred chickens as rare and culturally valued in certain regions, with spur number influencing perceived value and market price. However, small-scale breeding systems can face challenges such as limited flock expansion and elevated inbreeding risk when maintaining rare phenotypes within closed local populations.",
+    "vector_context": {
+      "keywords": [
+        "multiple spurs",
+        "phenotype",
+        "indigenous chickens",
+        "inbreeding risk",
+        "market value"
+      ],
+      "hypothetical_questions": [
+        "What does it mean when a chicken has multiple spurs on one leg?",
+        "Are multi-spurred chickens a recognized phenotype or a deformity?",
+        "How many spurs can multi-spurred roosters have in some populations?",
+        "Why are multi-spurred chickens considered valuable in certain regions?",
+        "Does selecting for multiple spurs increase inbreeding risk in small flocks?",
+        "Are there productivity trade-offs linked to rare multi-spur phenotypes?",
+        "How would you document multi-spur traits in a breeding program?"
+      ]
+    },
+    "metadata": {
+      "title": "Multiple-Spur Phenotypes and Population Management Issues",
+      "disease": "Spur",
+      "category": "cause",
+      "source_urls": [
+        "https://ag2.kku.ac.th/kaj/PDF.cfm?filename=03+Cou2+Vietnam.pdf&id=1986&keeptrack=5",
+        "https://www.researchgate.net/publication/341000478_Phenotypic_characteristics_and_productivity_of_multiple_spur_chickens",
+        "https://njap.org.ng/index.php/njap/article/view/1037"
+      ]
+    }
+  },
+  {
+    "id": "spur_symptom_overgrowth_breakage_injury",
+    "content": "While spurs are normal structures, practical welfare problems occur when spurs become excessively long, sharp, uneven, or damaged. Overgrown spurs can snag on fencing, litter, or coop materials and may crack or break, potentially exposing sensitive tissue and increasing infection risk. Spurs can also cause traumatic puncture or laceration injuries to flockmates during fighting or mating, and can injure handlers (especially children) if a rooster is aggressive. Secondary complications can include localized wounds, swelling, bleeding, pain-associated lameness, and opportunistic infection at the spur base or surrounding skin.",
+    "vector_context": {
+      "keywords": [
+        "overgrowth",
+        "spur breakage",
+        "trauma",
+        "puncture wounds",
+        "infection risk"
+      ],
+      "hypothetical_questions": [
+        "What problems happen when a rooster’s spurs get too long?",
+        "Can overgrown spurs break and cause bleeding or infection?",
+        "How do spurs injure hens during mating or flock fights?",
+        "Why can spurs cause wounds even if the rooster is not fighting?",
+        "What signs suggest a spur injury has become infected?",
+        "Can spur-related pain cause limping or reduced activity?",
+        "How risky are spurs for children or pets around an aggressive rooster?"
+      ]
+    },
+    "metadata": {
+      "title": "Clinical Problems: Overgrowth, Trauma, and Secondary Infection",
+      "disease": "Spur",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://www.backyardchickens.com/articles/rooster-spurs-everything-you-need-to-know.77577/",
+        "https://blog.meyerhatchery.com/2021/05/all-about-spurs-in-chickens/"
+      ]
+    }
+  },
+  {
+    "id": "spur_diagnosis_clinical_assessment",
+    "content": "Clinical assessment of spur-related issues centers on inspection and palpation of the spur and surrounding shank tissue. Key checks include spur length, curvature, sharpness, symmetry, evidence of cracks or breaks, and whether the spur is rubbing into the leg or adjacent tissues. Clinicians also evaluate for wounds on flockmates consistent with spur strikes, and assess the bird for pain, lameness, reluctance to move, swelling, heat, discharge, or bleeding. When invasive management (e.g., surgical removal) is being considered, imaging can demonstrate the bony core relationship to the tarsometatarsus and supports procedural planning and complication risk assessment.",
+    "vector_context": {
+      "keywords": [
+        "clinical exam",
+        "lameness",
+        "spur symmetry",
+        "tarsometatarsus",
+        "radiograph"
+      ],
+      "hypothetical_questions": [
+        "How do you examine a rooster spur to decide if it needs trimming?",
+        "What signs show a spur is rubbing into the leg and causing injury?",
+        "How can you tell if a broken spur is superficial or involves deeper tissue?",
+        "What flock injuries suggest spurs are the cause rather than pecking?",
+        "When would a veterinarian use X-rays for a spur problem?",
+        "What clinical signs indicate a spur-related infection is developing?",
+        "How do you document spur condition severity in a flock health check?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Field and Veterinary Assessment of Spur Problems",
+      "disease": "Spur",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200594/"
+      ]
+    }
+  },
+  {
+    "id": "spur_treatment_conservative_trimming_filing",
+    "content": "Conservative management focuses on reducing sharpness and length while avoiding the living tissue (vascular “quick”) and the underlying bony core. Filing or grinding the spur tip can blunt it and lower injury risk, but because the keratin sheath continuously grows, the procedure must be repeated as needed. Practical guidance emphasizes restraint (e.g., towel wrapping), gradual reduction, and preparedness to control minor bleeding. For non-surgical approaches, the goal is typically to dull the tip rather than aggressively shorten to the base, minimizing pain and complication risk while improving flock and handler safety.",
+    "vector_context": {
+      "keywords": [
+        "spur trimming",
+        "filing",
+        "Dremel",
+        "quick",
+        "keratin sheath"
+      ],
+      "hypothetical_questions": [
+        "What is the safest way to blunt a rooster’s spurs without causing bleeding?",
+        "Where is the ‘quick’ in a rooster spur and why does it matter?",
+        "Is filing safer than clipping for shortening spurs?",
+        "How often do spurs need trimming if they keep growing?",
+        "What restraint method works best for trimming spurs safely?",
+        "What should I do if I accidentally nick the quick and it bleeds?",
+        "Should the goal be shortening the spur or just rounding the tip?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment: Conservative Spur Trimming and Tip Blunting",
+      "disease": "Spur",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://blog.meyerhatchery.com/2021/05/all-about-spurs-in-chickens/",
+        "https://www.backyardchickens.com/articles/rooster-spurs-everything-you-need-to-know.77577/"
+      ]
+    }
+  },
+  {
+    "id": "spur_treatment_veterinary_removal_amputation",
+    "content": "Definitive spur removal is primarily a veterinary procedure, and its feasibility depends on age. In young chicks, the spur papilla can be ablated (e.g., by electrocautery) to hinder spur development because the bony core is not fully formed, making the intervention less invasive and typically associated with good recovery. In adult roosters, complete removal is more invasive because it involves amputation of the bony component at the base from the tarsometatarsal bone, requiring anesthesia, tissue closure, careful postoperative hygiene, and pain relief. A recognized complication risk is postoperative infection involving bone, emphasizing the need for proper surgical technique and aftercare.",
+    "vector_context": {
+      "keywords": [
+        "electrocautery",
+        "papilla ablation",
+        "surgical amputation",
+        "anesthesia",
+        "osteomyelitis risk"
+      ],
+      "hypothetical_questions": [
+        "Can a rooster’s spur be permanently removed, or will it always regrow?",
+        "Why is spur removal easier in chicks than in adult roosters?",
+        "What does it mean that adult spur removal involves bone amputation?",
+        "What complications can occur after surgical spur amputation?",
+        "When should a veterinarian consider surgery rather than trimming?",
+        "Why is anesthesia and pain relief important for spur amputation?",
+        "How do you care for the wound after a spur is surgically removed?"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment: Veterinary Spur Ablation and Surgical Amputation",
+      "disease": "Spur",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf"
+      ]
+    }
+  },
+  {
+    "id": "spur_prevention_flock_management_aggression",
+    "content": "Prevention focuses on reducing the risk that normal spurs become a hazard. Management strategies include minimizing rooster aggression, reducing crowding and resource competition, and maintaining appropriate flock structure to lessen fighting injuries. Veterinary extension guidance notes that adding birds to form a more stable social order may reduce aggressive rooster behavior in some backyard contexts, although blunting the spur tip alone may not eliminate injury risk if aggressive behavior persists. Environmental safety also matters: removing snag hazards and sharp edges can reduce spur breakage and accidental wounds, while routine inspection allows early intervention before spurs become dangerously long or uneven.",
+    "vector_context": {
+      "keywords": [
+        "aggression management",
+        "pecking order",
+        "injury prevention",
+        "routine inspection",
+        "environment hazards"
+      ],
+      "hypothetical_questions": [
+        "How can I reduce rooster injuries from spurs without removing them?",
+        "Does changing flock structure help reduce spur-related attacks?",
+        "Why doesn’t blunting spurs always solve aggression-related injuries?",
+        "What coop hazards make spur breakage and snagging more likely?",
+        "How often should I inspect spurs to prevent overgrowth problems?",
+        "What flock conditions increase the risk of rooster spur injuries?",
+        "What prevention steps work best for families with children around roosters?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Management to Reduce Spur-Related Harm",
+      "disease": "Spur",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://www.backyardchickens.com/articles/rooster-spurs-everything-you-need-to-know.77577/",
+        "https://blog.meyerhatchery.com/2021/05/all-about-spurs-in-chickens/"
+      ]
+    }
+  },
+  {
+    "id": "spur_differential_abnormal_leg_growths_and_lameness",
+    "content": "Not all leg abnormalities near the shank represent normal spurs. Differential considerations for apparent “spur-like” projections or shank-associated lameness include traumatic lesions (scabs or calluses), infections of the skin and soft tissue, or other keratinized overgrowths that do not have a true bony core. In hens, spur presence can be mistaken for sex reversal by owners; however, hens can develop spurs without being male, and sex determination should rely on multiple traits rather than spurs alone. When clinical signs include swelling, discharge, or persistent lameness, the condition should be distinguished from primary orthopedic or infectious causes unrelated to spur overgrowth, and a veterinary exam is indicated to determine whether the structure is a true spur with bony attachment.",
+    "vector_context": {
+      "keywords": [
+        "spur-like lesion",
+        "bony core",
+        "sex misclassification",
+        "trauma",
+        "lameness differential"
+      ],
+      "hypothetical_questions": [
+        "How do I tell a real spur from a scab or abnormal keratin growth on the shank?",
+        "If a hen grows spurs, does that mean she is turning into a rooster?",
+        "What other leg problems can look like a spur problem but aren’t?",
+        "When should I suspect infection rather than simple spur overgrowth?",
+        "Can spur-like structures occur without a bony attachment?",
+        "What signs suggest the lameness is not caused by the spur itself?",
+        "What should a vet check to confirm the structure is a true spur?"
+      ]
+    },
+    "metadata": {
+      "title": "Differential Diagnosis: Spur vs Spur-Like Lesions and Other Causes of Lameness",
+      "disease": "Spur",
+      "category": "differential",
+      "source_urls": [
+        "https://www.westernu.edu/media/veterinary/poultry-health/2019-RoosterSpur.pdf",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11200594/",
+        "https://blog.meyerhatchery.com/2021/05/all-about-spurs-in-chickens/",
+        "https://en.wikipedia.org/wiki/Spur_(zoology)"
+      ]
+    }
+  }
+]

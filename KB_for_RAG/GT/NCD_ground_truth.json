@@ -1,0 +1,186 @@
+[
+    {
+  "qid": "ncd_001",
+  "query": "What is Newcastle disease in chickens?",
+  "supporting_chunk_ids": [
+    "ncd_head_overview_01_definition"
+  ],
+  "answer": "Newcastle disease is a highly contagious viral disease caused by virulent strains of avian orthoavulavirus 1, affecting multiple body systems and requiring laboratory confirmation."
+},
+{
+  "qid": "ncd_002",
+  "query": "Why are head and neck signs important in recognising virulent Newcastle disease?",
+  "supporting_chunk_ids": [
+    "ncd_head_overview_02_importance"
+  ],
+  "answer": "Head and neck signs are visually conspicuous at flock level and often coincide with severe systemic disease, triggering surveillance and emergency response."
+},
+{
+  "qid": "ncd_003",
+  "query": "What causes facial swelling in chickens with virulent Newcastle disease?",
+  "supporting_chunk_ids": [
+    "ncd_head_cause_01_endothelial_damage"
+  ],
+  "answer": "Facial swelling results from systemic endothelial damage caused by viral replication, leading to increased vascular permeability and edema."
+},
+{
+  "qid": "ncd_005",
+  "query": "How does Newcastle disease virus cause neurological head and neck signs?",
+  "supporting_chunk_ids": [
+    "ncd_head_cause_03_neurotropism"
+  ],
+  "answer": "Virulent strains can cross the blood–brain barrier, replicate in the central nervous system, and cause encephalitis with neurological manifestations."
+},
+{
+  "qid": "ncd_006",
+  "query": "What head-related clinical signs are commonly seen in virulent Newcastle disease?",
+  "supporting_chunk_ids": [
+    "ncd_head_symptoms_01_facial_swelling",
+    "ncd_head_symptoms_02_cyanosis"
+  ],
+  "answer": "Common signs include facial swelling, peri-orbital edema, and cyanotic combs and wattles, usually accompanied by systemic illness."
+},
+{
+  "qid": "ncd_007",
+  "query": "What neurological head and neck signs indicate severe Newcastle disease?",
+  "supporting_chunk_ids": [
+    "ncd_head_symptoms_03_neurological"
+  ],
+  "answer": "Signs include head tremors, torticollis, loss of balance, and incoordination, indicating central nervous system involvement."
+}
+,
+{
+  "qid": "ncd_008",
+  "query": "Why do head-related signs trigger suspicion and notification for Newcastle disease?",
+  "supporting_chunk_ids": [
+    "ncd_head_diagnosis_01_suspicion"
+  ],
+  "answer": "Because these signs overlap with highly pathogenic avian influenza, field diagnosis is unreliable and requires immediate official investigation."
+},
+{
+  "qid": "ncd_009",
+  "query": "What sampling strategies are used to confirm Newcastle disease in birds with head signs?",
+  "supporting_chunk_ids": [
+    "ncd_head_diagnosis_02_sampling"
+  ],
+  "answer": "Oropharyngeal, nasal, and conjunctival swabs, as well as tissues from recently dead birds, are used while excluding avian influenza."
+},
+{
+  "qid": "ncd_010",
+  "query": "Are there treatment options for individual birds with virulent Newcastle disease?",
+  "supporting_chunk_ids": [
+    "ncd_head_control_01_response"
+  ],
+  "answer": "No curative treatment is permitted, and control relies on quarantine, movement restriction, and official response measures."
+},
+{
+  "qid": "ncd_diff_01",
+  "query": "Chickens have mild respiratory noise after ventilation failure but no mortality. Could this be NCD.json?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters"
+  ],
+  "answer": "Mild respiratory signs following poor ventilation can be environmental irritation rather than Newcastle disease, especially without systemic or neurological signs."
+},
+{
+  "qid": "ncd_diff_02",
+  "query": "Birds show slight nasal moisture but normal behaviour and production. Does this indicate Newcastle disease?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters"
+  ],
+  "answer": "Normal behaviour and production with minimal signs are more consistent with a healthy baseline than virulent Newcastle disease."
+},
+{
+  "qid": "ncd_diff_03",
+  "query": "Chickens show facial swelling and cyanotic combs in multiple birds. Could this be Newcastle disease or avian influenza?",
+  "supporting_chunk_ids": [
+    "ncd_head_diagnosis_01_suspicion"
+  ],
+  "answer": "These signs are not specific and overlap with avian influenza, requiring laboratory testing to differentiate the diseases."
+},
+{
+  "qid": "ncd_diff_04",
+  "query": "A flock has sudden severe respiratory distress and neurological signs. Is this more consistent with CRD.json or NCD.json?",
+  "supporting_chunk_ids": [
+    "ncd_head_symptoms_03_neurological"
+  ],
+  "answer": "Sudden onset with neurological signs is more consistent with virulent Newcastle disease than chronic respiratory disease."
+},
+  {
+    "qid": "ncd_multi_01",
+    "query": "My chickens started with sneezing and nasal discharge, and now some have a blue comb. What does that combination suggest?",
+    "supporting_chunk_ids": [
+      "ncd_head_symptoms_06_sneezing_coughing_and_nasal_discharge",
+      "ncd_head_symptoms_02_cyanosis",
+      "ncd_head_cause_02_respiratory_hypoxia"
+    ],
+    "answer": "Upper-respiratory signs plus comb/wattle cyanosis points to severe respiratory compromise and hypoxia, which can occur in virulent Newcastle disease and signals a high-severity situation."
+  },
+  {
+    "qid": "ncd_multi_02",
+    "query": "A few birds have twisted necks and head tremors, but we also hear whistling breathing in the shed. Can ND cause both?",
+    "supporting_chunk_ids": [
+      "ncd_head_symptoms_03_neurological",
+      "ncd_head_symptoms_04_respiratory_distress_with_whistling_sound",
+      "ncd_head_cause_03_neurotropism"
+    ],
+    "answer": "Yes. ND can involve the nervous system (causing head/neck neurologic signs) and the upper airway (causing noisy or whistling breathing), especially in severe infections."
+  },
+  {
+    "qid": "ncd_multi_03",
+    "query": "We vaccinated the flock and they look mostly normal, but I’m worried they could still be spreading NDV. Is that possible?",
+    "supporting_chunk_ids": [
+      "ncd_head_prevention_03_vaccines_reduce_signs_but_not_sterile_immunity",
+      "ncd_head_transmission_05_silent_shedding_in_saliva_of_vaccinated_birds"
+    ],
+    "answer": "Yes. ND vaccines can reduce clinical signs but don’t guarantee sterile immunity, and vaccinated birds can still shed virus (including via saliva), so transmission risk can remain."
+  },
+  {
+    "qid": "ncd_multi_04",
+    "query": "Some birds have stringy clear mucus hanging from the beak and noisy breathing. Where should I swab if I can only take head samples?",
+    "supporting_chunk_ids": [
+      "ncd_head_symptoms_05_clear_mucus_from_mouth",
+      "ncd_head_diagnosis_05_oropharyngeal_swab_priority_sampling_site",
+      "ncd_head_overview_03_head_region_primary_entry_and_detection"
+    ],
+    "answer": "Prioritize head-region respiratory sampling, especially an oropharyngeal/choanal swab targeting the posterior oropharynx and choanal cleft, since visible oral mucus and upper-airway involvement increase yield."
+  },
+  {
+    "qid": "ncd_multi_05",
+    "query": "The flock has facial swelling and some birds are dying. Can I diagnose ND just from these head signs?",
+    "supporting_chunk_ids": [
+      "ncd_head_symptoms_01_facial_swelling",
+      "ncd_head_diagnosis_01_suspicion",
+      "ncd_head_diagnosis_03_clinical_signs_not_pathognomonic"
+    ],
+    "answer": "No. Head signs like facial swelling can trigger suspicion, but they overlap with other major diseases (including avian influenza), so you need laboratory confirmation."
+  },
+  {
+    "qid": "ncd_multi_06",
+    "query": "If RT-PCR finds APMV-1 on an oropharyngeal swab, does that automatically mean it’s virulent Newcastle disease?",
+    "supporting_chunk_ids": [
+      "ncd_head_cause_05_apmv1_agent_and_virulence_classes",
+      "ncd_head_diagnosis_04_real_time_rt_pcr_as_primary_test",
+      "ncd_head_diagnosis_08_pathotyping_by_fusion_cleavage_site_or_icpi"
+    ],
+    "answer": "Not automatically. RT-PCR confirms detection, but you still need virulence confirmation (pathotyping) because low-virulence or vaccine-like strains can also be detected in respiratory samples."
+  },
+  {
+    "qid": "ncd_multi_07",
+    "query": "We’re seeing fast spread in a closed shed. What makes ND outbreaks explode so quickly in those conditions?",
+    "supporting_chunk_ids": [
+      "ncd_head_transmission_02_aerosol",
+      "ncd_head_transmission_04_inhalation_of_contaminated_dust_and_aerosols",
+      "ncd_head_transmission_01_shedding"
+    ],
+    "answer": "NDV is shed heavily in head-region secretions and respiratory output, and enclosed high-density housing increases aerosol/dust exposure, enabling rapid short-distance airborne spread."
+  },
+  {
+    "qid": "ncd_multi_08",
+    "query": "If I open a dead bird and see wet catarrhal material around the larynx/trachea, how does that connect to what we saw alive?",
+    "supporting_chunk_ids": [
+      "ncd_head_pathology_02_catarrhal_exudate_in_larynx_and_trachea",
+      "ncd_head_symptoms_04_respiratory_distress_with_whistling_sound"
+    ],
+    "answer": "Catarrhal fluid at the larynx/tracheal inlet indicates active upper-airway disease and can partially obstruct airflow, matching clinical signs like noisy or whistling breathing."
+  }
+]

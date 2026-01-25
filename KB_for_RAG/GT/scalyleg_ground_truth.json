@@ -1,0 +1,158 @@
+[
+  {
+    "query_id": "scalyleg_cov_01",
+    "query": "What is scaly leg disease in chickens?",
+    "answer": "Scaly leg disease is a parasitic condition caused by burrowing mites that leads to thickened, lifted leg scales.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_overview_definition"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_02",
+    "query": "What organism causes scaly leg in poultry?",
+    "answer": "Scaly leg is caused by infestation with Knemidocoptes mites that burrow under the leg scales.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_cause_etiology"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_03",
+    "query": "What is an early clinical sign of scaly leg infestation?",
+    "answer": "One of the earliest signs is lifting of the leg scales as mites burrow beneath them.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_symptom_clinical_signs"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_04",
+    "query": "Why do chickens with scaly leg often show discomfort or irritation?",
+    "answer": "Mite burrowing causes irritation and inflammation of the skin beneath the leg scales.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_symptom_clinical_signs"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_05",
+    "query": "How does mite activity lead to thickened or deformed leg scales?",
+    "answer": "Burrowing mites stimulate excessive keratin production, resulting in hyperkeratosis and distorted scales.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_pathology_lesions"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_06",
+    "query": "How is scaly leg transmitted between birds?",
+    "answer": "Transmission mainly occurs through direct contact between infested and healthy birds.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_transmission_mechanism"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_07",
+    "query": "Why does scaly leg often become a chronic condition if untreated?",
+    "answer": "Without treatment, mites continue to burrow and reproduce, leading to persistent and progressive infestation.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_pathology_lesions"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_08",
+    "query": "What complication can arise from long-standing scaly leg infestation?",
+    "answer": "Chronic scaly leg can lead to secondary bacterial infections of the damaged skin.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_complication_staph_infection"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_09",
+    "query": "Which birds are more susceptible to developing scaly leg?",
+    "answer": "Older birds and those exposed for long periods are more susceptible to scaly leg infestation.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_age_susceptibility_factors"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_10",
+    "query": "Why is environmental cleaning alone insufficient to control scaly leg?",
+    "answer": "Because mites live primarily on the host, surface cleaning alone does not eliminate the infestation.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_pathology_lesions"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_11",
+    "query": "How long can scaly leg mites survive in the environment?",
+    "answer": "Scaly leg mites can survive for limited periods off the host, contributing to reinfestation risk.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_environmental_survival_period"
+    ]
+  },
+  {
+    "query_id": "scalyleg_cov_12",
+    "query": "Why is treating all birds important when managing scaly leg in a flock?",
+    "answer": "Treating the entire flock helps prevent reinfestation from untreated carrier birds.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_prevention_biosecurity"
+    ]
+  },
+  {
+    "query_id": "scalyleg_diff_01",
+    "query": "How can scaly leg be differentiated from bumblefoot?",
+    "answer": "Scaly leg affects the leg scales with hyperkeratosis, while bumblefoot involves the footpad and deeper soft tissue infection.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_differential_diagnosis"
+    ]
+  },
+  {
+    "query_id": "scalyleg_diff_02",
+    "query": "How can scaly leg be distinguished from spur-related trauma?",
+    "answer": "Scaly leg causes diffuse scale lifting and thickening, whereas spur-related trauma is localized to the spur area.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_differential_diagnosis"
+    ]
+  },
+  {
+    "query_id": "scalyleg_diff_03",
+    "query": "Why is acute traumatic injury less likely to be confused with scaly leg?",
+    "answer": "Acute trauma typically presents with sudden wounds, while scaly leg develops gradually with chronic scale changes.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_diagnosis_methods"
+    ]
+  },
+  {
+    "query_id": "scalyleg_multi_01",
+    "query": "How does mite burrowing lead to the characteristic scale lifting seen in scaly leg?",
+    "answer": "Burrowing mites damage the skin and stimulate excessive keratin production, resulting in hyperkeratosis and lifted leg scales.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_pathology_lesions",
+      "scaly_leg_mite_symptom_clinical_signs"
+    ]
+  },
+  {
+    "query_id": "scalyleg_multi_02",
+    "query": "Why can untreated scaly leg progress to secondary bacterial infection?",
+    "answer": "Chronic mite infestation damages the skin barrier, allowing opportunistic bacteria to invade and cause secondary infection.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_pathology_lesions",
+      "scaly_leg_mite_complication_staph_infection"
+    ]
+  },
+  {
+    "query_id": "scalyleg_multi_03",
+    "query": "How does scaly leg infestation increase the risk of bumblefoot?",
+    "answer": "Pain and discomfort from scaly leg alter gait and weight distribution, increasing pressure on the footpad and predisposing birds to bumblefoot.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_symptom_clinical_signs",
+      "scaly_leg_mite_differential_diagnosis"
+    ]
+  },
+  {
+    "query_id": "scalyleg_multi_04",
+    "query": "Why is flock-level treatment necessary when managing scaly leg?",
+    "answer": "Mites spread through contact between birds, so treating only affected individuals allows untreated carriers to cause reinfestation.",
+    "supporting_chunk_ids": [
+      "scaly_leg_mite_transmission_mechanism",
+      "scaly_leg_mite_prevention_biosecurity"
+    ]
+  }
+]

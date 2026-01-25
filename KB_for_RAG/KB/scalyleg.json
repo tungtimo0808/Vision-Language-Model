@@ -1,0 +1,842 @@
+[
+  {
+    "id": "scaly_leg_mite_overview_definition",
+    "content": "Scaly leg mite is a common parasitic skin condition in poultry, primarily caused by the microscopic burrowing mite Knemidocoptes mutans. This condition affects the unfeathered portions of the legs and feet of chickens, turkeys, pheasants, and other gallinaceous birds. The mites tunnel under the epidermal scales, causing irritation, inflammation, and the characteristic crusty, thickened appearance of the limbs.",
+    "vector_context": {
+      "keywords": [
+        "Knemidocoptes mutans",
+        "scaly leg mite",
+        "ectoparasite",
+        "poultry skin disease",
+        "burrowing mites"
+      ],
+      "hypothetical_questions": [
+            "What is scaly leg disease in chickens and why do the legs look crusty?",
+            " Is scaly leg caused by mites or some kind of fungal infection?",
+            " How serious is scaly leg if it is not treated early?",
+            "Does scaly leg only affect the legs or can it spread to other parts?",
+            "Is scaly leg the same condition as knemidocoptiasis in poultry?",
+            "Why do the scales lift up in chickens with scaly leg?",
+            "Can scaly leg affect egg production or overall health?",
+            "Is scaly leg considered a contagious poultry disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of Scaly Leg Mite",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "overview",
+      "source_urls": [
+        "https://poultrydvm.com/condition/scaly-leg-mites",
+        "https://www.msdvetmanual.com/poultry/ectoparasites/mites-of-poultry",
+        "https://vcahospitals.com/know-your-pet/knemidokoptic-mange-or-scaly-leg-and-face-disease-in-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_cause_etiology",
+    "content": "The primary cause of scaly leg in poultry is the Knemidocoptes mutans mite. These mites are extremely small, spherical, and have short, stubby legs. The entire life cycle of Knemidocoptes mutans—including the egg, larva, nymph, and adult stages—occurs on the host bird. The female mites burrow into the skin under the leg scales, where they feed on keratin and tissue fluids, creating tunnels that lead to the clinical manifestations of the disease.",
+    "vector_context": {
+      "keywords": [
+        "Knemidocoptes mutans",
+        "etiology",
+        "mite life cycle",
+        "pathogen",
+        "burrowing behavior"
+      ],
+      "hypothetical_questions": [
+            "What parasite is responsible for scaly leg in chickens?",
+            "Is Knemidocoptes mutans the main cause of scaly leg?",
+            "How do scaly leg mites survive under the leg scales?",
+            "Can poor hygiene increase the risk of scaly leg infestation?",
+            "Do older chickens get scaly leg more easily than young birds?",
+            "Is scaly leg related to nutritional deficiencies at all?",
+            "Can stress make chickens more susceptible to scaly leg mites?",
+            "Are scaly leg mites species-specific in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Causative Agent of Scaly Leg",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "cause",
+      "source_urls": [
+        "https://poultrydvm.com/pathogens/knemidocoptes-mutans",
+        "https://www.merckvetmanual.com/poultry/ectoparasites/mites-of-poultry"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_transmission_mechanism",
+    "content": "Knemidocoptes mutans is transmitted primarily through direct bird-to-bird contact. Transmission occurs when healthy birds come into close physical proximity with infested individuals. While the mites spend their entire life cycle on the host, they can survive for short periods in the environment, meaning transmission can also occur indirectly via contaminated perches, nesting material, or floor litter. The spread of scaly leg mites within a flock is typically slow but persistent.",
+    "vector_context": {
+      "keywords": [
+        "transmission",
+        "horizontal spread",
+        "fomites",
+        "contaminated environment",
+        "flock health"
+      ],
+      "hypothetical_questions": [
+              "How do chickens catch scaly leg mites from each other?",
+              "Can scaly leg spread through shared perches or housing?",
+              "Is scaly leg transmitted from hen to chicks?",
+              "How long can scaly leg mites survive off the host?",
+              "Can wild birds introduce scaly leg mites into a flock?",
+              "Does close contact increase scaly leg transmission?",
+              "Can scaly leg spread slowly in backyard flocks?",
+              "Is scaly leg considered highly contagious?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission of Scaly Leg Mites",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "transmission",
+      "source_urls": [
+        "https://chooks.co.nz/pages/fact-sheet-chicken-health-scaly-leg-mites",
+        "https://anrcatalog.ucanr.edu/pdf/8280.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_symptom_clinical_signs",
+    "content": "Clinical signs of scaly leg mite infestation include the lifting and thickening of the leg scales, resulting in a rough, 'crusty' appearance. As the infestation progresses, the legs may become swollen and covered in a grayish-white, powdery exudate. In severe, untreated cases, the toes may become necrotic, potentially leading to the loss of digits. Affected birds often exhibit lameness, difficulty perching, and a significant decrease in activity or egg production due to discomfort.",
+    "vector_context": {
+      "keywords": [
+        "lameness",
+        "raised scales",
+        "crusty legs",
+        "necrosis",
+        "exudate"
+      ],
+      "hypothetical_questions": [
+              "What are the early signs of scaly leg in chickens?",
+              "Why do the leg scales become thick and raised?",
+              "Does scaly leg cause pain or lameness in chickens?",
+              "Can scaly leg make chickens reluctant to walk?",
+              "What does advanced scaly leg look like?",
+              "Can scaly leg cause bleeding or cracked skin?",
+              "Are both legs always affected in scaly leg cases?",
+              "Do chickens scratch or peck at their legs with scaly leg?",
+              "Can scaly leg lead to toe deformities?",
+              "How fast do scaly leg symptoms usually progress?"
+      ]
+    },
+    "metadata": {
+      "title": "Clinical Symptoms of Knemidocoptiasis",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "symptom",
+      "source_urls": [
+        "https://www.amerpoultryassn.com/2021/09/scaly-leg-mites/",
+        "https://vcahospitals.com/know-your-pet/knemidokoptic-mange-or-scaly-leg-and-face-disease-in-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_pathology_lesions",
+    "content": "Pathologically, Knemidocoptes mutans induces hyperkeratosis and inflammatory responses within the epidermis. Histological examination typically reveals the presence of mites within tunnels in the stratum corneum. The burrowing action and associated mite excrement trigger a proliferative reaction of the skin, leading to the massive accumulation of keratinous debris and serum exudate that forces the scales upward. Chronic cases may show secondary bacterial infections and deep tissue scarring.",
+    "vector_context": {
+      "keywords": [
+        "hyperkeratosis",
+        "stratum corneum",
+        "histology",
+        "epidermal tunnels",
+        "pathological lesions"
+      ],
+      "hypothetical_questions": [
+              "What happens under the leg scales in scaly leg disease?",
+              "How do scaly leg mites damage the skin tissue?",
+              "What type of skin inflammation is seen in scaly leg?",
+              "Why does hyperkeratosis occur in scaly leg?",
+              "Are tunnels formed by mites visible microscopically?",
+              "What immune response is triggered by scaly leg mites?",
+              "Does chronic scaly leg cause permanent tissue damage?",
+              "How does secondary bacterial infection develop?",
+              "Is necrosis common in severe scaly leg cases?",
+              "What pathological changes explain scale lifting?"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology of Scaly Leg Mites",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.researchgate.net/publication/229163397_Prevalence_and_Clinico-Pathological_Effects_of_Ectoparasites_in_Backyard_Poultry",
+        "https://www.uoguelph.ca/ahl/knemidocoptes-mutans-scaly-leg-mite-backyard-flocks"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_diagnosis_methods",
+    "content": "Diagnosis of scaly leg mite is primarily based on clinical appearance (raised scales and crusting). To confirm the presence of Knemidocoptes mutans, a skin scraping of the affected area should be performed. The scrapings are placed on a slide with 10% Potassium Hydroxide (KOH) or mineral oil and examined under a microscope. The identification of the characteristic short-legged, round-bodied mites confirms the diagnosis. In some cases, a deep scraping is necessary as the mites reside deep within the crusts.",
+    "vector_context": {
+      "keywords": [
+        "skin scraping",
+        "microscopy",
+        "KOH preparation",
+        "diagnosis",
+        "clinical identification"
+      ],
+      "hypothetical_questions": [
+              "How is scaly leg usually diagnosed in chickens?",
+              "Is visual inspection enough to confirm scaly leg?",
+              "Can skin scrapings help identify scaly leg mites?",
+              "What does microscopic examination show in scaly leg?",
+              "How do vets differentiate scaly leg from other leg conditions?",
+              "Can scaly leg be misdiagnosed as fungal dermatitis?",
+              "Is laboratory testing necessary for scaly leg?",
+              "What diagnostic signs are considered definitive?",
+              "Can early scaly leg be hard to recognize?",
+              "Does diagnosis affect treatment choice?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnostic Procedures for Scaly Leg Mite",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.dvm360.com/view/knemidocoptiasis-birds",
+        "https://veterinarypartner.vin.com/default.aspx?pid=19239&id=4951792"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_treatment_ivermectin_residue",
+    "content": "Ivermectin is an effective treatment for scaly leg mites, often administered topically (pour-on) or orally. While highly effective against Knemidocoptes mutans, ivermectin is considered 'off-label' for egg-laying poultry in many regions. Research indicates that ivermectin residues can persist in eggs for a significant period after administration. A withdrawal period of at least 7 to 14 days is frequently recommended by veterinary experts, although some data suggests residues may be detectable for up to 24 days in the yolk.",
+    "vector_context": {
+      "keywords": [
+        "ivermectin",
+        "egg withdrawal",
+        "drug residues",
+        "off-label treatment",
+        "poultry medication"
+      ],
+      "hypothetical_questions": [
+              "Can ivermectin be used to treat scaly leg mites in chickens?",
+              "Is ivermectin safe for laying hens?",
+              "How long do ivermectin residues stay in eggs?",
+              "What is the recommended egg withdrawal period after ivermectin?",
+              "Why is ivermectin considered off-label in poultry?",
+              "Can eggs be eaten after treating chickens with ivermectin?",
+              "How effective is ivermectin against scaly leg mites?",
+              "Does ivermectin work when applied topically?",
+              "Can ivermectin be given orally for scaly leg mites?",
+              "Why are drug residues a concern in egg-laying birds?",
+              "How long should eggs be discarded after treatment?",
+              "Are ivermectin withdrawal times legally regulated?"
+      ]
+    },
+    "metadata": {
+      "title": "Ivermectin Treatment and Egg Withdrawal",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.farad.org/pdf/122015EggResidue.pdf",
+        "https://www.researchgate.net/publication/40147139_Ivermectin_residues_in_eggs_of_laying_hens_and_in_muscle_and_liver_of_broilers_after_administration_of_feeds_containing_low_levels_of_ivermectin#read",
+        "https://www.reddit.com/r/chickens/comments/1ps9o7z/ivermectin_egg_withdrawal/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_treatment_non_chemical",
+    "content": "Alternative non-chemical treatments for scaly leg mites focus on suffocating the mites. This involves coating the bird's legs with thick substances such as petroleum jelly (Vaseline), vegetable oil, or linseed oil. These substances block the mites' breathing pores. Treatment usually requires repeated applications every few days for several weeks to ensure all newly hatched mites are killed. Soaking the legs in warm, soapy water to soften crusts before applying the oil can improve the effectiveness of the treatment.",
+    "vector_context": {
+      "keywords": [
+        "petroleum jelly",
+        "suffocation method",
+        "natural treatment",
+        "mineral oil",
+        "poultry husbandry"
+      ],
+      "hypothetical_questions": [
+              "How can scaly leg mites be treated without chemicals?",
+              "Does petroleum jelly really kill scaly leg mites?",
+              "Why does oil treatment suffocate scaly leg mites?",
+              "How often should oil be applied to treat scaly leg?",
+              "Can vegetable oil be used instead of mineral oil?",
+              "Why is soaking legs recommended before oil treatment?",
+              "How long does non-chemical treatment need to continue?",
+              "Can natural treatments fully eliminate scaly leg mites?",
+              "Is repeated treatment necessary for newly hatched mites?",
+              "Are non-chemical treatments safe for backyard chickens?",
+              "Can oil treatments fail if done incorrectly?",
+              "Is non-chemical treatment effective in severe cases?"
+      ]
+    },
+    "metadata": {
+      "title": "Non-Chemical Treatment Options",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.allfarm.com.au/images/info-sheets/Info_sheet_-_Scaly_Leg_Mites_in_Poultry.pdf",
+        "https://chooks.co.nz/pages/fact-sheet-chicken-health-scaly-leg-mites"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_prevention_biosecurity",
+    "content": "Prevention of scaly leg mites relies on strict biosecurity and hygiene. New birds should be quarantined and inspected for leg lesions before being introduced to an existing flock. Regular cleaning and disinfection of coop facilities, particularly perches and nesting boxes, help eliminate any mites surviving in the environment. Maintaining dry litter and avoiding overcrowding reduces the stress on birds and minimizes the chance of transmission.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "quarantine",
+        "disinfection",
+        "coop hygiene",
+        "prevention"
+      ],
+      "hypothetical_questions": [
+                "How can scaly leg mites be prevented in poultry flocks?",
+                "Why should new birds be quarantined for scaly leg mites?",
+                "Does coop cleaning help prevent scaly leg mites?",
+                "Which areas of the coop should be disinfected?",
+                "How does overcrowding increase scaly leg risk?",
+                "Why does dry litter reduce mite transmission?",
+                "Can biosecurity stop scaly leg mites from spreading?",
+                "How often should perches be cleaned to prevent mites?",
+                "Can poor hygiene cause repeated scaly leg outbreaks?",
+                "Is prevention more effective than treatment?",
+                "Do biosecurity measures reduce reinfestation?",
+                "Can prevention fail if only birds are treated?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention and Control Measures",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "prevention",
+      "source_urls": [
+        "https://poultryhealthinspection.ucdavis.edu/sites/g/files/dgvnsk6711/files/inline-files/Lice%20%26%20Mites%20of%20Poultry%20-%20McCrea%208162_0.pdf",
+        "https://edis.ifas.ufl.edu/publication/VM022"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_differential_diagnosis",
+    "content": "Differential diagnoses for scaly leg mite include other conditions that cause leg skin abnormalities. These include nutritional deficiencies (such as Vitamin B or Biotin deficiency which can cause dermatitis), other mites (like the Northern Fowl Mite which usually affects feathered areas), fungal infections (favus), or simple age-related thickening of the scales. A definitive diagnosis is established by the presence of Knemidocoptes mutans in skin scrapings to distinguish it from these other conditions.",
+    "vector_context": {
+      "keywords": [
+        "differential diagnosis",
+        "nutritional deficiency",
+        "dermatitis",
+        "Northern Fowl Mite",
+        "favus"
+      ],
+      "hypothetical_questions": [
+                "What conditions can be mistaken for scaly leg mites?",
+                "Can vitamin deficiencies cause scaly legs in chickens?",
+                "How does Northern Fowl Mite differ from scaly leg mite?",
+                "Can fungal infections look like scaly leg?",
+                "What does favus look like compared to scaly leg?",
+                "How does aging affect chicken leg scales?",
+                "Why is skin scraping important for differentiation?",
+                "Can dermatitis mimic scaly leg mite lesions?",
+                "How do vets rule out non-parasitic causes?",
+                "What confirms scaly leg mites over other conditions?"
+      ]
+    },
+    "metadata": {
+      "title": "Differential Diagnosis for Scaly Leg",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "differential",
+      "source_urls": [
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/pet-birds/parasitic-diseases-of-pet-birds",
+        "https://www.uoguelph.ca/ahl/knemidocoptes-mutans-scaly-leg-mite-backyard-flocks"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_life_cycle_duration",
+    "content": "The life cycle of the scaly leg mite (Knemidocoptes mutans) is completed entirely on the host bird and typically spans approximately 10 to 14 days. Gravid female mites burrow into the skin under the scales of the legs to deposit eggs in the tunnels they create. These eggs hatch into six-legged larvae, which then progress through two nymphal stages (protonymph and tritonymph) before reaching sexual maturity as eight-legged adults. Because the mites are permanent parasites, they cannot survive for extended periods—usually no more than a few days to a few weeks—without a host.",
+    "vector_context": {
+      "keywords": [
+        "life cycle",
+        "gravid female",
+        "larvae",
+        "nymphal stages",
+        "permanent parasite"
+      ],
+      "hypothetical_questions": [
+            "How long does the scaly leg mite life cycle last?",
+            "Do scaly leg mites complete their life cycle on the bird?",
+            "What stages make up the scaly leg mite life cycle?",
+            "How long does it take for mite eggs to hatch?",
+            "Can scaly leg mites survive long without a host?",
+            "Why is repeated treatment needed based on life cycle?",
+            "How fast do scaly leg mite populations increase?",
+            "Are scaly leg mites considered permanent parasites?"
+      ]
+    },
+    "metadata": {
+      "title": "Life Cycle of Knemidocoptes mutans",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "cause",
+      "source_urls": [
+        "https://www.merckvetmanual.com/poultry/ectoparasites/mites-of-poultry",
+        "https://poultrydvm.com/pathogens/knemidocoptes-mutans"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_susceptibility_wild_birds",
+    "content": "While commonly associated with domestic poultry like chickens and turkeys, Knemidocoptes mutans and closely related Knemidocoptes species also affect a wide range of wild birds. Significant clinical cases have been documented in Golden Eagles (Aquila chrysaetos) in California and Pine Grosbeaks. In wild raptors, the infestation leads to severe crusting and can impair the bird's ability to hunt or perch, ultimately leading to secondary infections or starvation. This highlights the importance of monitoring backyard flocks that may have contact with wild avian populations.",
+    "vector_context": {
+      "keywords": [
+        "Golden Eagles",
+        "Pine Grosbeak",
+        "wild birds",
+        "avian populations",
+        "cross-species transmission"
+      ],
+      "hypothetical_questions": [
+              "Can wild birds get scaly leg mites?",
+              "Do scaly leg mites affect birds other than chickens?",
+              "Have scaly leg mites been found in eagles or songbirds?",
+              "Can wild birds spread scaly leg mites to backyard flocks?",
+              "Why are raptors severely affected by scaly leg mites?",
+              "Is scaly leg mite a concern for wildlife health?",
+              "Can contact with wild birds increase flock risk?",
+              "Are Knemidocoptes species shared across bird species?"
+      ]
+    },
+    "metadata": {
+      "title": "Scaly Leg Mite Susceptibility in Wild Birds",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "overview",
+      "source_urls": [
+        "https://www.researchgate.net/publication/266380652_Knemidocoptic_Mange_in_Wild_Golden_Eagles_California_USA",
+        "https://dpi.wi.gov/sites/default/files/imce/science/Knowles-Swan-Roderick-Cole-2019-Knemidocoptes-in-pine-grosbeak.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_pathology_vascular_compromise",
+    "content": "The pathological progression of a scaly leg mite infestation involves the disruption of the local blood supply to the phalanges. As Knemidocoptes mutans burrows, the resulting hyperkeratosis and accumulation of debris create physical pressure on the underlying dermal tissues. This pressure, combined with chronic inflammation, can lead to localized ischemia (restricted blood flow). In advanced stages, this vascular compromise results in digital necrosis, where the toes of the bird rot and eventually slough off.",
+    "vector_context": {
+      "keywords": [
+        "ischemia",
+        "digital necrosis",
+        "vascular compromise",
+        "dermal tissue",
+        "hyperkeratosis"
+      ],
+      "hypothetical_questions": [
+                  "Why do chickens lose toes from scaly leg mites?",
+                  "How does scaly leg mite infestation affect blood flow?",
+                  "What causes ischemia in scaly leg mite infections?",
+                  "How does hyperkeratosis lead to vascular compromise?",
+                  "Why does chronic scaly leg cause digital necrosis?",
+                  "Can reduced circulation cause toes to fall off?"
+      ]
+    },
+    "metadata": {
+      "title": "Vascular Impact of Scaly Leg Mites",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "pathology",
+      "source_urls": [
+        "https://www.dvm360.com/view/knemidocoptiasis-birds",
+        "https://veterinarypartner.vin.com/default.aspx?pid=19239&id=4951792"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_treatment_moxidectin_use",
+    "content": "Moxidectin is frequently utilized as a potent alternative to ivermectin for treating scaly leg mites in birds. It is often applied as a 'spot-on' treatment at the base of the neck or directly on the affected skin. Moxidectin works by interfering with the neurotransmission of the mites, leading to paralysis and death. Veterinary experts often prefer moxidectin for its longer residual effect compared to other avermectins, though it also requires strict adherence to egg withdrawal periods in food-producing birds.",
+    "vector_context": {
+      "keywords": [
+        "Moxidectin",
+        "avermectins",
+        "spot-on treatment",
+        "neurotransmission",
+        "parasite paralysis"
+      ],
+      "hypothetical_questions": [
+                "Is moxidectin effective for treating scaly leg mites?",
+                "How is moxidectin applied to chickens?",
+                "Why do vets prefer moxidectin over ivermectin sometimes?",
+                "How does moxidectin kill scaly leg mites?",
+                "Does moxidectin last longer in the bird’s system?",
+                "Is moxidectin safe for laying hens?",
+                "What withdrawal period is needed after moxidectin?",
+                "Can moxidectin be used as a spot-on treatment?",
+                "Are there risks associated with moxidectin use?",
+                "How quickly does moxidectin work against mites?",
+                "Can moxidectin prevent reinfestation?",
+                "Is moxidectin considered off-label in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Moxidectin Treatment for Scaly Leg Mites",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "treatment",
+      "source_urls": [
+        "https://birdvetmelbourne.com/parasite-treatments-for-birds-what-every-bird-owner-should-know/",
+        "https://vcahospitals.com/know-your-pet/knemidokoptic-mange-or-scaly-leg-and-face-disease-in-birds"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_prevention_perch_treatment",
+    "content": "A specific preventative measure for controlling scaly leg mites in poultry houses involves the treatment of perches. Applying linseed oil, kerosene, or specialized wood preservatives to wooden perches can help kill mites that may be hiding in the cracks and crevices of the wood. Since birds spend many hours on perches, keeping these surfaces clean and coated with a mite-repellent substance significantly reduces the risk of horizontal transmission within the flock.",
+    "vector_context": {
+      "keywords": [
+        "perch treatment",
+        "linseed oil",
+        "kerosene",
+        "wood preservatives",
+        "environmental control"
+      ],
+      "hypothetical_questions": [
+            "How do you treat wooden perches for scaly leg mites?",
+            "Can linseed oil on perches kill scaly leg mites?",
+            "Why are perches important in scaly leg prevention?",
+            "Can mites hide in cracks of wooden perches?",
+            "Is kerosene used to control mites on perches?",
+            "How often should perches be treated for mites?",
+            "Do treated perches reduce flock transmission?",
+            "Can perch treatment prevent reinfestation?",
+            "Are wood preservatives effective against mites?",
+            "Why do chickens pick up mites from perches?",
+            "Should perches be replaced instead of treated?",
+            "Is environmental control necessary with bird treatment?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental Perch Management",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.allfarm.com.au/images/info-sheets/Info_sheet_-_Scaly_Leg_Mites_in_Poultry.pdf",
+        "https://chooks.co.nz/pages/fact-sheet-chicken-health-scaly-leg-mites"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_complication_staph_infection",
+    "content": "Secondary bacterial infections are a common complication of scaly leg mite infestations. The burrowing action of Knemidocoptes mutans compromises the skin's protective barrier, creating entry points for opportunistic pathogens such as Staphylococcus aureus. These secondary infections can lead to pododermatitis (bumblefoot), abscesses, and systemic septicemia. In such cases, successful recovery requires not only the elimination of the mites but also a course of appropriate antibiotics and wound management.",
+    "vector_context": {
+      "keywords": [
+        "Staphylococcus aureus",
+        "secondary infection",
+        "bumblefoot",
+        "pododermatitis",
+        "abscess"
+      ],
+      "hypothetical_questions": [
+              "Can scaly leg mites lead to bacterial infections?",
+              "Why does scaly leg increase the risk of bumblefoot?",
+              "How does Staphylococcus aureus infect scaly legs?",
+              "Can scaly leg cause abscesses in chicken feet?",
+              "When are antibiotics needed with scaly leg mites?",
+              "Can scaly leg mites cause systemic infection?"
+      ]
+    },
+    "metadata": {
+      "title": "Secondary Bacterial Complications",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "pathology",
+      "source_urls": [
+        "https://poultrydvm.com/condition/scaly-leg-mites",
+        "https://www.uoguelph.ca/ahl/knemidocoptes-mutans-scaly-leg-mite-backyard-flocks"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_diagnosis_visual_differential",
+    "content": "When performing a visual diagnosis for scaly leg mites, it is critical to differentiate the crusting from 'Favus' (avian ringworm). While scaly leg mites primarily affect the unfeathered legs with thick, chalky crusts, Favus typically presents as white, powdery spots on the comb and wattles, though it can occasionally spread to the legs. Furthermore, nutritional deficiencies in Biotin or Pantothenic Acid can cause similar skin cracking and dermatitis on the feet, but these lack the characteristic 'raised scale' architecture seen with Knemidocoptes mutans.",
+    "vector_context": {
+      "keywords": [
+        "Favus",
+        "avian ringworm",
+        "Biotin deficiency",
+        "dermatitis",
+        "differential diagnosis"
+      ],
+      "hypothetical_questions": [
+              "How can you tell favus apart from scaly leg mites?",
+              "Do scaly leg mites affect combs and wattles?",
+              "Can biotin deficiency look like scaly leg?",
+              "What visual signs distinguish scaly leg from ringworm?",
+              "Is every crusty leg caused by mites?",
+              "How does nutritional dermatitis differ from scaly leg?",
+              "Why are raised scales important for diagnosis?",
+              "Can visual exam alone misdiagnose scaly leg?",
+              "Do vitamin deficiencies cause scale lifting?",
+              "How do vets visually differentiate leg lesions?"
+      ]
+    },
+    "metadata": {
+      "title": "Visual Differentials for Leg Lesions",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "differential",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/ectoparasites/mites-of-poultry",
+        "https://edis.ifas.ufl.edu/publication/VM022"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_age_susceptibility_factors",
+    "content": "Susceptibility to Knemidocoptes mutans increases significantly with the age of the bird. While young chicks are rarely affected, older birds and those with weakened immune systems are at the highest risk for severe clinical manifestations. Chronic infestations in older poultry can lead to massive hyperkeratosis that becomes permanent if not addressed early. In multi-age flocks, the older birds often act as a reservoir for the mites, facilitating the slow transmission of the parasite to younger, maturing birds over several months.",
+    "vector_context": {
+      "keywords": [
+        "age susceptibility",
+        "reservoir host",
+        "chronic infestation",
+        "immune system",
+        "multi-age flocks"
+      ],
+      "hypothetical_questions": [
+              "Are older chickens more likely to get scaly leg mites?",
+              "Why are young chicks rarely affected by scaly leg?",
+              "How does immune status affect scaly leg severity?",
+              "Can older birds act as reservoirs for mites?",
+              "Why does scaly leg become chronic in older chickens?",
+              "How does age influence hyperkeratosis severity?"
+      ]
+    },
+    "metadata": {
+      "title": "Age-Related Susceptibility to Scaly Leg Mite",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "overview",
+      "source_urls": [
+        "https://www.uoguelph.ca/ahl/knemidocoptes-mutans-scaly-leg-mite-backyard-flocks",
+        "https://www.merckvetmanual.com/poultry/ectoparasites/mites-of-poultry"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_feathered_leg_complications",
+    "content": "In poultry breeds with heavily feathered legs (such as Silkies, Cochins, or Brahmas), scaly leg mite infestations are often significantly more difficult to detect in the early stages. The dense feathering masks the initial lifting of the scales and the accumulation of white powdery debris produced by Knemidocoptes mutans. Consequently, infestations in these breeds are frequently only diagnosed once they have reached an advanced stage, characterized by severe lameness or visible swelling that distorts the leg shape despite the feather covering.",
+    "vector_context": {
+      "keywords": [
+        "feathered legs",
+        "Silkie",
+        "Cochin",
+        "diagnostic masking",
+        "breed susceptibility"
+      ],
+      "hypothetical_questions": [
+              "Why is scaly leg harder to detect in feathered leg breeds?",
+              "Do Silkies get scaly leg mites more severely?",
+              "How do leg feathers hide early scaly leg symptoms?",
+              "When is scaly leg usually diagnosed in feathered breeds?",
+              "Can feathered legs delay treatment of scaly leg?",
+              "How should feathered legs be checked for mites?"
+      ]
+    },
+    "metadata": {
+      "title": "Impact of Leg Feathering on Mite Detection",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "symptom",
+      "source_urls": [
+        "https://chooks.co.nz/pages/fact-sheet-chicken-health-scaly-leg-mites",
+        "https://www.amerpoultryassn.com/2021/09/scaly-leg-mites/"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_environmental_survival_period",
+    "content": "Knemidocoptes mutans is considered an obligate parasite, meaning it requires a host to complete its life cycle. However, the mites can survive off the bird in the environment for a limited duration. Under ideal conditions (high humidity and moderate temperatures), adult mites and larvae can survive in cracks of perches or in floor litter for approximately 2 to 4 weeks. This environmental persistence necessitates the simultaneous treatment of the flock's housing and the birds themselves to prevent rapid re-infestation after topical treatment.",
+    "vector_context": {
+      "keywords": [
+        "obligate parasite",
+        "environmental survival",
+        "re-infestation",
+        "fomites",
+        "off-host survival"
+      ],
+      "hypothetical_questions": [
+                "How long can scaly leg mites survive in the coop?",
+                "Can scaly leg mites live in litter without chickens?",
+                "Why does environmental survival cause reinfestation?",
+                "What conditions allow mites to survive off the host?",
+                "Can cleaning the coop stop scaly leg from returning?",
+                "Do scaly leg mites hide in perch cracks?"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental Survival of Knemidocoptes mutans",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "transmission",
+      "source_urls": [
+        "https://anrcatalog.ucanr.edu/pdf/8280.pdf",
+        "https://poultrydvm.com/pathogens/knemidocoptes-mutans"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_treatment_petroleum_jelly_protocol",
+    "content": "The application of petroleum jelly (Vaseline) for scaly leg mites must follow a strict protocol to be effective. The jelly acts by creating an airtight seal over the burrow openings, effectively suffocating the mites. The treatment should begin with a warm soapy water soak (using mild dish soap or chlorhexidine) to soften the crusts, followed by a thick application of petroleum jelly covering the entire leg and foot up to the hock joint. This process must be repeated every 2-3 days for a minimum of 3 to 4 weeks to ensure that all newly hatched larvae are killed before they can reproduce.",
+    "vector_context": {
+      "keywords": [
+        "petroleum jelly",
+        "Vaseline protocol",
+        "suffocation treatment",
+        "crust softening",
+        "treatment duration"
+      ],
+      "hypothetical_questions": [
+              "How often should petroleum jelly be applied for scaly leg?",
+              "Why is soaking needed before applying Vaseline?",
+              "How long must Vaseline treatment continue to kill mites?",
+              "Should petroleum jelly cover the entire leg?",
+              "Can missed treatments allow mites to survive?",
+              "Why does Vaseline suffocate scaly leg mites?",
+              "Is one application enough to cure scaly leg?",
+              "How thick should petroleum jelly be applied?",
+              "Can petroleum jelly be used up to the hock joint?",
+              "What happens if larvae hatch between treatments?",
+              "Is petroleum jelly safe for repeated use?",
+              "How do I know the Vaseline protocol is working?"
+      ]
+    },
+    "metadata": {
+      "title": "Petroleum Jelly Treatment Protocol",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.allfarm.com.au/images/info-sheets/Info_sheet_-_Scaly_Leg_Mites_in_Poultry.pdf",
+        "https://www.youtube.com/watch?v=QBpGZE_jrlY"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_treatment_chemical_pyrethroids",
+    "content": "In addition to macrocyclic lactones like ivermectin, certain pyrethroids such as permethrin are used to treat scaly leg mite infestations. Permethrin sprays or dusts can be applied directly to the legs and used as an environmental treatment for the coop. However, because Knemidocoptes mutans burrows deep beneath the scales, topical pyrethroid sprays often have limited penetration unless the crusts are first removed or softened. Chemical treatments should always be used with caution in laying hens due to the potential for egg contamination.",
+    "vector_context": {
+      "keywords": [
+        "permethrin",
+        "pyrethroids",
+        "topical spray",
+        "chemical control",
+        "penetration"
+      ],
+      "hypothetical_questions": [
+            "Can permethrin be used to treat scaly leg mites?",
+            "Why are sprays less effective against burrowing mites?",
+            "Do crusts block chemical penetration in scaly leg?",
+            "Can pyrethroids be used on chicken legs safely?",
+            "Is permethrin better for the environment than the bird?",
+            "Why should crusts be softened before spraying?",
+            "Can chemical sprays contaminate eggs?",
+            "Are pyrethroids effective as coop treatments?",
+            "Do pyrethroids kill mites hiding in perches?",
+            "Can chemical treatment fail without bird treatment?",
+            "Are pyrethroids approved for laying hens?",
+            "Why is caution needed with chemical mite control?"
+      ]
+    },
+    "metadata": {
+      "title": "Chemical Control with Pyrethroids",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "treatment",
+      "source_urls": [
+        "https://edis.ifas.ufl.edu/publication/VM022",
+        "https://poultryhealthinspection.ucdavis.edu/sites/g/files/dgvnsk6711/files/inline-files/Lice%20%26%20Mites%20of%20Poultry%20-%20McCrea%208162_0.pdf"
+      ]
+    }
+  },
+
+
+  {
+    "id": "scaly_leg_mite_differential_leg_edema",
+    "content": "Leg edema (swelling) from systemic issues such as heart failure or liver disease can occasionally be confused with the swelling caused by scaly leg mites. However, systemic edema typically presents as 'pitting' (the skin stays indented when pressed) and lacks the characteristic lifting of the scales or the white, crusty exudate of Knemidocoptiasis. While scaly leg mites cause a localized inflammatory response and skin thickening, systemic edema usually affects both legs uniformly and is often accompanied by other signs of illness like lethargy or ascites.",
+    "vector_context": {
+      "keywords": [
+        "edema",
+        "systemic disease",
+        "pitting edema",
+        "localized inflammation",
+        "differential diagnosis"
+      ],
+      "hypothetical_questions": [
+          "Can heart disease cause swollen legs like scaly leg?",
+          "How does edema differ from scaly leg mite swelling?",
+          "What is pitting edema in chickens?",
+          "Why doesn’t edema cause raised leg scales?",
+          "Can liver disease cause leg swelling in poultry?",
+          "How do systemic diseases mimic scaly leg?"
+      ]
+    },
+    "metadata": {
+      "title": "Differentiating Mites from Systemic Edema",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "differential",
+      "source_urls": [
+        "https://vcahospitals.com/know-your-pet/knemidokoptic-mange-or-scaly-leg-and-face-disease-in-birds",
+        "https://www.msdvetmanual.com/exotic-and-laboratory-animals/pet-birds/parasitic-diseases-of-pet-birds"
+      ]
+    }
+  },
+
+  
+  {
+    "id": "scaly_leg_mite_pathology_scale_regeneration",
+    "content": "Even after the Knemidocoptes mutans mites have been successfully eradicated, the legs of the bird may not return to a normal appearance for a significant amount of time. The scales of a bird's leg only regenerate during the molting process or very slowly over several months. Consequently, the 'raised' or thickened appearance may persist long after the mites are dead. Success of treatment should be judged by the lack of new crust formation and the gradual reduction in inflammation, rather than the immediate return of smooth scales.",
+    "vector_context": {
+      "keywords": [
+        "scale regeneration",
+        "molting",
+        "post-treatment appearance",
+        "healing process",
+        "chronic lesions"
+      ],
+      "hypothetical_questions": [
+                "Why do chicken legs stay scaly after mites are gone?",
+                "How long does it take for leg scales to regrow?",
+                "Do chicken leg scales regenerate only during molt?",
+                "How can I tell if scaly leg treatment worked?",
+                "Is smooth skin expected immediately after treatment?",
+                "Why does inflammation last after mites are killed?"
+      ]
+    },
+    "metadata": {
+      "title": "Post-Treatment Scale Regeneration",
+      "disease": "Scaly Leg Mite (Knemidocoptiasis)",
+      "category": "pathology",
+      "source_urls": [
+        "https://veterinarypartner.vin.com/default.aspx?pid=19239&id=4951792",
+        "https://chooks.co.nz/pages/fact-sheet-chicken-health-scaly-leg-mites"
+      ]
+    }
+  }
+]

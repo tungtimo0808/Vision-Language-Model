@@ -1,0 +1,89 @@
+[
+  {
+    "qid": "sp_01",
+    "query": "What anatomical structures make up a chicken spur?",
+    "supporting_chunk_ids": [
+      "spur_overview_definition"
+    ],
+    "answer": "A chicken spur consists of a bony core called the calcar that protrudes from the tarsometatarsal bone and is covered by a keratinized sheath."
+  },
+  {
+    "qid": "sp_02",
+    "query": "Why do rooster spurs tend to become longer and sharper as birds age?",
+    "supporting_chunk_ids": [
+      "spur_cause_development_sex_maturity"
+    ],
+    "answer": "Spurs grow continuously throughout a rooster’s life, and as birds age the keratin sheath lengthens and hardens, leading to increased spur length and sharpness if not managed."
+  },
+  {
+    "qid": "sp_03",
+    "query": "What welfare problems can arise when rooster spurs become excessively long or damaged?",
+    "supporting_chunk_ids": [
+      "spur_symptom_overgrowth_breakage_injury"
+    ],
+    "answer": "Overgrown or broken spurs can snag on coop materials, crack and bleed, cause puncture or laceration injuries to flockmates or handlers, and lead to pain, lameness, and secondary infection."
+  },
+  {
+    "qid": "sp_04",
+    "query": "How do age-related growth and genetic factors together influence spur length variation among roosters?",
+    "supporting_chunk_ids": [
+      "spur_cause_development_sex_maturity",
+      "spur_cause_genetic_basis_spur_length"
+    ],
+    "answer": "Spur length increases with age due to continuous growth, but substantial variation among roosters is also driven by heritable genetic factors, meaning spur size reflects both maturation and inherited traits."
+  },
+  {
+    "qid": "sp_05",
+    "query": "Why can spur trimming reduce injury risk without permanently eliminating spurs in adult roosters?",
+    "supporting_chunk_ids": [
+      "spur_treatment_conservative_trimming_filing",
+      "spur_cause_development_sex_maturity"
+    ],
+    "answer": "Trimming or filing reduces sharpness of the keratin sheath and lowers injury risk, but because the spur’s bony core remains and the sheath continues to grow, repeated management is required rather than a permanent solution."
+  },
+  {
+    "qid": "sp_06",
+    "query": "How do aggressive behavior and environmental hazards together increase the risk of spur-related injuries?",
+    "supporting_chunk_ids": [
+      "spur_prevention_flock_management_aggression",
+      "spur_symptom_overgrowth_breakage_injury"
+    ],
+    "answer": "Aggressive rooster behavior increases spur strikes during fighting or mating, while environmental hazards such as sharp edges or snag points raise the likelihood of spur breakage and accidental wounds, together compounding injury risk."
+  },
+  {
+    "qid": "sp_07",
+    "query": "Why is surgical spur removal considered more invasive in adult roosters than in chicks?",
+    "supporting_chunk_ids": [
+      "spur_treatment_veterinary_removal_amputation",
+      "spur_cause_development_sex_maturity"
+    ],
+    "answer": "In chicks the spur papilla can be ablated before the bony core forms, whereas in adult roosters removal requires amputation of the fully developed bony spur from the tarsometatarsus, increasing procedural complexity and infection risk."
+  },
+  {
+    "qid": "sp_08",
+    "query": "How can clinical examination distinguish between a true spur problem and other spur-like leg lesions?",
+    "supporting_chunk_ids": [
+      "spur_diagnosis_clinical_assessment",
+      "spur_differential_abnormal_leg_growths_and_lameness"
+    ],
+    "answer": "Clinical assessment evaluates whether a projection has a true bony attachment, along with signs such as cracking, swelling, discharge, or lameness, helping differentiate real spurs from scabs, infections, or other keratinized growths."
+  },
+  {
+    "qid": "sp_09",
+    "query": "Why can blunting spurs alone fail to prevent injuries in aggressive roosters?",
+    "supporting_chunk_ids": [
+      "spur_prevention_flock_management_aggression",
+      "spur_treatment_conservative_trimming_filing"
+    ],
+    "answer": "Blunting reduces sharpness but does not address underlying aggressive behavior; if aggression persists, roosters can still inflict injuries even with dulled spurs."
+  },
+  {
+    "qid": "sp_10",
+    "query": "How do rare multi-spur phenotypes create both cultural value and management challenges in small chicken populations?",
+    "supporting_chunk_ids": [
+      "spur_cause_multiple_spur_trait_populations",
+      "spur_cause_genetic_basis_spur_length"
+    ],
+    "answer": "Multi-spurred chickens may be culturally valued and command higher prices, but maintaining the rare trait in small populations can limit flock expansion and increase inbreeding risk."
+  }
+]

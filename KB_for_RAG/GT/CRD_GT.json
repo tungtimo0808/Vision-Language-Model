@@ -1,0 +1,118 @@
+[
+  {
+    "qid": "crd_cov_01",
+    "query": "What exactly is Chronic Respiratory Disease in chickens?",
+    "supporting_chunk_ids": ["crd_overview_01_definition_and_importance"],
+    "answer": "CRD is a long-lasting respiratory disease mainly caused by Mycoplasma gallisepticum. Birds can carry the organism for a long time and keep spreading it within the flock."
+  },
+  {
+    "qid": "crd_cov_02",
+    "query": "Why does CRD stay in a flock for months even when birds don’t look very sick?",
+    "supporting_chunk_ids": ["crd_overview_01_definition_and_importance"],
+    "answer": "Many infected birds become carriers and shed the bacteria intermittently, allowing CRD to persist even when clinical signs are mild."
+  },
+  {
+    "qid": "crd_cov_03",
+    "query": "What is the main organism that causes CRD?",
+    "supporting_chunk_ids": ["crd_cause_01_primary_etiologic_agent_mycoplasma_gallisepticum"],
+    "answer": "Mycoplasma gallisepticum is the primary cause of Chronic Respiratory Disease in poultry."
+  },
+  {
+    "qid": "crd_cov_04",
+    "query": "Is CRD usually caused by just one pathogen?",
+    "supporting_chunk_ids": ["crd_overview_02_crd_as_a_disease_complex_and_management_context"],
+    "answer": "No. Mycoplasma gallisepticum is the main cause, but other pathogens and stress factors often worsen the disease."
+  },
+  {
+    "qid": "crd_cov_05",
+    "query": "How does CRD usually spread inside a chicken flock?",
+    "supporting_chunk_ids": ["crd_transmission_02_horizontal_direct_bird_to_bird"],
+    "answer": "CRD spreads slowly through close contact and respiratory secretions, especially when birds are housed closely together."
+  },
+  {
+    "qid": "crd_cov_06",
+    "query": "Can chicks already be infected with CRD when they hatch?",
+    "supporting_chunk_ids": ["crd_transmission_01_vertical_transmission_via_eggs"],
+    "answer": "Yes. Infected breeder hens can pass Mycoplasma gallisepticum to chicks through eggs."
+  },
+  {
+    "qid": "crd_cov_07",
+    "query": "What are the common head and respiratory signs seen in CRD?",
+    "supporting_chunk_ids": ["crd_symptom_01_respiratory_clinical_signs"],
+    "answer": "Typical signs include coughing, sneezing, nasal discharge, eye discharge, and abnormal respiratory sounds."
+  },
+  {
+    "qid": "crd_cov_08",
+    "query": "How does CRD affect growth or egg production?",
+    "supporting_chunk_ids": ["crd_symptom_02_systemic_and_production_effects"],
+    "answer": "CRD reduces growth rate and feed efficiency in broilers and lowers egg production, egg quality, and hatchability in layers and breeders."
+  },
+  {
+    "qid": "crd_cov_09",
+    "query": "Why can’t CRD be diagnosed just by looking at the symptoms?",
+    "supporting_chunk_ids": ["crd_symptom_03_subclinical_presentation_and_diagnostic_overlap"],
+    "answer": "CRD signs overlap with many other respiratory diseases, and some birds show very mild or no signs at all."
+  },
+  {
+    "qid": "crd_cov_10",
+    "query": "What test is needed to confirm CRD in a flock?",
+    "supporting_chunk_ids": ["crd_diagnosis_02_laboratory_testing_and_confirmation"],
+    "answer": "Laboratory testing such as PCR or serology is needed to confirm Mycoplasma gallisepticum infection."
+  },
+
+  {
+    "qid": "crd_multi_01",
+    "query": "Why do some flocks suddenly get worse respiratory problems even though CRD was already there?",
+    "supporting_chunk_ids": [
+      "crd_cause_01_primary_etiologic_agent_mycoplasma_gallisepticum",
+      "crd_cause_03_host_and_environmental_amplifying_factors"
+    ],
+    "answer": "Mycoplasma infection can stay mild, but stressors like poor ventilation, high ammonia, or crowding damage the respiratory tract and make the disease much worse."
+  },
+  {
+    "qid": "crd_multi_02",
+    "query": "My birds are coughing and have watery eyes — why do vets still insist on lab testing?",
+    "supporting_chunk_ids": [
+      "crd_symptom_01_respiratory_clinical_signs",
+      "crd_diagnosis_02_laboratory_testing_and_confirmation"
+    ],
+    "answer": "Those signs are not specific to CRD, so lab tests are needed to confirm whether Mycoplasma gallisepticum is involved."
+  },
+  {
+    "qid": "crd_multi_03",
+    "query": "Why did antibiotics help at first but the respiratory signs came back later?",
+    "supporting_chunk_ids": [
+      "crd_treatment_01_antimicrobial_therapy_and_its_limitations",
+      "crd_cause_01_primary_etiologic_agent_mycoplasma_gallisepticum"
+    ],
+    "answer": "Antibiotics reduce symptoms but usually do not eliminate Mycoplasma, so carrier birds can start shedding again under stress."
+  },
+  {
+    "qid": "crd_multi_04",
+    "query": "Why do some CRD outbreaks cause high losses while others seem mild?",
+    "supporting_chunk_ids": [
+      "crd_cause_02_complicated_crd_and_coinfections",
+      "crd_symptom_02_systemic_and_production_effects"
+    ],
+    "answer": "Secondary infections and flock conditions determine how severe CRD becomes, affecting mortality and production losses."
+  },
+
+  {
+    "qid": "crd_diff_01",
+    "query": "A few chickens are sneezing but eating normally. Could this just be normal or early disease?",
+    "supporting_chunk_ids": ["crd_symptom_03_subclinical_presentation_and_diagnostic_overlap"],
+    "answer": "CRD can be subclinical with very mild signs, so early disease cannot be ruled out based on appearance alone."
+  },
+  {
+    "qid": "crd_diff_02",
+    "query": "This flock has slow, ongoing coughing but no sudden deaths. Does that sound more like a chronic or acute problem?",
+    "supporting_chunk_ids": ["crd_symptom_01_respiratory_clinical_signs"],
+    "answer": "A slow, gradual pattern fits better with a chronic respiratory condition like CRD rather than an acute viral outbreak."
+  },
+  {
+    "qid": "crd_diff_03",
+    "query": "If CRD is treated, does that mean the flock is completely clean afterward?",
+    "supporting_chunk_ids": ["crd_treatment_01_antimicrobial_therapy_and_its_limitations"],
+    "answer": "No. Treated birds often remain carriers and can continue spreading the organism later."
+  }
+]

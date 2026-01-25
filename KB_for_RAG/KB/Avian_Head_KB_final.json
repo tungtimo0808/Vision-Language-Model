@@ -1,0 +1,2479 @@
+[
+  {
+    "id": "avian_influenza_overview_01_disease_nature_and_importance",
+    "content": "Avian influenza (AI), caused by influenza A viruses, is an infectious disease of poultry and wild birds, defined by clinical signs, biological characteristics, and population-level impact. The virus is divided into low pathogenic avian influenza (LPAI) and highly pathogenic avian influenza (HPAI) based on pathogenicity in poultry. LPAI infections often cause mild disease or no visible signs, limited to respiratory signs or reduced egg production, allowing silent circulation within flocks. In contrast, HPAI infections cause acute systemic disease, rapid spread, and high mortality, sometimes leading to entire flock loss. Due to its economic and regulatory importance, HPAI is a notifiable disease in many countries, requiring immediate reporting and coordinated response by veterinary authorities, highlighting avian influenza as a high-impact disease managed at the flock and industry level.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the characteristics of avian influenza in poultry?",
+        "How does avian influenza affect wild birds?",
+        "What is the difference between low pathogenic avian influenza (LPAI) and highly pathogenic avian influenza (HPAI)?",
+        "What are the economic and regulatory implications of avian influenza outbreaks?",
+        "Why is highly pathogenic avian influenza classified as a notifiable disease?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Bird flu",
+        "Influenza A viruses",
+        "Pathogenicity",
+        "Low pathogenic avian influenza",
+        "Highly pathogenic avian influenza",
+        "Poultry health management"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Nature of avian influenza and its significance",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "avian influenza",
+        "influenza A",
+        "LPAI",
+        "HPAI",
+        "notifiable disease",
+        "poultry health"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_02_epidemiology_and_management_context",
+    "content": "Avian influenza exists within a complex epidemiological context shaped by wildlife reservoirs and poultry production systems. Influenza A viruses, including HPAI and LPAI subtypes like H5N1, circulate naturally in wild birds, creating pressure for virus introduction into domestic poultry. Once introduced, the virus can spread rapidly under conditions of high stocking density and frequent movement, influenced by management practices and biosecurity. Recent outbreaks have shown H5N1 can infect some mammalian species, adding complexity to surveillance and control. Avian influenza is managed through surveillance, early detection, movement control, and biosecurity, with veterinary authorities confirming and responding to outbreaks, and farmers and veterinarians contributing through observation and compliance with control measures, reflecting a population-based approach to managing the disease, which also involves understanding transmission pathways, diagnosis using methods like rRT-PCR, and prevention strategies to protect against viruses like NDV and Mycoplasma, and monitoring specific clades such as clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key factors that contribute to the spread of avian influenza in poultry operations?",
+        "How does the natural reservoir of avian influenza in wild birds impact the management of the disease?",
+        "What role do highly pathogenic avian influenza viruses, such as H5N1, play in the epidemiology of the disease?",
+        "What are the primary methods used to manage avian influenza in poultry operations?",
+        "How do management practices and biosecurity influence the spread of avian influenza?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Wildlife reservoirs",
+        "Poultry production",
+        "Highly pathogenic avian influenza viruses",
+        "Biosecurity",
+        "Surveillance",
+        "Early detection"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Epidemiology and disease management approach",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "epidemiology",
+        "wild bird reservoir",
+        "biosecurity",
+        "surveillance",
+        "population-level control"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_01_influenza_a_and_pathogenicity",
+    "content": "Avian influenza is caused by infection with influenza A viruses, which can be classified as low pathogenic avian influenza (LPAI) or highly pathogenic avian influenza (HPAI) based on their pathogenicity in poultry. LPAI viruses typically cause mild disease or no obvious clinical signs, while HPAI viruses, such as H5N1, clade 2.3.4.4b, are the direct cause of severe outbreaks with rapid systemic infection, extensive tissue damage, and high mortality. Infection with a highly pathogenic strain, detectable by rRT-PCR, is the proximate cause of catastrophic flock losses, whereas LPAI infections, although mild, still represent active viral replication and shedding, and can co-circulate with other pathogens like NDV and Mycoplasma. Surveillance programs and control policies focus on identifying both the virus type and its pathogenic behavior to understand the underlying cause of avian influenza and its varying clinical presentations.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the different types of avian influenza viruses?",
+        "How do low pathogenic avian influenza (LPAI) and highly pathogenic avian influenza (HPAI) viruses differ in terms of their impact on poultry?",
+        "What are the characteristics of LPAI and HPAI viruses in poultry?",
+        "Why is it important to distinguish between the presence of the virus and its pathogenicity in poultry health management?",
+        "What are the key factors that determine the severity of avian influenza outbreaks?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Influenza A viruses",
+        "Low pathogenic avian influenza (LPAI)",
+        "Highly pathogenic avian influenza (HPAI)",
+        "Poultry health management",
+        "Pathogenicity",
+        "Viral replication"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Influenza A viruses and pathogenicity in poultry",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "influenza A",
+        "LPAI",
+        "HPAI",
+        "pathogenicity",
+        "viral cause"
+      ],
+      "sources": [
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_02_wild_bird_reservoir",
+    "content": "Avian influenza outbreaks in domestic poultry are primarily caused by the natural circulation of influenza A viruses in wild bird populations, particularly waterfowl, which act as natural reservoirs. In these hosts, infection often causes little or no disease, allowing the virus to persist and spread. Wild birds can contaminate the environment around poultry operations, introducing new viral strains, including HPAI and LPAI subtypes like H5N1, into previously unaffected regions. The wild bird reservoir maintains the virus in nature, explaining why avian influenza cannot be fully eradicated and why repeated introductions into poultry populations occur, even with strict control measures. This ecological exposure must be managed through biosecurity and surveillance, such as rRT-PCR testing for H5N1 and monitoring for other diseases like NDV and Mycoplasma, and understanding the role of clade 2.3.4.4b in the spread of the virus, highlighting that outbreaks are not always the result of poor farm management, but rather unavoidable exposure to the wild bird reservoir.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What is the primary source of avian influenza outbreaks in domestic poultry?",
+        "How do wild birds contribute to the spread of avian influenza?",
+        "What is the role of waterfowl in the natural circulation of avian influenza viruses?",
+        "Why is it difficult to eradicate avian influenza completely?",
+        "What is the relationship between wild bird migration and the introduction of new viral strains?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Wild birds",
+        "Waterfowl",
+        "Reservoir",
+        "Transmission",
+        "Biosecurity",
+        "Surveillance"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Wild birds as the natural reservoir of avian influenza",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "wild birds",
+        "reservoir",
+        "waterfowl",
+        "ecological source"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_03_h5_h7_mutation_to_hpai",
+    "content": "Low pathogenic avian influenza (LPAI) viruses, particularly H5 and H7 subtypes, can mutate into highly pathogenic forms, such as HPAI H5N1, after introduction into poultry, causing severe disease and high mortality. As H5 or H7 LPAI viruses circulate within poultry populations, continued replication increases the chance of genetic changes that enhance virulence, allowing the virus to rapidly transition from a mild infection to a highly pathogenic outbreak. This is why H5 and H7 viruses, even as LPAI strains, receive special regulatory attention, with early detection and control designed to interrupt the causal chain before mutation to high pathogenicity occurs, such as the emergence of clade 2.3.4.4b, highlighting the importance of surveillance and rapid response to prevent catastrophic losses, similar to those caused by other poultry diseases like Newcastle disease virus (NDV) and Mycoplasma, which can be detected using diagnostic tools like rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key factors that contribute to the mutation of low pathogenic avian influenza viruses?",
+        "How do H5 and H7 subtypes of avian influenza viruses pose a risk to poultry populations?",
+        "What is the significance of early detection and control of H5 and H7 viruses in preventing outbreaks?",
+        "Can you explain the causal pathway of avian influenza virus mutation and its impact on poultry populations?",
+        "Why do authorities respond aggressively to certain subtypes of avian influenza viruses?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "low pathogenic",
+        "highly pathogenic",
+        "mutation",
+        "viral evolution",
+        "poultry populations",
+        "H5",
+        "H7"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Mutation of some H5/H7 viruses to high pathogenicity",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "H5",
+        "H7",
+        "mutation",
+        "viral evolution",
+        "high pathogenicity"
+      ],
+      "sources": [
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_04_farm_system_and_biosecurity_gaps",
+    "content": "Avian influenza introduction into a poultry flock is often linked to system-level factors, such as contaminated equipment, crates, vehicles, footwear, clothing, and hands, rather than direct contact with sick birds. Movement of people and materials between farms or barns can efficiently spread the virus. High stocking density, shared air space, and delayed detection can amplify transmission within the flock, transforming a single introduction event into a large outbreak, particularly in mixed agricultural settings where shared resources between poultry operations and other animal facilities increase risk. Identifying farm-system and biosecurity gaps as causes of outbreaks, which can be prevented through improved biosecurity, helps understand that avian influenza outbreaks result from interactions between virus presence, such as HPAI, LPAI, H5N1, and management practices, supporting later prevention strategies.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the primary causes of avian influenza outbreaks in poultry flocks?",
+        "How can influenza A viruses be introduced into a poultry operation?",
+        "What factors contribute to the amplification of avian influenza transmission within a flock?",
+        "How do shared resources between poultry operations and other animal facilities increase the risk of avian influenza outbreaks?",
+        "What are some preventable entry points that can convert environmental exposure into active infection?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Poultry flocks",
+        "Biosecurity",
+        "Virus introduction",
+        "Transmission amplification",
+        "Preventable entry points"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Farm system factors and biosecurity gaps",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "biosecurity gaps",
+        "fomites",
+        "farm management",
+        "system-level risk"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_01_direct_bird_to_bird",
+    "content": "Avian influenza viruses are transmitted through direct contact between infected and susceptible birds, with infected birds shedding influenza A viruses in respiratory secretions and feces. Close contact in high-density poultry housing facilitates rapid bird-to-bird transmission through shared airspace, feeders, drinkers, and litter, allowing for respiratory transmission via inhalation of virus-containing droplets or aerosols, and fecal-oral transmission through ingestion of contaminated litter, feed, or water. This direct transmission mechanism explains why outbreaks can escalate rapidly after the first few birds become infected, making isolation of infected birds rarely sufficient once widespread transmission has begun, highlighting the importance of disease-control measures to prevent the spread of avian influenza, including HPAI and LPAI subtypes such as H5N1, clade 2.3.4.4b, which can be detected using rRT-PCR, and distinguishing it from other poultry diseases like NDV and Mycoplasma.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How does bird flu spread within a flock?",
+        "What are the primary sources of infection in avian influenza?",
+        "Why is isolation of infected birds rarely sufficient in controlling outbreaks?",
+        "What are the main mechanisms of transmission of avian influenza?",
+        "How quickly can avian influenza spread once introduced into a flock?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Bird flu",
+        "Transmission",
+        "Infection",
+        "Flock",
+        "Poultry",
+        "Virus"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Direct bird-to-bird spread within flocks",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "direct transmission",
+        "respiratory secretions",
+        "fecal shedding",
+        "within-flock spread"
+      ],
+      "sources": [
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_02_indirect_fomite_routes",
+    "content": "Indirect transmission plays a critical role in the spread of avian influenza, including HPAI and LPAI subtypes such as H5N1, between birds, barns, and premises. Influenza A viruses can survive in organic material like manure, litter, and respiratory secretions, contaminating equipment, egg flats, and personal items, which act as fomites. Human activity drives fomite-mediated transmission, with workers, visitors, and service personnel potentially carrying virus on footwear, clothing, or hands, and shared equipment and vehicles spreading virus if cleaning and disinfection are inadequate. This highlights the importance of strict hygiene and movement controls, particularly in preventing the spread of clade 2.3.4.4b and other virulent strains, and underscores the link between avian influenza outbreaks and management practices, rather than just the presence of visibly sick birds, which can also be infected with other diseases like NDV and Mycoplasma, and can be diagnosed using rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How does avian influenza spread between birds and farms?",
+        "What role do fomites play in the transmission of avian influenza?",
+        "Can human activity contribute to the spread of avian influenza?",
+        "Why are strict hygiene and movement controls essential in preventing avian influenza outbreaks?",
+        "How do management practices and logistics impact the spread of avian influenza?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Indirect transmission",
+        "Fomites",
+        "Hygiene",
+        "Movement controls",
+        "Management practices",
+        "Logistics"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Indirect spread via contaminated equipment and people",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "fomites",
+        "equipment contamination",
+        "human movement",
+        "indirect transmission"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_03_wild_bird_to_poultry",
+    "content": "Wild birds, particularly waterfowl, are a major source of avian influenza virus introduction into domestic poultry populations, shedding virus without showing clinical disease. Transmission occurs when wild birds contaminate the environment surrounding poultry operations, including outdoor ranges, water sources, soil, and equipment, putting domestic poultry with outdoor access or proximity to wetlands, ponds, or migratory bird routes at increased risk. Even indoor flocks may be exposed indirectly through contaminated material carried inside on footwear, equipment, or vehicles. The movement of wild birds across large geographic areas allows them to introduce new virus strains, such as HPAI, LPAI, H5N1, and other subtypes, into previously unaffected regions, highlighting the importance of limiting contact between poultry and wild birds to prevent outbreaks, especially in areas where other diseases like NDV and Mycoplasma are present, and where diagnostic tools like rRT-PCR are used to detect viruses like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How do wild birds contribute to the spread of avian influenza?",
+        "What is the primary mode of transmission of avian influenza virus from wild birds to domestic poultry?",
+        "Can indoor poultry flocks be exposed to avian influenza virus indirectly?",
+        "Why do poultry operations with outdoor access or proximity to wetlands have a higher risk of avian influenza?",
+        "How do migratory bird routes affect the spread of avian influenza virus?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "wild birds",
+        "domestic poultry",
+        "transmission",
+        "prevention",
+        "risk",
+        "outbreaks"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Introduction from wild birds to domestic poultry",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "wild birds",
+        "waterfowl",
+        "environmental contamination",
+        "spillover to poultry"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_04_premises_to_premises",
+    "content": "Avian influenza can spread between poultry farms through human-mediated activities, including shared equipment, transport vehicles, service crews, and personnel movement, introducing virus carried on fomites into new flocks if biosecurity measures are insufficient. Live bird movement, such as transferring poultry, hatching eggs, or contaminated crates, also poses a significant risk, creating networks for rapid spread in densely populated poultry regions. While environmental factors like shared airflows play a role, human-mediated routes are more important, highlighting the need for coordinated regional and national disease control strategies, including movement restrictions and zoning, to manage avian influenza outbreaks, which often cluster geographically.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How can avian influenza spread between poultry farms without direct bird movement?",
+        "What are the primary human-mediated activities that contribute to premises-to-premises transmission of avian influenza?",
+        "What are some common ways that avian influenza can be introduced into new flocks?",
+        "Why do outbreaks of avian influenza often cluster geographically?",
+        "What control measures are often implemented to prevent the spread of avian influenza?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Poultry farms",
+        "Biosecurity",
+        "Fomites",
+        "Live bird movement",
+        "Movement restrictions",
+        "Zoning"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Spread between farms and premises",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "farm-to-farm spread",
+        "movement control",
+        "transport vehicles",
+        "premises transmission"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_01_lpai_mild_or_subclinical",
+    "content": "Low pathogenic avian influenza (LPAI) in poultry often causes mild or subclinical disease, with many infected birds showing no obvious clinical signs, allowing the virus to circulate undetected. Symptoms, when present, are non-specific and primarily involve the respiratory system or production performance, including sneezing, coughing, nasal discharge, and mild respiratory distress. LPAI infection can lead to reduced feed intake, lethargy, and decreased egg production in laying hens. Due to the subtle nature of these signs, which overlap with common poultry health issues, LPAI cannot be reliably identified by clinical observation alone, emphasizing the importance of surveillance and laboratory testing, such as rRT-PCR, to detect monitored subtypes like H5 or H7, and distinguish LPAI from other diseases like HPAI, NDV, or Mycoplasma, even when disease appears mild, as birds may still shed virus and pose a risk for further spread, particularly if the virus belongs to high-risk subtypes like H5N1 or clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the symptoms of low pathogenic avian influenza in poultry?",
+        "Can birds have bird flu without showing any obvious signs?",
+        "How does low pathogenic avian influenza affect egg production in laying hens?",
+        "What are the common respiratory signs associated with LPAI in poultry?",
+        "Why is laboratory testing necessary for diagnosing LPAI in poultry?"
+      ],
+      "keywords": [
+        "Low pathogenic avian influenza",
+        "Poultry",
+        "Bird flu",
+        "Respiratory signs",
+        "Egg production",
+        "Laying hens",
+        "Laboratory testing"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: LPAI usually causes mild or subclinical disease",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "LPAI",
+        "mild symptoms",
+        "subclinical infection",
+        "respiratory signs",
+        "reduced egg production"
+      ],
+      "sources": [
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_02_hpai_acute_systemic_high_mortality",
+    "content": "Highly pathogenic avian influenza (HPAI) causes severe disease in poultry, often associated with sudden high mortality, and can be distinguished from low pathogenic avian influenza (LPAI) by its rapid progression and severity. Infected birds may die abruptly or show acute depression, reduced feed and water consumption, and severe respiratory distress, with systemic involvement marked by cyanosis, swelling, hemorrhages, diarrhea, and neurologic manifestations. The clinical picture, similar to that of virulent Newcastle disease virus (NDV) and potentially complicated by co-infections such as Mycoplasma, is not unique, but the speed and severity of outbreaks warrant immediate containment and diagnostic action, including rapid diagnostic tests like rRT-PCR, particularly for H5N1 and clade 2.3.4.4b strains, to trigger urgent reporting and laboratory confirmation.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the symptoms of highly pathogenic avian influenza in poultry?",
+        "How does highly pathogenic avian influenza affect egg production in laying flocks?",
+        "What are the key differences between highly pathogenic avian influenza and other poultry diseases?",
+        "What are the warning signs of a highly pathogenic avian influenza outbreak?",
+        "How should a suspected highly pathogenic avian influenza outbreak be handled?"
+      ],
+      "keywords": [
+        "Highly pathogenic avian influenza",
+        "HPAI",
+        "Poultry disease",
+        "Avian influenza",
+        "Severe respiratory distress",
+        "Systemic involvement"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: HPAI causes severe systemic disease and high mortality",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "HPAI",
+        "sudden death",
+        "systemic signs",
+        "high mortality",
+        "neurologic symptoms"
+      ],
+      "sources": [
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_03_nonspecific_signs_and_diagnostic_overlap",
+    "content": "Avian influenza symptoms lack specificity, sharing clinical features with other poultry diseases and non-infectious conditions, such as respiratory signs, reduced feed intake, and drops in egg production. This overlap creates a risk of misinterpretation, as mild infections may be dismissed as routine issues and severe outbreaks attributed to other causes, like virulent Newcastle disease or other notifiable diseases. To manage the disease, symptoms should be viewed as indicators of suspicion, prompting limited movement, enhanced biosecurity, and laboratory testing, such as rRT-PCR, to confirm diagnosis, as accurate identification of avian influenza, including HPAI, LPAI, H5N1, and other subtypes like clade 2.3.4.4b, depends on diagnostic confirmation, and symptom recognition is only the first step in the response pathway, also considering other diseases like NDV and Mycoplasma.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the challenges in diagnosing avian influenza based on symptoms?",
+        "How does the lack of specificity in avian influenza symptoms affect disease management?",
+        "What are some common symptoms of avian influenza that can be mistaken for other diseases?",
+        "Why is laboratory testing necessary for accurate identification of avian influenza?",
+        "What is the role of biosecurity in preventing the spread of avian influenza?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "symptoms",
+        "disease management",
+        "diagnosis",
+        "biosecurity",
+        "laboratory testing",
+        "misclassification"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Non-specific signs and risk of misdiagnosis",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "non-specific symptoms",
+        "misdiagnosis risk",
+        "Newcastle disease overlap",
+        "clinical suspicion"
+      ],
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_01_clinical_suspicion_and_reporting",
+    "content": "Diagnosis of avian influenza, including HPAI and LPAI subtypes such as H5N1, cannot rely on clinical signs alone due to non-specific manifestations like respiratory illness, reduced feed intake, and decreased egg production, which can also be caused by other infectious agents like NDV and Mycoplasma. Suspicion is warranted in situations with sudden unexplained deaths, rapid rise in mortality, severe systemic illness, or sharp decline in egg production, particularly in flocks with known exposure to wild birds or location within an outbreak area. Once suspected, the response should include limiting movement, enhancing biosecurity, and notifying veterinary authorities, as delaying reporting can increase the risk of virus spread, such as clade 2.3.4.4b, and complicate diagnosis using methods like rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the challenges in diagnosing avian influenza?",
+        "How can we identify potential cases of avian influenza?",
+        "What are the key factors that increase the risk of avian influenza in poultry flocks?",
+        "What is the role of epidemiological context in diagnosing avian influenza?",
+        "What are the steps to take when avian influenza is suspected in a poultry flock?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Diagnosis",
+        "Clinical signs",
+        "Epidemiological context",
+        "Biosecurity",
+        "Veterinary authorities"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Clinical suspicion and reporting of avian influenza",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "clinical suspicion",
+        "epidemiological risk",
+        "early reporting",
+        "notifiable disease"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_02_laboratory_testing_methods",
+    "content": "Confirmation of avian influenza requires laboratory testing, with molecular detection, particularly real-time reverse transcription polymerase chain reaction (rRT-PCR), being the cornerstone of modern diagnosis, identifying influenza A viral RNA in clinical samples. Diagnostic workflows involve screening assays for influenza A virus, followed by subtype-specific testing for H5 and H7, and when positive, additional analyses determine pathogenicity, including genetic characterization and sequencing, to classify the virus as low pathogenic (LPAI) or highly pathogenic avian influenza (HPAI), such as H5N1 or clade 2.3.4.4b. Other methods, like antigen detection assays or serologic testing, may be used to assess prior exposure to viruses like NDV or Mycoplasma, but do not replace molecular testing for early and accurate outbreak detection, emphasizing the importance of sample selection, timing, and laboratory-based methods within official surveillance and testing networks.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How is avian influenza diagnosed?",
+        "What laboratory methods are used to confirm avian influenza?",
+        "What is the role of molecular detection in avian influenza diagnosis?",
+        "How do you determine the pathogenicity of an avian influenza virus?",
+        "What are the different types of laboratory tests used to diagnose avian influenza?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Laboratory testing",
+        "Molecular detection",
+        "rRT-PCR",
+        "Pathogenicity",
+        "Viral RNA",
+        "Influenza A virus"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Laboratory testing and virus confirmation",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "rRT-PCR",
+        "influenza A detection",
+        "H5 H7 subtyping",
+        "laboratory confirmation"
+      ],
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_03_differential_and_official_confirmation",
+    "content": "Avian influenza diagnosis requires differentiation from diseases with similar clinical presentations, notably virulent Newcastle disease, which can cause severe respiratory signs, neurological symptoms, reduced egg production, and high mortality. Laboratory results must be interpreted within an official diagnostic framework, with preliminary positive results verified by national reference laboratories to confirm virus subtype and pathogenicity, such as HPAI or LPAI, and identify specific strains like H5N1 or clade 2.3.4.4b. Official confirmation, often using techniques like rRT-PCR, has significant implications for disease management, determining control measures like quarantine, movement restrictions, and depopulation, and is crucial for distinguishing avian influenza from other diseases like NDV and Mycoplasma, making diagnosis a regulated disease management process that connects directly to legal and regulatory response actions.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key differences between avian influenza and other diseases with similar symptoms?",
+        "How do laboratory results contribute to avian influenza diagnosis?",
+        "What role do national reference laboratories play in confirming avian influenza cases?",
+        "What are the implications of official confirmation on disease management?",
+        "Why is it essential to view avian influenza diagnosis as a regulated disease management process?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Differential diagnosis",
+        "Laboratory results",
+        "National reference laboratories",
+        "Disease management",
+        "Regulated process"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Differential diagnosis and official confirmation",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "differential diagnosis",
+        "Newcastle disease",
+        "reference laboratory",
+        "official confirmation"
+      ],
+      "sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/24899433/",
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_01_no_curative_treatment",
+    "content": "There is no curative treatment for avian influenza virus infection in poultry, as individual-bird treatment does not stop virus replication or shedding. Consequently, treatment is not an effective control strategy, particularly for highly pathogenic avian influenza (HPAI). When HPAI is suspected or confirmed, control measures include immediate isolation, restriction of bird and material movement, and official response protocols, often involving depopulation of infected flocks to prevent further spread. Similarly, for low pathogenic avian influenza (LPAI), control is prioritized over treatment, as infected birds can continue to shed virus, and supportive care may delay detection and reporting. The correct response to avian influenza, including strains like H5N1, clade 2.3.4.4b, and other diseases like Newcastle disease virus (NDV) and Mycoplasma, involves applying population-level control measures, such as rRT-PCR testing, to limit spread and protect the poultry industry.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What is the most effective way to control avian influenza outbreaks?",
+        "Can avian influenza be cured in poultry?",
+        "What are the standard control measures for highly pathogenic avian influenza?",
+        "How does the treatment of avian influenza differ from other poultry diseases?",
+        "What is the primary focus of disease management when HPAI is suspected or confirmed?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Viral disease",
+        "Highly pathogenic avian influenza",
+        "Outbreak control",
+        "Population-level control measures",
+        "Poultry industry",
+        "Low pathogenic avian influenza"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: No curative treatment for avian influenza",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "no curative treatment",
+        "outbreak control",
+        "HPAI management",
+        "population-level response"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_02_depopulation_and_quarantine",
+    "content": "Depopulation and quarantine are crucial control measures for managing avian influenza outbreaks, especially those involving highly pathogenic strains like HPAI and H5N1. Infected birds shed large quantities of virus, necessitating rapid removal of infected and exposed flocks to interrupt transmission, followed by proper disposal of carcasses and contaminated materials. Quarantine and movement restrictions are applied to affected premises and surrounding areas to prevent spread, including zoning, controlled movement of personnel and equipment, and restrictions on transporting birds, eggs, and poultry products, particularly in regions with high poultry density where farm-to-farm spread can occur rapidly, highlighting the importance of compliance with these measures to contain diseases like HPAI, LPAI, and other poultry diseases such as NDV and Mycoplasma, which can be detected using methods like rRT-PCR, and may involve strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the primary control measures for managing avian influenza outbreaks?",
+        "How does depopulation help in preventing the spread of avian influenza?",
+        "What are the economic implications of depopulation in poultry farming?",
+        "What are the key factors that contribute to the rapid spread of avian influenza in poultry farms?",
+        "Why is compliance with quarantine and movement controls essential for disease containment?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "depopulation",
+        "quarantine",
+        "movement restrictions",
+        "poultry sector",
+        "disease containment",
+        "highly pathogenic strains"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Depopulation, quarantine, and movement control",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "depopulation",
+        "quarantine",
+        "movement restrictions",
+        "outbreak containment"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_03_medication_and_vaccination_limits",
+    "content": "Medications have a limited role in managing avian influenza, as antiviral drugs are not approved for routine use in food-producing poultry and do not reliably eliminate virus shedding. Supportive care may be used in non-commercial settings, but it can complicate surveillance by masking clinical signs, making empirical treatment of suspected cases discouraged. Vaccination can be a supplementary control tool, reducing clinical disease and virus shedding, but not preventing infection. Vaccination strategies must be integrated with surveillance and biosecurity programs to prevent silent virus circulation, and are often part of long-term control planning, emphasizing the need for structured disease-control frameworks to effectively manage avian influenza, including HPAI, LPAI, and specific strains like H5N1, and in conjunction with diagnostic tools such as rRT-PCR, and consideration of other poultry diseases like NDV and Mycoplasma, and specific virus clades like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the limitations of using antiviral drugs to treat avian influenza?",
+        "Can vaccination be used as a control measure for avian influenza?",
+        "How effective are medications in managing avian influenza in food-producing poultry?",
+        "What are the risks of using supportive care in non-commercial or research settings?",
+        "How do vaccination strategies need to be integrated with surveillance and biosecurity programs?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Antiviral drugs",
+        "Vaccination",
+        "Supportive care",
+        "Biosecurity",
+        "Surveillance",
+        "Disease control"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Limits of drugs and vaccination",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "antiviral limitations",
+        "vaccination strategy",
+        "supportive care",
+        "regulatory oversight"
+      ],
+      "sources": [
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_01_core_biosecurity_principles",
+    "content": "Biosecurity is the most effective strategy for preventing avian influenza in poultry populations, focusing on reducing virus entry opportunities rather than eliminating the virus from the environment. Core biosecurity principles involve controlling access to poultry areas, minimizing domestic-wild bird contact, and preventing indirect introduction through contaminated people, equipment, and vehicles. Practical measures include limiting visitors, using dedicated footwear and clothing, installing footbaths, and implementing cleaning and disinfection protocols. Consistency and staff awareness are crucial, as a single breach can allow virus introduction, emphasizing that biosecurity is a system of daily practices designed to block transmission pathways and reduce outbreak risk, particularly for diseases like HPAI, LPAI, and H5N1, which can be detected using rRT-PCR, and other poultry diseases such as NDV and Mycoplasma, including strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the core principles of biosecurity in poultry operations?",
+        "How can avian influenza be prevented in domestic birds?",
+        "What are some practical measures to implement biosecurity in poultry farms?",
+        "Why is consistency and staff awareness crucial in biosecurity?",
+        "What are some common pathways for virus introduction in poultry operations?"
+      ],
+      "keywords": [
+        "Biosecurity",
+        "Avian influenza",
+        "Poultry operations",
+        "Influenza A viruses",
+        "Wild birds",
+        "Prevention",
+        "Transmission pathways"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Core biosecurity principles for avian influenza",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "biosecurity",
+        "virus entry prevention",
+        "cleaning and disinfection",
+        "farm access control"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.merckvetmanual.com/poultry/avian-influenza-in-poultry-and-wild-birds/avian-influenza-in-poultry-and-wild-birds",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_02_wild_bird_interface_control",
+    "content": "Reducing contact between domestic poultry and wild birds is crucial for avian influenza prevention, as wild birds, especially waterfowl, are natural reservoirs for influenza A viruses and can shed virus without showing disease. Poultry operations with outdoor access are at increased risk and should implement safeguards like fencing, netting, covering feed storage, and preventing access to contaminated water sources. Indoor flocks should focus on preventing indirect contamination from runoff, mud, and debris. Seasonal factors, such as migratory bird movements, also influence risk, and heightened vigilance is recommended during high-risk seasons, particularly in regions near wetlands or migratory routes, to mitigate the introduction of viruses like HPAI, LPAI, and H5N1, which can be detected using methods like rRT-PCR, and to prevent the spread of other diseases like NDV and Mycoplasma, especially those associated with clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How can I prevent the spread of avian influenza in my backyard flock?",
+        "What are some effective ways to reduce contact between domestic poultry and wild birds?",
+        "Why is it crucial to prevent interaction between domestic poultry and wild birds?",
+        "What are some seasonal factors that can increase the risk of avian influenza?",
+        "How can I protect my indoor poultry flock from indirect contamination?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Wild birds",
+        "Poultry operations",
+        "Risk factors",
+        "Prevention measures",
+        "Seasonal factors",
+        "Wildlife management"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Managing the wild bird–poultry interface",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "wild birds",
+        "waterfowl",
+        "environmental contamination",
+        "outdoor poultry risk"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_03_surveillance_and_early_detection",
+    "content": "Surveillance and early detection are crucial for avian influenza, as low pathogenic infections, such as LPAI, may exhibit minimal clinical signs. Monitoring flock health, production, and mortality allows for early identification of abnormal trends. Preventive management includes reporting unusual illness or deaths, maintaining records, and participating in surveillance programs. Education and training of farm personnel on biosecurity principles and recognition of early warning signs, such as those for HPAI, H5N1, or other diseases like NDV and Mycoplasma, are also essential, enabling rapid reporting and testing, including rRT-PCR, to reduce the time between virus introduction, such as clade 2.3.4.4b, and control measures, limiting spread to other premises.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the essential preventive tools for avian influenza?",
+        "How can early detection of avian influenza be achieved?",
+        "What role does education play in preventing avian influenza?",
+        "What are the key components of a preventive management plan for avian influenza?",
+        "How can rapid reporting and testing help control the spread of avian influenza?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "surveillance",
+        "prevention",
+        "biosecurity",
+        "education",
+        "training",
+        "detection"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Surveillance and early detection",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "surveillance",
+        "early detection",
+        "reporting",
+        "preventive management"
+      ],
+      "sources": [
+        "https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza",
+        "https://www.avma.org/resources-tools/animal-health-and-welfare/animal-health/avian-influenza"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_03_current_situation_one_health_context",
+    "content": "H5 avian influenza is widespread in wild birds globally, sparking outbreaks in poultry and identified in U.S. dairy cattle, with human infections uncommon and typically associated with direct animal exposure. For poultry health programs, this expanded host range emphasizes the need for biosecurity planning to account for wildlife pressure, farm-to-farm movements, and the broader animal production environment. Early recognition and prompt containment are crucial, achieved through linking farm monitoring to regional situation updates, building clear escalation pathways for abnormal morbidity or mortality patterns, and coordinating animal-exposure follow-up for staff. A One Health approach supports interventions such as improving perimeter controls, managing wild bird attractants, and tightening visitor policies during periods of heightened regional activity, particularly for diseases like HPAI, LPAI, and H5N1, which can be detected using rRT-PCR, and other poultry diseases like NDV and Mycoplasma, which can be influenced by factors such as clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the current public health concerns regarding avian influenza?",
+        "How does the spread of H5 avian influenza affect poultry and dairy cattle?",
+        "What are the risks of human infection from avian influenza?",
+        "What are the key considerations for poultry health programs in light of the expanded host range of avian influenza?",
+        "How can early recognition and prompt containment of avian influenza outbreaks be achieved?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "H5",
+        "Biosecurity",
+        "Wildlife pressure",
+        "Farm-to-farm movements",
+        "Animal production environment",
+        "One Health"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Current situation highlights One Health interfaces",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "H5N1",
+        "wild birds",
+        "poultry outbreaks",
+        "dairy cows",
+        "public health"
+      ],
+      "sources": [
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_04_h5n1_global_human_burden_and_spillover",
+    "content": "A recent review of highly pathogenic H5N1 notes that the virus remains a global challenge due to its broad circulation and severe outcomes in birds. The review summarizes World Health Organization data on confirmed human infections and deaths since 2003, highlighting that zoonotic transmission can be clinically serious. Outbreaks in mammalian species and ongoing genetic change in circulating viruses, including HPAI and LPAI, drive pandemic risk discussions. For poultry, this data supports aggressive surveillance and rapid response to high-consequence avian influenza, such as H5N1, and informs strict controls on carcass handling and transparent reporting, especially when outbreaks coincide with unusual events in mammals, emphasizing the need for 'spillover awareness' in outbreak documentation, considering potential interfaces with other domestic animals and wildlife, and utilizing diagnostic tools like rRT-PCR to detect viruses such as NDV and Mycoplasma, and monitoring specific clades like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the global challenges posed by the H5N1 virus?",
+        "How does the World Health Organization track human infections and deaths caused by H5N1?",
+        "What are the implications of zoonotic transmission of H5N1?",
+        "How do poultry outbreaks contribute to pandemic risk discussions?",
+        "What measures can be taken to prevent the spread of avian influenza?"
+      ],
+      "keywords": [
+        "H5N1",
+        "Avian influenza",
+        "Zoonotic transmission",
+        "Pandemic risk",
+        "Surveillance",
+        "Response",
+        "Spillover awareness"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Global H5N1 burden and cross-species spillover concerns",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "HPAI",
+        "H5N1",
+        "human cases",
+        "case fatality",
+        "mammalian spillover"
+      ],
+      "sources": [
+        "https://www.sciencedirect.com/science/article/pii/S1477893923000984"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_05_research_landscape_and_key_questions",
+    "content": "Research centers tracking highly pathogenic avian influenza (HPAI) focus on field epidemiology, laboratory virology, and applied biosecurity, exploring how viruses like H5N1 move between wild birds and commercial systems, and why some lineages, such as clade 2.3.4.4b, persist across seasons. They also quantify the effectiveness of farm-level interventions and study viral evolution through mutation and reassortment, which can impact diagnostic performance of tests like rRT-PCR and vaccine matching for diseases like NDV and Mycoplasma. This informs control strategies, which involve a chain of decisions including risk assessment, detection, and mitigation, highlighting the importance of integrating research-derived concepts, such as monitoring at wildlife–farm interfaces and using genomics to interpret outbreak relatedness, into operational checklists and data fields to effectively manage LPAI and HPAI outbreaks.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key areas of focus for research centers tracking highly pathogenic avian influenza?",
+        "How do viruses move between wild birds and commercial systems?",
+        "What are the implications of viral evolution on host range and vaccine matching?",
+        "What is the significance of monitoring at wildlife-farm interfaces in controlling avian influenza?",
+        "How can genomics be used to interpret outbreak relatedness?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "viral evolution",
+        "biosecurity",
+        "epidemiology",
+        "virology",
+        "genomics",
+        "outbreak control"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Research themes shaping modern avian influenza control",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "research agenda",
+        "surveillance",
+        "viral evolution",
+        "farm biosecurity",
+        "One Health"
+      ],
+      "sources": [
+        "https://www.vet.cornell.edu/highly-pathogenic-avian-influenza-bird-flu-resource-center/avian-influenza-research"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_07_pirbright_research_on_ai_and_ncd",
+    "content": "The Pirbright Institute's research integrates molecular virology, immunology, and field relevance to study avian influenza and Newcastle disease, aiming to identify genetic determinants influencing infectivity, transmissibility, virulence, and host specificity, and improve diagnostics and vaccine approaches against evolving viruses like HPAI, LPAI, and H5N1. This approach highlights the need for differential diagnosis and control strategies for co-circulating threats, including NDV and Mycoplasma. By connecting clinical patterns, laboratory confirmation via rRT-PCR, and genetic interpretation, including clade information like clade 2.3.4.4b, users can build informative entries that facilitate downstream retrieval and analysis of outbreaks, differing between farms or years, and support research questions about evolution and control.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key research goals of the Pirbright Institute's avian influenza and Newcastle disease program?",
+        "How do researchers at the Pirbright Institute approach differential diagnosis of poultry respiratory syndromes?",
+        "What are the benefits of storing sequence or clade data in a knowledge base related to avian influenza and Newcastle disease?",
+        "What are some 'research-informed' tags that can be used to improve content retrieval in a knowledge base about avian influenza and Newcastle disease?",
+        "How does the Pirbright Institute's research program address the challenge of evolving viruses in avian influenza and Newcastle disease?"
+      ],
+      "keywords": [
+        "Pirbright Institute",
+        "Avian Influenza",
+        "Newcastle Disease",
+        "Molecular Virology",
+        "Immunology",
+        "Field Relevance",
+        "Vaccine Approaches"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Pirbright research themes relevant to avian influenza preparedness",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "Pirbright Institute",
+        "molecular determinants",
+        "host range",
+        "vaccinology",
+        "diagnostics"
+      ],
+      "sources": [
+        "https://www.pirbright.ac.uk/our-science/research-groups/avian-influenza-and-newcastle-disease"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_09_risk_communication_and_public_attention_cycles",
+    "content": "Avian influenza media coverage surges during unusual animal detections or high poultry losses, amplifying public concern and distorting risk perception. Official updates focus on grounding risk messages in exposure patterns, separating occupational risk from general community risk. Aligning farm communication with authoritative updates can reduce rumor-driven behaviors, such as unplanned bird movements or concealment of illness, complicating control efforts against diseases like HPAI, LPAI, and H5N1. A practical approach is to develop consistent messages explaining knowns, uncertainties, and recommended actions for producers and workers, using techniques like rRT-PCR for diagnosis, while avoiding false reassurance and alarmist framing, and considering other poultry diseases like NDV and Mycoplasma, and specific H5N1 strains such as clade 2.3.4.4b, to improve response speed and coordination during outbreaks.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How can we effectively communicate risk information during avian influenza outbreaks?",
+        "What strategies can poultry stakeholders use to reduce rumor-driven behaviors?",
+        "How can we create consistent messages for producers and workers during avian influenza outbreaks?",
+        "What is the role of official situation updates in risk communication during avian influenza outbreaks?",
+        "How can we improve response speed and consistency during avian influenza outbreaks?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Risk communication",
+        "Poultry stakeholders",
+        "Occupational risk",
+        "Community risk",
+        "Rumor-driven behaviors",
+        "Consistent messages"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Public attention cycles and the need for clear risk communication",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "risk communication",
+        "public attention",
+        "pandemic concern",
+        "misinformation management"
+      ],
+      "sources": [
+        "https://www.sciencefocus.com/news/bird-flu-2026-analysis",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_08_curated_literature_collections_support_continuous_updates",
+    "content": "Avian influenza knowledge, including HPAI and LPAI subtypes like H5N1, evolves rapidly, prompting scientific publishers to maintain curated collections of recent peer-reviewed articles on virology, transmission, diagnostics using methods like rRT-PCR, and countermeasures. These collections serve as an update stream for practitioners, highlighting topics that require refreshed content, such as clade 2.3.4.4b-specific assays, host adaptation evidence, and updated vaccine platforms, while also considering other poultry diseases like NDV and Mycoplasma. By translating consistent research results into reusable chunks with clear metadata, operational knowledge base workflows aim to reduce redundancy and keep core entries aligned with current evidence, supporting scientific accuracy and retrieval quality, and triggering revisions when different sources converge on a new consensus.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How can I stay updated on the latest avian influenza research?",
+        "What are some ways to efficiently track new findings in virology?",
+        "How can I use curated collections to maintain knowledge accuracy?",
+        "What is the best approach to translating research papers into reusable chunks?",
+        "How can I identify when different sources converge on a new consensus?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Curated collections",
+        "Virology",
+        "Knowledge base",
+        "Scientific accuracy",
+        "Retrieval quality",
+        "Consensus"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Curated literature collections help keep KB content current",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "scientific literature",
+        "curated collection",
+        "updates",
+        "peer-reviewed research"
+      ],
+      "sources": [
+        "https://journals.asm.org/avian-flu-collection"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_07_surveillance_networks_for_early_warning",
+    "content": "Early warning is a prevention tool that enables control actions before infection is widely established in commercial poultry. Surveillance discussions include expanding data streams, such as wastewater monitoring using sensitive digital PCR assays, and wildlife-focused initiatives to track detections in remote regions. This helps understand geographic spread and protects vulnerable ecosystems from viruses like HPAI, LPAI, and H5N1. For poultry producers, surveillance signals can originate from environmental systems, wildlife networks, and international reporting platforms, justifying temporary biosecurity tightening or changes in procurement and transport practices to prevent the spread of diseases like NDV and Mycoplasma, which can be detected using rRT-PCR, particularly for clade 2.3.4.4b. A well-structured knowledge base can include 'surveillance touchpoints' to bridge external early-warning data and on-farm decision-making.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are some early warning tools used in commercial poultry?",
+        "How can wastewater monitoring help detect viral activity in poultry?",
+        "What role do wildlife-focused initiatives play in tracking geographic spread of viruses?",
+        "How can poultry producers use surveillance data to inform on-farm decision-making?",
+        "What is the importance of biosecurity in preventing viral infections in poultry?"
+      ],
+      "keywords": [
+        "Early warning",
+        "Commercial poultry",
+        "Viral activity",
+        "Surveillance",
+        "Biosecurity",
+        "Poultry producers"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Surveillance networks for early warning across regions and ecosystems",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "surveillance network",
+        "early warning",
+        "wildlife monitoring",
+        "wastewater",
+        "Antarctica"
+      ],
+      "sources": [
+        "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/breaking-spread-avian-flu-new-tools-faster-detection-2025-08-22_en",
+        "https://scar.org/library-data/avian-flu"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_05_genome_structure_and_subtype_nomenclature",
+    "content": "Avian influenza viruses, belonging to influenza A, have a segmented, negative-sense RNA genome, allowing co-infection of a host cell by different viruses to generate progeny with mixed segment combinations, accelerating diversity. Subtype names, such as H5N1, are derived from hemagglutinin (H) and neuraminidase (N) surface glycoproteins. Avian influenza surveillance reports both subtype and pathotype, with subtype indicating antigenic 'labels' and pathotype (low vs highly pathogenic, e.g., LPAI vs HPAI) reflecting viral behavior in poultry, influenced by additional genetic features, including specific clades like clade 2.3.4.4b. Capturing subtype, gene clade information, and co-circulating strains' context can help interpret outbreak origins, such as new introductions, continuations, or reassortant events, often identified using diagnostic tools like rRT-PCR, and differentiated from other poultry diseases like NDV and Mycoplasma.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What is the genetic structure of avian influenza viruses?",
+        "How do co-infections of host cells by different influenza A viruses contribute to diversity?",
+        "What do subtype names (e.g. H5N1) represent in avian influenza viruses?",
+        "Why is pathotype an important factor in avian influenza surveillance?",
+        "How do genetic features influence the behavior of avian influenza viruses in poultry?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Influenza A",
+        "Segmented RNA genome",
+        "Hemagglutinin",
+        "Neuraminidase",
+        "Pathotype",
+        "Reassortant event"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Influenza A genome features that enable diversity",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "influenza A",
+        "segmented RNA",
+        "HA",
+        "NA",
+        "reassortment",
+        "subtyping"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_06_molecular_basis_of_high_pathogenicity",
+    "content": "Highly pathogenic avian influenza (HPAI) in chickens is associated with genetic changes that alter hemagglutinin activation, particularly in H5 and H7 lineages, where the hemagglutinin cleavage site contains basic amino acids that can be processed by host proteases, supporting replication beyond respiratory and intestinal epithelium. Pathogenesis is multifactorial, influenced by internal genes affecting replication efficiency and host responses, so two viruses with the same H and N subtype, such as H5N1, can differ in clinical impact depending on their genetic constellation, including clade designations like clade 2.3.4.4b. Recording detection details, including HPAI status and clade information, helps explain varying response actions, which can also be informed by diagnostic techniques like rRT-PCR, and is crucial in distinguishing between HPAI and low pathogenic avian influenza (LPAI), as well as other poultry diseases like Newcastle disease virus (NDV) and Mycoplasma infections.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What genetic changes are associated with highly pathogenic avian influenza in chickens?",
+        "How does the hemagglutinin cleavage site contribute to the pathogenesis of avian influenza?",
+        "What is the role of host proteases in the activation of hemagglutinin?",
+        "How do internal genes influence the replication efficiency and host responses to avian influenza?",
+        "What factors determine the clinical impact of avian influenza viruses with the same H and N subtype?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "hemagglutinin",
+        "pathogenesis",
+        "genetic changes",
+        "host proteases",
+        "replication efficiency"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Molecular features linked to high pathogenicity in poultry",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "HPAI",
+        "HA cleavage site",
+        "systemic infection",
+        "virulence determinants"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/",
+        "https://www.sciencedirect.com/science/article/pii/S1477893923000984"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_07_host_adaptation_markers_and_evolutionary_monitoring",
+    "content": "Preparedness discussions for H5N1 research priorities emphasize tracking genetic changes associated with adaptation to new hosts, focusing on mutations that alter receptor binding preferences, replication efficiency, or transmission potential in mammals. This is crucial for risk assessment, as it depends on the specific viral lineages circulating and their genetic signatures. In poultry systems, this information improves interpretation of laboratory results, such as sequencing data, which can help differentiate repeated introductions from local persistence and explain changes in clinical severity by linking detections to clade or genotype, including clade 2.3.4.4b. A knowledge base (KB) can support this by defining key genomic terms and providing fields to store clade names, notable mutations, and sequence information sources, ultimately aiding in the diagnosis and monitoring of H5N1, as well as other avian diseases like HPAI, LPAI, NDV, and Mycoplasma, using techniques such as rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key factors to consider when tracking genetic changes in H5N1 viruses?",
+        "How can we differentiate between repeated introductions and local persistence of H5 viruses in poultry systems?",
+        "What is the significance of monitoring mutations in H5 viruses that may alter receptor binding preferences?",
+        "How can a knowledge base support the interpretation of laboratory results for H5 virus detections?",
+        "What are the key genomic terms that should be defined in a knowledge base for H5 virus research?"
+      ],
+      "keywords": [
+        "H5N1",
+        "genetic changes",
+        "adaptation",
+        "receptor binding",
+        "replication efficiency",
+        "transmission potential",
+        "poultry systems"
+      ]
+    },
+    "metadata": {
+      "title": "Cause: Host adaptation markers and why genomic monitoring matters",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "host adaptation",
+        "receptor binding",
+        "polymerase mutations",
+        "genomic surveillance",
+        "risk assessment"
+      ],
+      "sources": [
+        "https://cdn.who.int/media/docs/default-source/consultation-rdb/summary-19mar2025.pdf?sfvrsn=5dba0b8_3",
+        "https://www.sciencedirect.com/science/article/pii/S1477893923000984"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_05_reservoirs_and_interface_driven_spread",
+    "content": "Wild aquatic birds, reservoirs for many avian influenza A viruses, introduce viruses into domestic settings through their movements. Poultry farms near wetlands, migratory stopovers, or areas concentrating wild birds have a higher probability of contamination via water, litter, equipment, or outdoor ranges. The role of wild birds remains crucial, even as mammalian detections increase, indicating the ecological network now involves additional species and environments. Transmission into poultry often occurs indirectly through contaminated footwear, crates, feed delivery routes, vehicles, and shared personnel, with live bird marketing systems facilitating the spread of silent infections. Documenting 'interface factors' such as proximity to wild bird habitat, shared transport assets, and marketing links is useful, as these details explain why some flocks become infected despite limited direct contact with other poultry.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the primary sources of avian influenza A viruses?",
+        "How do wild aquatic birds contribute to the spread of avian influenza?",
+        "What are some common pathways for transmission of avian influenza into poultry farms?",
+        "What role do live bird marketing systems play in the spread of avian influenza?",
+        "What factors increase the risk of contamination of poultry farms by avian influenza?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Wild aquatic birds",
+        "Poultry farms",
+        "Transmission pathways",
+        "Live bird marketing",
+        "Ecological network",
+        "Interface factors"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Reservoirs and interfaces that drive introductions into poultry",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "wild birds",
+        "reservoir",
+        "introduction pathways",
+        "farm interface",
+        "mammals"
+      ],
+      "sources": [
+        "https://www.sciencedirect.com/science/article/pii/S1477893923000984",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_07_environmental_stability_in_water_and_organic_material",
+    "content": "Influenza A viruses, including HPAI and LPAI subtypes like H5N1, can be shed in respiratory secretions and feces, with the fecal-oral route driving maintenance in aquatic environments. Water and organic material can act as vehicles for virus movement, particularly when temperatures allow viral survival. This is relevant to the epidemiology of clade 2.3.4.4b and other strains. On farms, virus-laden debris can accumulate in litter, dust, and manure handling areas, facilitating mechanical transfer via footwear and equipment, similar to the transmission dynamics of other poultry diseases like NDV and Mycoplasma. Prevention requires physical separation of clean and dirty zones, minimizing back-and-forth movements, and implementing controls like water management and careful litter handling, which can be monitored using diagnostic tools such as rRT-PCR, to reduce cross-contamination and break the transmission cycle.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How do influenza A viruses spread in aquatic environments?",
+        "What are the primary routes of transmission for avian influenza?",
+        "How can water and organic material contribute to the spread of influenza A viruses?",
+        "What are some effective ways to prevent cross-contamination on farms?",
+        "How do environmental factors influence the survival and transmission of influenza A viruses?"
+      ],
+      "keywords": [
+        "Influenza A",
+        "Viral Shedding",
+        "Avian Influenza",
+        "Waterfowl",
+        "Fecal-oral Route",
+        "Environmental Stability",
+        "Cross-Contamination"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission: Environmental stability in water and organic material",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "environmental persistence",
+        "waterborne transmission",
+        "fecal shedding",
+        "organic matter",
+        "farm sanitation"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_04_characteristic_severe_clinical_picture_in_chickens",
+    "content": "Chickens affected by 'bird flu' outbreaks, often caused by HPAI or LPAI subtypes like H5N1, exhibit a short incubation period, typically hours to a few days. They stop eating, appear febrile and depressed, and show labored breathing, open-mouth panting, and watery secretions from the eyes, nostrils, or beak. Gastrointestinal signs, such as foul-smelling diarrhea, are prominent, while circulatory compromise is reflected in darkened or swollen combs and wattles, and hemorrhagic lesions on the skin of the legs. Neurologic involvement, including unsteady gait, spinning, or sudden collapse, may also occur, and recording the order of appearance of these signs can help differentiate a peracute high-impact event from slower-moving respiratory complexes, which can be confirmed through diagnostic tests like rRT-PCR, particularly for clade 2.3.4.4b, and distinguished from other poultry diseases such as NDV and Mycoplasma.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the common symptoms of bird flu in chickens?",
+        "How quickly can bird flu outbreaks progress in chickens?",
+        "What are some key signs of circulatory compromise in birds with bird flu?",
+        "Can bird flu affect the nervous system of chickens?",
+        "How can responders differentiate between bird flu and other respiratory complexes?"
+      ],
+      "keywords": [
+        "bird flu",
+        "chickens",
+        "incubation period",
+        "symptoms",
+        "circulatory compromise",
+        "neurologic involvement",
+        "respiratory complex"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Characteristic severe clinical picture in chickens during HPAI outbreaks",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "clinical signs",
+        "green diarrhea",
+        "cyanotic comb",
+        "leg hemorrhage",
+        "neurologic signs",
+        "high mortality"
+      ],
+      "sources": [
+        "https://biopharmachemie.com/thong-tin-ky-thuat/cham-soc-phong-tri-benh-tren-gia-cam-thuy-cam/cum-gia-cam-cach-phong-benh-hieu-qua-nhat.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_05_species_dependent_expression_and_subclinical_shedding",
+    "content": "Avian influenza control is challenging due to varying clinical expression by host species, age, and virus genotype. Domestic chickens and turkeys are used as 'indicator' species, as severe strains like HPAI (e.g., H5N1, clade 2.3.4.4b) can produce obvious illness and mortality, whereas duck and goose populations may show little disease despite virus presence. This creates a surveillance blind spot, where quiet infections in waterfowl can maintain viral circulation and seed introductions into susceptible poultry. Flocks sharing water sources or equipment with waterfowl warrant attention, and monitoring production metrics can reveal early signals. Noting species composition and contact patterns, such as mixed duck-chicken holdings, helps interpret epidemiological connections, especially when using diagnostic tools like rRT-PCR to detect viruses, including HPAI, LPAI, NDV, and Mycoplasma, and when investigating disease outbreaks.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the challenges in controlling avian influenza?",
+        "How do different host species affect the clinical expression of avian influenza?",
+        "What are the characteristics of severe strains of avian influenza?",
+        "Why is it difficult to detect avian influenza in waterfowl?",
+        "What are some early signs of avian influenza in poultry flocks?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Host species",
+        "Virus genotype",
+        "Surveillance blind spot",
+        "Waterfowl",
+        "Poultry",
+        "Clinical expression"
+      ]
+    },
+    "metadata": {
+      "title": "Symptoms: Species-dependent expression and the problem of subclinical shedders",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "ducks",
+        "waterfowl",
+        "subclinical infection",
+        "shedding",
+        "sentinel flocks"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/",
+        "https://www.sciencedirect.com/science/article/pii/S1477893923000984"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_05_case_investigation_sampling_and_genomic_confirmation",
+    "content": "One Health investigations of H5N1 spillover events demonstrate how diagnostic confidence is built from complementary methods. In a Michigan investigation, rRT-PCR detected influenza A(H5) virus in nasal swabs and brain tissue of infected indoor cats, reflecting their respiratory and neurologic signs. Genetic sequencing identified clade 2.3.4.4b virus, enabling comparison with viruses in local dairy cattle. Similarly, in poultry diagnostics, sample selection should match clinical presentation and pathotype suspicion, such as HPAI or LPAI, and sequencing can clarify relatedness among detections, including NDV and Mycoplasma. Practical coordination, including obtaining occupational histories and contacting authorities, affects access to confirmatory testing, such as rRT-PCR, and risk assessment, highlighting the importance of cross-sector communication and informative retrospective outbreak analysis with sample type, test method, and clade information.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key methods used in One Health investigations of H5N1 spillover events?",
+        "How do veterinarians contribute to H5N1 diagnostics and risk assessment?",
+        "What is the significance of genetic sequencing in H5N1 virus detection?",
+        "What are the practical coordination steps for veterinarians when H5N1 is suspected?",
+        "How do sample selection and test methods impact H5N1 diagnostics?"
+      ],
+      "keywords": [
+        "One Health",
+        "H5N1",
+        "Diagnostic Confidence",
+        "Reverse Transcription PCR",
+        "Genetic Sequencing",
+        "Poultry Diagnostics"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Sampling choices and genomic confirmation in One Health investigations",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "RT-PCR",
+        "sequencing",
+        "clade 2.3.4.4b",
+        "genotype",
+        "One Health investigation"
+      ],
+      "sources": [
+        "https://www.cdc.gov/mmwr/volumes/74/wr/pdfs/mm7405a2-H.pdf"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_06_digital_rt_pcr_for_clade_specific_detection",
+    "content": "The EU JRC has developed digital RT-PCR tests to detect avian influenza RNA with higher sensitivity than conventional RT-PCR, particularly in complex sample matrices like wastewater where viral material may be present at low levels and multiple pathogens co-exist. These assays can differentiate clade 2.3.4.4b A(H5Nx) viruses from other influenza A viruses, including seasonal human strains, in a single test format. The development approach involved computational screening of thousands of avian influenza sequences to identify conserved genetic regions, highlighting the importance of choosing diagnostic tools that work in surveillance settings with pooled, diluted, or contaminated samples. This is crucial for poultry disease management, where diagnosis involves not only confirming infection but also selecting tools that can handle complex samples, and laboratory capacity documentation should include availability of digital PCR options and validated clade discrimination.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the advantages of digital RT-PCR tests in detecting avian influenza RNA?",
+        "How do digital RT-PCR tests compare to conventional RT-PCR tests in terms of sensitivity?",
+        "What is the significance of clade 2.3.4.4b A(H5Nx) viruses in avian influenza diagnosis?",
+        "What is the importance of computational screening in developing avian influenza assays?",
+        "How do digital PCR options impact laboratory capacity in poultry surveillance settings?"
+      ],
+      "keywords": [
+        "digital RT-PCR",
+        "avian influenza",
+        "sensitivity",
+        "clade 2.3.4.4b",
+        "computational screening",
+        "poultry surveillance"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Digital RT-PCR assays for clade 2.3.4.4b A(H5Nx) surveillance",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "digital RT-PCR",
+        "wastewater surveillance",
+        "clade 2.3.4.4b",
+        "duplex assay",
+        "A(H5Nx)"
+      ],
+      "sources": [
+        "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/breaking-spread-avian-flu-new-tools-faster-detection-2025-08-22_en"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_08_serology_and_antigenic_characterization_for_surveillance",
+    "content": "Molecular assays detect active infection, but preparedness discussions also emphasize serology and antigenic characterization for understanding exposure and immunity. Serologic testing estimates virus circulation in a population with inconsistent clinical disease, while antigenic analysis informs cross-protection from existing vaccines or prior exposures. Standardized reagents and careful interpretation are crucial, as antibody results can be influenced by vaccination, prior exposure, and test design. In poultry programs, serology is particularly relevant with vaccination or suspected silent circulation of viruses like HPAI, LPAI, or H5N1, and can be complemented by rRT-PCR for detecting current shedding, especially for viruses like NDV or Mycoplasma, and clade 2.3.4.4b, and storing test type, antigen panel, and sampling time improves interpretability, reducing confusion when comparing results across farms or surveillance rounds.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key methods for detecting active infection in a population?",
+        "How does serology help in understanding exposure and immunity over time?",
+        "What are the limitations of antibody results in serologic testing?",
+        "What role does antigenic analysis play in understanding cross-protection?",
+        "How can a knowledge base (KB) add value to serology in poultry programs?"
+      ],
+      "keywords": [
+        "Molecular assays",
+        "Serology",
+        "Antigenic characterization",
+        "Vaccination",
+        "Prior exposure",
+        "Test design",
+        "Interpretability"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Serology and antigenic characterization as complements to PCR",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "serology",
+        "antigenic characterization",
+        "surveillance",
+        "standard reagents",
+        "interpretation"
+      ],
+      "sources": [
+        "https://cdn.who.int/media/docs/default-source/consultation-rdb/summary-19mar2025.pdf?sfvrsn=5dba0b8_3",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_05_outbreak_control_prioritizes_containment_not_cure",
+    "content": "Control of avian influenza virus in poultry flocks relies on containment steps, as there is no reliable curative treatment to clear the virus once infection is established. Measures include rapid notification, separation of suspect birds, and strict limits on bird and material movements to reduce human exposure. Cleaning and disinfection of housing and equipment are crucial, as organic debris can facilitate indirect transmission. The logic behind these measures is key, focusing on decision points such as when to report suspicion, high-risk zones, and required documentation for animal movements and disposal, ensuring consistent response actions even with confusing clinical signs or co-circulating strains, such as HPAI, LPAI, H5N1, or other subtypes like clade 2.3.4.4b, and considering other poultry diseases like NDV and Mycoplasma, with diagnosis often confirmed by rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the recommended steps for controlling avian influenza in poultry flocks?",
+        "How can I prevent the spread of avian influenza virus in a flock?",
+        "What is the most effective way to contain an avian influenza outbreak?",
+        "What are the key factors to consider when developing a response plan for avian influenza?",
+        "How can I ensure consistent response actions in the face of confusing clinical signs or multiple circulating strains?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Poultry flocks",
+        "Containment",
+        "Transmission",
+        "Control measures",
+        "Response plan"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Poultry outbreak control prioritizes containment rather than curative therapy",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "stamping out",
+        "movement control",
+        "isolation",
+        "reporting",
+        "cleaning and disinfection"
+      ],
+      "sources": [
+        "https://biopharmachemie.com/thong-tin-ky-thuat/cham-soc-phong-tri-benh-tren-gia-cam-thuy-cam/cum-gia-cam-cach-phong-benh-hieu-qua-nhat.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_06_research_priorities_for_therapeutics_and_resistance",
+    "content": "Preparedness consultations on H5N1 research priorities emphasize the need for pharmaceutical countermeasures, such as antiviral effectiveness and monoclonal antibodies, to be developed and evaluated alongside surveillance, including tracking genetic markers associated with reduced susceptibility. Resistance monitoring is treated as a continuous activity due to changing virus populations. For poultry-focused users, preparedness planning is crucial, as human therapeutic capacity informs occupational exposure management, contact monitoring, and messaging to exposed workers. Including therapeutic research themes, such as those for HPAI and LPAI, in outbreak response justifies investment in exposure prevention (PPE, hygiene, controlled work practices) and encourages storing viral sequence metadata, linking animal outbreaks to human countermeasures, particularly for diseases like NDV and Mycoplasma, and utilizing diagnostic tools like rRT-PCR to identify specific strains, such as clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key considerations for developing pharmaceutical countermeasures against H5N1?",
+        "How does surveillance impact the development of antiviral effectiveness against H5N1?",
+        "What are the implications of virus populations changing over time for resistance monitoring?",
+        "How does human therapeutic capacity influence occupational exposure incident management?",
+        "What role does genomic information play in linking animal outbreaks to human countermeasure discussions?"
+      ],
+      "keywords": [
+        "H5N1",
+        "Pharmaceutical countermeasures",
+        "Surveillance",
+        "Antiviral effectiveness",
+        "Resistance monitoring",
+        "Genomic information"
+      ]
+    },
+    "metadata": {
+      "title": "Treatment/Control: Research priorities for therapeutics and resistance monitoring",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "research priorities",
+        "antivirals",
+        "monoclonal antibodies",
+        "resistance surveillance",
+        "H5N1 preparedness"
+      ],
+      "sources": [
+        "https://cdn.who.int/media/docs/default-source/consultation-rdb/summary-19mar2025.pdf?sfvrsn=5dba0b8_3"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_04_layered_biosecurity_to_reduce_introduction_risk",
+    "content": "Practical prevention of avian influenza, including HPAI and LPAI subtypes like H5N1, relies on layered barriers to reduce virus entry during high-risk periods. Recommended elements include restricting visitors, using dedicated clothing and footwear, and cleaning vehicles, crates, and tools before entering farm zones. Reducing wild bird access to feed and water sources is a priority, as their presence is a persistent upstream pressure. Consistent application and auditing of these measures, rather than activation only after disease suspicion, is crucial. Linking farm actions to regional alerts can inform decisions to tighten controls, such as limiting bird movements or increasing monitoring of mortality and production metrics, to prevent the spread of diseases like NDV and Mycoplasma, and can be guided by diagnostic tools like rRT-PCR, particularly for clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are some effective measures to prevent avian influenza on farms?",
+        "How can we reduce the risk of avian influenza virus entry during high-risk periods?",
+        "What are some common practices for preventing avian influenza in poultry areas?",
+        "How can farm managers decide when to tighten controls to prevent avian influenza?",
+        "What is the importance of consistent application of prevention measures in avian influenza control?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Prevention",
+        "Layered barriers",
+        "Virus entry",
+        "Poultry areas",
+        "Wild birds",
+        "Risk reduction"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Layered biosecurity to reduce introduction risk",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "biosecurity",
+        "visitor control",
+        "wild bird exclusion",
+        "equipment hygiene",
+        "risk periods"
+      ],
+      "sources": [
+        "https://biopharmachemie.com/thong-tin-ky-thuat/cham-soc-phong-tri-benh-tren-gia-cam-thuy-cam/cum-gia-cam-cach-phong-benh-hieu-qua-nhat.html",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_05_vaccination_strategies_and_diva_considerations",
+    "content": "Vaccination can reduce clinical disease and viral shedding in highly pathogenic avian influenza (HPAI) endemic or repeatedly re-introduced areas, but requires careful strain matching and ongoing evaluation due to antigenic change. Distinguishing infected from vaccinated animals (DIVA) is crucial for surveillance to identify field virus circulation in vaccinated populations. In poultry systems, vaccine strategies must be paired with diagnostic plans, utilizing tools like vectored vaccine platforms, improved immunology, and classic inactivated vaccines to support broader immunity. Storing details about vaccine type, target subtype/clade, and DIVA-compatible testing approaches facilitates accurate interpretation of serology and field detections in vaccinated regions, particularly for outbreak investigations involving viruses like H5N1, clade 2.3.4.4b, NDV, and Mycoplasma, using methods such as rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the challenges of implementing vaccination programs for highly pathogenic avian influenza?",
+        "How do vaccine programs require careful strain matching and ongoing evaluation?",
+        "What is the importance of distinguishing infected from vaccinated animals (DIVA) in surveillance?",
+        "What are some active research areas in vaccine development for poultry systems?",
+        "How can vaccine strategies be paired with diagnostic plans to support outbreak investigations?"
+      ],
+      "keywords": [
+        "Vaccination",
+        "Avian influenza",
+        "Vaccine programs",
+        "DIVA",
+        "Surveillance",
+        "Vaccine development",
+        "Poultry systems"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Vaccination strategies and DIVA considerations in long-term control",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "poultry vaccination",
+        "inactivated vaccines",
+        "vectored vaccines",
+        "DIVA",
+        "vaccine matching"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/",
+        "https://cdn.who.int/media/docs/default-source/consultation-rdb/summary-19mar2025.pdf?sfvrsn=5dba0b8_3",
+        "https://www.pirbright.ac.uk/our-science/research-groups/avian-influenza-and-newcastle-disease"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_08_worker_protection_reduces_zoonotic_risk_during_outbreaks",
+    "content": "Public health summaries link human H5 infections to close contact with infected animals or contaminated environments, making exposure reduction the primary prevention strategy for workers. This involves using protective clothing, gloves, and respiratory protection during high-risk tasks, along with eye protection when splashes or aerosols are plausible, as mucous membrane contact with contaminated fluids can occur during routine handling activities. Worker protection should be embedded into the same workflow as flock control, with training explaining the importance of each protective step, such as eye protection, to improve compliance during outbreak responses. Task-based PPE guidance categories, such as for catching, culling, litter removal, and transport, can support this, while prompt documentation of exposures and symptoms enables timely public health follow-up, ultimately reducing the risk of H5N1, HPAI, and LPAI transmission, as well as other diseases like NDV and Mycoplasma, which can be detected using rRT-PCR, particularly for clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the primary prevention strategies for workers exposed to H5 infections?",
+        "How can occupational exposures to H5 be minimized in poultry operations?",
+        "What personal protective equipment (PPE) should workers wear during high-risk tasks?",
+        "Why is training on PPE important during stressful outbreak responses?",
+        "How can managers document exposures and symptoms in poultry operations?"
+      ],
+      "keywords": [
+        "H5",
+        "Public Health",
+        "Occupational Exposures",
+        "PPE",
+        "Poultry Operations",
+        "Infection Control",
+        "Worker Protection"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention: Worker protection measures reduce zoonotic risk during outbreaks",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "PPE",
+        "eye protection",
+        "worker training",
+        "exposure reduction",
+        "One Health"
+      ],
+      "sources": [
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html",
+        "https://www.cdc.gov/mmwr/volumes/74/wr/pdfs/mm7405a2-H.pdf",
+        "https://www.vinmec.com/vie/bai-viet/cum-gia-cam-nguyen-nhan-trieu-chung-chan-doan-dieu-tri-vi"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_04_human_rt_pcr_testing_timing_and_tooling",
+    "content": "Collecting respiratory specimens early in illness is crucial for reliable viral detection, particularly in the first days after symptoms begin. Liquid samples from the nose or throat are used to check for avian influenza virus, with some real-time RT-PCR (rRT-PCR) assays designed for H5 lineages, such as H5N1, and other subtypes like HPAI and LPAI. Although poultry teams do not run human diagnostics, understanding molecular workflows is essential for exposure management, as delays in sample collection can reduce detection chances and complicate public health investigations, especially in cases involving NDV, Mycoplasma, or specific HPAI strains like clade 2.3.4.4b. Therefore, outbreak plans should include a 'testing window' reminder and contact details for local health services to support integrated response playbooks where animal and human investigations proceed in parallel when warranted.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What is the recommended timeframe for collecting respiratory specimens for avian influenza virus detection?",
+        "How do rapid molecular workflows contribute to the diagnosis of avian influenza?",
+        "What are the implications of delayed sample collection for exposure management in poultry teams?",
+        "What information should be included in outbreak plans for staff and supervisors?",
+        "How can integrated response playbooks support parallel investigations of animal and human cases?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Respiratory specimens",
+        "Viral detection",
+        "Rapid molecular workflows",
+        "Exposure management",
+        "Outbreak plans",
+        "Integrated response playbooks"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis: Human RT-PCR testing principles relevant for exposed personnel",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "real-time RT-PCR",
+        "specimen timing",
+        "nasopharyngeal swab",
+        "primer-probe set",
+        "rapid results"
+      ],
+      "sources": [
+        "https://www.vinmec.com/vie/bai-viet/cum-gia-cam-nguyen-nhan-trieu-chung-chan-doan-dieu-tri-vi"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_06_us_human_case_series_characteristics_2024",
+    "content": "A New England Journal of Medicine report describes human highly pathogenic avian influenza A(H5N1) infections in the US during 2024, focusing on detection and investigation. Aligning with CDC updates, infections are sporadic and primarily associated with animal exposure in dairy and poultry work settings, indicating human infections can occur at the animal–human interface without sustained community spread. For poultry operations, integrating worker safety into outbreak management plans is crucial, involving flock investigations to capture exposure histories of those handling sick birds, carcasses, or contaminated materials, guiding public health follow-up and targeted testing, such as rRT-PCR for HPAI or LPAI, including H5N1, and other diseases like NDV and Mycoplasma, particularly in the context of emerging strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the recent findings on human highly pathogenic avian influenza A(H5N1) infections in the United States?",
+        "How do CDC situation updates describe human infections related to avian influenza?",
+        "What are the implications of integrating worker safety into outbreak management plans for poultry operations?",
+        "What information should be captured during flock investigations to guide public health follow-up?",
+        "How can occupational exposure fields help unify animal and human timelines in outbreak investigations?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "human infections",
+        "poultry operations",
+        "worker safety",
+        "outbreak management",
+        "public health",
+        "exposure history"
+      ]
+    },
+    "metadata": {
+      "title": "Overview: Human case series highlights exposure-linked infections without sustained spread",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "NEJM case series",
+        "occupational exposure",
+        "dairy workers",
+        "poultry workers",
+        "public health risk"
+      ],
+      "sources": [
+        "https://www.nejm.org/doi/full/10.1056/NEJMoa2414610",
+        "https://pubmed.ncbi.nlm.nih.gov/39740051/",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_pathology_01_tissue_tropism_and_systemic_spread_in_hpai",
+    "content": "Pathologic patterns in avian influenza are linked to viral replication and dissemination within the host. In low pathogenic infections, replication is concentrated in respiratory and gastrointestinal epithelium, resulting in localized and mild lesions. In contrast, highly pathogenic strains, such as HPAI H5N1, can replicate in a wider range of tissues, leading to multi-system disease. Systemic involvement includes damage to vascular and parenchymal tissues, causing edema, hemorrhages, and necrotic foci in multiple organs, consistent with field observations of peracute deaths and hemorrhagic changes. Documenting gross lesions and clinical timelines supports stronger case definitions and guides tissue prioritization for laboratory confirmation using techniques like rRT-PCR, particularly for differential diagnosis from other diseases like NDV and Mycoplasma, and can inform the identification of specific strains such as clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key factors that determine the pathogenicity of avian influenza?",
+        "How does the replication of avian influenza virus affect the host's tissues?",
+        "What are the differences in tissue distribution between low and highly pathogenic avian influenza strains?",
+        "What are the clinical manifestations of systemic involvement in avian influenza?",
+        "How can documenting gross lesions support case definitions and laboratory confirmation?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Pathogenicity",
+        "Replication",
+        "Tissue distribution",
+        "Systemic involvement",
+        "Lesions",
+        "Hemagglutinin"
+      ]
+    },
+    "metadata": {
+      "title": "Pathology: Tissue tropism and systemic spread in highly pathogenic infections",
+      "disease": "avian_influenza",
+      "category": "pathology",
+      "tags": [
+        "tissue tropism",
+        "systemic infection",
+        "endothelium",
+        "hemorrhage",
+        "multi-organ lesions"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_03_current_situation_and_risk_frame",
+    "content": "Avian influenza is a wildlife–livestock–human interface event, with H5 bird flu widespread in wild birds globally, driving outbreaks in poultry and dairy cattle, and occasional infections in exposed workers. The U.S. CDC notes the public-health risk remains low, but continuous monitoring is essential due to new animal exposures creating opportunities for viral change, such as the emergence of HPAI or LPAI strains like H5N1, which can be detected using rRT-PCR. As WOAH positions the disease as a major animal-health challenge, a strong Knowledge Base should capture fundamentals, including the role of NDV and Mycoplasma, and evolving surveillance, reporting, and response policies, particularly for clade 2.3.4.4b. End users should treat risk as dynamic and exposure-driven, considering factors like migratory bird activity, farm movement, and biosecurity gaps, rather than a fixed seasonal label.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the current implications of avian influenza on human health?",
+        "How does the spread of avian influenza affect poultry and livestock?",
+        "What role do migratory birds play in the spread of avian influenza?",
+        "What is the current public health risk associated with avian influenza?",
+        "How can farmers and animal handlers reduce the risk of avian influenza exposure?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "wildlife-livestock-human interface",
+        "H5 bird flu",
+        "poultry",
+        "dairy cattle",
+        "biosecurity",
+        "surveillance"
+      ]
+    },
+    "metadata": {
+      "title": "Current situation and risk framing (wild birds, poultry, dairy cattle, people)",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "one_health",
+        "current_situation",
+        "risk_assessment",
+        "wild_birds",
+        "poultry",
+        "dairy_cattle",
+        "workers"
+      ],
+      "sources": [
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html",
+        "https://www.woah.org/en/disease/avian-influenza/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_04_global_spread_spillover_and_pandemic_concern",
+    "content": "A highly pathogenic H5N1 lineage, specifically clade 2.3.4.4b, has become entrenched in wildlife and repeatedly enters managed animal populations, including poultry and other species, such as U.S. dairy cattle, since 2020. The concern rises as the virus adapts in its broadened ecological \"test bed\" across various host species, despite human infections remaining uncommon. The segmented genome of influenza viruses allows for reassortment during co-infection, potentially producing viruses with new trait combinations that could transmit efficiently in people. The CDC reports outbreaks in animals with sporadic human cases among those in close contact with infected birds or cattle, highlighting the importance of outbreak control in poultry to reduce cross-species exposure opportunities and mitigate longer-term societal risk, which is why agencies treat HPAI events as more than an \"industry issue\", also considering the potential impact of other diseases like LPAI, NDV, and Mycoplasma, and utilizing diagnostic tools such as rRT-PCR to monitor and track the spread of these diseases.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the implications of a highly pathogenic H5N1 lineage becoming entrenched in wildlife?",
+        "How does the spread of clade 2.3.4.4b through wild birds affect managed animal populations?",
+        "What are the concerns surrounding the establishment of H5N1 in U.S. dairy cattle?",
+        "How does the segmented genome of influenza contribute to the risk of a virus transmitting efficiently in people?",
+        "What role do animal outbreaks play in the risk of human HPAI cases?"
+      ],
+      "keywords": [
+        "H5N1",
+        "HPAI",
+        "Influenza",
+        "Wildlife",
+        "Managed animal populations",
+        "Reassortant viruses"
+      ]
+    },
+    "metadata": {
+      "title": "Global spread, multi-species spillover, and why experts worry",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "clade_2_3_4_4b",
+        "spillover",
+        "reassortment",
+        "pandemic_preparedness",
+        "surveillance"
+      ],
+      "sources": [
+        "https://www.sciencefocus.com/news/bird-flu-2026-analysis",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_05_segmented_genome_evolution_and_reassortment",
+    "content": "Influenza A viruses, including HPAI and LPAI subtypes like H5N1, rapidly evolve due to point mutations and genome segmentation into multiple RNA segments, enabling reassortment where gene segments from different viruses mix in a single host cell, creating novel genotypes. Reassortment risk is influenced by ecological contact patterns, such as mixed-species interfaces and overlapping outbreaks, increasing the likelihood of distinct viruses co-infecting an animal, like the interaction between H5N1 and other viruses such as NDV or Mycoplasma. This raises concerns about the potential for an avian virus and a human-adapted influenza virus to co-infect and generate a hybrid with improved transmissibility, particularly for clade 2.3.4.4b. The rapid evolution complicates long-term reliance on a single vaccine seed strain, diagnostic target, or static risk map, emphasizing the importance of genomic sequencing and data sharing during outbreaks, often utilizing techniques like rRT-PCR, to track genetic changes, which is an expected feature of influenza epidemiology, contributing to the strict control policies in place to mitigate the spread of these viruses.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How do influenza A viruses adapt and change over time?",
+        "What is the significance of RNA segment separation in influenza viruses?",
+        "Can you explain the concept of reassortment in influenza viruses?",
+        "How do ecological contact patterns affect the risk of reassortment in influenza viruses?",
+        "What are the implications of rapid viral evolution for influenza control policies?"
+      ],
+      "keywords": [
+        "influenza",
+        "reassortment",
+        "viral evolution",
+        "genomic sequencing",
+        "data sharing",
+        "epidemiology",
+        "novelty"
+      ]
+    },
+    "metadata": {
+      "title": "Segmented influenza genome, mutation, and reassortment drivers",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "influenza_A",
+        "genome_segments",
+        "mutation",
+        "reassortment",
+        "viral_evolution"
+      ],
+      "sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/",
+        "https://www.sciencefocus.com/news/bird-flu-2026-analysis"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_05_potential_windborne_spread_between_farms",
+    "content": "A 2025 bioRxiv preprint suggests that wind may contribute to premises-to-premises spread of H5N1 via airborne movement, combining genetic patterns with meteorological conditions to support this claim. Although the findings are not peer-reviewed and thus not definitive, they imply that mechanically ventilated poultry houses may increase exposure by pulling in large volumes of air, making low concentrations of viral particles significant when intake is high. This challenges the assumption that dust from depopulation is the main airborne threat, instead proposing that finer aerosols from infected birds may be more relevant. This information supports nuanced guidance for farms, particularly in high-density areas where wind direction, ventilation design, and outbreak timing may amplify risk, highlighting the importance of contingency thinking without abandoning standard biosecurity measures, such as those for HPAI, LPAI, and other diseases like NDV and Mycoplasma, which can be detected using methods like rRT-PCR, and may involve specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What factors contribute to the spread of H5N1 between commercial poultry outbreaks?",
+        "Can wind play a role in the transmission of avian influenza between farms?",
+        "What are the implications of mechanically ventilated poultry houses on exposure to airborne pathogens?",
+        "How does the timing of outbreaks and wind direction affect the risk of disease transmission?",
+        "What are the key differences between dust and finer aerosols in terms of airborne threats?"
+      ],
+      "keywords": [
+        "H5N1",
+        "Avian influenza",
+        "Biosecurity",
+        "Ventilation",
+        "Wind direction",
+        "Aerosols",
+        "Outbreak investigation"
+      ]
+    },
+    "metadata": {
+      "title": "Potential windborne spread between farms and the role of aerosols",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "airborne",
+        "windborne",
+        "bioaerosols",
+        "ventilation",
+        "farm_density",
+        "evidence_limits"
+      ],
+      "sources": [
+        "https://www.news-medical.net/news/20250224/Study-finds-strong-evidence-that-bird-flu-spreads-through-the-air-between-farms.aspx"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_transmission_06_cat_infections_as_spillover_indicator",
+    "content": "Mammalian infections can serve as early warning signals for HPAI viruses, such as H5N1, reaching new hosts. A global review of H5N1 infections in cats from 2004-2024 notes that many cases are likely missed due to infrequent monitoring and post-mortem testing. Cats can become infected through eating infected birds, contaminated raw poultry products, or indirect exposure via other mammals, like dairy cattle given raw milk from infected cows. Severe neurologic disease, including acute encephalitis, can occur in cats, often being confused with other conditions, delaying outbreak recognition. Cross-species monitoring is crucial for occupational health, as seen in sporadic human infections among workers with animal exposure. Including cats in surveillance plans can enhance biosecurity, particularly in poultry systems where treating unexplained sickness or deaths in barn cats as a biosecurity signal can help prevent the spread of diseases like HPAI, LPAI, and other avian pathogens such as NDV and Mycoplasma, which can be detected using methods like rRT-PCR, and may involve specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the early warning signs of HPAI virus transmission to new hosts?",
+        "How do cats become infected with H5N1 virus?",
+        "What are the risks of H5N1 virus transmission to humans through animal exposure?",
+        "Why is it essential to include cats in surveillance plans for poultry systems?",
+        "What are the consequences of delayed recognition of a broader outbreak context in feline cases?"
+      ],
+      "keywords": [
+        "HPAI",
+        "H5N1",
+        "Cats",
+        "Birds",
+        "Biosecurity",
+        "Surveillance",
+        "Outbreak"
+      ]
+    },
+    "metadata": {
+      "title": "Cats as spillover hosts and a potential bridge for exposure pathways",
+      "disease": "avian_influenza",
+      "category": "transmission",
+      "tags": [
+        "cats",
+        "mammal_spillover",
+        "raw_milk",
+        "scavenging",
+        "one_health",
+        "surveillance_gap"
+      ],
+      "sources": [
+        "https://sph.umd.edu/news/bird-flu-study-points-risk-another-pandemic",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_04_poultry_clinical_signs_and_production_impacts",
+    "content": "Poultry disease outbreaks, such as HPAI or LPAI, often manifest with sudden changes in behavior and productivity, including depressed activity, reduced feed intake, ruffled feathers, and decreased egg production. Respiratory and digestive signs, like difficult breathing, nasal discharge, and greenish diarrhea, may also occur. Severe cases can exhibit swelling around the head, comb or wattle discoloration, and sudden deaths. Since these signs overlap with other diseases, such as NDV or Mycoplasma, they should trigger immediate isolation and diagnostic sampling, including rRT-PCR, rather than being relied upon as definitive proof of avian influenza, such as H5N1 or clade 2.3.4.4b. Early detection is crucial, as production losses can be compounded by control actions, and prompt intervention can mitigate economic losses, emphasizing the importance of linking clinical observations to decision points, such as stopping bird sales, restricting access, and contacting veterinary authorities.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the common signs of avian influenza in poultry?",
+        "How can I identify sudden changes in behavior and productivity in poultry?",
+        "What are the key indicators of respiratory involvement in avian influenza?",
+        "What are the economic implications of early detection of avian influenza in poultry?",
+        "How can I differentiate avian influenza from other poultry diseases based on clinical observation?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "Poultry",
+        "Behavioral changes",
+        "Respiratory involvement",
+        "Digestive signs",
+        "Clinical observation",
+        "Early detection"
+      ]
+    },
+    "metadata": {
+      "title": "Clinical signs in poultry and production impacts during outbreaks",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "poultry_signs",
+        "egg_drop",
+        "cyanosis",
+        "respiratory",
+        "diarrhea",
+        "high_mortality"
+      ],
+      "sources": [
+        "https://biopharmachemie.com/thong-tin-ky-thuat/cham-soc-phong-tri-benh-tren-gia-cam-thuy-cam/cum-gia-cam-cach-phong-benh-hieu-qua-nhat.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_symptom_05_human_infection_context_and_exposure_history",
+    "content": "For poultry workers, human symptom information is useful for triage and communication, driven by laboratory testing and exposure investigation. The CDC links sporadic human infections to animal exposure, particularly among poultry workers, making contact history informative. Affected individuals may present with influenza-like complaints, eye irritation, or conjunctivitis, depending on the event and subtype, such as HPAI or LPAI. Vietnamese health materials advise monitoring fever and respiratory complaints after contact with sick or dead birds. The KB should encourage prompt reporting of compatible illness in workers handling suspect birds, cleaning contaminated areas, or working in environments with heavy dust and secretions, to reduce delayed recognition and protect workforce health and outbreak control operations, similar to protocols for diseases like H5N1, NDV, or Mycoplasma, which can be detected using methods such as rRT-PCR, and may involve specific strains like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the primary uses of human symptom information for poultry KB users?",
+        "How do CDC situational guidance links sporadic human infections to animal exposure?",
+        "What are some common symptoms presented by people affected by poultry-related illnesses?",
+        "What is the recommended approach for farm management in case of suspect bird handling or contaminated areas?",
+        "How can clear messaging protect workforce health and outbreak control operations?"
+      ],
+      "keywords": [
+        "poultry",
+        "symptom",
+        "exposure",
+        "infection",
+        "illness",
+        "outbreak",
+        "control"
+      ]
+    },
+    "metadata": {
+      "title": "Human infection context: symptoms matter less than exposure history",
+      "disease": "avian_influenza",
+      "category": "symptom",
+      "tags": [
+        "human_health",
+        "occupational_exposure",
+        "conjunctivitis",
+        "respiratory",
+        "monitoring"
+      ],
+      "sources": [
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html",
+        "https://www.vinmec.com/vie/bai-viet/cum-gia-cam-nguyen-nhan-trieu-chung-chan-doan-dieu-tri-vi"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_04_environmental_and_wastewater_surveillance",
+    "content": "Avian influenza detection is shifting from testing sick birds to broader monitoring, aiming to flag circulation before clinical outbreaks occur. The EU Joint Research Centre notes that influenza viruses, including HPAI and LPAI subtypes like H5N1, are surveillance targets under the revised Urban Wastewater Treatment Directive. Wastewater monitoring is being explored as a population-level indicator, complementing targeted sampling in high-risk animals, such as those infected with NDV or Mycoplasma. Environmental surveillance can highlight geographic hotspots, informing intensified sampling, biosecurity audits, or movement controls, and can be used in conjunction with diagnostic tools like rRT-PCR to detect specific strains, including clade 2.3.4.4b. This approach supports real-time risk scoring, integrating lab results, wildlife detections, and environmental indicators, and can be used to inform decision-making, even in the absence of clear clinical signs, ultimately enhancing disease control and prevention efforts.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the recent advancements in avian influenza detection methods?",
+        "How does wastewater monitoring contribute to early warning systems for avian influenza?",
+        "What is the role of environmental surveillance in poultry operations?",
+        "How does One Health thinking improve avian influenza detection and surveillance?",
+        "What policy changes are being made to formalize wastewater monitoring for avian influenza?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "wastewater monitoring",
+        "One Health",
+        "environmental surveillance",
+        "poultry operations",
+        "early warning systems"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental and wastewater surveillance as early warning signals",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "surveillance",
+        "wastewater",
+        "environmental_sampling",
+        "one_health",
+        "early_warning"
+      ],
+      "sources": [
+        "https://www.nature.com/articles/s41467-025-58882-4",
+        "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/breaking-spread-avian-flu-new-tools-faster-detection-2025-08-22_en"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_05_molecular_assays_and_regulatory_surveillance",
+    "content": "Laboratory confirmation is crucial for avian influenza control, as clinical signs cannot reliably distinguish HPAI from other respiratory or systemic poultry diseases like LPAI, H5N1, NDV, or Mycoplasma. The EU Joint Research Centre is developing novel molecular assays, including (d)PCR tools, to support surveillance of Influenza A(H5Nx) clade 2.3.4.4b. Diagnostic choices are tied to surveillance obligations and program design requirements set by veterinary authorities, which are standardized by regulations like Delegated Regulation (EU) 2020/689, guiding what gets monitored, how frequently, and in which populations. This standardization enables comparable data across regions for consistent risk assessment and supports a workflow mindset, where screening assays, confirmatory tests like rRT-PCR, subtyping, and sequence analysis form a pipeline for outbreak response and epidemiology, which a well-structured knowledge base can map to address user questions.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key factors in distinguishing HPAI from other poultry diseases?",
+        "How do novel molecular assays support avian influenza surveillance?",
+        "What are the EU surveillance requirements for Influenza A(H5Nx) clade 2.3.4.4b?",
+        "Why are sampling plans in avian influenza surveillance often bureaucratic?",
+        "What is the role of a well-structured knowledge base in avian influenza diagnosis?"
+      ],
+      "keywords": [
+        "Avian influenza",
+        "HPAI",
+        "Molecular assays",
+        "Surveillance",
+        "Regulations",
+        "Pipeline",
+        "Epidemiology"
+      ]
+    },
+    "metadata": {
+      "title": "dPCR/RT-PCR tools and how regulation shapes surveillance programs",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "rt_pcr",
+        "digital_pcr",
+        "eu_surveillance",
+        "regulation_2020_689",
+        "laboratory_testing"
+      ],
+      "sources": [
+        "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/breaking-spread-avian-flu-new-tools-faster-detection-2025-08-22_en"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_06_spillover_surveillance_in_cats_and_missed_cases",
+    "content": "Surveillance design significantly impacts our understanding of avian influenza, with under-sampling in cats hiding important signals. Cats are not actively monitored for bird flu, and diagnostic testing is often only performed postmortem, creating a \"postmortem bias\" where mild or moderate HPAI or LPAI infections, such as H5N1, go unrecognized, while severe neurologic cases are misclassified. Targeted surveillance in poultry contexts could involve triggers like unexplained neurologic signs in farm cats during nearby outbreaks, clusters of cat deaths, or ingestion of dead wild birds, which may also be infected with other diseases like NDV or Mycoplasma. Testing decisions must follow local veterinary guidance and biosafety rules, including the use of rRT-PCR, and consider zoonotic precautions, particularly for high-risk strains like clade 2.3.4.4b, as handling suspect mammals involves risks. By framing cats as potential sentinels, users can interpret \"odd\" animal illnesses as part of a wider outbreak picture.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How does surveillance design impact our understanding of avian influenza?",
+        "What are the limitations of current diagnostic testing for bird flu in cats?",
+        "How can targeted surveillance help identify potential outbreaks in poultry settings?",
+        "What are the risks associated with handling suspect mammals during an outbreak?",
+        "How can cats be used as sentinels for wider outbreak detection?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "surveillance design",
+        "under-sampling",
+        "postmortem bias",
+        "feline infections",
+        "zoonotic precautions",
+        "sentinels"
+      ]
+    },
+    "metadata": {
+      "title": "Why feline cases are missed and what targeted surveillance could look like",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "cats",
+        "case_detection",
+        "postmortem_bias",
+        "sentinel_species",
+        "targeted_testing"
+      ],
+      "sources": [
+        "https://sph.umd.edu/news/bird-flu-study-points-risk-another-pandemic"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_04_control_zones_movement_limits_and_depopulation",
+    "content": "Highly pathogenic avian influenza (HPAI) outbreaks, such as H5N1, prompt rapid containment measures prioritizing spread prevention over individual bird treatment. Authorities establish a close-in protection area (around 3 km) and a wider surveillance ring (around 10 km) around infected premises, controlling poultry, product, vehicle, and equipment movement to reduce transmission risk. Humane culling of affected flocks is a standard component of HPAI stamping-out policies, as antiviral treatment is not practical for commercial poultry outbreaks. The World Organisation for Animal Health (WOAH) guidance emphasizes rapid reporting and coordinated veterinary response, while control involves a structured sequence: detect, confirm, restrict movement, remove infected birds, clean and disinfect, and verify freedom through follow-up surveillance, using diagnostic tools like rRT-PCR, particularly for HPAI subtypes such as clade 2.3.4.4b, and considering co-infections like Newcastle disease virus (NDV) and Mycoplasma.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the typical containment measures taken by countries when highly pathogenic avian influenza is confirmed?",
+        "How do authorities control the movement of poultry and products during an avian influenza outbreak?",
+        "What is the role of humane culling in stamping-out policies for HPAI?",
+        "What is the structured sequence for controlling an avian influenza outbreak?",
+        "Why are rapid reporting and coordinated veterinary response crucial for effective control of avian influenza?"
+      ],
+      "keywords": [
+        "avian influenza",
+        "containment measures",
+        "humane culling",
+        "rapid reporting",
+        "coordinated veterinary response",
+        "HPAI",
+        "outbreak control"
+      ]
+    },
+    "metadata": {
+      "title": "Control zones, movement restrictions, and depopulation during HPAI response",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "stamping_out",
+        "movement_control",
+        "control_zone",
+        "surveillance_zone",
+        "depopulation"
+      ],
+      "sources": [
+        "https://www.gov.uk/government/news/bird-flu-avian-influenza-latest-situation-in-england",
+        "https://www.woah.org/en/disease/avian-influenza/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_treatment_control_05_housing_measures_and_contact_reduction",
+    "content": "When virus pressure in wild birds increases, authorities implement population-level interventions, such as \"housing orders,\" to reduce exposure at scale. These measures limit outdoor access, shared feed and water points with wild birds, and control entry to poultry areas, functioning as a temporary barrier. By reducing direct wild bird contact, housing measures can remove a high-probability introduction route, especially for free-range systems near wetlands or migratory flyways, where risks of HPAI, LPAI, H5N1, and other diseases like NDV and Mycoplasma are elevated. Science supports that persistent circulation in wildlife creates ongoing reintroduction risk, which is mitigated by contact-reduction policies complementing routine biosecurity, such as rRT-PCR testing and monitoring for clade 2.3.4.4b. Housing measures should be framed as risk management, as enclosed flocks can still be exposed through people, equipment, rodents, or ventilation inlets, but can effectively reduce the risk of disease introduction.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the reasons behind 'keep birds inside' orders even when my flock seems healthy?",
+        "How do housing measures help reduce the risk of bird flu in poultry farms?",
+        "What is the policy approach to controlling bird flu in the UK?",
+        "How can I minimize the risk of bird flu reintroduction in my poultry farm?",
+        "What are the highest-probability introduction routes for bird flu in poultry farms?"
+      ],
+      "keywords": [
+        "bird flu",
+        "housing measures",
+        "risk management",
+        "biosecurity",
+        "wild birds",
+        "poultry farms"
+      ]
+    },
+    "metadata": {
+      "title": "Housing measures to reduce contact between poultry and infected wild birds",
+      "disease": "avian_influenza",
+      "category": "treatment_control",
+      "tags": [
+        "housing",
+        "wild_bird_contact",
+        "range_restriction",
+        "risk_mitigation",
+        "policy_tools"
+      ],
+      "sources": [
+        "https://www.gov.uk/government/news/bird-flu-avian-influenza-latest-situation-in-england",
+        "https://www.sciencefocus.com/news/bird-flu-2026-analysis"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_04_environmental_persistence_and_disinfection_focus",
+    "content": "Avian influenza viruses, including HPAI and LPAI subtypes like H5N1, survive longer in cooler conditions and shorter periods as temperature rises, with water posing a significant risk in wet production environments. The presence of standing water, wet litter, and contaminated ponds can lead to ongoing exposure if not managed, similar to the risks associated with diseases like NDV and Mycoplasma. Effective prevention tools include cleaning, disinfection, limiting outside entry, and controlling visitor access, with actions connected to mechanisms: removing organic matter, applying approved disinfectants, and preventing re-contamination by managing traffic flow. Disinfection protocols should extend beyond the poultry house to vehicles, crates, footwear, and entry points, particularly as many farms share service providers, and repeated disinfection is necessary even after birds are removed to prevent the spread of viruses like clade 2.3.4.4b, which can be detected using rRT-PCR.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "Why is disinfection repeated even after birds are removed from the poultry house?",
+        "What are the key factors that affect virus survival in a poultry environment?",
+        "How can we prevent the spread of avian influenza viruses in a wet production environment?",
+        "What are the most effective prevention tools against avian influenza viruses?",
+        "Why is it essential to manage traffic flow in a poultry house to prevent re-contamination?"
+      ],
+      "keywords": [
+        "Biosecurity",
+        "Virus survival",
+        "Temperature",
+        "Moisture",
+        "Organic material",
+        "Disinfection",
+        "Avian influenza"
+      ]
+    },
+    "metadata": {
+      "title": "Environmental persistence and why cleaning and disinfection are emphasized",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "disinfection",
+        "environment",
+        "temperature",
+        "water",
+        "biosecurity_routines"
+      ],
+      "sources": [
+        "https://biopharmachemie.com/thong-tin-ky-thuat/cham-soc-phong-tri-benh-tren-gia-cam-thuy-cam/cum-gia-cam-cach-phong-benh-hieu-qua-nhat.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_05_vaccination_strategy_trade_and_monitoring",
+    "content": "Vaccination can reduce clinical disease and virus shedding in poultry, but program design must consider surveillance and trade consequences. France's adoption of poultry vaccination led to a sharp drop in outbreaks, demonstrating immunization's potential as a tool against sustained virus pressure, such as HPAI and LPAI, including subtypes like H5N1. However, some producers oppose vaccination due to export concerns, as trading partners may restrict imports if they doubt infection can be detected reliably in vaccinated flocks using methods like rRT-PCR, particularly for viruses like NDV and Mycoplasma. Effective programs require ongoing sampling, clear documentation of vaccine use, and transparent communication with authorities and buyers, especially when dealing with specific virus clades like clade 2.3.4.4b. This approach helps users understand that vaccination must be paired with monitoring, reporting, and response capacity, and does not eliminate the need for biosecurity or laboratory surveillance.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How does vaccination impact the spread of disease in poultry?",
+        "What are the potential drawbacks of implementing vaccination programs in poultry farming?",
+        "Can vaccination alone prevent outbreaks in poultry farms?",
+        "How do vaccination programs interact with international trade regulations?",
+        "What role does vaccination play in a comprehensive approach to poultry disease management?"
+      ],
+      "keywords": [
+        "Vaccination",
+        "Poultry",
+        "Disease",
+        "Surveillance",
+        "Trade",
+        "Biosecurity",
+        "Laboratory"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccination strategy: benefits, trade concerns, and the need for monitoring",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "vaccination",
+        "DIVA",
+        "trade_policy",
+        "outbreak_reduction",
+        "surveillance"
+      ],
+      "sources": [
+        "https://www.woah.org/en/disease/avian-influenza/",
+        "https://www.sciencefocus.com/news/bird-flu-2026-analysis"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_prevention_06_priority_research_for_preparedness_and_response",
+    "content": "Preparedness for H5N1 and other diseases like HPAI and LPAI improves when research agendas address operational gaps. The WHO highlights priority topics including surveillance strategies, rapid diagnostics using methods like rRT-PCR, vaccine development, and risk assessment across animal and human health. Advances in detection technology, such as those for NDV and Mycoplasma, can lead to earlier interventions when deployed within coordinated systems. Investing in tools like improved assay sensitivity, sequencing pipelines, and cross-sector data integration supports evidence-based practices, benefiting farms and veterinary services. By focusing on goals and public-health value, research can be represented as capacity building, enabling faster detection, clearer decision thresholds, and more effective countermeasures, particularly for emerging clades like clade 2.3.4.4b, without compromising sensitive information.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are the key areas of research focus for H5N1 preparedness?",
+        "How can research agendas align with operational gaps during real outbreaks?",
+        "What are the benefits of investing in tools for poultry disease surveillance?",
+        "How can research outputs be converted into practical guidance for farms and veterinary services?",
+        "What is the importance of evidence-based culture in poultry disease management?"
+      ],
+      "keywords": [
+        "H5N1",
+        "preparedness",
+        "research",
+        "surveillance",
+        "diagnostics",
+        "vaccine",
+        "risk assessment"
+      ]
+    },
+    "metadata": {
+      "title": "Priority research themes for preparedness and response",
+      "disease": "avian_influenza",
+      "category": "prevention",
+      "tags": [
+        "research_priorities",
+        "preparedness",
+        "vaccines",
+        "diagnostics",
+        "risk_assessment",
+        "one_health"
+      ],
+      "sources": [
+        "https://www.who.int/news-room/events/detail/2025/03/19/default-calendar/what-research-is-important-to-prepare-and-respond-to-h5n1-influenza-outbreaks",
+        "https://www.nature.com/articles/s41467-025-58882-4"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_diagnosis_07_reporting_cadence_and_data_sources",
+    "content": "The CDC's H5 current-situation page streamlined updates in mid-2025, reporting some metrics, such as people monitored and tested, on a monthly cadence, and directs readers to USDA sources for animal detection data. This shift from ad-hoc updates to routine surveillance reporting occurs when outbreaks become extended, allowing agencies to maintain sustainable and consistent information. To avoid confusion, users should be taught to follow the right data stream for their question: CDC reports human case confirmation and public-health monitoring, while agricultural authorities maintain poultry and livestock detections, including data on HPAI, LPAI, and other diseases like NDV and Mycoplasma, which can be detected using methods such as rRT-PCR, and may involve specific strains like clade 2.3.4.4b or H5N1. Embedding this explanation reduces confusion, supports situational awareness, and encourages transparent sourcing habits, critical during animal health crises when misinformation spreads quickly.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "Why do official dashboards change structure during prolonged events?",
+        "How do I find the right data stream for a specific question?",
+        "What is the difference between human case confirmation and public-health monitoring?",
+        "Why do agencies shift from ad-hoc updates to routine surveillance reporting?",
+        "How can I avoid misinterpreting the absence of data on a page?"
+      ],
+      "keywords": [
+        "data",
+        "dashboards",
+        "structure",
+        "CDC",
+        "USDA",
+        "surveillance",
+        "reporting"
+      ]
+    },
+    "metadata": {
+      "title": "Why dashboards change: reporting cadence and where to find updated animal data",
+      "disease": "avian_influenza",
+      "category": "diagnosis",
+      "tags": [
+        "reporting",
+        "data_sources",
+        "influenza_surveillance",
+        "fluvview",
+        "usda"
+      ],
+      "sources": [
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_05_authoritative_resource_centers_and_updates",
+    "content": "A practical knowledge base (KB) directs users to verify updates through reputable sources, such as the World Organisation for Animal Health (WOAH) for global animal-health framing, and the Centers for Disease Control and Prevention (CDC) for public-health updates, including human risk monitoring for diseases like HPAI and LPAI, specifically strains like H5N1. Specialist academic centers, including Cornell's HPAI resource center and Pirbright's avian influenza research group, provide current research and technical developments on avian influenza and other poultry diseases like NDV and Mycoplasma, which may influence policy and field guidance, and can be identified using diagnostic tools like rRT-PCR. The Center for Infectious Disease Research and Policy (CIDRAP) offers news tracking and topic pages for emerging signals, such as the clade 2.3.4.4b H5N1 strain. By incorporating these sources into metadata, downstream systems can refresh content and provide traceable references, enabling users to follow reliable updates on various poultry diseases without relying on fragile day-by-day outbreak counts.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What are reliable sources for animal health updates?",
+        "How can I stay informed about emerging health signals?",
+        "Where can I find current research on avian influenza?",
+        "What are some useful resources for monitoring human risk during outbreaks?",
+        "How can I verify updates on animal health situations?"
+      ],
+      "keywords": [
+        "animal health",
+        "reliable sources",
+        "outbreak updates",
+        "research centers",
+        "avian influenza",
+        "human risk",
+        "primary sources"
+      ]
+    },
+    "metadata": {
+      "title": "Authoritative resource centers and how to use them in a Knowledge Base workflow",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "resource_hubs",
+        "evidence_updates",
+        "guidelines",
+        "research",
+        "situational_awareness"
+      ],
+      "sources": [
+        "https://www.woah.org/en/disease/avian-influenza/",
+        "https://www.cdc.gov/bird-flu/situation-summary/index.html",
+        "https://www.vet.cornell.edu/highly-pathogenic-avian-influenza-bird-flu-resource-center/avian-influenza-research",
+        "https://www.pirbright.ac.uk/our-science/research-groups/avian-influenza-and-newcastle-disease",
+        "https://www.cidrap.umn.edu/avian-influenza-bird-flu"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_overview_06_literature_collections_for_research_and_training",
+    "content": "During long-running HPAI events, curated literature hubs can support workflow by clustering relevant papers, reducing search time across scattered journals. The American Society for Microbiology's avian flu collection page and SCAR's library-style avian flu page serve as directories for peer-reviewed topics like virology, diagnostics, and host responses. A knowledge base (KB) should prioritize review articles and authoritative summaries, such as the PMC review, for stable guidance on influenza biology and evolution, while treating single preprints or single-site studies as tentative until replicated, thereby incorporating research collections into evidence management without drifting into unverified claims, particularly for diseases like H5N1, LPAI, and other avian influenza subtypes, as well as NDV and Mycoplasma, using diagnostic tools like rRT-PCR, and considering factors like clade 2.3.4.4b.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "How can I quickly train new staff during a long-running HPAI event?",
+        "What are some curated literature hubs for avian flu research?",
+        "How can I prioritize review articles and authoritative summaries in my research?",
+        "What is the difference between a review article and a single preprint study?",
+        "How can I incorporate research collections into evidence management?"
+      ],
+      "keywords": [
+        "HPAI",
+        "avian flu",
+        "literature hubs",
+        "review articles",
+        "authoritative summaries",
+        "evidence management"
+      ]
+    },
+    "metadata": {
+      "title": "Literature collections: using curated article hubs for training and review",
+      "disease": "avian_influenza",
+      "category": "overview",
+      "tags": [
+        "literature_hubs",
+        "peer_review",
+        "training_materials",
+        "method_updates",
+        "review_reading"
+      ],
+      "sources": [
+        "https://journals.asm.org/avian-flu-collection",
+        "https://scar.org/library-data/avian-flu",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3068632/"
+      ]
+    }
+  },
+  {
+    "id": "avian_influenza_cause_06_temperature_and_host_range_constraints",
+    "content": "The host range of viruses, such as HPAI and LPAI, particularly subtypes like H5N1, is shaped by biological constraints that must be overcome for efficient replication in different animals. Repeated mammalian infections, including those caused by clade 2.3.4.4b, provide selection pressure that may favor variants replicating better in mammal tissues, as detected by rRT-PCR. As the virus circulates in more mammals, it has more opportunities to find genetic combinations fitting mammalian biology, which is a concern for other diseases like NDV and Mycoplasma. The University of Maryland report on cat infections illustrates host expansion, with transmissions diversifying across domestic and wild feline species. Veterinary authorities treat mammal spillover as a risk multiplier, affecting farm worker safety, animal welfare in companion species, and cross-sector surveillance workload, which is why \"non-bird\" cases, including those in mammals, appear in official updates and influence control policies in poultry.",
+    "vector_context": {
+      "hypothetical_questions": [
+        "What factors influence the host range of a virus?",
+        "How do repeated mammalian infections affect the virus's genetic makeup?",
+        "What is the significance of a virus circulating in multiple mammalian species?",
+        "How does the host range of a virus impact poultry outbreaks?",
+        "What are the broader consequences of a widening host range for animal welfare and surveillance?"
+      ],
+      "keywords": [
+        "Host range",
+        "Virus replication",
+        "Mammalian infections",
+        "Genetic combinations",
+        "Poultry outbreaks",
+        "Animal welfare",
+        "Surveillance"
+      ]
+    },
+    "metadata": {
+      "title": "Temperature, host range constraints, and why adaptation matters",
+      "disease": "avian_influenza",
+      "category": "cause",
+      "tags": [
+        "host_range",
+        "adaptation",
+        "selection_pressure",
+        "mammals",
+        "risk_context"
+      ],
+      "sources": [
+        "https://www.sciencefocus.com/news/bird-flu-2026-analysis",
+        "https://sph.umd.edu/news/bird-flu-study-points-risk-another-pandemic"
+      ]
+    }
+  }
+]

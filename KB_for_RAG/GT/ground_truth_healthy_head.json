@@ -1,0 +1,178 @@
+[{
+  "qid": "hh_001",
+  "query": "What environmental conditions define a healthy poultry flock?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters"
+  ],
+  "answer": "A healthy poultry flock is maintained under stable temperature, humidity, ventilation, and air quality conditions that support normal physiology, behaviour, and respiratory function."
+},
+{
+  "qid": "hh_002",
+  "query": "Why is proper ventilation important for maintaining normal head and respiratory health in poultry?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters"
+  ],
+  "answer": "Proper ventilation removes excess moisture, dust, and ammonia, maintains adequate oxygen exchange, and preserves normal head appearance and respiratory function in poultry."
+},
+{
+  "qid": "hh_003",
+  "query": "How does high stocking density affect poultry health?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_02_stocking_density_and_flock_uniformity"
+  ],
+  "answer": "High stocking density increases stress, suppresses immune function, and facilitates disease transmission, increasing susceptibility to infectious diseases."
+},
+{
+  "qid": "hh_004",
+  "query": "Why is flock uniformity considered a sign of healthy poultry populations?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_02_stocking_density_and_flock_uniformity"
+  ],
+  "answer": "Uniform flocks indicate even access to resources, consistent growth and behaviour, and absence of underlying health or environmental problems."
+}
+,
+{
+  "qid": "hh_005",
+  "query": "How do feed and water systems support normal health in poultry flocks?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_03_feed_water_and_access_systems"
+  ],
+  "answer": "Continuous access to nutritionally appropriate feed and clean water supports normal growth, predictable intake patterns, uniform body condition, and stable production."
+},
+{
+  "qid": "hh_006",
+  "query": "Why can poor air quality confound disease surveillance in poultry flocks?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters"
+  ],
+  "answer": "Poor air quality can cause respiratory irritation and abnormal signs unrelated to infection, making it difficult to distinguish environmental effects from true disease."
+},
+{
+  "qid": "hh_007",
+  "query": "What does stable growth performance indicate about poultry flock health?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_production_01_growth_and_feed_conversion"
+  ],
+  "answer": "Stable growth and efficient feed conversion indicate good overall flock health and absence of major nutritional, environmental, or infectious stressors."
+}
+,{
+  "qid": "hh_008",
+  "query": "Why is feed conversion ratio used as an indirect indicator of poultry health?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_production_01_growth_and_feed_conversion"
+  ],
+  "answer": "Poor feed conversion often occurs before clinical signs and can signal early health compromise caused by disease, stress, or metabolic imbalance."
+},
+{
+  "qid": "hh_009",
+  "query": "How does stable egg production reflect healthy status in laying flocks?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_production_02_egg_production_and_quality"
+  ],
+  "answer": "Stable egg production and quality indicate physiological stability, adequate nutrition, and low disease pressure within the flock."
+},
+{
+  "qid": "hh_010",
+  "query": "Why are low and stable mortality rates important indicators of normal poultry health?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_production_03_mortality_and_culling_rates"
+  ],
+  "answer": "Low and stable mortality rates form a baseline for normal health and allow rapid detection of abnormal events or high-impact diseases."
+},
+{
+  "qid": "hh_011",
+  "query": "What flock behaviour patterns indicate a normal healthy status in poultry?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_02_stocking_density_and_flock_uniformity"
+  ],
+  "answer": "Even distribution, consistent activity levels, and uniform access to resources indicate normal behaviour and a healthy flock."
+},
+{
+  "qid": "hh_012",
+  "query": "How does a well-defined healthy baseline help differentiate infectious disease from environmental or management stress?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters",
+    "healthy_poultry_environment_02_stocking_density_and_flock_uniformity"
+  ],
+  "answer": "A healthy baseline allows deviations to be interpreted correctly, distinguishing infectious disease patterns from signs caused by poor management or environmental stress."
+},
+{
+  "qid": "hh_diff_01",
+  "query": "Chickens show mild respiratory noise and slightly wet nostrils after poor ventilation. Could this be NCD.json?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_01_housing_and_environmental_parameters"
+  ],
+  "answer": "Mild respiratory signs following poor ventilation can result from environmental irritation rather than Newcastle disease, especially in the absence of high mortality or neurological signs."
+},
+{
+  "qid": "hh_diff_02",
+  "query": "A flock has occasional coughing and uneven distribution after stocking density increased. Is this consistent with CRD.json?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_environment_02_stocking_density_and_flock_uniformity"
+  ],
+  "answer": "Increased stocking density can cause stress and mild respiratory signs without infectious disease, and does not necessarily indicate chronic respiratory disease."
+}
+,
+{
+  "qid": "hh_diff_03",
+  "query": "Egg production dropped slightly and birds appear less active, but no head lesions are observed. Does this indicate disease as described in Avian_Head_KB_final.json?",
+  "supporting_chunk_ids": [
+    "healthy_poultry_production_02_egg_production_and_quality"
+  ],
+  "answer": "Minor fluctuations in egg production and activity can occur due to management or environmental factors and may not indicate head-related disease."
+},
+  {
+    "qid": "healthy_multi_01",
+    "query": "The birds look active and are eating well, but a few have slightly watery eyes. Is this still normal?",
+    "supporting_chunk_ids": [
+      "healthy_poultry_physiology_02_head_and_external_indicators",
+      "healthy_poultry_immunity_02_limits_of_visual_health_assessment"
+    ],
+    "answer": "Healthy birds should have clear eyes, but mild changes can occur without obvious disease. Visual appearance alone is not enough to rule out subclinical issues."
+  },
+  {
+    "qid": "healthy_multi_02",
+    "query": "Some birds have a paler comb this morning, but it’s cold today. Should I be worried?",
+    "supporting_chunk_ids": [
+      "healthy_poultry_physiology_05_comb_normal_color_turgor",
+      "healthy_poultry_physiology_16_head_thermoregulation_surface_temperature_variation"
+    ],
+    "answer": "Comb color can change with temperature due to normal thermoregulation. Context like cold weather must be considered before assuming illness."
+  },
+  {
+    "qid": "healthy_multi_03",
+    "query": "There’s a bit of dust around the nostrils, but breathing is quiet. Is that still within normal limits?",
+    "supporting_chunk_ids": [
+      "healthy_poultry_physiology_09_nares_patency_and_cleanliness",
+      "healthy_poultry_physiology_03_normal_respiratory_function"
+    ],
+    "answer": "Light dry dust can be normal if the nares remain open and breathing is quiet. Persistent wet discharge or blockage would not be normal."
+  },
+  {
+    "qid": "healthy_multi_04",
+    "query": "The flock looks normal overall, but why do vets still recommend lab testing sometimes?",
+    "supporting_chunk_ids": [
+      "healthy_poultry_overview_01_definition_and_population_context",
+      "healthy_poultry_surveillance_04_role_of_laboratory_confirmation"
+    ],
+    "answer": "A healthy appearance does not rule out subclinical infection, so laboratory testing is needed when surveillance thresholds are crossed."
+  },
+  {
+    "qid": "healthy_multi_05",
+    "query": "If birds have normal head features, does that mean they are protected from respiratory diseases?",
+    "supporting_chunk_ids": [
+      "healthy_poultry_immunity_01_normal_immune_competence_indicators",
+      "healthy_poultry_immunity_06_mucociliary_clearance_upper_airway_baseline"
+    ],
+    "answer": "Normal immunity and airway defenses reduce risk, but they do not guarantee protection from infection."
+  },
+  {
+    "qid": "healthy_multi_06",
+    "query": "How do you tell normal daily variation from something that needs reporting?",
+    "supporting_chunk_ids": [
+      "healthy_poultry_surveillance_02_deviation_indicators_triggering_concern",
+      "healthy_poultry_surveillance_03_differentiation_from_notifiable_diseases"
+    ],
+    "answer": "Single mild changes may be normal, but clusters or progression of abnormal signs trigger escalation and investigation."
+  }
+]

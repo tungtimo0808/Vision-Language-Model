@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "coccidiosis_overview",
+    "content": "Coccidiosis is a major enteric disease of poultry caused by protozoan parasites belonging to the genus Eimeria. The disease is ubiquitous in commercial poultry production systems worldwide and is widely recognized as one of the most economically devastating diseases affecting broiler chickens. Coccidiosis primarily compromises intestinal integrity, leading to impaired nutrient absorption, reduced growth performance, poor feed conversion efficiency, and increased susceptibility to secondary infections. Although infections may be subclinical, their cumulative impact on productivity and flock uniformity remains substantial, making effective control strategies essential for sustainable poultry production.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria",
+        "enteric disease",
+        "poultry production",
+        "economic impact"
+      ],
+      "hypothetical_questions": [
+        "What is the primary cause of coccidiosis in poultry?",
+        "Is coccidiosis a common disease in commercial poultry production systems worldwide?",
+        "How does coccidiosis affect the intestinal integrity of broiler chickens?",
+        "What are the economic implications of coccidiosis on the poultry industry?",
+        "Can coccidiosis infections be subclinical in nature?",
+        "How does coccidiosis impact the growth performance of broiler chickens?",
+        "What is the effect of coccidiosis on feed conversion efficiency in poultry?",
+        "Are secondary infections more likely to occur in poultry with coccidiosis?",
+        "Why is it essential to implement effective control strategies for coccidiosis in poultry production?",
+        "How does coccidiosis affect the overall productivity and uniformity of poultry flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of chicken coccidiosis",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_causative_agents",
+    "content": "Chicken coccidiosis is caused by several host-specific protozoan species of the genus Eimeria, each exhibiting strict tissue tropism within the gastrointestinal tract. The most pathogenic species include Eimeria tenella, Eimeria maxima, Eimeria acervulina, Eimeria necatrix, and Eimeria brunetti, which differ in their preferred intestinal sites, lesion severity, and impact on production performance. In addition to these major species, several less pathogenic Eimeria species are highly prevalent in commercial flocks and can still contribute to subclinical disease, impaired growth, and reduced feed efficiency when present in combination.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria species",
+        "host specificity",
+        "intestinal tropism"
+      ],
+      "hypothetical_questions": [
+        "What is the main cause of chicken coccidiosis?",
+        "What genus do the protozoan species that cause chicken coccidiosis belong to?",
+        "Which Eimeria species are considered the most pathogenic to chickens?",
+        "What is the nature of the tissue tropism exhibited by Eimeria species within the gastrointestinal tract?",
+        "Can multiple Eimeria species infect the same chicken simultaneously?",
+        "What are the differences between the major Eimeria species in terms of intestinal sites and lesion severity?",
+        "How do Eimeria species impact the production performance of commercial chicken flocks?",
+        "Are all Eimeria species equally pathogenic to chickens?",
+        "What are the effects of less pathogenic Eimeria species on chicken growth and feed efficiency?",
+        "Can subclinical disease caused by Eimeria species still affect the overall health of a chicken flock?"
+      ]
+    },
+    "metadata": {
+      "title": "Causative agents of coccidiosis in chickens",
+      "disease": "coccidiosis",
+      "category": "cause",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_life_cycle_transmission",
+    "content": "Transmission of coccidiosis occurs primarily via the fecal–oral route through ingestion of sporulated Eimeria oocysts from contaminated litter, feed, or drinking water. Following ingestion, sporozoites are released in the intestinal lumen and invade epithelial cells, where they undergo multiple rounds of asexual replication, leading to extensive cell destruction. This is followed by sexual reproduction and formation of oocysts, which are shed in feces and can rapidly sporulate under favorable environmental conditions. The repetitive nature of this life cycle allows for rapid amplification of infection within poultry houses, particularly under conditions of high stocking density and inadequate litter management.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral transmission",
+        "oocysts",
+        "intestinal epithelium",
+        "litter contamination"
+      ],
+      "hypothetical_questions": [
+        "How does coccidiosis transmission primarily occur in poultry?",
+        "What is the role of sporulated Eimeria oocysts in the transmission of coccidiosis?",
+        "Through which routes can sporulated Eimeria oocysts be ingested by poultry?",
+        "What happens to sporozoites after they are released in the intestinal lumen?",
+        "How do sporozoites invade and affect epithelial cells in the intestine?",
+        "What is the outcome of the asexual replication of sporozoites in epithelial cells?",
+        "What stage follows asexual replication in the life cycle of Eimeria oocysts?",
+        "Under what conditions can oocysts rapidly sporulate after being shed in feces?",
+        "How does high stocking density affect the amplification of coccidiosis infection in poultry houses?",
+        "What is the impact of inadequate litter management on the life cycle of Eimeria oocysts in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission routes and life cycle of Eimeria",
+      "disease": "coccidiosis",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_clinical_pathology",
+    "content": "The clinical manifestation of coccidiosis ranges from subclinical infection to severe disease, depending on factors such as Eimeria species, infection dose, bird age, and immune status. Pathological changes are primarily localized to the intestinal tract and include epithelial cell destruction, inflammation, hemorrhage, and villus atrophy. Clinically affected birds may exhibit diarrhea, reduced feed and water intake, weight loss, poor growth performance, and uneven flock uniformity. In severe cases, particularly with Eimeria tenella and Eimeria necatrix infections, bloody droppings, anemia, and increased mortality can occur.",
+    "vector_context": {
+      "keywords": [
+        "intestinal lesions",
+        "diarrhea",
+        "bloody feces",
+        "growth retardation"
+      ],
+      "hypothetical_questions": [
+        "What are the factors that determine the severity of coccidiosis in birds?",
+        "Can Eimeria species cause different levels of disease severity in birds?",
+        "What are the typical pathological changes that occur in the intestinal tract of birds with coccidiosis?",
+        "Do birds with coccidiosis always exhibit visible symptoms of the disease?",
+        "How does coccidiosis affect the growth performance of infected birds?",
+        "What are the common clinical signs of coccidiosis in birds?",
+        "Can coccidiosis cause anemia in infected birds?",
+        "Which Eimeria species are most likely to cause severe disease and bloody droppings in birds?",
+        "How does the age of a bird affect its susceptibility to coccidiosis?",
+        "What are the potential consequences of severe coccidiosis infection in a flock of birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Clinical signs and intestinal pathology of coccidiosis",
+      "disease": "coccidiosis",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_diagnosis",
+    "content": "Diagnosis of coccidiosis is based on a combination of clinical observation, postmortem examination, and laboratory techniques. Gross intestinal lesions observed during necropsy provide important diagnostic clues, as lesion location and severity often correspond to specific Eimeria species. Microscopic examination of intestinal scrapings can reveal developmental stages of the parasite, while lesion scoring systems are commonly used to quantify disease severity and assess the effectiveness of control programs. Molecular diagnostic tools are increasingly employed for species identification, although their routine use in field settings remains limited.",
+    "vector_context": {
+      "keywords": [
+        "lesion scoring",
+        "necropsy",
+        "microscopy",
+        "molecular diagnosis"
+      ],
+      "hypothetical_questions": [
+        "What are the methods used for diagnosing coccidiosis?",
+        "How do gross intestinal lesions help in diagnosing coccidiosis?",
+        "What can be revealed by microscopic examination of intestinal scrapings?",
+        "What is the purpose of lesion scoring systems in coccidiosis diagnosis?",
+        "How are molecular diagnostic tools used in coccidiosis diagnosis?",
+        "What are the limitations of using molecular diagnostic tools in field settings?",
+        "Can coccidiosis be diagnosed through clinical observation alone?",
+        "How do different Eimeria species relate to lesion location and severity?",
+        "What role do postmortem examinations play in diagnosing coccidiosis?",
+        "Are laboratory techniques essential for accurate diagnosis of coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis of coccidiosis in poultry",
+      "disease": "coccidiosis",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_treatment_drug_resistance",
+    "content": "Control of coccidiosis has traditionally relied on the use of in-feed anticoccidial drugs, including synthetic compounds and ionophores, which target different stages of the Eimeria life cycle. While these drugs have been highly effective, their prolonged and widespread use has resulted in the emergence of drug-resistant Eimeria populations. Reduced drug sensitivity has become increasingly common in commercial poultry operations, necessitating higher dosages, drug rotation programs, or alternative control measures. The development of resistance has driven the industry toward integrated control strategies that combine chemotherapy with vaccination and management interventions.",
+    "vector_context": {
+      "keywords": [
+        "anticoccidial drugs",
+        "ionophores",
+        "drug resistance",
+        "chemotherapy"
+      ],
+      "hypothetical_questions": [
+        "What are the traditional methods of controlling coccidiosis?",
+        "How do in-feed anticoccidial drugs work to control Eimeria?",
+        "What are the effects of prolonged use of anticoccidial drugs on Eimeria populations?",
+        "Why have drug-resistant Eimeria populations emerged in commercial poultry operations?",
+        "What are the consequences of reduced drug sensitivity in controlling coccidiosis?",
+        "How do drug rotation programs help in controlling coccidiosis?",
+        "What are the alternative control measures for coccidiosis besides chemotherapy?",
+        "What are the integrated control strategies for coccidiosis in commercial poultry operations?",
+        "How does the development of resistance affect the treatment of coccidiosis?",
+        "What role does vaccination play in the integrated control of coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Anticoccidial drugs and resistance in coccidiosis",
+      "disease": "coccidiosis",
+      "category": "treatment",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccination_prevention",
+    "content": "Vaccination plays a central role in modern coccidiosis control programs and is primarily based on live Eimeria vaccines that induce species-specific protective immunity. These vaccines function by allowing controlled parasite replication, which stimulates robust immune responses while minimizing clinical disease. Vaccination can also help restore drug sensitivity in field strains by replacing resistant populations. However, vaccine application requires careful management, as transient intestinal damage and reduced early performance may occur during immunity development. Effective prevention strategies therefore integrate vaccination with biosecurity, litter management, and nutritional support.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "live vaccines",
+        "integrated control",
+        "biosecurity"
+      ],
+      "hypothetical_questions": [
+        "What is the primary basis of vaccination in modern coccidiosis control programs?",
+        "How do live Eimeria vaccines induce protective immunity in animals?",
+        "What is the role of controlled parasite replication in vaccine function?",
+        "Can vaccination help restore drug sensitivity in field strains of parasites?",
+        "What are the potential drawbacks of vaccine application in coccidiosis control?",
+        "Why is careful management required for vaccine application in poultry?",
+        "How can transient intestinal damage be minimized during immunity development?",
+        "What are the key components of effective prevention strategies against coccidiosis?",
+        "How does vaccination integrate with biosecurity measures in coccidiosis control?",
+        "What support systems are necessary to complement vaccination in preventing coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccination and prevention strategies for coccidiosis",
+      "disease": "coccidiosis",
+      "category": "prevention",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_future_control_strategies",
+    "content": "Growing concerns over anticoccidial drug resistance and consumer demand for reduced antimicrobial use have driven the exploration of alternative control strategies for coccidiosis. These include probiotics, prebiotics, phytogenic compounds, and gut health enhancers that aim to improve intestinal resilience and modulate host immunity. Advances in molecular biology, including genomics, transcriptomics, and gene editing technologies, have also opened new avenues for vaccine development and targeted parasite control. Future strategies are expected to rely on integrated, multifactorial approaches rather than single intervention methods.",
+    "vector_context": {
+      "keywords": [
+        "probiotics",
+        "phytogenics",
+        "genomics",
+        "integrated management"
+      ],
+      "hypothetical_questions": [
+        "What are the driving factors behind the exploration of alternative control strategies for coccidiosis?",
+        "How do probiotics contribute to the control of coccidiosis in animals?",
+        "What role do phytogenic compounds play in enhancing gut health and immunity?",
+        "Are prebiotics effective in improving intestinal resilience against coccidiosis?",
+        "Can gene editing technologies be used to develop new vaccines for coccidiosis?",
+        "What is the impact of anticoccidial drug resistance on the development of alternative control strategies?",
+        "How do advances in molecular biology aid in the development of targeted parasite control methods?",
+        "What are the expected characteristics of future strategies for controlling coccidiosis?",
+        "Can gut health enhancers be used as a sole method for controlling coccidiosis?",
+        "How do consumer demands influence the development of alternative control strategies for coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Alternative and future control strategies for coccidiosis",
+      "disease": "coccidiosis",
+      "category": "future_strategies",
+      "source_urls": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12008577/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_overview",
+    "content": "Coccidiosis is an intestinal disease of poultry caused by protozoan parasites of the genus Eimeria. The disease primarily affects chickens and represents one of the most economically important parasitic infections in the global poultry industry.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria",
+        "intestinal disease",
+        "poultry",
+        "protozoa"
+      ],
+      "hypothetical_questions": [
+        "What is the main cause of coccidiosis in poultry?",
+        "Is coccidiosis a viral disease that affects chickens?",
+        "What type of parasites cause coccidiosis in chickens?",
+        "Which genus of parasites is responsible for coccidiosis?",
+        "What is the primary location of the disease coccidiosis in poultry?",
+        "Does coccidiosis affect other types of birds besides chickens?",
+        "How significant is coccidiosis in the global poultry industry economically?",
+        "What are the most common symptoms of coccidiosis in chickens?",
+        "Can coccidiosis be prevented or treated in poultry?",
+        "Are there any vaccines available to protect against coccidiosis in chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of chicken coccidiosis",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_causative_agent",
+    "content": "Chicken coccidiosis is caused by several host-specific Eimeria species, including Eimeria tenella, Eimeria maxima, Eimeria acervulina, Eimeria necatrix, and Eimeria brunetti. Each species infects specific regions of the gastrointestinal tract and induces characteristic lesions.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria species",
+        "E. tenella",
+        "E. maxima",
+        "E. acervulina"
+      ],
+      "hypothetical_questions": [
+        "What is the main cause of chicken coccidiosis?",
+        "Is Eimeria tenella a host-specific species that infects chickens?",
+        "Which regions of the gastrointestinal tract are infected by Eimeria species?",
+        "What are the characteristic lesions induced by Eimeria acervulina in chickens?",
+        "Can Eimeria maxima infect other animals besides chickens?",
+        "How many Eimeria species are known to cause chicken coccidiosis?",
+        "What are the specific effects of Eimeria necatrix on the gastrointestinal tract?",
+        "Are all Eimeria species capable of inducing characteristic lesions in chickens?",
+        "Does Eimeria brunetti infect the same region of the gastrointestinal tract as Eimeria tenella?",
+        "Can chicken coccidiosis be caused by a single Eimeria species or multiple species?"
+      ]
+    },
+    "metadata": {
+      "title": "Causative agents of coccidiosis",
+      "disease": "coccidiosis",
+      "category": "cause",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_transmission_lifecycle",
+    "content": "Transmission of coccidiosis occurs via the fecal–oral route when chickens ingest sporulated Eimeria oocysts from contaminated litter, feed, or water. After ingestion, sporozoites invade intestinal epithelial cells, undergo multiple rounds of asexual replication, followed by sexual reproduction and shedding of oocysts in feces.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral transmission",
+        "oocysts",
+        "life cycle"
+      ],
+      "hypothetical_questions": [
+        "What is the primary route of transmission for coccidiosis in chickens?",
+        "How do chickens typically ingest sporulated Eimeria oocysts?",
+        "What is the role of sporozoites in the transmission of coccidiosis?",
+        "Where do sporozoites invade after being ingested by chickens?",
+        "What is the result of the asexual replication of sporozoites in intestinal epithelial cells?",
+        "What type of reproduction occurs after the asexual replication phase in the life cycle of Eimeria oocysts?",
+        "How are oocysts shed from the body of an infected chicken?",
+        "Can coccidiosis be transmitted through contaminated feed?",
+        "What is the source of contamination for the fecal–oral route of coccidiosis transmission?",
+        "Are Eimeria oocysts typically shed in the feces of infected chickens?"
+      ]
+    },
+    "metadata": {
+      "title": "Transmission and life cycle of Eimeria",
+      "disease": "coccidiosis",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_clinical_signs",
+    "content": "Clinical signs of coccidiosis range from subclinical infection to severe disease, depending on the Eimeria species and infection dose. Common signs include diarrhea, reduced feed intake, weight loss, poor growth performance, lethargy, and in severe cases, bloody feces and increased mortality.",
+    "vector_context": {
+      "keywords": [
+        "diarrhea",
+        "weight loss",
+        "bloody feces",
+        "mortality"
+      ],
+      "hypothetical_questions": [
+        "What are the clinical signs of coccidiosis in animals?",
+        "Can coccidiosis cause severe disease in infected animals?",
+        "What are the common signs of coccidiosis in poultry or livestock?",
+        "How does the Eimeria species affect the severity of coccidiosis?",
+        "What is the relationship between infection dose and the severity of coccidiosis?",
+        "Can coccidiosis cause weight loss in infected animals?",
+        "What are the signs of severe coccidiosis in animals?",
+        "How does coccidiosis affect the growth performance of infected animals?",
+        "Can coccidiosis cause bloody feces in infected animals?",
+        "What is the impact of coccidiosis on the mortality rate of infected animals?"
+      ]
+    },
+    "metadata": {
+      "title": "Clinical signs of coccidiosis in chickens",
+      "disease": "coccidiosis",
+      "category": "clinical_signs",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_intestinal_lesions",
+    "content": "Coccidiosis causes extensive damage to the intestinal epithelium, including villus destruction, hemorrhage, inflammation, and impaired nutrient absorption. Lesion location and severity vary according to the infecting Eimeria species, such as cecal hemorrhage in Eimeria tenella infections.",
+    "vector_context": {
+      "keywords": [
+        "intestinal damage",
+        "lesions",
+        "cecum",
+        "inflammation"
+      ],
+      "hypothetical_questions": [
+        "What is coccidiosis and how does it affect the intestinal epithelium?",
+        "How does coccidiosis impact nutrient absorption in the body?",
+        "What are the typical lesions caused by coccidiosis in the intestinal tract?",
+        "Which Eimeria species is commonly associated with cecal hemorrhage?",
+        "Can coccidiosis cause inflammation in the intestinal epithelium?",
+        "What is the role of Eimeria tenella in coccidiosis infections?",
+        "How does the location of lesions vary according to the infecting Eimeria species?",
+        "What are the effects of villus destruction on the intestinal epithelium?",
+        "Can coccidiosis lead to impaired nutrient absorption in the long term?",
+        "How do different Eimeria species affect the severity of coccidiosis symptoms?"
+      ]
+    },
+    "metadata": {
+      "title": "Intestinal lesions caused by coccidiosis",
+      "disease": "coccidiosis",
+      "category": "pathology",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_treatment_drugs",
+    "content": "Control of coccidiosis traditionally relies on anticoccidial drugs, including ionophores and synthetic compounds. These drugs inhibit parasite development but prolonged use has led to widespread drug resistance among Eimeria populations in commercial poultry systems.",
+    "vector_context": {
+      "keywords": [
+        "anticoccidial drugs",
+        "ionophores",
+        "drug resistance"
+      ],
+      "hypothetical_questions": [
+        "What are the traditional methods of controlling coccidiosis in poultry?",
+        "How do anticoccidial drugs affect the development of parasites in poultry?",
+        "What are the two main types of anticoccidial drugs used to control coccidiosis?",
+        "What is the impact of prolonged use of anticoccidial drugs on Eimeria populations?",
+        "Are ionophores and synthetic compounds effective against all types of coccidiosis?",
+        "How does drug resistance among Eimeria populations affect commercial poultry systems?",
+        "What are the consequences of widespread drug resistance in controlling coccidiosis?",
+        "Can anticoccidial drugs completely eliminate coccidiosis in poultry?",
+        "How do synthetic compounds compare to ionophores in terms of efficacy against coccidiosis?",
+        "Are there alternative methods to anticoccidial drugs for controlling coccidiosis in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Anticoccidial drugs for coccidiosis control",
+      "disease": "coccidiosis",
+      "category": "treatment",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccination",
+    "content": "Vaccination is a key strategy for coccidiosis prevention and includes live virulent, live attenuated, and subunit vaccines. Live attenuated vaccines reduce disease severity while allowing the development of protective immunity, though challenges remain regarding safety, cost, and coverage of emerging Eimeria species.",
+    "vector_context": {
+      "keywords": [
+        "vaccine",
+        "live attenuated",
+        "immunity"
+      ],
+      "hypothetical_questions": [
+        "What are the different types of vaccines used for coccidiosis prevention?",
+        "How does live attenuated vaccination reduce disease severity in coccidiosis?",
+        "What are the challenges associated with live attenuated vaccines for coccidiosis?",
+        "Are subunit vaccines effective in preventing coccidiosis in all species?",
+        "Can live virulent vaccines be used for coccidiosis prevention in all cases?",
+        "What is the role of vaccination in the prevention of coccidiosis?",
+        "How do live attenuated vaccines contribute to the development of protective immunity?",
+        "What are the emerging Eimeria species that pose a challenge to coccidiosis vaccination?",
+        "Are live attenuated vaccines more cost-effective than other types of vaccines for coccidiosis?",
+        "Do subunit vaccines provide better coverage against emerging Eimeria species than live attenuated vaccines?"
+      ]
+    },
+    "metadata": {
+      "title": "Vaccination strategies against coccidiosis",
+      "disease": "coccidiosis",
+      "category": "prevention",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_alternative_control",
+    "content": "Emerging control strategies for coccidiosis include the use of probiotics, prebiotics, phytochemicals, and advanced molecular approaches such as CRISPR-based gene editing and multi-omics. These strategies aim to enhance host immunity, modulate gut microbiota, and reduce reliance on anticoccidial drugs.",
+    "vector_context": {
+      "keywords": [
+        "probiotics",
+        "phytochemicals",
+        "CRISPR",
+        "multi-omics"
+      ],
+      "hypothetical_questions": [
+        "What are some emerging control strategies for coccidiosis?",
+        "How do probiotics help in controlling coccidiosis?",
+        "What role do prebiotics play in enhancing host immunity against coccidiosis?",
+        "Can phytochemicals be used as an alternative to anticoccidial drugs?",
+        "What is the purpose of using CRISPR-based gene editing in coccidiosis control?",
+        "How does multi-omics approach help in understanding coccidiosis?",
+        "What are the benefits of modulating gut microbiota in coccidiosis control?",
+        "Are there any risks associated with using advanced molecular approaches for coccidiosis control?",
+        "Can the use of probiotics and prebiotics reduce the reliance on anticoccidial drugs?",
+        "How do emerging control strategies for coccidiosis impact the host's overall health?"
+      ]
+    },
+    "metadata": {
+      "title": "Emerging and alternative control strategies",
+      "disease": "coccidiosis",
+      "category": "future_strategies",
+      "source_urls": [
+        "https://link.springer.com/article/10.1186/s44280-024-00039-x"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_study_background",
+    "content": "Coccidiosis is considered the most economically important enteric disease in the poultry industry, causing substantial losses due to reduced feed efficiency, impaired growth, increased mortality, and higher production costs. Control of the disease has traditionally relied on prophylactic use of anticoccidial drugs; however, long-term use has led to widespread drug resistance and increased consumer demand for antibiotic-free poultry products. As a result, live coccidiosis vaccines have gained increasing attention as an alternative control strategy. Despite their widespread use, large-scale field data evaluating vaccine effectiveness under commercial broiler farm conditions have been limited, creating a need for comprehensive field-based assessments.",
+    "vector_context": {
+      "keywords": [
+        "coccidiosis vaccine",
+        "economic impact",
+        "drug resistance",
+        "field trials"
+      ],
+      "hypothetical_questions": [
+        "What is the most economically important enteric disease in the poultry industry?",
+        "How does coccidiosis affect the growth of poultry?",
+        "What are the traditional methods of controlling coccidiosis in poultry?",
+        "Why has the use of anticoccidial drugs become less effective over time?",
+        "What is driving the demand for alternative control strategies for coccidiosis?",
+        "What are live coccidiosis vaccines and how do they work?",
+        "Are live coccidiosis vaccines widely used in the poultry industry?",
+        "What kind of data is needed to fully assess the effectiveness of live coccidiosis vaccines?",
+        "How do consumer demands impact the control of coccidiosis in the poultry industry?",
+        "What are the potential benefits of using live coccidiosis vaccines instead of anticoccidial drugs?"
+      ]
+    },
+    "metadata": {
+      "title": "Background and rationale for large-scale coccidiosis vaccine trials",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_field_trial_design",
+    "content": "The effectiveness of a commercial live coccidiosis vaccine was evaluated through large-scale field trials involving approximately 900,000 broiler chicks raised on three open-rearing commercial farms with a history of coccidiosis outbreaks. One-day-old chicks were vaccinated at the hatchery by coarse spray application according to the manufacturer’s instructions and subsequently transported to farms. The vaccine contained four Eimeria species, including Eimeria acervulina, Eimeria maxima, Eimeria tenella, and Eimeria mivati. Each farm conducted three independent trials, and chickens were monitored throughout the production cycle under standard commercial conditions.",
+    "vector_context": {
+      "keywords": [
+        "field trial",
+        "live vaccine",
+        "broiler farms",
+        "spray vaccination"
+      ],
+      "hypothetical_questions": [
+        "How many broiler chicks were involved in the large-scale field trials to evaluate the commercial live coccidiosis vaccine?",
+        "What was the method used to vaccinate one-day-old chicks at the hatchery?",
+        "What type of farms were used to raise the broiler chicks for the field trials?",
+        "How many Eimeria species were contained in the commercial live coccidiosis vaccine?",
+        "What was the age of the chicks when they were vaccinated?",
+        "How many independent trials were conducted on each farm?",
+        "What were the conditions under which the chickens were monitored throughout the production cycle?",
+        "What was the history of the three open-rearing commercial farms used in the field trials?",
+        "How were the vaccinated chicks transported after being vaccinated at the hatchery?",
+        "What was the purpose of evaluating the effectiveness of the commercial live coccidiosis vaccine through field trials?"
+      ]
+    },
+    "metadata": {
+      "title": "Design of large-scale field trials for coccidiosis vaccination",
+      "disease": "coccidiosis",
+      "category": "methods",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_evaluation_parameters",
+    "content": "Vaccine effectiveness was assessed using multiple complementary parameters, including intestinal lesion scores, fecal oocyst shedding, and production index (PI). Lesion scoring was conducted in different intestinal regions corresponding to the tissue tropism of the vaccine Eimeria species. Fecal oocyst shedding was quantified to evaluate parasite replication and environmental contamination. The production index, which integrates liveability, body weight gain, feed conversion ratio, and age at slaughter, was used as a comprehensive indicator of overall production performance and economic impact.",
+    "vector_context": {
+      "keywords": [
+        "lesion score",
+        "fecal oocysts",
+        "production index",
+        "performance metrics"
+      ],
+      "hypothetical_questions": [
+        "What parameters were used to assess vaccine effectiveness in the study?",
+        "How were intestinal lesion scores used to evaluate vaccine performance?",
+        "What is the significance of fecal oocyst shedding in assessing parasite replication?",
+        "Which regions of the intestine were targeted for lesion scoring and why?",
+        "What is the production index and how is it calculated in the context of vaccine evaluation?",
+        "How does the production index relate to the economic impact of vaccine use?",
+        "What is the relationship between lesion scoring and tissue tropism of the vaccine Eimeria species?",
+        "Can fecal oocyst shedding be used as an indicator of environmental contamination?",
+        "How does the vaccine affect body weight gain and feed conversion ratio in the production index?",
+        "What is the overall purpose of using multiple complementary parameters to assess vaccine effectiveness?"
+      ]
+    },
+    "metadata": {
+      "title": "Evaluation parameters used to assess coccidiosis vaccine effectiveness",
+      "disease": "coccidiosis",
+      "category": "evaluation",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_lesion_scores",
+    "content": "Following vaccination, intestinal lesion scores were generally low across all farms and trials, indicating limited intestinal damage associated with controlled parasite replication. Average lesion scores ranged from 0.36 to 0.64 in the duodenum, 0.30 to 0.39 in the jejuno-ileal region, and 0.18 to 0.39 in the cecum. Only a small number of time points showed lesion scores exceeding 1, and severe lesions were rare. These findings suggest that the live vaccine induced immunity without causing clinically significant intestinal pathology under field conditions.",
+    "vector_context": {
+      "keywords": [
+        "intestinal lesions",
+        "lesion scoring",
+        "vaccine safety"
+      ],
+      "hypothetical_questions": [
+        "What is the relationship between vaccination and intestinal lesion scores?",
+        "How do lesion scores in the duodenum compare to those in the jejuno-ileal region?",
+        "What is the range of average lesion scores in the cecum after vaccination?",
+        "Do controlled parasite replication and intestinal damage always occur together?",
+        "Can vaccination induce immunity without causing intestinal pathology?",
+        "What is the typical range of lesion scores in the duodenum after vaccination?",
+        "How common are severe lesions after vaccination under field conditions?",
+        "What is the impact of the live vaccine on intestinal pathology in general?",
+        "Are high lesion scores common at most time points after vaccination?",
+        "What does the rarity of severe lesions suggest about the vaccine's effectiveness?"
+      ]
+    },
+    "metadata": {
+      "title": "Intestinal lesion score outcomes after coccidiosis vaccination",
+      "disease": "coccidiosis",
+      "category": "results",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_oocyst_shedding",
+    "content": "Fecal oocyst shedding was detected primarily from approximately two weeks after vaccination and showed substantial variation among farms and buildings. Average oocyst counts ranged from about 19,766 to 100,100 oocysts per gram of feces. Shedding generally peaked during the third to fourth week after vaccination and subsequently declined, indicating the development of protective immunity. Although oocyst shedding reflects parasite replication, the observed patterns suggest controlled cycling of vaccine strains rather than uncontrolled field infection.",
+    "vector_context": {
+      "keywords": [
+        "oocyst shedding",
+        "parasite replication",
+        "environmental contamination"
+      ],
+      "hypothetical_questions": [
+        "When does fecal oocyst shedding typically start after vaccination?",
+        "What is the range of average oocyst counts per gram of feces after vaccination?",
+        "How long does it take for oocyst shedding to peak after vaccination?",
+        "What happens to oocyst shedding after it peaks in the third to fourth week?",
+        "Is oocyst shedding an indication of uncontrolled field infection?",
+        "What does the pattern of oocyst shedding suggest about the vaccine strains?",
+        "How does the development of protective immunity affect oocyst shedding?",
+        "Do all farms and buildings show the same level of oocyst shedding after vaccination?",
+        "What is the relationship between oocyst shedding and parasite replication?",
+        "Does the decline in oocyst shedding after the peak indicate a reduction in parasite load?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal oocyst shedding patterns following vaccination",
+      "disease": "coccidiosis",
+      "category": "results",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_production_index",
+    "content": "Across all three farms, vaccination was associated with improvements in the production index compared with historical farm performance prior to vaccine implementation. The production index increased by approximately 2.45 to 23.55 points depending on the farm, reflecting combined improvements in liveability, weight gain, and feed efficiency. Although some differences were not statistically significant, the consistent upward trend across multiple trials suggests that coccidiosis vaccination can generate meaningful economic benefits under commercial broiler production conditions.",
+    "vector_context": {
+      "keywords": [
+        "production index",
+        "economic benefit",
+        "broiler performance"
+      ],
+      "hypothetical_questions": [
+        "What is the relationship between vaccination and production index in broiler farms?",
+        "How much did the production index increase after vaccine implementation across the three farms?",
+        "What factors contribute to the improvements in the production index after vaccination?",
+        "Can coccidiosis vaccination generate economic benefits in commercial broiler production?",
+        "What is the range of increase in production index points after vaccination?",
+        "How does liveability improve after coccidiosis vaccination in broiler farms?",
+        "Are the improvements in production index statistically significant across all farms?",
+        "What is the impact of coccidiosis vaccination on weight gain in broiler farms?",
+        "How does feed efficiency change after the implementation of coccidiosis vaccination?",
+        "Do the results suggest that coccidiosis vaccination is beneficial for commercial broiler production conditions?"
+      ]
+    },
+    "metadata": {
+      "title": "Impact of coccidiosis vaccination on production index",
+      "disease": "coccidiosis",
+      "category": "impact",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_microbiota_effects",
+    "content": "Because live coccidiosis vaccines require limited parasite replication, concerns exist regarding potential disruption of gut microbiota. Analysis of fecal microbiota using 16S rRNA sequencing revealed differences in microbial diversity and composition among farms; however, these variations were largely farm-specific rather than vaccine-induced. Importantly, functional pathway analysis indicated no significant increase in bacterial invasion of epithelial cells, suggesting that vaccination did not promote pathogenic bacterial overgrowth or compromise intestinal microbial stability.",
+    "vector_context": {
+      "keywords": [
+        "gut microbiota",
+        "16S rRNA",
+        "vaccine safety"
+      ],
+      "hypothetical_questions": [
+        "What are the concerns associated with live coccidiosis vaccines?",
+        "Do live coccidiosis vaccines disrupt gut microbiota?",
+        "How is fecal microbiota analyzed in the context of coccidiosis vaccines?",
+        "What method is used to reveal differences in microbial diversity and composition among farms?",
+        "Are the variations in microbial diversity and composition due to the vaccine or other factors?",
+        "Can vaccination with live coccidiosis vaccines promote pathogenic bacterial overgrowth?",
+        "What is the impact of live coccidiosis vaccines on intestinal microbial stability?",
+        "Do live coccidiosis vaccines increase bacterial invasion of epithelial cells?",
+        "How does 16S rRNA sequencing contribute to the understanding of gut microbiota in vaccine studies?",
+        "Are farm-specific variations in microbial diversity and composition affected by live coccidiosis vaccines?"
+      ]
+    },
+    "metadata": {
+      "title": "Effects of coccidiosis vaccination on fecal microbiota",
+      "disease": "coccidiosis",
+      "category": "microbiota",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccine_conclusions",
+    "content": "The results of this large-scale field study demonstrate that live coccidiosis vaccination can be effectively applied under commercial broiler farm conditions, leading to improved production performance with minimal adverse effects on intestinal health or fecal microbiota. Vaccination reduced reliance on prophylactic anticoccidial drugs and offered measurable economic advantages. These findings support the use of coccidiosis vaccines as a practical and sustainable alternative for disease control in modern poultry production systems.",
+    "vector_context": {
+      "keywords": [
+        "field evidence",
+        "vaccine efficacy",
+        "sustainable control"
+      ],
+      "hypothetical_questions": [
+        "What are the effects of live coccidiosis vaccination on commercial broiler farm production performance?",
+        "Can live coccidiosis vaccination be applied under various farm conditions without adverse effects?",
+        "How does coccidiosis vaccination impact the intestinal health of broilers?",
+        "What are the economic advantages of using coccidiosis vaccines in poultry production?",
+        "Do coccidiosis vaccines reduce the reliance on prophylactic anticoccidial drugs in broiler farms?",
+        "Are coccidiosis vaccines a practical alternative for disease control in modern poultry production?",
+        "What are the benefits of using live coccidiosis vaccination in large-scale field studies?",
+        "How does live coccidiosis vaccination affect the fecal microbiota of broilers?",
+        "Can coccidiosis vaccines improve the overall health and production of broilers in commercial farms?",
+        "Are the results of live coccidiosis vaccination applicable to small-scale poultry production systems?"
+      ]
+    },
+    "metadata": {
+      "title": "Conclusions from large-scale coccidiosis vaccine field trials",
+      "disease": "coccidiosis",
+      "category": "conclusion",
+      "source_urls": [
+        "https://www.mdpi.com/2076-393X/12/7/800"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_study_overview",
+    "content": "Coccidiosis is a globally prevalent intestinal disease of chickens caused by multiple species of the protozoan parasite Eimeria and remains a major constraint to poultry production. Although live anticoccidial vaccines are increasingly used to control the disease, comprehensive field-based epidemiological data describing Eimeria species distribution after vaccination are limited. This study aimed to investigate the prevalence, species composition, and associated risk factors of Eimeria infections in broiler chickens immunized with live anticoccidial vaccines across multiple regions of China using molecular diagnostic approaches.",
+    "vector_context": {
+      "keywords": [
+        "epidemiology",
+        "live vaccine",
+        "broiler chickens",
+        "China"
+      ],
+      "hypothetical_questions": [
+        "What is the main cause of coccidiosis in chickens?",
+        "Is Eimeria a bacterial or protozoan parasite that causes coccidiosis?",
+        "How prevalent is coccidiosis as an intestinal disease in chickens globally?",
+        "What is the primary constraint that coccidiosis poses to poultry production?",
+        "Are live anticoccidial vaccines effective in controlling coccidiosis in chickens?",
+        "What are the limitations of current epidemiological data on Eimeria species distribution after vaccination?",
+        "What is the goal of the study mentioned in the text regarding Eimeria infections in broiler chickens?",
+        "In which country did the study on Eimeria infections in broiler chickens take place?",
+        "What diagnostic approaches were used in the study to investigate Eimeria infections?",
+        "What factors are associated with the risk of Eimeria infections in broiler chickens immunized with live anticoccidial vaccines?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of epidemiological investigation of coccidiosis in vaccinated broilers",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_sampling",
+    "content": "The epidemiological survey was conducted between September and November 2022 and involved 49 commercial broiler farms distributed across eastern, central, southern, and southwestern China. A total of 634 pooled fecal samples were collected from broiler flocks of different ages, including starter, grower, and adult chickens. All farms implemented live anticoccidial vaccination programs using either trivalent or tetravalent attenuated vaccines administered during early life. Samples were processed for molecular detection of Eimeria species using quantitative real-time PCR, allowing for accurate species-level identification.",
+    "vector_context": {
+      "keywords": [
+        "sampling",
+        "qPCR",
+        "field survey",
+        "vaccinated flocks"
+      ],
+      "hypothetical_questions": [
+        "What was the time period during which the epidemiological survey was conducted?",
+        "How many commercial broiler farms were involved in the epidemiological survey?",
+        "In which regions of China were the commercial broiler farms distributed?",
+        "What was the total number of pooled fecal samples collected from the broiler flocks?",
+        "What were the different ages of the broiler flocks from which the fecal samples were collected?",
+        "What type of vaccination programs did all the farms implement for the broiler chickens?",
+        "At what stage of life were the live anticoccidial vaccines administered to the chickens?",
+        "What method was used for the molecular detection of Eimeria species in the collected samples?",
+        "What was the purpose of using quantitative real-time PCR in the molecular detection process?",
+        "What level of identification was achieved through the molecular detection of Eimeria species?"
+      ]
+    },
+    "metadata": {
+      "title": "Sampling design and study population",
+      "disease": "coccidiosis",
+      "category": "methods",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_prevalence",
+    "content": "Molecular analysis revealed a high overall prevalence of Eimeria infection among vaccinated broiler flocks in China. Out of 634 fecal samples examined, 86.12% were positive for at least one Eimeria species. This high prevalence indicates that Eimeria parasites remain widespread in commercial poultry production despite the use of live vaccines. The findings emphasize that vaccination does not eliminate parasite circulation but rather aims to control clinical disease and reduce production losses.",
+    "vector_context": {
+      "keywords": [
+        "prevalence",
+        "Eimeria detection",
+        "vaccinated flocks"
+      ],
+      "hypothetical_questions": [
+        "What is the prevalence of Eimeria infection among vaccinated broiler flocks in China?",
+        "How many fecal samples were examined in the molecular analysis of Eimeria infection?",
+        "What percentage of fecal samples were positive for at least one Eimeria species?",
+        "Do live vaccines completely eliminate Eimeria parasites in commercial poultry production?",
+        "What is the main goal of using live vaccines against Eimeria parasites in poultry?",
+        "How widespread are Eimeria parasites in commercial poultry production despite vaccination efforts?",
+        "What is the relationship between vaccination and parasite circulation in broiler flocks?",
+        "Can vaccination completely prevent clinical disease caused by Eimeria parasites in poultry?",
+        "What are the consequences of Eimeria infection on production losses in commercial poultry?",
+        "Does the high prevalence of Eimeria infection among vaccinated broiler flocks indicate a need for alternative control methods?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevalence of Eimeria infection in vaccinated broiler chickens",
+      "disease": "coccidiosis",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_species_distribution",
+    "content": "Seven Eimeria species were detected in broiler flocks vaccinated with live anticoccidial vaccines. The most prevalent species were Eimeria acervulina, Eimeria necatrix, Eimeria mitis, Eimeria tenella, and Eimeria praecox, while Eimeria maxima was detected at a much lower frequency. These results demonstrate that multiple Eimeria species co-circulate within vaccinated flocks and that both highly pathogenic and less pathogenic species contribute to the overall infection burden in commercial poultry systems.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria species",
+        "species prevalence",
+        "molecular detection"
+      ],
+      "hypothetical_questions": [
+        "What are the most common Eimeria species found in broiler flocks?",
+        "How many Eimeria species were detected in broiler flocks vaccinated with live anticoccidial vaccines?",
+        "Which Eimeria species is the most prevalent in vaccinated broiler flocks?",
+        "What is the role of Eimeria mitis in the overall infection burden in commercial poultry systems?",
+        "Are Eimeria species able to co-circulate within vaccinated flocks?",
+        "What is the difference in prevalence between Eimeria maxima and other Eimeria species?",
+        "Can live anticoccidial vaccines completely eliminate Eimeria infections in broiler flocks?",
+        "How do highly pathogenic Eimeria species contribute to the infection burden in poultry systems?",
+        "What are the implications of multiple Eimeria species co-circulating in commercial poultry systems?",
+        "Do Eimeria species like Eimeria tenella and Eimeria praecox have a significant impact on the health of broiler flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Distribution of Eimeria species in vaccinated broiler flocks",
+      "disease": "coccidiosis",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_mixed_infections",
+    "content": "Mixed-species Eimeria infections were commonly observed in vaccinated broiler flocks, with an average of more than three Eimeria species detected per positive sample. Nearly two-thirds of positive samples contained three to five Eimeria species simultaneously. The most frequent co-infection patterns involved combinations of Eimeria acervulina with Eimeria tenella or Eimeria necatrix. These findings highlight the complexity of coccidiosis epidemiology in the field and suggest that mixed infections play a significant role in disease dynamics and control outcomes.",
+    "vector_context": {
+      "keywords": [
+        "mixed infection",
+        "co-infection",
+        "Eimeria interactions"
+      ],
+      "hypothetical_questions": [
+        "What is the average number of Eimeria species detected per positive sample in vaccinated broiler flocks?",
+        "How often are mixed-species Eimeria infections observed in vaccinated broiler flocks?",
+        "What percentage of positive samples contain three to five Eimeria species simultaneously?",
+        "Which Eimeria species are most frequently involved in co-infection patterns?",
+        "What is the significance of mixed infections in disease dynamics and control outcomes?",
+        "How do mixed-species Eimeria infections impact the epidemiology of coccidiosis in the field?",
+        "What are the most common combinations of Eimeria species found in co-infections?",
+        "Do vaccinated broiler flocks always have a lower incidence of Eimeria infections?",
+        "Can mixed-species Eimeria infections be prevented through vaccination alone?",
+        "How do the findings on mixed-species Eimeria infections inform strategies for coccidiosis control?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevalence of mixed Eimeria infections",
+      "disease": "coccidiosis",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_age_risk",
+    "content": "Age was identified as an important risk factor influencing the prevalence of specific Eimeria species in vaccinated broiler flocks. Starter and grower chickens showed higher detection rates for several Eimeria species and mixed-species infections compared with adult birds. Younger chickens were particularly susceptible to infections involving Eimeria acervulina, Eimeria tenella, and Eimeria necatrix, reflecting incomplete immunity during early production stages despite vaccination.",
+    "vector_context": {
+      "keywords": [
+        "age effect",
+        "starter chickens",
+        "susceptibility"
+      ],
+      "hypothetical_questions": [
+        "What is the main risk factor influencing the prevalence of Eimeria species in broiler flocks?",
+        "How do starter and grower chickens differ from adult birds in terms of Eimeria detection rates?",
+        "Which Eimeria species are younger chickens most susceptible to?",
+        "What is the impact of vaccination on the immunity of younger chickens to Eimeria species?",
+        "Do adult birds have lower detection rates for all Eimeria species compared to younger chickens?",
+        "Can Eimeria acervulina infections be prevented by vaccination in young chickens?",
+        "How does the age of chickens affect their susceptibility to mixed-species Eimeria infections?",
+        "What role does incomplete immunity play in the prevalence of Eimeria species in young broiler flocks?",
+        "Are there any differences in the detection rates of Eimeria tenella and Eimeria necatrix between starter and grower chickens?",
+        "Can vaccination alone provide complete protection against Eimeria species in broiler flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Age-related risk factors for Eimeria infection",
+      "disease": "coccidiosis",
+      "category": "risk_factors",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_geographic_risk",
+    "content": "Geographic region was significantly associated with variation in Eimeria species prevalence among vaccinated flocks. Higher infection rates of certain Eimeria species, particularly Eimeria necatrix, were observed in eastern, central, and southern regions of China compared with southwestern regions. These regional differences may reflect variations in climate, management practices, stocking density, and environmental conditions that influence oocyst survival and transmission.",
+    "vector_context": {
+      "keywords": [
+        "geographic variation",
+        "climate",
+        "management factors"
+      ],
+      "hypothetical_questions": [
+        "What is the relationship between geographic region and Eimeria species prevalence in vaccinated flocks?",
+        "How do regional differences in climate affect the prevalence of Eimeria species in China?",
+        "What management practices contribute to the variation in Eimeria species prevalence among regions?",
+        "Are there any differences in Eimeria species infection rates between eastern and southwestern regions of China?",
+        "How does stocking density influence the survival and transmission of Eimeria species oocysts?",
+        "What role do environmental conditions play in the regional variation of Eimeria species prevalence?",
+        "Which Eimeria species has the highest infection rate in eastern, central, and southern regions of China?",
+        "Do regional differences in Eimeria species prevalence impact the effectiveness of vaccination in flocks?",
+        "How do variations in climate and management practices interact to affect Eimeria species transmission?",
+        "What are the potential factors contributing to the lower infection rates of Eimeria species in southwestern regions of China?"
+      ]
+    },
+    "metadata": {
+      "title": "Geographic risk factors affecting Eimeria prevalence",
+      "disease": "coccidiosis",
+      "category": "risk_factors",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_clinical_association",
+    "content": "Statistical analysis demonstrated significant associations between the presence of specific Eimeria species and the occurrence of clinical coccidiosis in vaccinated flocks. In particular, infections involving Eimeria necatrix, Eimeria acervulina, and Eimeria praecox were associated with increased odds of clinical disease. These findings suggest that certain Eimeria species may overcome vaccine-induced protection under field conditions, especially when combined with environmental or management stressors.",
+    "vector_context": {
+      "keywords": [
+        "clinical disease",
+        "odds ratio",
+        "species-specific risk"
+      ],
+      "hypothetical_questions": [
+        "What is the relationship between Eimeria species and clinical coccidiosis in vaccinated flocks?",
+        "Can Eimeria necatrix infections be controlled through vaccination alone?",
+        "How do environmental stressors impact the effectiveness of coccidiosis vaccines?",
+        "Are all Eimeria species equally likely to cause clinical disease in vaccinated flocks?",
+        "What role do management practices play in preventing coccidiosis outbreaks?",
+        "Do Eimeria acervulina and Eimeria praecox infections respond differently to vaccination?",
+        "Can statistical analysis accurately predict the occurrence of clinical coccidiosis?",
+        "How does the presence of multiple Eimeria species affect the severity of clinical disease?",
+        "Are there any Eimeria species that are completely resistant to vaccine-induced protection?",
+        "What are the implications of Eimeria species overcoming vaccine-induced protection for poultry farming practices?"
+      ]
+    },
+    "metadata": {
+      "title": "Association between Eimeria species and clinical coccidiosis",
+      "disease": "coccidiosis",
+      "category": "clinical_risk",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_epidemiology_control_implications",
+    "content": "The high prevalence of Eimeria infection and the emergence of species such as Eimeria brunetti and Eimeria praecox in vaccinated flocks indicate potential gaps in current vaccine formulations. The study suggests that inclusion of additional prevalent species in live vaccines, combined with improved post-vaccination management practices, may enhance control efficacy. Ongoing epidemiological surveillance is therefore essential to guide vaccine composition and integrated coccidiosis control strategies.",
+    "vector_context": {
+      "keywords": [
+        "vaccine improvement",
+        "control strategies",
+        "surveillance"
+      ],
+      "hypothetical_questions": [
+        "What are the potential gaps in current vaccine formulations for Eimeria infection?",
+        "How do species such as Eimeria brunetti and Eimeria praecox affect vaccinated flocks?",
+        "What is the impact of Eimeria infection on poultry health?",
+        "Can live vaccines be improved to control Eimeria infection more effectively?",
+        "What role does epidemiological surveillance play in guiding vaccine composition?",
+        "How can post-vaccination management practices be improved to enhance control efficacy?",
+        "What are the consequences of not including additional prevalent species in live vaccines?",
+        "Are there any alternative methods for controlling coccidiosis in flocks?",
+        "How often should epidemiological surveillance be conducted to ensure effective vaccine composition?",
+        "What are the benefits of integrated coccidiosis control strategies for poultry health?"
+      ]
+    },
+    "metadata": {
+      "title": "Implications of epidemiological findings for coccidiosis control",
+      "disease": "coccidiosis",
+      "category": "implications",
+      "source_urls": [
+        "https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2024.1375026/full"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_canada_surveillance_overview",
+    "content": "Coccidiosis and necrotic enteritis remain the two most important enteric diseases affecting poultry production in Canada and are major drivers of antimicrobial use. This study analyzed farm-level surveillance data collected through the Canadian Integrated Program for Antimicrobial Resistance Surveillance (CIPARS) between 2018 and 2023. The objective was to describe trends in disease control strategies, including antimicrobial use, coccidiostat programs, and vaccination practices, across broiler chickens, turkeys, and laying hens. By integrating antimicrobial usage data with flock health and management information, the study provides a comprehensive overview of how the Canadian poultry industry has adapted enteric disease control practices in response to voluntary and regulatory antimicrobial stewardship initiatives.",
+    "vector_context": {
+      "keywords": [
+        "CIPARS",
+        "surveillance",
+        "enteric diseases",
+        "Canada"
+      ],
+      "hypothetical_questions": [
+        "What are the two most important enteric diseases affecting poultry production in Canada?",
+        "What is the purpose of the Canadian Integrated Program for Antimicrobial Resistance Surveillance?",
+        "What type of data was collected through CIPARS between 2018 and 2023?",
+        "What are the main drivers of antimicrobial use in poultry production?",
+        "Which bird species were included in the study on disease control strategies?",
+        "What is the objective of analyzing farm-level surveillance data in the context of poultry production?",
+        "How has the Canadian poultry industry adapted to antimicrobial stewardship initiatives?",
+        "What information was integrated with antimicrobial usage data in the study?",
+        "What is the significance of coccidiostat programs in poultry disease control?",
+        "How have vaccination practices impacted enteric disease control in Canadian poultry production?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of coccidiosis control surveillance in Canadian poultry",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_driver_of_amu",
+    "content": "Coccidiosis represents a substantial driver of antimicrobial and coccidiostat use in Canadian poultry production systems. Across broiler chickens, turkeys, and layers, a large proportion of antimicrobials and coccidiostats administered during the surveillance period were intended for enteric disease control. In broiler chickens, approximately 60% of total antimicrobial quantities used annually were attributed to coccidiosis control through ionophores and chemical coccidiostats. This reflects the persistent need to manage Eimeria infections to protect gut integrity, prevent production losses, and mitigate the risk of secondary bacterial infections such as necrotic enteritis.",
+    "vector_context": {
+      "keywords": [
+        "antimicrobial use",
+        "ionophores",
+        "chemical coccidiostats"
+      ],
+      "hypothetical_questions": [
+        "What is the main driver of antimicrobial and coccidiostat use in Canadian poultry production systems?",
+        "How much of the total antimicrobial quantities used annually in broiler chickens is attributed to coccidiosis control?",
+        "What types of birds are affected by coccidiosis in Canadian poultry production systems?",
+        "What is the purpose of using ionophores and chemical coccidiostats in broiler chickens?",
+        "What are the consequences of not managing Eimeria infections in poultry production systems?",
+        "How does coccidiosis impact the gut integrity of broiler chickens?",
+        "What is the relationship between coccidiosis and secondary bacterial infections in poultry?",
+        "Can coccidiosis be controlled through means other than antimicrobials and coccidiostats in poultry production?",
+        "What are the production losses associated with coccidiosis in Canadian poultry production systems?",
+        "How does the use of antimicrobials and coccidiostats in poultry production systems affect the risk of necrotic enteritis?"
+      ]
+    },
+    "metadata": {
+      "title": "Contribution of coccidiosis to antimicrobial use",
+      "disease": "coccidiosis",
+      "category": "impact",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_coccidiostat_usage",
+    "content": "Control of coccidiosis in Canadian poultry flocks relied predominantly on the use of ionophores and chemical coccidiostats administered through feed or water. Ionophores were used more frequently than chemical coccidiostats in both broiler chickens and turkeys, with an overall ionophore-to-chemical ratio of approximately 2.5:1 in broilers and 2.4:1 in turkeys when measured by total kilograms used. Commonly administered ionophores included monensin, narasin, salinomycin, lasalocid, and combination products such as narasin–nicarbazin, while chemical coccidiostats included nicarbazin, clopidol, decoquinate, zoalene, and amprolium.",
+    "vector_context": {
+      "keywords": [
+        "ionophores",
+        "chemical coccidiostats",
+        "feed medication"
+      ],
+      "hypothetical_questions": [
+        "What are the primary methods used to control coccidiosis in Canadian poultry flocks?",
+        "How often are ionophores used compared to chemical coccidiostats in broiler chickens?",
+        "What is the overall ionophore-to-chemical ratio in turkeys measured by total kilograms used?",
+        "What are some commonly administered ionophores in poultry flocks?",
+        "Are chemical coccidiostats used more frequently than ionophores in Canadian poultry flocks?",
+        "What is the ionophore-to-chemical ratio in broilers measured by total kilograms used?",
+        "Can combination products like narasin–nicarbazin be used as ionophores in poultry flocks?",
+        "How do ionophores and chemical coccidiostats differ in their administration to poultry flocks?",
+        "What are some examples of chemical coccidiostats used to control coccidiosis in poultry?",
+        "Are monensin, narasin, and salinomycin effective ionophores for controlling coccidiosis in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Coccidiostats used for coccidiosis control in poultry",
+      "disease": "coccidiosis",
+      "category": "treatment",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_control_programs_broilers",
+    "content": "In broiler chickens, coccidiosis control programs were dominated by shuttle or dual-control strategies, which involve alternating two or more coccidiostats at different stages of the grow-out cycle. Approximately 58% of broiler flocks employed shuttle programs during the surveillance period, reflecting efforts to delay the development of Eimeria resistance and optimize efficacy. Continuous or straight programs, in which a single coccidiostat is used throughout the production cycle, declined after 2018 but stabilized at approximately 20% to 23% of flocks in later years. These program choices highlight the importance of strategic drug rotation in intensive broiler production systems.",
+    "vector_context": {
+      "keywords": [
+        "shuttle program",
+        "dual control",
+        "broiler production"
+      ],
+      "hypothetical_questions": [
+        "What is the primary method used for coccidiosis control in broiler chickens?",
+        "How do shuttle or dual-control strategies work in broiler chicken production?",
+        "What percentage of broiler flocks used shuttle programs during the surveillance period?",
+        "Why are shuttle programs employed in broiler chicken production?",
+        "What is the purpose of alternating coccidiostats in broiler chicken production?",
+        "How effective are continuous or straight programs in broiler chicken production?",
+        "What happened to the use of continuous or straight programs after 2018?",
+        "Why did the use of continuous or straight programs decline after 2018?",
+        "What is the importance of strategic drug rotation in intensive broiler production systems?",
+        "How do broiler chicken producers optimize efficacy in coccidiosis control programs?"
+      ]
+    },
+    "metadata": {
+      "title": "Coccidiosis control programs in broiler chickens",
+      "disease": "coccidiosis",
+      "category": "control_programs",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_control_programs_turkeys_layers",
+    "content": "In contrast to broiler chickens, turkey flocks primarily relied on continuous coccidiosis control programs, with approximately 67% of flocks administering a single coccidiostat throughout the growing cycle. Shuttle programs were used infrequently in turkeys, reflecting differences in production systems and disease pressure. Layer flocks used a more limited range of coccidiostats, primarily monensin and amprolium, and consistently applied continuous programs. The control strategies employed in turkeys and layers demonstrate how production type and management practices influence coccidiosis prevention approaches.",
+    "vector_context": {
+      "keywords": [
+        "turkeys",
+        "layers",
+        "continuous program"
+      ],
+      "hypothetical_questions": [
+        "What percentage of turkey flocks used a single coccidiostat throughout the growing cycle?",
+        "How did the production systems of turkeys and broiler chickens differ in terms of coccidiosis control?",
+        "What types of coccidiostats were most commonly used in layer flocks?",
+        "Why were shuttle programs used infrequently in turkey flocks?",
+        "How do management practices influence coccidiosis prevention approaches in different types of flocks?",
+        "What is the primary difference in coccidiosis control between turkey and layer flocks?",
+        "How does disease pressure affect the choice of coccidiosis control program in turkey flocks?",
+        "What is the role of monensin in coccidiosis control in layer flocks?",
+        "Can the use of a single coccidiostat throughout the growing cycle be effective in broiler chickens?",
+        "How do the control strategies employed in turkeys and layers reflect the impact of production type on coccidiosis prevention?"
+      ]
+    },
+    "metadata": {
+      "title": "Coccidiosis control programs in turkeys and layers",
+      "disease": "coccidiosis",
+      "category": "control_programs",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_vaccination_trends_canada",
+    "content": "Vaccination against coccidiosis emerged as an increasingly important nonantimicrobial control strategy during the surveillance period, although overall uptake varied by poultry sector. Coccidiosis vaccines were administered in approximately 13% of broiler flocks, 16% of turkey flocks, and 29% of layer flocks. In layers, vaccination was frequently applied at hatch and formed part of routine flock health management, reducing reliance on coccidiostats during the laying period. In broilers and turkeys, vaccine use remained limited but showed potential as part of integrated disease control programs aimed at reducing antimicrobial use.",
+    "vector_context": {
+      "keywords": [
+        "vaccination",
+        "nonantimicrobial control",
+        "layer flocks"
+      ],
+      "hypothetical_questions": [
+        "What is the significance of vaccination against coccidiosis in poultry?",
+        "How many broiler flocks were administered coccidiosis vaccines?",
+        "In which type of flocks was the uptake of coccidiosis vaccines the highest?",
+        "What percentage of turkey flocks received coccidiosis vaccines?",
+        "At what stage were coccidiosis vaccines frequently applied in layer flocks?",
+        "How did vaccination against coccidiosis impact the use of coccidiostats in layer flocks?",
+        "Why was vaccine use limited in broilers and turkeys despite its potential?",
+        "What is the role of coccidiosis vaccines in integrated disease control programs?",
+        "How does the use of coccidiosis vaccines contribute to reducing antimicrobial use in poultry?",
+        "What is the overall trend in the uptake of coccidiosis vaccines across different poultry sectors?"
+      ]
+    },
+    "metadata": {
+      "title": "Trends in coccidiosis vaccination in Canadian poultry",
+      "disease": "coccidiosis",
+      "category": "prevention",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_prevalence_flock_health",
+    "content": "Despite changes in antimicrobial use and coccidiosis control practices, the prevalence of reported coccidiosis diagnoses in Canadian poultry flocks remained relatively stable between 2018 and 2023. Coccidiosis was diagnosed in approximately 11% of broiler flocks, 12% of turkey flocks, and only a small number of layer flocks. Mortality rates across all poultry commodities also remained stable over time, suggesting that modifications in disease control strategies did not result in adverse flock health outcomes. These findings indicate that current control programs have been largely effective in maintaining enteric disease stability under evolving antimicrobial stewardship frameworks.",
+    "vector_context": {
+      "keywords": [
+        "disease prevalence",
+        "mortality",
+        "flock health"
+      ],
+      "hypothetical_questions": [
+        "What is the prevalence of coccidiosis diagnoses in Canadian broiler flocks between 2018 and 2023?",
+        "How has the use of antimicrobials impacted coccidiosis control practices in Canadian poultry flocks?",
+        "What percentage of turkey flocks were diagnosed with coccidiosis during the same time period?",
+        "Have mortality rates in Canadian poultry flocks changed significantly since 2018?",
+        "What is the approximate percentage of layer flocks diagnosed with coccidiosis?",
+        "How effective have current control programs been in maintaining enteric disease stability?",
+        "What changes have been made to disease control strategies in Canadian poultry flocks?",
+        "Are antimicrobial stewardship frameworks evolving in response to coccidiosis diagnoses?",
+        "How stable have mortality rates been across all poultry commodities since 2018?",
+        "What factors have contributed to the relatively stable prevalence of coccidiosis diagnoses in Canadian poultry flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevalence of coccidiosis and flock health outcomes",
+      "disease": "coccidiosis",
+      "category": "epidemiology",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_antimicrobial_stewardship_implications",
+    "content": "The surveillance data highlight the continued importance of coccidiostats, including ionophores and chemical compounds, in maintaining poultry gut health in Canada. While preventive use of medically important antimicrobials has declined following regulatory and voluntary industry initiatives, reliance on coccidiosis control tools has remained stable. The study underscores the need to preserve the efficacy of existing coccidiostats while advancing alternative strategies such as vaccination, improved management, and nonantimicrobial feed additives. Ongoing farm-level surveillance is essential to monitor the long-term impacts of these strategies on poultry health, productivity, and antimicrobial resistance.",
+    "vector_context": {
+      "keywords": [
+        "antimicrobial stewardship",
+        "AMR",
+        "integrated control"
+      ],
+      "hypothetical_questions": [
+        "What are coccidiostats and how are they used in poultry farming?",
+        "How has the use of medically important antimicrobials changed in Canada's poultry industry?",
+        "What are the main tools used to control coccidiosis in poultry?",
+        "Why is it important to preserve the efficacy of existing coccidiostats?",
+        "What alternative strategies are being explored to maintain poultry gut health?",
+        "How does the use of coccidiostats impact antimicrobial resistance in poultry?",
+        "What role do regulatory initiatives play in shaping the use of antimicrobials in poultry farming?",
+        "Can vaccination be an effective alternative to coccidiostats in controlling coccidiosis?",
+        "How does farm-level surveillance contribute to the development of strategies for maintaining poultry health?",
+        "What are the potential long-term impacts of relying on coccidiosis control tools on poultry productivity?"
+      ]
+    },
+    "metadata": {
+      "title": "Implications of coccidiosis control trends for antimicrobial stewardship",
+      "disease": "coccidiosis",
+      "category": "implications",
+      "source_urls": [
+        "https://meridian.allenpress.com/avian-diseases/article/69/4/384/508189/Trends-in-Necrotic-Enteritis-and-Coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_overview_pathogenesis",
+    "content": "Avian coccidiosis is a parasitic disease of poultry caused by protozoa of the genus Eimeria, which are obligate intracellular parasites that invade and destroy intestinal epithelial cells. Among the different Eimeria species, Eimeria tenella is recognized as one of the most pathogenic, primarily infecting the caeca and causing severe caecal coccidiosis. Infection leads to intestinal tissue destruction, hemorrhage, impaired nutrient absorption, reduced growth performance, and increased susceptibility to secondary infections such as necrotic enteritis and Salmonella spp. Globally, the prevalence of coccidiosis in poultry ranges widely from 7% to 98%, depending on geography, farming practices, and biosecurity levels. The disease is endemic in tropical and subtropical regions, where deep-litter systems and high stocking density facilitate continuous oocyst recycling. Economically, coccidiosis represents one of the most costly poultry diseases, accounting for approximately 30% of total pharmacological expenditure in poultry production, with global annual losses estimated to exceed 14 billion USD.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria",
+        "Eimeria tenella",
+        "pathogenesis",
+        "economic impact",
+        "poultry disease"
+      ],
+      "hypothetical_questions": [
+        "What is the primary cause of avian coccidiosis in poultry?",
+        "What type of parasites are responsible for invading and destroying intestinal epithelial cells in poultry?",
+        "Which Eimeria species is recognized as one of the most pathogenic to poultry?",
+        "What are the primary effects of Eimeria tenella infection on the caeca of poultry?",
+        "How does avian coccidiosis affect the growth performance of infected poultry?",
+        "What is the estimated global annual economic loss due to avian coccidiosis in poultry production?",
+        "In which regions is avian coccidiosis most endemic and why?",
+        "What percentage of total pharmacological expenditure in poultry production is attributed to coccidiosis?",
+        "How does the prevalence of coccidiosis in poultry vary globally and what factors influence this variation?",
+        "What are some of the secondary infections that poultry with coccidiosis are more susceptible to?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview and pathogenesis of chicken coccidiosis",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/vms3.70579"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_intestinal_damage",
+    "content": "Eimeria tenella infection causes direct damage to the intestinal mucosa through repeated cycles of asexual and sexual replication within epithelial cells. This destruction disrupts gut homeostasis, leading to hemorrhagic lesions in the caeca, impaired digestion, malabsorption of nutrients, and significant reductions in weight gain and feed conversion efficiency. Severe infections are often associated with bloody diarrhea, increased mortality, and poor flock uniformity. Even subclinical infections can have substantial economic consequences by reducing growth performance without obvious clinical signs. Furthermore, intestinal damage caused by coccidiosis predisposes chickens to secondary bacterial infections, particularly necrotic enteritis caused by Clostridium perfringens, thereby compounding production losses and increasing antimicrobial usage.",
+    "vector_context": {
+      "keywords": [
+        "intestinal lesions",
+        "hemorrhage",
+        "malabsorption",
+        "necrotic enteritis",
+        "subclinical infection"
+      ],
+      "hypothetical_questions": [
+        "What is the primary cause of direct damage to the intestinal mucosa in chickens?",
+        "How does Eimeria tenella infection affect the gut homeostasis of chickens?",
+        "What are the symptoms of severe Eimeria tenella infections in chickens?",
+        "Can subclinical Eimeria tenella infections have economic consequences for chicken farmers?",
+        "How does Eimeria tenella infection impact the weight gain of infected chickens?",
+        "What is the relationship between Eimeria tenella infection and secondary bacterial infections in chickens?",
+        "Can Eimeria tenella infection lead to impaired digestion in chickens?",
+        "How does coccidiosis affect the uniformity of chicken flocks?",
+        "What are the potential consequences of reduced feed conversion efficiency in chicken production?",
+        "Are bloody diarrhea and increased mortality always present in chickens infected with Eimeria tenella?"
+      ]
+    },
+    "metadata": {
+      "title": "Intestinal damage and physiological consequences of coccidiosis",
+      "disease": "coccidiosis",
+      "category": "pathogenesis",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/vms3.70579"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_anticoccidial_drugs",
+    "content": "Since the 1940s, anticoccidial drugs have been the cornerstone of coccidiosis control in commercial poultry production. These drugs are used both prophylactically and therapeutically and can be broadly classified into synthetic chemicals, ionophores, and sulfonamides. Commonly used anticoccidials include amprolium, toltrazuril, maduramicin, sulphaclozine, and combinations such as amprolium with sulphaquinoxaline. These compounds act by interfering with parasite metabolism, replication, or ion transport. While anticoccidials have historically improved productivity and sustainability in poultry farming, long-term and indiscriminate use has led to the emergence of drug-resistant Eimeria strains, reducing treatment efficacy and necessitating continuous monitoring of drug sensitivity.",
+    "vector_context": {
+      "keywords": [
+        "anticoccidial drugs",
+        "amprolium",
+        "toltrazuril",
+        "ionophores",
+        "drug resistance"
+      ],
+      "hypothetical_questions": [
+        "What are anticoccidial drugs used for in poultry production?",
+        "How have anticoccidial drugs been used since the 1940s in commercial poultry?",
+        "What are the main classifications of anticoccidial drugs used in poultry farming?",
+        "What are some commonly used anticoccidial drugs in commercial poultry production?",
+        "How do anticoccidial compounds act against parasites in poultry?",
+        "What are the effects of long-term and indiscriminate use of anticoccidial drugs?",
+        "What are the consequences of the emergence of drug-resistant Eimeria strains in poultry?",
+        "How do anticoccidial drugs improve productivity and sustainability in poultry farming?",
+        "What is the necessity of monitoring drug sensitivity in poultry farming due to anticoccidial use?",
+        "What are the potential drawbacks of relying on anticoccidial drugs for coccidiosis control in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Use of anticoccidial drugs in coccidiosis control",
+      "disease": "coccidiosis",
+      "category": "treatment",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/vms3.70579"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_drug_resistance_findings",
+    "content": "Experimental evaluation of seven field isolates of Eimeria tenella demonstrated varying levels of sensitivity to commonly used anticoccidial drugs. Toltrazuril consistently showed the highest efficacy across all isolates, with most achieving very good efficacy based on global index values. Amprolium, both alone and in combination with sulphaquinoxaline, showed good efficacy against most isolates. In contrast, maduramicin exhibited limited efficacy to partial resistance, while sulphaclozine showed partial to full resistance in the majority of isolates. These findings highlight the widespread presence of anticoccidial resistance at the field level and emphasize the need for strategic drug rotation, controlled usage, and integration with non-chemical control measures.",
+    "vector_context": {
+      "keywords": [
+        "Eimeria tenella",
+        "toltrazuril",
+        "drug resistance",
+        "field isolates",
+        "global index"
+      ],
+      "hypothetical_questions": [
+        "What is the main focus of the experimental evaluation in the given text?",
+        "Which anticoccidial drug showed the highest efficacy across all isolates of Eimeria tenella?",
+        "How does the efficacy of amprolium compare when used alone versus in combination with sulphaquinoxaline?",
+        "What level of efficacy did maduramicin exhibit against the field isolates of Eimeria tenella?",
+        "Why is strategic drug rotation necessary according to the findings of the experimental evaluation?",
+        "What non-chemical control measures can be integrated with anticoccidial drugs to control Eimeria tenella?",
+        "How widespread is anticoccidial resistance at the field level based on the experimental evaluation?",
+        "Which drug exhibited partial to full resistance in the majority of the field isolates of Eimeria tenella?",
+        "What is the significance of the global index values in determining the efficacy of anticoccidial drugs?",
+        "How can the findings of the experimental evaluation be used to develop effective control strategies against Eimeria tenella?"
+      ]
+    },
+    "metadata": {
+      "title": "Anticoccidial efficacy and resistance patterns in Eimeria tenella",
+      "disease": "coccidiosis",
+      "category": "drug_resistance",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/vms3.70579"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_integrated_control",
+    "content": "Effective control of chicken coccidiosis requires an integrated approach combining anticoccidial drug use, vaccination, good husbandry, and strict biosecurity practices. Reliance solely on chemoprophylaxis increases the risk of resistance development, whereas vaccination can help establish protective immunity and reduce parasite cycling. Proper litter management, stocking density control, sanitation, and regular monitoring of oocyst shedding are essential to reduce environmental contamination. The study emphasizes that anticoccidials such as toltrazuril and amprolium should be used judiciously, with avoidance of prolonged or indiscriminate use, in order to preserve drug efficacy and sustain long-term poultry productivity.",
+    "vector_context": {
+      "keywords": [
+        "biosecurity",
+        "vaccination",
+        "integrated control",
+        "husbandry",
+        "drug rotation"
+      ],
+      "hypothetical_questions": [
+        "What is the most effective way to control chicken coccidiosis?",
+        "How can anticoccidial drug use be optimized to prevent resistance development?",
+        "What role does vaccination play in establishing protective immunity against coccidiosis?",
+        "What are the key components of good husbandry practices for preventing coccidiosis?",
+        "How does proper litter management contribute to reducing environmental contamination?",
+        "What are the consequences of relying solely on chemoprophylaxis for coccidiosis control?",
+        "How can stocking density control help mitigate the risk of coccidiosis outbreaks?",
+        "What are the benefits of using anticoccidials like toltrazuril and amprolium judiciously?",
+        "Can vaccination alone provide sufficient protection against coccidiosis in poultry?",
+        "How often should oocyst shedding be monitored to ensure effective coccidiosis control?"
+      ]
+    },
+    "metadata": {
+      "title": "Integrated strategies for controlling chicken coccidiosis",
+      "disease": "coccidiosis",
+      "category": "prevention",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/full/10.1002/vms3.70579"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_overview_poultry",
+    "content": "Coccidiosis in poultry is an intestinal disease caused by protozoan parasites of the genus Eimeria, belonging to the family Eimeriidae. Different Eimeria species parasitize specific regions of the intestinal tract, leading to epithelial damage, impaired nutrient absorption, and variable clinical disease severity depending on infection intensity and host factors.",
+    "vector_context": {
+      "keywords": [
+        "coccidiosis",
+        "eimeria",
+        "intestinal disease"
+      ],
+      "hypothetical_questions": [
+        "What is the main cause of coccidiosis in poultry?",
+        "What type of parasites are responsible for coccidiosis in poultry?",
+        "Which genus of parasites causes coccidiosis in poultry?",
+        "What family do the parasites that cause coccidiosis in poultry belong to?",
+        "What part of the body is affected by coccidiosis in poultry?",
+        "How do different Eimeria species affect the intestinal tract in poultry?",
+        "What are the effects of epithelial damage caused by coccidiosis in poultry?",
+        "How does coccidiosis in poultry impact nutrient absorption?",
+        "What factors determine the severity of clinical disease in coccidiosis-infected poultry?",
+        "How does the intensity of infection influence the severity of coccidiosis in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Overview of coccidiosis in poultry",
+      "disease": "coccidiosis",
+      "category": "overview",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_cause_eimeria_species",
+    "content": "Coccidiosis is caused by protozoan parasites of the genus Eimeria, which infect poultry through ingestion of sporulated oocysts from the environment. Each Eimeria species exhibits site specificity within the intestinal tract, and replication of the parasite results in destruction of intestinal epithelial cells and disruption of normal digestive function.",
+    "vector_context": {
+      "keywords": [
+        "eimeria",
+        "protozoa",
+        "oocysts",
+        "intestinal tract"
+      ],
+      "hypothetical_questions": [
+        "What is the cause of coccidiosis in poultry?",
+        "How do Eimeria parasites infect poultry?",
+        "What is the role of sporulated oocysts in the environment in relation to coccidiosis?",
+        "Which genus of protozoan parasites is responsible for coccidiosis?",
+        "How do different Eimeria species affect the intestinal tract?",
+        "What is the result of replication of the Eimeria parasite in the intestinal tract?",
+        "What type of cells are destroyed due to the replication of the Eimeria parasite?",
+        "How does coccidiosis affect the normal digestive function of poultry?",
+        "What is the specific site of infection for each Eimeria species within the intestinal tract?",
+        "Can the destruction of intestinal epithelial cells be reversed in poultry infected with coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Causative agents of coccidiosis in poultry",
+      "disease": "coccidiosis",
+      "category": "cause",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://poultrycontent.ceva.com/coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_transmission_fecal_oral",
+    "content": "Transmission of coccidiosis occurs via the fecal–oral route when poultry ingest sporulated Eimeria oocysts from contaminated litter, feed, water, or surfaces. Oocysts are shed in the feces of infected birds and can persist in the environment, facilitating rapid spread within flocks, particularly under conditions of high stocking density and poor litter management.",
+    "vector_context": {
+      "keywords": [
+        "fecal-oral",
+        "oocysts",
+        "environmental contamination",
+        "litter"
+      ],
+      "hypothetical_questions": [
+        "How does the transmission of coccidiosis typically occur in poultry?",
+        "What is the role of sporulated Eimeria oocysts in the transmission of coccidiosis?",
+        "Can coccidiosis be spread through contaminated feed?",
+        "How do oocysts contribute to the persistence of coccidiosis in the environment?",
+        "What factors facilitate the rapid spread of coccidiosis within flocks?",
+        "Is high stocking density a risk factor for the transmission of coccidiosis?",
+        "Can poor litter management contribute to the spread of coccidiosis in poultry?",
+        "How are oocysts shed from the bodies of infected birds?",
+        "What is the significance of the fecal–oral route in the transmission of coccidiosis?",
+        "Can coccidiosis be spread through contaminated water in poultry flocks?"
+      ]
+    },
+    "metadata": {
+      "title": "Fecal–oral transmission of coccidiosis",
+      "disease": "coccidiosis",
+      "category": "transmission",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://www.business.qld.gov.au/industries/farms-fishing-forestry/agriculture/biosecurity/animals/diseases/guide/coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_symptom_bloody_diarrhea",
+    "content": "Clinical coccidiosis in poultry commonly presents with gastrointestinal signs resulting from intestinal mucosal damage. Affected birds may develop diarrhea that is watery, mucoid, or bloody, reflecting the severity and location of intestinal lesions. These fecal changes are often accompanied by dehydration and impaired nutrient absorption.",
+    "vector_context": {
+      "keywords": [
+        "bloody diarrhea",
+        "mucoid feces",
+        "intestinal damage",
+        "dehydration"
+      ],
+      "hypothetical_questions": [
+        "What are the common signs of clinical coccidiosis in poultry?",
+        "How does intestinal mucosal damage affect birds with coccidiosis?",
+        "What types of diarrhea can develop in birds with coccidiosis?",
+        "Can coccidiosis cause dehydration in affected birds?",
+        "What is the relationship between intestinal lesions and fecal changes in birds with coccidiosis?",
+        "How does coccidiosis impact nutrient absorption in poultry?",
+        "What are the gastrointestinal signs of clinical coccidiosis in poultry?",
+        "Can bloody diarrhea be a symptom of coccidiosis in birds?",
+        "How do intestinal lesions affect the severity of coccidiosis symptoms?",
+        "What are the effects of impaired nutrient absorption on the overall health of birds with coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Diarrhea and abnormal feces in coccidiosis",
+      "disease": "coccidiosis",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://www.primeanimalhealth.com/coccidiosis/",
+        "https://extension.psu.edu/managing-chicken-coccidiosis-in-small-flocks-during-summer"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_symptom_vent_staining",
+    "content": "In some cases of coccidiosis, affected birds may show whitish or abnormal fecal staining around the vent area. This finding is associated with impaired intestinal function and diarrhea and may be accompanied by signs of dehydration and reduced feed intake.",
+    "vector_context": {
+      "keywords": [
+        "vent staining",
+        "abnormal feces",
+        "digestive dysfunction"
+      ],
+      "hypothetical_questions": [
+        "What are the visible symptoms of coccidiosis in birds?",
+        "Can coccidiosis cause abnormal fecal staining in birds?",
+        "What is the relationship between coccidiosis and impaired intestinal function?",
+        "Do birds with coccidiosis always show signs of diarrhea?",
+        "How does coccidiosis affect the feed intake of birds?",
+        "What are the common signs of dehydration in birds with coccidiosis?",
+        "Is whitish fecal staining around the vent area a definitive sign of coccidiosis?",
+        "Can coccidiosis be diagnosed based on visible symptoms alone?",
+        "How does coccidiosis impact the overall health of affected birds?",
+        "What are the potential long-term effects of untreated coccidiosis in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Vent staining and fecal abnormalities in coccidiosis",
+      "disease": "coccidiosis",
+      "category": "symptom",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://www.primeanimalhealth.com/coccidiosis/"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_pathology_intestinal_lesions",
+    "content": "Coccidiosis causes characteristic lesions in the intestinal tract as a result of intracellular replication of Eimeria parasites. Damage to the intestinal mucosa leads to hemorrhage, inflammation, and impaired absorption, which directly contributes to diarrhea, weight loss, and dehydration observed in clinically affected birds.",
+    "vector_context": {
+      "keywords": [
+        "intestinal lesions",
+        "hemorrhage",
+        "mucosal damage"
+      ],
+      "hypothetical_questions": [
+        "What is the primary cause of lesions in the intestinal tract of birds?",
+        "How do Eimeria parasites replicate inside the cells of birds?",
+        "What is the effect of coccidiosis on the intestinal mucosa of birds?",
+        "Can coccidiosis lead to hemorrhage in the intestinal tract of birds?",
+        "What are the symptoms of coccidiosis in clinically affected birds?",
+        "How does coccidiosis affect the absorption of nutrients in birds?",
+        "What role does inflammation play in the development of coccidiosis symptoms?",
+        "Are Eimeria parasites responsible for the weight loss observed in birds with coccidiosis?",
+        "Can dehydration be a direct result of coccidiosis in birds?",
+        "How does damage to the intestinal mucosa contribute to the development of diarrhea in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Intestinal pathology associated with coccidiosis",
+      "disease": "coccidiosis",
+      "category": "pathology",
+      "body_part": "digestive_system",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://poultrycontent.ceva.com/coccidiosis"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_diagnosis_oocysts",
+    "content": "Because clinical signs of coccidiosis may overlap with those of other intestinal diseases, definitive diagnosis requires assessment of clinical signs in combination with detection of characteristic intestinal lesions or identification of Eimeria oocysts in fecal samples. Age of the birds and flock history are also important considerations during diagnosis.",
+    "vector_context": {
+      "keywords": [
+        "diagnosis",
+        "oocysts",
+        "intestinal lesions"
+      ],
+      "hypothetical_questions": [
+        "What are the clinical signs of coccidiosis in birds?",
+        "How is coccidiosis diagnosed in poultry?",
+        "What are the characteristic intestinal lesions of coccidiosis?",
+        "How do you detect Eimeria oocysts in fecal samples?",
+        "What are the overlapping clinical signs of coccidiosis with other intestinal diseases?",
+        "Why is the age of the birds important in diagnosing coccidiosis?",
+        "What role does flock history play in the diagnosis of coccidiosis?",
+        "Can coccidiosis be diagnosed solely based on clinical signs?",
+        "How do intestinal lesions help in the diagnosis of coccidiosis?",
+        "What are the key considerations for a definitive diagnosis of coccidiosis in birds?"
+      ]
+    },
+    "metadata": {
+      "title": "Diagnosis of coccidiosis in poultry",
+      "disease": "coccidiosis",
+      "category": "diagnosis",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://extension.psu.edu/managing-chicken-coccidiosis-in-small-flocks-during-summer"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_treatment_anticoccidials",
+    "content": "Treatment of coccidiosis in poultry involves the use of anticoccidial medications, such as amprolium or sulfonamides, administered through drinking water or medicated feed under veterinary supervision. These treatments aim to reduce parasite replication and intestinal damage but should be used judiciously to avoid interference with the development of natural immunity.",
+    "vector_context": {
+      "keywords": [
+        "anticoccidials",
+        "amprolium",
+        "medicated feed",
+        "veterinary supervision"
+      ],
+      "hypothetical_questions": [
+        "What is the primary method of treating coccidiosis in poultry?",
+        "How are anticoccidial medications typically administered to poultry?",
+        "What are some examples of anticoccidial medications used to treat coccidiosis?",
+        "Who should supervise the administration of anticoccidial medications to poultry?",
+        "What is the goal of using anticoccidial medications in the treatment of coccidiosis?",
+        "Can anticoccidial medications be used in conjunction with other treatments for coccidiosis?",
+        "How can the use of anticoccidial medications impact the development of natural immunity in poultry?",
+        "What are the potential risks of overusing anticoccidial medications in poultry?",
+        "Are there any alternative methods for treating coccidiosis in poultry besides using anticoccidial medications?",
+        "How often should anticoccidial medications be used to treat coccidiosis in poultry?"
+      ]
+    },
+    "metadata": {
+      "title": "Anticoccidial treatment of coccidiosis",
+      "disease": "coccidiosis",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://extension.psu.edu/managing-chicken-coccidiosis-in-small-flocks-during-summer"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_treatment_supportive_care",
+    "content": "Supportive care is an important component of managing clinical coccidiosis, particularly to prevent dehydration resulting from diarrhea. Antibiotics are not effective against Eimeria parasites and are not used to treat coccidiosis itself, although they may be prescribed by a veterinarian if secondary bacterial infections are present.",
+    "vector_context": {
+      "keywords": [
+        "supportive care",
+        "dehydration",
+        "secondary infection"
+      ],
+      "hypothetical_questions": [
+        "What is the main goal of supportive care in managing clinical coccidiosis?",
+        "Are antibiotics effective against Eimeria parasites that cause coccidiosis?",
+        "How can dehydration be prevented in cases of clinical coccidiosis?",
+        "What type of infections can antibiotics be prescribed for in relation to coccidiosis?",
+        "Is supportive care sufficient to treat coccidiosis on its own?",
+        "Can antibiotics be used to treat secondary bacterial infections related to coccidiosis?",
+        "What are the consequences of not preventing dehydration in clinical coccidiosis?",
+        "Are Eimeria parasites susceptible to any form of antibiotic treatment?",
+        "How do veterinarians determine when to prescribe antibiotics for coccidiosis-related infections?",
+        "What role do antibiotics play in the overall treatment of coccidiosis?"
+      ]
+    },
+    "metadata": {
+      "title": "Supportive care in coccidiosis management",
+      "disease": "coccidiosis",
+      "category": "treatment",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://extension.psu.edu/managing-chicken-coccidiosis-in-small-flocks-during-summer"
+      ]
+    }
+  },
+  {
+    "id": "coccidiosis_prevention_management",
+    "content": "Prevention of coccidiosis in poultry relies on effective litter management, hygiene, and controlled exposure to Eimeria oocysts to allow development of protective immunity. Maintaining dry litter, reducing fecal contamination, and implementing appropriate management practices are critical to minimizing the risk of clinical disease.",
+    "vector_context": {
+      "keywords": [
+        "prevention",
+        "litter management",
+        "hygiene",
+        "immunity"
+      ],
+      "hypothetical_questions": [
+        "What is the main goal of litter management in poultry?",
+        "How can hygiene practices help prevent coccidiosis in poultry?",
+        "What is the role of Eimeria oocysts in developing protective immunity in poultry?",
+        "What are the consequences of poor litter management on poultry health?",
+        "Can reducing fecal contamination in poultry coops prevent coccidiosis?",
+        "What management practices are most effective in minimizing the risk of clinical disease in poultry?",
+        "How does controlled exposure to Eimeria oocysts contribute to the development of protective immunity?",
+        "What are the key factors in maintaining dry litter to prevent coccidiosis in poultry?",
+        "Are there any specific hygiene protocols that can help reduce the risk of coccidiosis in poultry?",
+        "How can poultry farmers balance the need for controlled exposure to Eimeria oocysts with the risk of clinical disease?"
+      ]
+    },
+    "metadata": {
+      "title": "Prevention and control of coccidiosis",
+      "disease": "coccidiosis",
+      "category": "prevention",
+      "source_urls": [
+        "https://www.msdvetmanual.com/poultry/coccidiosis-in-poultry/coccidiosis-in-poultry",
+        "https://extension.psu.edu/managing-chicken-coccidiosis-in-small-flocks-during-summer"
+      ]
+    }
+  }
+]

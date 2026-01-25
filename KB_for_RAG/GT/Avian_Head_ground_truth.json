@@ -1,0 +1,125 @@
+[
+  {
+    "qid": "ai_cov_01_overview",
+    "query": "What is avian influenza in poultry?",
+    "supporting_chunk_ids": ["avian_influenza_overview_01_disease_nature_and_importance"],
+    "answer": "Avian influenza is an infectious disease of birds caused by influenza A viruses, with strains that vary from mild to highly severe and fatal."
+  },
+  {
+    "qid": "ai_cov_02_pathogenicity",
+    "query": "What is the difference between low and highly pathogenic avian influenza?",
+    "supporting_chunk_ids": ["avian_influenza_overview_02_lpai_vs_hpai_pathogenicity"],
+    "answer": "Low pathogenic strains usually cause mild disease, while highly pathogenic strains can spread rapidly and cause high mortality in poultry."
+  },
+  {
+    "qid": "ai_cov_03_host_range",
+    "query": "Can avian influenza infect birds other than chickens?",
+    "supporting_chunk_ids": ["avian_influenza_overview_03_host_range_and_wild_birds"],
+    "answer": "Yes, avian influenza infects many bird species, and wild birds often act as natural reservoirs."
+  },
+  {
+    "qid": "ai_cov_04_transmission",
+    "query": "How does avian influenza usually spread between birds?",
+    "supporting_chunk_ids": ["avian_influenza_transmission_01_modes_of_spread"],
+    "answer": "The virus spreads through direct contact, contaminated secretions, feces, equipment, and contaminated environments."
+  },
+  {
+    "qid": "ai_cov_05_head_signs",
+    "query": "What head and respiratory signs are commonly seen in avian influenza?",
+    "supporting_chunk_ids": ["avian_influenza_symptoms_01_respiratory_and_head_signs"],
+    "answer": "Common signs include nasal discharge, coughing, sneezing, swelling of the head or face, and conjunctivitis."
+  },
+  {
+    "qid": "ai_cov_06_systemic_effects",
+    "query": "Does avian influenza only affect the respiratory system?",
+    "supporting_chunk_ids": ["avian_influenza_symptoms_02_systemic_and_multisystem_effects"],
+    "answer": "No, avian influenza can cause systemic disease affecting multiple organs, especially in highly pathogenic strains."
+  },
+  {
+    "qid": "ai_cov_07_diagnosis",
+    "query": "Why is laboratory testing required to confirm avian influenza?",
+    "supporting_chunk_ids": ["avian_influenza_diagnosis_01_laboratory_confirmation"],
+    "answer": "Clinical signs are not specific, so laboratory testing is needed to confirm the virus and determine its pathogenicity."
+  },
+  {
+    "qid": "ai_cov_08_regulatory",
+    "query": "Why is avian influenza considered a notifiable disease?",
+    "supporting_chunk_ids": ["avian_influenza_regulation_01_notifiable_disease_status"],
+    "answer": "Because of its severe economic and animal health impact, outbreaks must be reported to authorities for rapid control."
+  },
+  {
+    "qid": "ai_cov_09_control",
+    "query": "What are the main control measures used during an avian influenza outbreak?",
+    "supporting_chunk_ids": ["avian_influenza_control_01_biosecurity_and_outbreak_management"],
+    "answer": "Control relies on strict biosecurity, movement restrictions, depopulation if required, and surveillance."
+  },
+  {
+    "qid": "ai_cov_10_public_health",
+    "query": "Is avian influenza only a problem for poultry production?",
+    "supporting_chunk_ids": ["avian_influenza_overview_04_public_health_and_economic_significance"],
+    "answer": "No, avian influenza also has public health and trade implications beyond poultry production."
+  },
+  {
+    "qid": "ai_multi_01",
+    "query": "Some birds started with runny eyes and coughing, then deaths increased quickly. Why did it worsen so fast?",
+    "supporting_chunk_ids": [
+      "avian_influenza_symptoms_01_respiratory_and_head_signs",
+      "avian_influenza_overview_02_lpai_vs_hpai_pathogenicity"
+    ],
+    "answer": "Mild respiratory signs can progress rapidly if the strain is highly pathogenic, leading to sudden severe disease and deaths."
+  },
+  {
+    "qid": "ai_multi_02",
+    "query": "Why can’t we tell from signs alone whether this is low or highly pathogenic avian influenza?",
+    "supporting_chunk_ids": [
+      "avian_influenza_symptoms_02_systemic_and_multisystem_effects",
+      "avian_influenza_diagnosis_01_laboratory_confirmation"
+    ],
+    "answer": "Clinical signs overlap, so laboratory testing is required to confirm the virus and determine its pathogenicity."
+  },
+  {
+    "qid": "ai_multi_03",
+    "query": "Wild birds were seen near the farm before the outbreak. Could that be related?",
+    "supporting_chunk_ids": [
+      "avian_influenza_overview_03_host_range_and_wild_birds",
+      "avian_influenza_transmission_01_modes_of_spread"
+    ],
+    "answer": "Wild birds can carry avian influenza viruses and introduce them into poultry flocks through environmental contamination."
+  },
+  {
+    "qid": "ai_multi_04",
+    "query": "Why are authorities involved immediately once avian influenza is suspected?",
+    "supporting_chunk_ids": [
+      "avian_influenza_regulation_01_notifiable_disease_status",
+      "avian_influenza_control_01_biosecurity_and_outbreak_management"
+    ],
+    "answer": "Because avian influenza is a notifiable disease, rapid reporting allows authorities to apply control measures and limit spread."
+  },
+  {
+    "qid": "ai_multi_05",
+    "query": "How can a disease that starts in the head and respiratory tract end up causing whole-body problems?",
+    "supporting_chunk_ids": [
+      "avian_influenza_symptoms_01_respiratory_and_head_signs",
+      "avian_influenza_symptoms_02_systemic_and_multisystem_effects"
+    ],
+    "answer": "In severe infections, the virus spreads beyond the respiratory tract and affects multiple organs."
+  },
+  {
+    "qid": "ai_diff_01",
+    "query": "A few chickens have watery eyes and sneezing but no deaths. Could this just be a mild respiratory issue?",
+    "supporting_chunk_ids": ["avian_influenza_symptoms_01_respiratory_and_head_signs"],
+    "answer": "Avian influenza can begin with mild respiratory signs, so early infection cannot be ruled out based on mild symptoms alone."
+  },
+  {
+    "qid": "ai_diff_02",
+    "query": "If the birds look normal in the morning but die suddenly later, does that rule out avian influenza?",
+    "supporting_chunk_ids": ["avian_influenza_overview_02_lpai_vs_hpai_pathogenicity"],
+    "answer": "No. Highly pathogenic avian influenza can cause sudden deaths with little warning."
+  },
+  {
+    "qid": "ai_diff_03",
+    "query": "Can good biosecurity alone completely eliminate the risk of avian influenza?",
+    "supporting_chunk_ids": ["avian_influenza_control_01_biosecurity_and_outbreak_management"],
+    "answer": "Biosecurity reduces risk but cannot fully eliminate it, especially with exposure to wild birds."
+  }
+]

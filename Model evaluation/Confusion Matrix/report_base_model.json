@@ -1,0 +1,10 @@
+{
+    "Model": "base_model",
+    "ROUGE-L": 0.1822,
+    "BioBERT Sim": 0.8984,
+    "G-Eval Accuracy": 1.54,
+    "G-Eval Relevance": 2.43,
+    "G-Eval Fluency": 2.51,
+    "Diagnostic Accuracy": 0.8433,
+    "F1-Score": 0.8122
+}
