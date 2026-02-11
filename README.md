@@ -15,7 +15,7 @@ This repository accompanies the undergraduate thesis:
 
 ---
 
-## 🎯 Core Goals
+## Core Goals
 
 GalLens answers two key questions:
 
@@ -24,7 +24,7 @@ GalLens answers two key questions:
 
 ---
 
-## 🔁 Full Workflow (Phase 3)
+## Full Workflow (Phase 3)
 
 ![Pipeline](Figure/Phase3.png)
 
@@ -43,9 +43,9 @@ GalLens answers two key questions:
 
 ---
 
-## 🧠 Two Inference Modes
+## Two Inference Modes
 
-### 🔹 Visual Diagnosis Mode  
+### Visual Diagnosis Mode  
 **Input:**  
 - Chicken image  
 - Question: *“What disease is this?”*
@@ -64,40 +64,7 @@ GalLens answers two key questions:
 
 ---
 
-## 📂 Repository Structure (recommended)
-
-Vision-Language-Model/
-│
-├── data/
-│ ├── raw_images/
-│ ├── vqa_train.jsonl
-│ └── vqa_test.jsonl
-│
-├── finetune/
-│ ├── train_lora_qwen2_vl.py
-│ └── lora_config.yaml
-│
-├── rag/
-│ ├── build_kb.py
-│ ├── embed_qwen3.py
-│ └── retrieve.py
-│
-├── inference/
-│ ├── vlm_infer.py
-│ └── rag_infer.py
-│
-├── Figure/
-│ ├── Phase3.png
-│ ├── cm_base_model.png
-│ └── cm_expert_model.png
-│
-├── requirements.txt
-└── README.md
-
-
----
-
-## 🧠 Model Fine-Tuning
+## Model Fine-Tuning
 
 ### Base model  
 - **Qwen2-VL-7B Instruct**
@@ -116,7 +83,7 @@ Vision-Language-Model/
 
 ---
 
-## 🧩 Retrieval-Augmented Generation (RAG)
+## Retrieval-Augmented Generation (RAG)
 
 ### Knowledge sources
 - Veterinary manuals  
@@ -133,7 +100,7 @@ Vision-Language-Model/
 
 ---
 
-## 📦 Core Packages
+## Core Packages
 
 Your project relies on:
 
@@ -155,15 +122,15 @@ uvicorn
 
 ---
 
-## 🚀 How to Run (STEP-BY-STEP)
+## How to Run (STEP-BY-STEP)
 
 ### **1) Create environment**
 
-```bash
+bash
 conda create -n gallens python=3.10
 conda activate gallens
 
-### **2) Install dependencies
+### **2) Install dependencies** 
 pip install -r requirements.txt
 
 
@@ -185,7 +152,7 @@ fastapi
 uvicorn
 
 
-### **🧠 3) Fine-tune the VLM (optional)
+### 3) Fine-tune the VLM (optional)**
 python finetune/train_lora_qwen2_vl.py \
   --train_data data/vqa_train.jsonl \
   --model_path Qwen/Qwen2-VL-7B-Instruct \
@@ -196,13 +163,13 @@ This will save:
 
 models/gallens_expert/
 
-### **🔍 4) Build RAG Knowledge Base
+### **4) Build RAG Knowledge Base**
 python rag/build_kb.py \
   --docs_path rag/docs/ \
   --embed_model Qwen/Qwen3-Embedding-0.6B \
   --vector_store rag/faiss_index
 
-### **🧪 5) Run inference
+### **5) Run inference
 Diagnosis only
 python inference/vlm_infer.py \
   --image data/sample.jpg \
@@ -213,7 +180,7 @@ python inference/rag_infer.py \
   --image data/sample.jpg \
   --question "How to treat this disease?"
 
-### **🌐 6) Run Web API (optional)
+### **6) Run Web API (optional) **
 uvicorn app:app --reload
 
 
