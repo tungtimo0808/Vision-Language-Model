@@ -1,192 +1,223 @@
-# 🐔 GalLens: Vision–Language System for Poultry Disease Diagnosis and Explanation
+# 🐔 GalLens — Vision–Language System for Poultry Disease Diagnosis & Explanation  
 
-GalLens is a Vision–Language based system for **chicken disease classification and explanation**, designed to support **non-expert users** in poultry farming.  
-The system combines **vision–language models (VLMs), and Retrieval-Augmented Generation (RAG)** to provide both **accurate diagnosis** and **reliable, knowledge-grounded explanations**.
+GalLens is a **Vision–Language-based system** for **chicken disease diagnosis and explanation**, designed to support **non-expert poultry farmers**.
+
+Unlike standard CNN classifiers that only output a label, GalLens:
+- **Understands images** (Vision)
+- **Understands language** (LLM)
+- **Reasons with medical knowledge via RAG**
+- Provides **human-readable explanations + treatment guidance** grounded in real veterinary documents.
 
 This repository accompanies the undergraduate thesis:
 
 > **Vision–Language Based Poultry Disease Diagnosis and Explanation System**  
-> Author: 
-> Nguyen Hoang Tung 
-> Nguyen Dinh Lien Thanh
-> Nguyen Chi Quang
-> Nguyen Tuan Thanh
-> Pham Cong Duyet
-> Ngo Thanh Dat  
-> University of Science and Technology of Hanoi 
+> University of Science and Technology of Hanoi (USTH)
 
 ---
 
-# Table of Contents
+## 🎯 Core Goals
 
-- Overview
-- Full Workflow
-- Dataset Construction
-- Model Fine-tuning
-- Retrieval-Augmented Generation (RAG)
-- Inference Pipeline
-- Experimental Results
-- Technologies
-- Limitations & Future Work
+GalLens answers two key questions:
+
+1. **What disease does this chicken have?** → *Visual diagnosis*  
+2. **Why and what should I do?** → *Grounded explanation + treatment via RAG*
 
 ---
 
-# Overview
-GalLens aims to solve two problems at the same time:
-
-1. **What disease does this chicken have?** (classification)
-2. **Why and what should I do?** (explanation + treatment)
-
-Unlike normal CNN classifiers, GalLens is a **Vision–Language system** that:
-- Understands images
-- Understands natural language questions
-- Generates medical explanations grounded in real documents
-
-# Full Workflow
+## 🔁 Full Workflow (Phase 3)
 
 ![Pipeline](Figure/Phase3.png)
-Use: Phase 3 RAG workflow diagram in your thesis
 
-High-level workflow:
+### High-level pipeline
 
-1. User inputs: **Image + Question**
-2. System routes the query:
-   - Diagnosis → VLM
-   - Treatment / Definition → RAG + VLM
-3. If RAG is needed:
-   - Retrieve documents
-   - Inject knowledge into prompt
-4. VLM generates:
-   - Disease label
-   - Natural language explanation
-
----
-
-# Dataset Construction
-Steps:
-
-1. Collect raw poultry disease images
-2. Use **Gemini 2.5 Flash** to generate draft VQA pairs
-3. Store results in JSONL format
-4. Perform **human verification**
-5. Reject or fix mislabeled samples
-6. Build **cleaned, high-quality VQA dataset**
-
-Properties:
-- Visually grounded
-- Medically consistent
-- Domain-specific terminology
+1. **User input:** Image + Question  
+2. **Router decides mode:**
+   - If **diagnosis** → use fine-tuned VLM  
+   - If **treatment / medical question** → activate RAG + VLM  
+3. **If RAG is used:**
+   - Retrieve relevant veterinary documents  
+   - Inject knowledge into the model prompt  
+4. **Final output:**
+   - Disease label  
+   - Natural-language explanation grounded in evidence  
 
 ---
 
-# Model Fine-tuning
-Base model:
+## 🧠 Two Inference Modes
+
+### 🔹 Visual Diagnosis Mode  
+**Input:**  
+- Chicken image  
+- Question: *“What disease is this?”*
+
+**Output:**  
+- Predicted disease  
+- Visual symptom explanation  
+
+### 🔹 Medical Consultation Mode  
+**Input:**  
+- Text question like *“How to treat Newcastle disease?”*
+
+**Output:**  
+- Retrieved medical evidence  
+- Grounded, safe explanation  
+
+---
+
+## 📂 Repository Structure (recommended)
+
+Vision-Language-Model/
+│
+├── data/
+│ ├── raw_images/
+│ ├── vqa_train.jsonl
+│ └── vqa_test.jsonl
+│
+├── finetune/
+│ ├── train_lora_qwen2_vl.py
+│ └── lora_config.yaml
+│
+├── rag/
+│ ├── build_kb.py
+│ ├── embed_qwen3.py
+│ └── retrieve.py
+│
+├── inference/
+│ ├── vlm_infer.py
+│ └── rag_infer.py
+│
+├── Figure/
+│ ├── Phase3.png
+│ ├── cm_base_model.png
+│ └── cm_expert_model.png
+│
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 🧠 Model Fine-Tuning
+
+### Base model  
 - **Qwen2-VL-7B Instruct**
 
-Fine-tuning method:
+### Fine-tuning method  
 - **LoRA (Low-Rank Adaptation)**
 
-Tested configurations:
-- Only Attention layers
-- Full Linear layers (**Final model: GalLens-Expert**)
-
-Findings:
-- Base model has **almost no poultry disease knowledge**
-- Fine-tuned models learn:
-  - Visual patterns
-  - Medical terminology
-  - Disease-specific features
+### Tested configurations  
+| Model | Setting |
+|---|---|
+| **Model A (Base)** | Zero-shot, no fine-tuning |
+| **Model B (10%)** | LoRA full-linear, 10% data |
+| **Model C (40%)** | LoRA full-linear, 40% data |
+| **Model D** | LoRA only on Attention layers |
+| **Model Final — GalLens-Integrated** | **LoRA on all linear layers (Champion)** |
 
 ---
 
-# Retrieval-Augmented Generation (RAG)
-Knowledge sources:
-- Veterinary manuals
-- Medical guidelines
-- PDF documents
-- Trusted websites
+## 🧩 Retrieval-Augmented Generation (RAG)
 
-Pipeline:
-1. Index documents using embedding model
-2. Store in vector database
-3. At query time:
-   - Encode question
-   - Retrieve relevant chunks
-   - Inject into VLM prompt
+### Knowledge sources
+- Veterinary manuals  
+- Medical guidelines  
+- Research papers  
+- PDF documents  
+- Trusted agriculture websites  
 
-Purpose:
-- Reduce hallucination
-- Improve factual correctness
-- Provide treatment knowledge
+### Embedding model
+- **Qwen3-Embedding-0.6B**
+
+### Vector database
+- **FAISS / Chroma**
 
 ---
 
-# Inference Pipeline
-You can reuse Phase 3 routing diagram
+## 📦 Core Packages
 
-Two modes:
+Your project relies on:
 
-### Visual Diagnosis
-- Input: Image + "What disease is this?"
-- Output: Disease name + visual explanation
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+faiss-cpu
+chromadb
+sentence-transformers
+pandas
+numpy
+tqdm
+pillow
+fastapi
+uvicorn
 
-### Medical Consultation
-- Input: "How to treat Newcastle disease?"
-- Output: Retrieved knowledge + grounded explanation
 
 ---
 
-# Experimental Results
+## 🚀 How to Run (STEP-BY-STEP)
 
-![Pipeline](Figure/cm_base_model.png)
-![Pipeline](Figure/cm_expert_model.png)
-Use: cm_base_model.png, cm_expert_model.png
+### **1) Create environment**
 
-Observations:
-- Base model collapses predictions into "Other"
-- Fine-tuned model separates visually similar diseases
+```bash
+conda create -n gallens python=3.10
+conda activate gallens
 
-![Pipeline](Figure/Evaluation.png)
-Use: Your metric comparison table
-
-Metrics:
-- ROUGE-L, BERT Similarity
-- G-Eval (Accuracy, Relevance, Fluency)
-- Accuracy, F1-score, Recall
-
-Result:
-- **GalLens-Expert performs best on all metrics**
-
----
+### **2) Install dependencies
+pip install -r requirements.txt
 
 
-# Technologies
-- Python, PyTorch
-- HuggingFace Transformers
-- Qwen2-VL-7B
-- LoRA (PEFT)
-- FAISS / Vector DB
-- Vision–Language Models
-- RAG
+(If you don’t have requirements.txt yet, create one with these lines:)
 
----
+torch
+transformers
+peft
+accelerate
+bitsandbytes
+faiss-cpu
+chromadb
+sentence-transformers
+pandas
+numpy
+tqdm
+pillow
+fastapi
+uvicorn
 
-# Limitations
-- Dataset size is limited
-- Some classes are underrepresented
-- Lightweight embedding model causes **vector collision**
 
----
+### **🧠 3) Fine-tune the VLM (optional)
+python finetune/train_lora_qwen2_vl.py \
+  --train_data data/vqa_train.jsonl \
+  --model_path Qwen/Qwen2-VL-7B-Instruct \
+  --output_dir models/gallens_expert
 
-# Future Work
-- Expand dataset
-- Use stronger embedding models
-- Add more poultry species
-- Build real-time farm assistant system
 
----
+This will save:
 
-# Conclusion
-This project shows that **Vision–Language Models, when combined with fine-tuning and external knowledge, can become practical and reliable tools for poultry disease diagnosis and explanation.**
+models/gallens_expert/
 
+### **🔍 4) Build RAG Knowledge Base
+python rag/build_kb.py \
+  --docs_path rag/docs/ \
+  --embed_model Qwen/Qwen3-Embedding-0.6B \
+  --vector_store rag/faiss_index
+
+### **🧪 5) Run inference
+Diagnosis only
+python inference/vlm_infer.py \
+  --image data/sample.jpg \
+  --question "What disease is this?"
+
+Diagnosis + RAG
+python inference/rag_infer.py \
+  --image data/sample.jpg \
+  --question "How to treat this disease?"
+
+### **🌐 6) Run Web API (optional)
+uvicorn app:app --reload
+
+
+Then open:
+
+http://127.0.0.1:8000/docs
 
