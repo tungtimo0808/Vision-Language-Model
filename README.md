@@ -133,9 +133,6 @@ conda activate gallens
 ### **2) Install dependencies** 
 pip install -r requirements.txt
 
-
-(If you don’t have requirements.txt yet, create one with these lines:)
-
 torch
 transformers
 peft
