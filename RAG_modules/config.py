@@ -5,7 +5,7 @@ DOCS_DIR = os.path.join(BASE_DIR, "knowledge_base")
 VECTOR_DB_DIR = os.path.join(BASE_DIR, "chroma_db_store")
 
 # embedding model 
-EMBEDDING_MODEL_NAME = "Qwen/Qwen2-Embedding-0.6B"
+EMBEDDING_MODEL_NAME = "Qwen/Qwen3-Embedding-0.6B"
 EMBEDDING_CACHE_DIR = "/storage/student6/mustela_embedding_cache"
 
 # retrieval config
