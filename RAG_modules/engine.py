@@ -1,13 +1,3 @@
-"""
-Features:
-- Hybrid Search (Semantic + BM25)
-- PDF Processing
-- Re-ranking for precision
-- Ground truth evaluation
-- Deduplication
-- Monitoring & Logging
-"""
-
 import os
 import json
 import glob
