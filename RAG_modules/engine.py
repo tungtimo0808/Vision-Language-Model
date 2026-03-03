@@ -69,7 +69,7 @@ class RAGEngineV2:
     """RAG Engine with Hybrid Search, PDF Support, Re-ranking"""
     
     def __init__(self):
-        logger.info("⚙️ Initializing RAG Engine...")
+        logger.info(" Initializing RAG Engine...")
         
         # 1. Setup Embedding
         self.embedding_fn = HuggingFaceEmbeddings(
@@ -78,7 +78,7 @@ class RAGEngineV2:
             encode_kwargs={'normalize_embeddings': True},
             cache_folder=EMBEDDING_CACHE_DIR
         )
-        logger.info(f"✅ Embedding model loaded: {EMBEDDING_MODEL_NAME}")
+        logger.info(f"Embedding model loaded: {EMBEDDING_MODEL_NAME}")
         
         # 2. Connect ChromaDB (Semantic Search)
         self.vector_db = Chroma(
@@ -95,9 +95,9 @@ class RAGEngineV2:
         if USE_RERANKING and HAS_RERANKER:
             try:
                 self.reranker = CrossEncoder(RERANK_MODEL)
-                logger.info(f"✅ Re-ranker loaded: {RERANK_MODEL}")
+                logger.info(f"Re-ranker loaded: {RERANK_MODEL}")
             except Exception as e:
-                logger.warning(f"⚠️ Re-ranker failed to load: {e}")
+                logger.warning(f" Re-ranker failed to load: {e}")
         
         # 5. Text splitter for PDF
         self.text_splitter = RecursiveCharacterTextSplitter(
