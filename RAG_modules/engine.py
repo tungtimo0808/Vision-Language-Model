@@ -250,7 +250,7 @@ class RAGEngineV2:
         documents = []
         
         if not HAS_PDF_SUPPORT or not self.text_splitter:
-            logger.warning("⚠️ PDF support not available")
+            logger.warning("PDF support not available")
             return documents
         
         try:
